@@ -1,94 +1,93 @@
-38959 Minecraft Java
-24485 Discord
-23166 Zoom
-20301 CommanderPi
-18319 Minecraft Bedrock
-17387 Pi Power Tools
-16367 Conky
-16057 Steam
-15800 Chromium Widevine
-14898 Box86
-14878 piKiss
-14409 BalenaEtcher
-12620 Visual Studio Code
-12588 All Is Well
-12584 Windows 10 Theme
-10311 Update Buddy
-9954 Doom 3
-9744 Arduino
-9581 Tor Browser
-8747 Wine (x86)
-8502 Minecraft Pi (Modded)
-7727 SpeedTest-CLI
-7698 eDEX-UI
-7660 PiGro
-6053 YouTubuddy
-5809 Clam Antivirus
-5766 TBOPlayer
-5560 Snap Store
-5310 USBImager
-5309 Cool Retro Term
-5150 Cura
-4972 Color Emoji font
-4515 Whatsapp
-4237 FreeCAD
-3972 Scrcpy
-3935 Pycharm CE
+38912 Minecraft Java
+24454 Discord
+23150 Zoom
+20286 CommanderPi
+18294 Minecraft Bedrock
+17372 Pi Power Tools
+16346 Conky
+16045 Steam
+15782 Chromium Widevine
+14868 piKiss
+14853 Box86
+14407 BalenaEtcher
+12609 Visual Studio Code
+12586 Windows 10 Theme
+12577 All Is Well
+10307 Update Buddy
+9918 Doom 3
+9742 Arduino
+9558 Tor Browser
+8703 Wine (x86)
+8454 Minecraft Pi (Modded)
+7711 SpeedTest-CLI
+7690 eDEX-UI
+7655 PiGro
+6036 YouTubuddy
+5787 Clam Antivirus
+5764 TBOPlayer
+5528 Snap Store
+5303 Cool Retro Term
+5302 USBImager
+5145 Cura
+4961 Color Emoji font
+4509 Whatsapp
+4233 FreeCAD
+3974 Scrcpy
+3928 Pycharm CE
 3130 Timeshift
-2982 OBS Studio
-2822 Boxy SVG
-2685 Angry IP scanner
-2673 AndroidBuddy
-2667 Puffin Browser Demo
-2416 LibrePCB
-2402 Ulauncher
-2177 Sublime Text
-1869 Email Checker
-1861 Lightpad
-1854 Sonic Pi 3.2
-1838 FreeTube
-1754 Browsh
-1725 Powerline-Shell
+2984 OBS Studio
+2820 Boxy SVG
+2683 Angry IP scanner
+2678 AndroidBuddy
+2674 Puffin Browser Demo
+2418 LibrePCB
+2400 Ulauncher
+2174 Sublime Text
+1867 Email Checker
+1857 Lightpad
+1851 Sonic Pi 3.2
+1815 FreeTube
+1753 Browsh
+1716 Powerline-Shell
 1558 PrusaSlicer
-1502 Raspi2png
-1225 Intellij IDEA
-1187 QEMU
-1075 AnyDesk
-1039 PPSSPP (PSP emulator)
-1001 tldr
-993 Mac OS Theme
-871 Eagle CAD
-850 Stunt Rally
-808 Notepad ++
-672 Node.js
-671 Pi-Apps Terminal Plugin
-638 VSCodium
-626 VeraCrypt
-550 Mission Planner
-535 Snapdrop
+1503 Raspi2png
+1224 Intellij IDEA
+1180 QEMU
+1071 AnyDesk
+1030 PPSSPP (PSP emulator)
+998 tldr
+966 Mac OS Theme
+870 Eagle CAD
+835 Stunt Rally
+801 Notepad ++
+666 Node.js
+661 Pi-Apps Terminal Plugin
+633 VSCodium
+624 VeraCrypt
+551 Mission Planner
+527 Snapdrop
 438 WPS Office
-412 Libreoffice MS theme
+407 Libreoffice MS theme
 400 Remarkable
-376 Web Apps
-375 Vivaldi
-372 Github-CLI
-352 Descent 1
-329 Descent 2
-309 jGRASP IDE
-307 Downgrade Chromium
-300 Geany Dark Mode
-299 Bongo Cam
-295 WACUP (new WinAmp)
-275 Flameshot
-261 Heroes 2
-250 Lokinet
-153 Turbo Scratch
-153 StackEdit
-110 Scratch 2
+387 Vivaldi
+378 Web Apps
+377 Github-CLI
+337 Descent 1
+320 Descent 2
+311 Downgrade Chromium
+310 jGRASP IDE
+302 Bongo Cam
+292 Geany Dark Mode
+288 Flameshot
+280 WACUP (new WinAmp)
+267 Heroes 2
+249 Lokinet
+155 Turbo Scratch
+151 StackEdit
+116 Scratch 2
 65 OpenSCAD
-55 Wechat
-49 Processing IDE
-4 unrar
+56 Wechat
+52 Processing IDE
 0 RPi-Play
 0 pocketmine
 0 Mesa 20.3
@@ -96,4 +95,4 @@
 0 Interactive Brokers TW
 0 Godot Engine 3.2.4
 
--57 TeamViewer Host
+-52 TeamViewer Host
