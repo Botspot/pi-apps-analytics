@@ -1,82 +1,84 @@
-70596 Minecraft Java
+70597 Minecraft Java
 45602 Discord
-40692 Zoom
+40693 Zoom
 36898 CommanderPi
-33928 Box86
+33932 Box86
 33522 Minecraft Bedrock
-31839 Pi Power Tools
-30488 Conky
-29916 Steam
+31841 Pi Power Tools
+30489 Conky
+29917 Steam
 29547 Chromium Widevine
 27308 piKiss
-26918 Tor Browser
-26608 BalenaEtcher
-24619 Wine (x86)
-23710 All Is Well
+26609 BalenaEtcher
+24620 Wine (x86)
+23711 All Is Well
 23591 Minecraft Pi (Modded)
 22928 Visual Studio Code
 22925 Windows 10 Theme
 20494 Doom 3
+19955 Tor Browser
+18786 Update Buddy
 17863 Arduino
-15391 Snap Store
-14932 SpeedTest-CLI
+15392 Snap Store
+14933 SpeedTest-CLI
 14584 PiGro
-13537 YouTubuddy
-13437 eDEX-UI
+13539 YouTubuddy
+13436 eDEX-UI
 11455 Clam Antivirus
 10555 Whatsapp
 10267 USBImager
-9795 TBOPlayer
+9796 TBOPlayer
 9464 Cura
 9253 Cool Retro Term
 8995 Color Emoji font
-8242 OBS Studio
+8244 OBS Studio
 8011 Pycharm CE
-7970 FreeCAD
+7969 FreeCAD
 7770 Scrcpy
-7531 Angry IP scanner
-6513 AndroidBuddy
-6202 Timeshift
+7534 Angry IP scanner
+6514 AndroidBuddy
+6203 Timeshift
+5634 Ulauncher
 5534 FreeTube
-5216 Puffin Browser Demo
+5217 Puffin Browser Demo
 5207 Boxy SVG
 4714 Sublime Text
-4545 LibrePCB
+4544 LibrePCB
 4199 Lightpad
 3740 QEMU
 3699 Powerline-Shell
-3600 PPSSPP (PSP emulator)
-3585 Mac OS Theme
+3601 PPSSPP (PSP emulator)
+3586 Mac OS Theme
 3555 Sonic Pi 3.2
 3346 Email Checker
 3297 Browsh
 3145 AnyDesk
-2996 Notepad ++
+2997 Notepad ++
 2951 Stunt Rally
-2935 PrusaSlicer
+2936 PrusaSlicer
 2895 Raspi2png
-2682 Intellij IDEA
+2681 Intellij IDEA
 2400 Pi-Apps Terminal Plugin
 2225 tldr
 2218 Node.js
-1941 Eagle CAD
+1940 Eagle CAD
 1910 Snapdrop
-1721 VSCodium
-1699 VeraCrypt
-1518 Libreoffice MS theme
+1722 VSCodium
+1698 VeraCrypt
+1519 Libreoffice MS theme
 1468 Vivaldi
-1406 Web Apps
+1407 Web Apps
 1267 Flameshot
-1245 Github-CLI
+1250 Github-CLI
 1242 Mission Planner
 1193 Descent 1
 1127 Heroes 2
 1115 Descent 2
 1110 WACUP (new WinAmp)
 1105 Geany Dark Mode
-1055 Downgrade Chromium
+1054 Downgrade Chromium
 1000 Remarkable
-954 Bongo Cam
+955 Bongo Cam
 888 WPS Office
 803 Lokinet
 799 jGRASP IDE
@@ -85,11 +87,9 @@
 285 OpenSCAD
 200 Processing IDE
 188 Wechat
-10 TeamViewer Host
+11 TeamViewer Host
 1 Godot Engine 3.2.4
-0 Ulauncher
 0 RPi-Play
 0 KDiskMark
 0 Interactive Brokers TW
 
--2088 Update Buddy
