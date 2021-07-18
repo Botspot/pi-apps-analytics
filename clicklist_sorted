@@ -1,7 +1,6 @@
-70595 Minecraft Java
+70596 Minecraft Java
 45598 Discord
 40706 Zoom
-38609 BalenaEtcher
 36903 CommanderPi
 33950 Box86
 33535 Minecraft Bedrock
@@ -10,6 +9,7 @@
 29927 Steam
 29541 Chromium Widevine
 27297 piKiss
+26613 BalenaEtcher
 24628 Wine (x86)
 23709 All Is Well
 23551 Minecraft Pi (Modded)
@@ -31,12 +31,12 @@
 9467 Cura
 9254 Cool Retro Term
 8993 Color Emoji font
-8675 AndroidBuddy
 8254 OBS Studio
 8007 Pycharm CE
 7967 FreeCAD
 7770 Scrcpy
 7526 Angry IP scanner
+6499 AndroidBuddy
 6208 Timeshift
 5630 Ulauncher
 5523 FreeTube
@@ -80,8 +80,8 @@
 998 Remarkable
 957 Bongo Cam
 887 WPS Office
+823 jGRASP IDE
 808 Lokinet
-798 jGRASP IDE
 489 StackEdit
 489 Scratch 2
 285 OpenSCAD
