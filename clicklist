@@ -1,94 +1,188 @@
-30347 All Is Well
-9042 AndroidBuddy
-11011 Angry IP scanner
-4658 AnyDesk
-22871 Arduino
-34243 BalenaEtcher
-1662 Bongo Cam
-48237 Box86
-6658 Boxy SVG
-4219 Browsh
-37996 Chromium Widevine
-14925 Clam Antivirus
-11354 Color Emoji font
-47042 CommanderPi
-38902 Conky
-11603 Cool Retro Term
-12027 Cura
-1850 Descent 1
-1731 Descent 2
-58360 Discord
-27004 Doom 3
-1857 Downgrade Chromium
-2665 Eagle CAD
-16916 eDEX-UI
-4238 Email Checker
-2298 Flameshot
-10362 FreeCAD
-8391 FreeTube
-1781 Geany Dark Mode
-2213 Github-CLI
+30368 All Is Well
+30368 All Is Well
+9076 AndroidBuddy
+9076 AndroidBuddy
+11025 Angry IP scanner
+11025 Angry IP scanner
+4649 AnyDesk
+4649 AnyDesk
+22864 Arduino
+22864 Arduino
+34238 BalenaEtcher
+34238 BalenaEtcher
+1693 Bongo Cam
+1693 Bongo Cam
+48380 Box86
+48380 Box86
+6669 Boxy SVG
+6669 Boxy SVG
+4222 Browsh
+4222 Browsh
+38004 Chromium Widevine
+38004 Chromium Widevine
+14923 Clam Antivirus
+14923 Clam Antivirus
+11352 Color Emoji font
+11352 Color Emoji font
+47007 CommanderPi
+47007 CommanderPi
+38935 Conky
+38935 Conky
+11619 Cool Retro Term
+11619 Cool Retro Term
+12050 Cura
+12050 Cura
+1855 Descent 1
+1855 Descent 1
+1725 Descent 2
+1725 Descent 2
+58408 Discord
+58408 Discord
+27035 Doom 3
+1861 Downgrade Chromium
+27035 Doom 3
+1861 Downgrade Chromium
+2674 Eagle CAD
+2674 Eagle CAD
+16929 eDEX-UI
+16929 eDEX-UI
+4234 Email Checker
+4234 Email Checker
+2305 Flameshot
+2305 Flameshot
+10373 FreeCAD
+10373 FreeCAD
+8400 FreeTube
+8400 FreeTube
+1775 Geany Dark Mode
+1775 Geany Dark Mode
+2236 Github-CLI
+2236 Github-CLI
 2 Godot Engine 3.2.4
-2011 Heroes 2
-3652 Intellij IDEA
+2017 Heroes 2
+2 Godot Engine 3.2.4
+2017 Heroes 2
+3660 Intellij IDEA
+3660 Intellij IDEA
 0 Interactive Brokers TW
-1108 jGRASP IDE
+0 Interactive Brokers TW
+1111 jGRASP IDE
+1111 jGRASP IDE
 0 KDiskMark
-2606 Libreoffice MS theme
-5822 LibrePCB
-5795 Lightpad
-1270 Lokinet
-5800 Mac OS Theme
-42720 Minecraft Bedrock
-89213 Minecraft Java
-33545 Minecraft Pi (Modded)
-1695 Mission Planner
-3445 Node.js
-5059 Notepad ++
-11909 OBS Studio
-539 OpenSCAD
-3856 Pi-Apps Terminal Plugin
-18853 PiGro
+0 KDiskMark
+2602 Libreoffice MS theme
+2602 Libreoffice MS theme
+5827 LibrePCB
+5827 LibrePCB
+5803 Lightpad
+1268 Lokinet
+5803 Lightpad
+5810 Mac OS Theme
+1268 Lokinet
+42761 Minecraft Bedrock
+5810 Mac OS Theme
+89329 Minecraft Java
+42761 Minecraft Bedrock
+33502 Minecraft Pi (Modded)
+89329 Minecraft Java
+1701 Mission Planner
+3456 Node.js
+33502 Minecraft Pi (Modded)
+5086 Notepad ++
+1701 Mission Planner
+3456 Node.js
+11948 OBS Studio
+5086 Notepad ++
+545 OpenSCAD
+11948 OBS Studio
+3851 Pi-Apps Terminal Plugin
+545 OpenSCAD
+18864 PiGro
+3851 Pi-Apps Terminal Plugin
 34847 piKiss
-40480 Pi Power Tools
-4937 Powerline-Shell
-5837 PPSSPP (PSP emulator)
+18863 PiGro
+40501 Pi Power Tools
+34847 piKiss
+43764 Pi Power Tools
+4907 Powerline-Shell
+-1477 Powerline-Shell
+5839 PPSSPP (PSP emulator)
+5839 PPSSPP (PSP emulator)
 380 Processing IDE
-3779 PrusaSlicer
-6863 Puffin Browser Demo
-10646 Pycharm CE
-5597 QEMU
-3673 Raspi2png
+380 Processing IDE
+3782 PrusaSlicer
+3782 PrusaSlicer
+6839 Puffin Browser Demo
+6839 Puffin Browser Demo
+10686 Pycharm CE
+10686 Pycharm CE
+5596 QEMU
+5596 QEMU
+3677 Raspi2png
+3677 Raspi2png
+1413 Remarkable
 1413 Remarkable
 0 RPi-Play
-884 Scratch 2
-10151 Scrcpy
-2966 Snapdrop
-22227 Snap Store
+0 RPi-Play
+879 Scratch 2
+879 Scratch 2
+10175 Scrcpy
+10175 Scrcpy
+2967 Snapdrop
+2967 Snapdrop
+22218 Snap Store
+22218 Snap Store
 4599 Sonic Pi 3.2
-19359 SpeedTest-CLI
-783 StackEdit
-38032 Steam
-4600 Stunt Rally
-6358 Sublime Text
-12114 TBOPlayer
-334 TeamViewer Host
-8064 Timeshift
-3017 tldr
-26671 Tor Browser
-7775 Ulauncher
-23795 Update Buddy
-13226 USBImager
-2445 VeraCrypt
-29048 Visual Studio Code
-2667 Vivaldi
-2479 VSCodium
-1823 WACUP (new WinAmp)
-2554 Web Apps
-351 Wechat
-14562 Whatsapp
-29045 Windows 10 Theme
-36290 Wine (x86)
-1150 WPS Office
-18355 YouTubuddy
-50924 Zoom
+4599 Sonic Pi 3.2
+19377 SpeedTest-CLI
+19377 SpeedTest-CLI
+780 StackEdit
+38070 Steam
+780 StackEdit
+4586 Stunt Rally
+38070 Steam
+6352 Sublime Text
+4586 Stunt Rally
+12106 TBOPlayer
+6352 Sublime Text
+342 TeamViewer Host
+12106 TBOPlayer
+8053 Timeshift
+1691 TeamViewer Host
+0 tldr
+0 Timeshift
+0 Tor Browser
+0 tldr
+0 Ulauncher
+0 Tor Browser
+0 Update Buddy
+0 USBImager
+0 Ulauncher
+0 Update Buddy
+0 VeraCrypt
+0 USBImager
+0 Visual Studio Code
+0 Vivaldi
+0 VeraCrypt
+0 VSCodium
+0 Visual Studio Code
+0 WACUP (new WinAmp)
+0 Vivaldi
+0 VSCodium
+0 Web Apps
+0 Wechat
+0 WACUP (new WinAmp)
+0 Web Apps
+0 Whatsapp
+0 Wechat
+0 Windows 10 Theme
+0 Whatsapp
+0 Wine (x86)
+0 Windows 10 Theme
+0 WPS Office
+0 Wine (x86)
+0 YouTubuddy
+0 WPS Office
+0 Zoom
+0 YouTubuddy
+0 Zoom
