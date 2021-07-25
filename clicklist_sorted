@@ -1,6 +1,5 @@
 89304 Minecraft Java
 58403 Discord
-57523 Minecraft Pi (Modded)
 50946 Zoom
 48399 Box86
 47000 CommanderPi
@@ -9,19 +8,21 @@
 38947 Conky
 38066 Steam
 37991 Chromium Widevine
+36621 Tor Browser
 36399 Wine (x86)
 34845 piKiss
 34243 BalenaEtcher
+33480 Minecraft Pi (Modded)
 30379 All Is Well
 29079 Windows 10 Theme
 29059 Visual Studio Code
 27029 Doom 3
-26659 Tor Browser
 23781 Update Buddy
 22866 Arduino
 22217 Snap Store
 19379 SpeedTest-CLI
 18854 PiGro
+18307 YouTubuddy
 16930 eDEX-UI
 14920 Clam Antivirus
 14555 Whatsapp
@@ -33,12 +34,12 @@
 11362 Color Emoji font
 11024 Angry IP scanner
 10696 Pycharm CE
-10437 Ulauncher
 10376 FreeCAD
 10173 Scrcpy
 9075 AndroidBuddy
 8402 FreeTube
 8055 Timeshift
+7739 Ulauncher
 6851 Puffin Browser Demo
 6672 Boxy SVG
 6356 Sublime Text
@@ -84,7 +85,7 @@
 877 Scratch 2
 782 StackEdit
 546 OpenSCAD
-455 Processing IDE
+382 Processing IDE
 355 Wechat
 341 TeamViewer Host
 2 Godot Engine 3.2.4
@@ -92,4 +93,3 @@
 0 KDiskMark
 0 Interactive Brokers TW
 
--4135 YouTubuddy
