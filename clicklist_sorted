@@ -1,57 +1,49 @@
-89297 Minecraft Java
-58357 Discord
-50964 Zoom
-48322 Box86
-46953 CommanderPi
-42762 Minecraft Bedrock
-40491 Pi Power Tools
-38936 Conky
-38031 Steam
-37986 Chromium Widevine
-36376 Wine (x86)
-34811 piKiss
-34196 BalenaEtcher
-33389 Minecraft Pi (Modded)
-30370 All Is Well
-29058 Windows 10 Theme
-29047 Visual Studio Code
-27024 Doom 3
-26645 Tor Browser
-23794 Update Buddy
-22828 Arduino
-22190 Snap Store
-19367 SpeedTest-CLI
-18855 PiGro
-18257 YouTubuddy
+89300 Minecraft Java
+58359 Discord
+48329 Box86
+46954 CommanderPi
+42768 Minecraft Bedrock
+40497 Pi Power Tools
+38940 Conky
+38033 Steam
+37989 Chromium Widevine
+34813 piKiss
+34199 BalenaEtcher
+33392 Minecraft Pi (Modded)
+30373 All Is Well
+27027 Doom 3
+26647 Tor Browser
+23795 Update Buddy
+22830 Arduino
+22193 Snap Store
+19365 SpeedTest-CLI
+18856 PiGro
 16933 eDEX-UI
 14914 Clam Antivirus
-14556 Whatsapp
-13261 USBImager
+13263 USBImager
 12095 TBOPlayer
-12034 Cura
-11931 OBS Studio
+12035 Cura
 11605 Cool Retro Term
 11361 Color Emoji font
-11022 Angry IP scanner
+11023 Angry IP scanner
 10696 Pycharm CE
-10364 FreeCAD
+10366 FreeCAD
 10173 Scrcpy
 9065 AndroidBuddy
-8393 FreeTube
+8398 FreeTube
 8061 Timeshift
-7736 Ulauncher
+7737 Ulauncher
 6840 Puffin Browser Demo
 6681 Boxy SVG
 6355 Sublime Text
 5838 LibrePCB
 5828 PPSSPP (PSP emulator)
 5818 Lightpad
-5758 Mac OS Theme
+5761 Mac OS Theme
 5608 QEMU
-5059 Notepad ++
 4903 Powerline-Shell
 4662 AnyDesk
-4583 Sonic Pi 3.2
+4582 Sonic Pi 3.2
 4577 Stunt Rally
 4228 Email Checker
 4215 Browsh
@@ -59,37 +51,45 @@
 3778 PrusaSlicer
 3682 Raspi2png
 3657 Intellij IDEA
-3444 Node.js
 3007 tldr
-2953 Snapdrop
-2673 Eagle CAD
-2635 Vivaldi
+2954 Snapdrop
+2674 Eagle CAD
 2590 Libreoffice MS theme
-2515 Web Apps
-2465 VSCodium
 2453 VeraCrypt
-2285 Flameshot
-2217 Github-CLI
-2009 Heroes 2
+2287 Flameshot
+2218 Github-CLI
+2012 Heroes 2
 1873 Downgrade Chromium
 1857 Descent 1
-1825 WACUP (new WinAmp)
 1763 Geany Dark Mode
 1732 Descent 2
 1693 Mission Planner
-1689 Bongo Cam
-1413 Remarkable
+1690 Bongo Cam
 1270 Lokinet
-1157 WPS Office
 1113 jGRASP IDE
-874 Scratch 2
-784 StackEdit
+783 StackEdit
 540 OpenSCAD
 378 Processing IDE
-362 Wechat
-341 TeamViewer Host
+340 TeamViewer Host
 2 Godot Engine 3.2.4
+0 Zoom
+0 YouTubuddy
+0 WPS Office
+0 Wine (x86)
+0 Windows 10 Theme
+0 Whatsapp
+0 Wechat
+0 Web Apps
+0 WACUP (new WinAmp)
+0 VSCodium
+0 Vivaldi
+0 Visual Studio Code
 0 RPi-Play
+0 Remarkable
+0 Notepad ++
+0 Node.js
 0 KDiskMark
 0 Interactive Brokers TW
 
+-158 Scratch 2
+-3264 OBS Studio
