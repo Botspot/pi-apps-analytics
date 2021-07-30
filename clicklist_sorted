@@ -1,28 +1,24 @@
 89300 Minecraft Java
 58359 Discord
+53942 Steam
 48329 Box86
 46954 CommanderPi
 42768 Minecraft Bedrock
 40497 Pi Power Tools
 38940 Conky
-38033 Steam
 37989 Chromium Widevine
 34813 piKiss
 34199 BalenaEtcher
 33392 Minecraft Pi (Modded)
 30373 All Is Well
 27027 Doom 3
-26647 Tor Browser
-23795 Update Buddy
 22830 Arduino
 22193 Snap Store
 19365 SpeedTest-CLI
-18856 PiGro
 16933 eDEX-UI
 14914 Clam Antivirus
-13263 USBImager
-12095 TBOPlayer
 12035 Cura
+11932 OBS Studio
 11605 Cool Retro Term
 11361 Color Emoji font
 11023 Angry IP scanner
@@ -31,46 +27,41 @@
 10173 Scrcpy
 9065 AndroidBuddy
 8398 FreeTube
-8061 Timeshift
-7737 Ulauncher
 6840 Puffin Browser Demo
 6681 Boxy SVG
-6355 Sublime Text
 5838 LibrePCB
 5828 PPSSPP (PSP emulator)
 5818 Lightpad
 5761 Mac OS Theme
 5608 QEMU
+5059 Notepad ++
 4903 Powerline-Shell
+4877 Intellij IDEA
 4662 AnyDesk
 4582 Sonic Pi 3.2
-4577 Stunt Rally
 4228 Email Checker
 4215 Browsh
-3848 Pi-Apps Terminal Plugin
 3778 PrusaSlicer
 3682 Raspi2png
-3657 Intellij IDEA
-3007 tldr
+3444 Node.js
 2954 Snapdrop
 2674 Eagle CAD
 2590 Libreoffice MS theme
-2453 VeraCrypt
 2287 Flameshot
 2218 Github-CLI
 2012 Heroes 2
 1873 Downgrade Chromium
-1857 Descent 1
+1856 Descent 1
 1763 Geany Dark Mode
 1732 Descent 2
 1693 Mission Planner
-1690 Bongo Cam
+1691 Bongo Cam
+1413 Remarkable
 1270 Lokinet
-1113 jGRASP IDE
+875 Scratch 2
 783 StackEdit
-540 OpenSCAD
+629 OpenSCAD
 378 Processing IDE
-340 TeamViewer Host
 2 Godot Engine 3.2.4
 0 Zoom
 0 YouTubuddy
@@ -84,12 +75,21 @@
 0 VSCodium
 0 Vivaldi
 0 Visual Studio Code
+0 VeraCrypt
+0 USBImager
+0 Update Buddy
+0 Ulauncher
+0 Tor Browser
+0 tldr
+0 Timeshift
+0 TeamViewer Host
+0 TBOPlayer
+0 Sublime Text
+0 Stunt Rally
 0 RPi-Play
-0 Remarkable
-0 Notepad ++
-0 Node.js
+0 PiGro
+0 Pi-Apps Terminal Plugin
 0 KDiskMark
+0 jGRASP IDE
 0 Interactive Brokers TW
 
--158 Scratch 2
--3264 OBS Studio
