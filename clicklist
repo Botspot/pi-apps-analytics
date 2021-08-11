@@ -1,94 +1,108 @@
-30310 All Is Well
-9002 AndroidBuddy
-11019 Angry IP scanner
+30313 All Is Well
+8988 AndroidBuddy
+11009 Angry IP scanner
 4646 AnyDesk
-22818 Arduino
-34099 BalenaEtcher
+22826 Arduino
+2 AstroMenace
+34094 BalenaEtcher
+1 BlockPi
 1645 Bongo Cam
-48285 Box86
-6670 Boxy SVG
-4194 Browsh
-37974 Chromium Widevine
-14887 Clam Antivirus
-11359 Color Emoji font
-46903 CommanderPi
-38866 Conky
-11609 Cool Retro Term
-11988 Cura
+6 Box64
+48303 Box86
+6665 Boxy SVG
+4193 Browsh
+2 Chiaki
+37987 Chromium Widevine
+14895 Clam Antivirus
+11351 Color Emoji font
+46924 CommanderPi
+38864 Conky
+1 Conky Rings
+11612 Cool Retro Term
+11983 Cura
 1846 Descent 1
-1730 Descent 2
-58295 Discord
-26953 Doom 3
-1835 Downgrade Chromium
-2667 Eagle CAD
-16917 eDEX-UI
-4225 Email Checker
-2261 Flameshot
-10341 FreeCAD
-8401 FreeTube
-1741 Geany Dark Mode
-2220 Github-CLI
+1732 Descent 2
+58296 Discord
+26965 Doom 3
+1830 Downgrade Chromium
+3 Drawing
+2671 Eagle CAD
+16919 eDEX-UI
+4229 Email Checker
+19 Firefox Rapid Release
+2254 Flameshot
+10348 FreeCAD
+8400 FreeTube
+1739 Geany Dark Mode
+2209 Github-CLI
 2 Godot Engine 3.2.4
-2098 Heroes 2
-3655 Intellij IDEA
+2108 Heroes 2
+1 Https File Server
+3653 Intellij IDEA
 0 Interactive Brokers TW
-1107 jGRASP IDE
+1108 jGRASP IDE
 0 KDiskMark
-2591 Libreoffice MS theme
-5832 LibrePCB
-5796 Lightpad
-1271 Lokinet
-5774 Mac OS Theme
-42727 Minecraft Bedrock
-89178 Minecraft Java
-33264 Minecraft Pi (Modded)
-1692 Mission Planner
-3395 Node.js
-5022 Notepad ++
-11880 OBS Studio
-536 OpenSCAD
-3841 Pi-Apps Terminal Plugin
-18819 PiGro
-34800 piKiss
-40527 Pi Power Tools
-4881 Powerline-Shell
-5813 PPSSPP (PSP emulator)
-369 Processing IDE
-3756 PrusaSlicer
+0 Lego Digital Designer
+2575 Libreoffice MS theme
+5829 LibrePCB
+5792 Lightpad
+1270 Lokinet
+5745 Mac OS Theme
+2 Min Browser
+42723 Minecraft Bedrock
+89126 Minecraft Java
+33249 Minecraft Pi (Modded)
+1689 Mission Planner
+3387 Node.js
+5024 Notepad ++
+11884 OBS Studio
+540 OpenSCAD
+4 Pale Moon Browser
+18816 PiGro
+34809 piKiss
+40526 Pi Power Tools
+1 PiSafe
+4885 Powerline-Shell
+5822 PPSSPP (PSP emulator)
+367 Processing IDE
+3754 PrusaSlicer
 6842 Puffin Browser Demo
-10712 Pycharm CE
-5600 QEMU
-3678 Raspi2png
-1414 Remarkable
+10713 Pycharm CE
+5599 QEMU
+3677 Raspi2png
+1412 Remarkable
 0 RPi-Play
-881 Scratch 2
-10169 Scrcpy
-2906 Snapdrop
-22170 Snap Store
-4591 Sonic Pi 3.2
-19358 SpeedTest-CLI
-777 StackEdit
-37981 Steam
-4520 Stunt Rally
-6372 Sublime Text
-12111 TBOPlayer
-325 TeamViewer Host
-8043 Timeshift
-3001 tldr
-26616 Tor Browser
-7710 Ulauncher
-23788 Update Buddy
-13270 USBImager
-2458 VeraCrypt
-29050 Visual Studio Code
-2588 Vivaldi
-2454 VSCodium
-1815 WACUP (new WinAmp)
-2500 Web Apps
+877 Scratch 2
+10174 Scrcpy
+2911 Snapdrop
+22162 Snap Store
+4594 Sonic Pi 3.2
+19341 SpeedTest-CLI
+776 StackEdit
+37991 Steam
+4534 Stunt Rally
+6371 Sublime Text
+12114 TBOPlayer
+324 TeamViewer Host
+0 template
+8034 Timeshift
+2996 tldr
+26567 Tor Browser
+1 Turbowarp
+7716 Ulauncher
+23789 Update Buddy
+13269 USBImager
+2456 VeraCrypt
+29045 Visual Studio Code
+2594 Vivaldi
+2452 VSCodium
+1822 WACUP (new WinAmp)
+2504 Web Apps
 362 Wechat
-14512 Whatsapp
-29002 Windows 10 Theme
-36313 Wine (x86)
-1148 WPS Office
-18211 YouTubuddy
-50945 Zoom
+14508 Whatsapp
+28971 Windows 10 Theme
+4 Windows Screensavers
+36305 Wine (x86)
+1147 WPS Office
+18219 YouTubuddy
+50947 Zoom
