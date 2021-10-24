@@ -1,119 +1,124 @@
-157013 Minecraft Java
-108472 Box86
-104429 Discord
-86342 Zoom
-84439 Wine (x86)
-83060 CommanderPi
-75674 Minecraft Bedrock
-73863 Minecraft Pi (Modded)
-71009 Pi Power Tools
-69083 Conky
-67740 Chromium Widevine
-66588 Steam
-63004 BalenaEtcher
-61422 piKiss
-53579 All Is Well
-50948 Visual Studio Code
-50634 Doom 3
-50468 Windows 10 Theme
-49366 Snap Store
-41458 Update Buddy
-41190 Arduino
-36702 YouTubuddy
-35425 SpeedTest-CLI
-33885 PiGro
-28714 eDEX-UI
-27568 Clam Antivirus
-27441 OBS Studio
-25093 Angry IP scanner
+157064 Minecraft Java
+108527 Box86
+104471 Discord
+86370 Zoom
+84524 Wine (x86)
+83080 CommanderPi
+75702 Minecraft Bedrock
+73890 Minecraft Pi (Modded)
+71028 Pi Power Tools
+69104 Conky
+67767 Chromium Widevine
+66616 Steam
+63011 BalenaEtcher
+61425 piKiss
+53594 All Is Well
+50964 Visual Studio Code
+50674 Doom 3
+50482 Windows 10 Theme
+49396 Snap Store
+41473 Update Buddy
+41222 Arduino
+36715 YouTubuddy
+35438 SpeedTest-CLI
+33894 PiGro
+28725 eDEX-UI
+27578 Clam Antivirus
+27447 OBS Studio
+25079 Angry IP scanner
 23980 USBImager
-21503 Cura
-20405 Pycharm CE
-20328 FreeTube
-19986 TBOPlayer
-19635 Cool Retro Term
-19531 Color Emoji font
-19223 FreeCAD
-19211 AndroidBuddy
-18842 Scrcpy
-15636 Ulauncher
-15558 Mac OS Theme
-15353 PPSSPP (PSP emulator)
-14693 Timeshift
-14260 Notepad ++
+21511 Cura
+20424 Pycharm CE
+20348 FreeTube
+19993 TBOPlayer
+19642 Cool Retro Term
+19534 Color Emoji font
+19251 FreeCAD
+19213 AndroidBuddy
+18840 Scrcpy
+15651 Ulauncher
+15617 Mac OS Theme
+15362 PPSSPP (PSP emulator)
+14698 Timeshift
+14267 Notepad ++
 12858 QEMU
-12516 Sublime Text
-11886 Stunt Rally
-11838 Boxy SVG
-11732 Lightpad
-11086 AnyDesk
-10365 LibrePCB
-9475 Powerline-Shell
+12521 Sublime Text
+11910 Stunt Rally
+11836 Boxy SVG
+11749 Lightpad
+11095 AnyDesk
+10358 LibrePCB
+9477 Powerline-Shell
 8587 Node.js
-8275 Vivaldi
-7996 Web Apps
-7841 Libreoffice MS theme
-7606 Flameshot
-7498 Browsh
-7376 Snapdrop
+8276 Vivaldi
+8004 Web Apps
+7854 Libreoffice MS theme
+7625 Flameshot
+7502 Browsh
+7369 Snapdrop
 7366 Email Checker
-7256 Intellij IDEA
-6841 Github-CLI
-6771 PrusaSlicer
-6721 Heroes 2
-6345 Raspi2png
+7268 Intellij IDEA
+6850 Github-CLI
+6773 PrusaSlicer
+6725 Heroes 2
+6346 Raspi2png
 5879 tldr
-5673 Downgrade Chromium
-5466 VSCodium
-5425 Eagle CAD
-5336 VeraCrypt
-4869 Bongo Cam
-4861 WACUP (new WinAmp)
-4639 Geany Dark Mode
-4520 Descent 1
-4260 Descent 2
+5679 Downgrade Chromium
+5463 VSCodium
+5438 Eagle CAD
+5339 VeraCrypt
+4873 Bongo Cam
+4867 WACUP (new WinAmp)
+4643 Geany Dark Mode
+4531 Descent 1
+4268 Descent 2
 3389 Mission Planner
-3221 Lokinet
-2961 Scratch 2
-2937 Remarkable
-2512 Firefox Rapid Release
-2260 jGRASP IDE
-2242 TeamViewer Host
-2203 WPS Office
-1871 StackEdit
-1840 Windows Flasher
-1809 OpenSCAD
-1518 Sonic Pi
-1289 Processing IDE
-1064 Wechat
-864 Box64
-774 Conky Rings
-735 Autostar
-645 Lego Digital Designer
-630 CloudBuddy
-622 BlockPi
-539 Windows Screensavers
-515 AstroMenace
-462 Godot
-457 Drawing
-452 PiSafe
-353 Pi-Apps Terminal Plugin (python)
-322 Https File Server
-315 Pi-Apps Terminal Plugin (bash)
+3219 Lokinet
+2972 Scratch 2
+2940 Remarkable
+2547 Firefox Rapid Release
+2261 jGRASP IDE
+2256 TeamViewer Host
+2201 WPS Office
+1870 StackEdit
+1847 Windows Flasher
+1808 OpenSCAD
+1524 Sonic Pi
+1290 Processing IDE
+1068 Wechat
+873 Box64
+782 Conky Rings
+732 Autostar
+647 Lego Digital Designer
+630 BlockPi
+624 CloudBuddy
+544 Windows Screensavers
+527 AstroMenace
+469 Godot
+469 Drawing
+453 PiSafe
+348 Pi-Apps Terminal Plugin (python)
+319 Https File Server
+317 Tor
+313 Pi-Apps Terminal Plugin (bash)
 305 Chiaki
-246 Tor
-237 WhatsApp
-236 Telegram
-199 Turbowarp
-160 Zoom PWA
-143 Microsoft Teams
-72 Sysmon
-60 Codex
-58 Puffin
-53 XSnow
-41 Min
-34 Falkon
-25 Quartz
-16 Pale Moon
+278 WhatsApp
+267 Telegram
+206 Turbowarp
+166 Zoom PWA
+162 Microsoft Teams
+85 Sysmon
+84 Puffin
+74 Codex
+66 XSnow
+56 Min
+48 Falkon
+34 Quartz
+26 Pale Moon
 2 template
+1 Geekbench
+1 BleachBit
+0 Minecraft Java MultiMC5
+0 LinuxCNC
+0 Amiberry
 
