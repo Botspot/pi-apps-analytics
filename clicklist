@@ -1,123 +1,123 @@
-53584 All Is Well
-3 Amiberry
-19206 AndroidBuddy
-25080 Angry IP scanner
-11094 AnyDesk
-41211 Arduino
-523 AstroMenace
-728 Autostar
-62992 BalenaEtcher
-6 BleachBit
-621 BlockPi
-4868 Bongo Cam
-862 Box64
-108471 Box86
-11828 Boxy SVG
-7499 Browsh
+53595 All Is Well
+9 Amiberry
+19211 AndroidBuddy
+25077 Angry IP scanner
+11091 AnyDesk
+41213 Arduino
+518 AstroMenace
+733 Autostar
+62986 BalenaEtcher
+30 BleachBit
+617 BlockPi
+4866 Bongo Cam
+870 Box64
+108495 Box86
+11829 Boxy SVG
+7502 Browsh
 300 Chiaki
-67756 Chromium Widevine
-27569 Clam Antivirus
-616 CloudBuddy
-76 Codex
-19532 Color Emoji font
-83070 CommanderPi
-69104 Conky
-778 Conky Rings
-19644 Cool Retro Term
-21509 Cura
+67761 Chromium Widevine
+27573 Clam Antivirus
+620 CloudBuddy
+87 Codex
+19551 Color Emoji font
+83068 CommanderPi
+69111 Conky
+780 Conky Rings
+19645 Cool Retro Term
+21522 Cura
 4530 Descent 1
-4265 Descent 2
-104452 Discord
-50665 Doom 3
-5684 Downgrade Chromium
-461 Drawing
+4267 Descent 2
+104469 Discord
+50668 Doom 3
+5682 Downgrade Chromium
+468 Drawing
 5436 Eagle CAD
-28726 eDEX-UI
-7368 Email Checker
-49 Falkon
-2521 Firefox Rapid Release
-7619 Flameshot
-19248 FreeCAD
-20335 FreeTube
-4646 Geany Dark Mode
-12 Geekbench
-6845 Github-CLI
-465 Godot
-6724 Heroes 2
-314 Https File Server
-7267 Intellij IDEA
-2264 jGRASP IDE
-634 Lego Digital Designer
-7844 Libreoffice MS theme
+28730 eDEX-UI
+7370 Email Checker
+55 Falkon
+2520 Firefox Rapid Release
+7617 Flameshot
+19260 FreeCAD
+20333 FreeTube
+4644 Geany Dark Mode
+33 Geekbench
+6850 Github-CLI
+473 Godot
+6722 Heroes 2
+318 Https File Server
+7271 Intellij IDEA
+2265 jGRASP IDE
+636 Lego Digital Designer
+7857 Libreoffice MS theme
 10359 LibrePCB
-11751 Lightpad
-2 LinuxCNC
-3218 Lokinet
-15614 Mac OS Theme
-188 Microsoft Teams
-57 Min
-75689 Minecraft Bedrock
-157046 Minecraft Java
-22 Minecraft Java MultiMC5
-73861 Minecraft Pi (Modded)
+11753 Lightpad
+9 LinuxCNC
+3221 Lokinet
+15625 Mac OS Theme
+221 Microsoft Teams
+66 Min
+75680 Minecraft Bedrock
+157031 Minecraft Java
+73 Minecraft Java MultiMC5
+73860 Minecraft Pi (Modded)
 3387 Mission Planner
 8576 Node.js
-14253 Notepad ++
-27430 OBS Studio
-1805 OpenSCAD
-27 Pale Moon
-311 Pi-Apps Terminal Plugin (bash)
-341 Pi-Apps Terminal Plugin (python)
-33889 PiGro
-61406 piKiss
-71017 Pi Power Tools
-455 PiSafe
-9472 Powerline-Shell
-15348 PPSSPP (PSP emulator)
-1293 Processing IDE
-6773 PrusaSlicer
-86 Puffin
-20423 Pycharm CE
-12859 QEMU
-35 Quartz
-6345 Raspi2png
-2941 Remarkable
-2969 Scratch 2
-18834 Scrcpy
-7370 Snapdrop
-49376 Snap Store
-1526 Sonic Pi
-35433 SpeedTest-CLI
+14270 Notepad ++
+27454 OBS Studio
+1807 OpenSCAD
+36 Pale Moon
+312 Pi-Apps Terminal Plugin (bash)
+342 Pi-Apps Terminal Plugin (python)
+33888 PiGro
+61417 piKiss
+71032 Pi Power Tools
+461 PiSafe
+9477 Powerline-Shell
+15352 PPSSPP (PSP emulator)
+1292 Processing IDE
+6774 PrusaSlicer
+91 Puffin
+20442 Pycharm CE
+12867 QEMU
+39 Quartz
+6349 Raspi2png
+2938 Remarkable
+2976 Scratch 2
+18836 Scrcpy
+7374 Snapdrop
+49372 Snap Store
+1532 Sonic Pi
+35439 SpeedTest-CLI
 1871 StackEdit
-66597 Steam
-11894 Stunt Rally
-12520 Sublime Text
-91 Sysmon
-19989 TBOPlayer
+66600 Steam
+11899 Stunt Rally
+12534 Sublime Text
+102 Sysmon
+19993 TBOPlayer
 2247 TeamViewer Host
-273 Telegram
+298 Telegram
 2 template
-14696 Timeshift
-5879 tldr
-332 Tor
-206 Turbowarp
-15648 Ulauncher
-41461 Update Buddy
-23978 USBImager
-5340 VeraCrypt
-50958 Visual Studio Code
-8272 Vivaldi
-5467 VSCodium
-4865 WACUP (new WinAmp)
-7992 Web Apps
-1068 Wechat
-287 WhatsApp
-50464 Windows 10 Theme
-1817 Windows Flasher
-540 Windows Screensavers
-84496 Wine (x86)
-2198 WPS Office
-68 XSnow
-36701 YouTubuddy
-86356 Zoom
-164 Zoom PWA
+14700 Timeshift
+5880 tldr
+378 Tor
+207 Turbowarp
+15652 Ulauncher
+41468 Update Buddy
+23982 USBImager
+5348 VeraCrypt
+50965 Visual Studio Code
+8273 Vivaldi
+5473 VSCodium
+4871 WACUP (new WinAmp)
+7995 Web Apps
+1067 Wechat
+329 WhatsApp
+50469 Windows 10 Theme
+1816 Windows Flasher
+554 Windows Screensavers
+84522 Wine (x86)
+2199 WPS Office
+77 XSnow
+36709 YouTubuddy
+86381 Zoom
+174 Zoom PWA
