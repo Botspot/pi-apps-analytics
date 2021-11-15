@@ -1,123 +1,124 @@
-53651 All Is Well
-104 Amiberry
-19269 AndroidBuddy
-25069 Angry IP scanner
-11130 AnyDesk
-41254 Arduino
-530 AstroMenace
-758 Autostar
-63097 BalenaEtcher
-203 BleachBit
-627 BlockPi
-4847 Bongo Cam
-881 Box64
-108274 Box86
+61 Alacritty Terminal
+53697 All Is Well
+148 Amiberry
+19285 AndroidBuddy
+25130 Angry IP scanner
+11160 AnyDesk
+41312 Arduino
+536 AstroMenace
+794 Autostar
+63272 BalenaEtcher
+308 BleachBit
+653 BlockPi
+4858 Bongo Cam
+890 Box64
+108364 Box86
 11820 Boxy SVG
-7500 Browsh
-304 Chiaki
-67722 Chromium Widevine
-27625 Clam Antivirus
-631 CloudBuddy
+7509 Browsh
+308 Chiaki
+67790 Chromium Widevine
+27658 Clam Antivirus
+643 CloudBuddy
 112 Codex
-19639 Color Emoji font
-83173 CommanderPi
-69160 Conky
-774 Conky Rings
-19653 Cool Retro Term
-21576 Cura
-4531 Descent 1
-4266 Descent 2
-104521 Discord
-50736 Doom 3
-5696 Downgrade Chromium
-448 Drawing
-5420 Eagle CAD
-28713 eDEX-UI
+19659 Color Emoji font
+83480 CommanderPi
+69337 Conky
+798 Conky Rings
+19679 Cool Retro Term
+21658 Cura
+4545 Descent 1
+4269 Descent 2
+104575 Discord
+50742 Doom 3
+5741 Downgrade Chromium
+459 Drawing
+5431 Eagle CAD
+28716 eDEX-UI
 7391 Email Checker
-121 Falkon
-2543 Firefox Rapid Release
-7626 Flameshot
-19326 FreeCAD
-20340 FreeTube
-4644 Geany Dark Mode
-233 Geekbench
-6851 Github-CLI
-464 Godot
-6719 Heroes 2
-329 Https File Server
-7266 Intellij IDEA
-2271 jGRASP IDE
-626 Lego Digital Designer
-7863 Libreoffice MS theme
-10355 LibrePCB
-11773 Lightpad
-50 LinuxCNC
-3222 Lokinet
-15759 Mac OS Theme
-342 Microsoft Teams
-151 Min
-75680 Minecraft Bedrock
-157066 Minecraft Java
-568 Minecraft Java MultiMC5
-73844 Minecraft Pi (Modded)
-3383 Mission Planner
-8553 Node.js
-14269 Notepad ++
-27449 OBS Studio
-1801 OpenSCAD
-83 Pale Moon
-305 Pi-Apps Terminal Plugin (bash)
-328 Pi-Apps Terminal Plugin (python)
-33929 PiGro
-61461 piKiss
-71103 Pi Power Tools
-473 PiSafe
-9434 Powerline-Shell
-15419 PPSSPP (PSP emulator)
-1289 Processing IDE
-6781 PrusaSlicer
-318 Puffin
-20578 Pycharm CE
-12899 QEMU
-71 Quartz
-6346 Raspi2png
-2936 Remarkable
-2990 Scratch 2
-18865 Scrcpy
-7397 Snapdrop
-49393 Snap Store
-1549 Sonic Pi
-35469 SpeedTest-CLI
+142 Falkon
+2665 Firefox Rapid Release
+7683 Flameshot
+19381 FreeCAD
+20406 FreeTube
+4668 Geany Dark Mode
+320 Geekbench
+6885 Github-CLI
+466 Godot
+6729 Heroes 2
+333 Https File Server
+7267 Intellij IDEA
+2273 jGRASP IDE
+621 Lego Digital Designer
+7902 Libreoffice MS theme
+10368 LibrePCB
+11789 Lightpad
+72 LinuxCNC
+3226 Lokinet
+15867 Mac OS Theme
+380 Microsoft Teams
+199 Min
+75706 Minecraft Bedrock
+157017 Minecraft Java
+897 Minecraft Java MultiMC5
+73935 Minecraft Pi (Modded)
+3386 Mission Planner
+8560 Node.js
+14348 Notepad ++
+27533 OBS Studio
+1804 OpenSCAD
+97 Pale Moon
+317 Pi-Apps Terminal Plugin (bash)
+337 Pi-Apps Terminal Plugin (python)
+33972 PiGro
+61590 piKiss
+71124 Pi Power Tools
+467 PiSafe
+9433 Powerline-Shell
+15425 PPSSPP (PSP emulator)
+1295 Processing IDE
+6798 PrusaSlicer
+405 Puffin
+20577 Pycharm CE
+12923 QEMU
+79 Quartz
+6349 Raspi2png
+2942 Remarkable
+2993 Scratch 2
+18889 Scrcpy
+7425 Snapdrop
+49471 Snap Store
+1543 Sonic Pi
+35525 SpeedTest-CLI
 1870 StackEdit
-66693 Steam
-11895 Stunt Rally
-12553 Sublime Text
-176 Sysmon
-19988 TBOPlayer
-2239 TeamViewer Host
-443 Telegram
-2 template
-14722 Timeshift
-5889 tldr
-812 Tor
-214 Turbowarp
-15665 Ulauncher
-41527 Update Buddy
-24010 USBImager
-5336 VeraCrypt
-50966 Visual Studio Code
-8264 Vivaldi
-5471 VSCodium
-4877 WACUP (new WinAmp)
-7986 Web Apps
-1073 Wechat
-504 WhatsApp
-50490 Windows 10 Theme
-1829 Windows Flasher
-545 Windows Screensavers
-84538 Wine (x86)
-2211 WPS Office
-111 XSnow
-36712 YouTubuddy
-86364 Zoom
-180 Zoom PWA
+66742 Steam
+11952 Stunt Rally
+12562 Sublime Text
+195 Sysmon
+2232 TeamViewer Host
+460 Telegram
+0 template
+41 Temps
+14742 Timeshift
+5898 tldr
+968 Tor
+223 Turbowarp
+15684 Ulauncher
+41556 Update Buddy
+24030 USBImager
+5350 VeraCrypt
+51034 Visual Studio Code
+8327 Vivaldi
+5478 VSCodium
+4890 WACUP (new WinAmp)
+8021 Web Apps
+1079 Wechat
+564 WhatsApp
+50519 Windows 10 Theme
+1909 Windows Flasher
+551 Windows Screensavers
+84655 Wine (x86)
+2212 WPS Office
+140 XSnow
+36789 YouTubuddy
+86389 Zoom
+183 Zoom PWA
