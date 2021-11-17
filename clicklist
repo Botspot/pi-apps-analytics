@@ -1,124 +1,249 @@
-61 Alacritty Terminal
-53697 All Is Well
-148 Amiberry
-19285 AndroidBuddy
-25130 Angry IP scanner
-11160 AnyDesk
-41312 Arduino
-536 AstroMenace
-794 Autostar
-63272 BalenaEtcher
-308 BleachBit
-653 BlockPi
-4858 Bongo Cam
-890 Box64
-108364 Box86
-11820 Boxy SVG
-7509 Browsh
-308 Chiaki
-67790 Chromium Widevine
-27658 Clam Antivirus
-643 CloudBuddy
-112 Codex
-19659 Color Emoji font
-83480 CommanderPi
-69337 Conky
-798 Conky Rings
-19679 Cool Retro Term
-21658 Cura
-4545 Descent 1
-4269 Descent 2
-104575 Discord
-50742 Doom 3
-5741 Downgrade Chromium
-459 Drawing
-5431 Eagle CAD
-28716 eDEX-UI
-7391 Email Checker
-142 Falkon
-2665 Firefox Rapid Release
-7683 Flameshot
-19381 FreeCAD
-20406 FreeTube
-4668 Geany Dark Mode
-320 Geekbench
-6885 Github-CLI
-466 Godot
-6729 Heroes 2
-333 Https File Server
-7267 Intellij IDEA
-2273 jGRASP IDE
-621 Lego Digital Designer
-7902 Libreoffice MS theme
-10368 LibrePCB
-11789 Lightpad
-72 LinuxCNC
-3226 Lokinet
-15867 Mac OS Theme
-380 Microsoft Teams
-199 Min
-75706 Minecraft Bedrock
-157017 Minecraft Java
-897 Minecraft Java MultiMC5
-73935 Minecraft Pi (Modded)
-3386 Mission Planner
-8560 Node.js
-14348 Notepad ++
-27533 OBS Studio
-1804 OpenSCAD
-97 Pale Moon
-317 Pi-Apps Terminal Plugin (bash)
-337 Pi-Apps Terminal Plugin (python)
-33972 PiGro
-61590 piKiss
-71124 Pi Power Tools
-467 PiSafe
-9433 Powerline-Shell
-15425 PPSSPP (PSP emulator)
-1295 Processing IDE
-6798 PrusaSlicer
-405 Puffin
-20577 Pycharm CE
-12923 QEMU
-79 Quartz
-6349 Raspi2png
-2942 Remarkable
-2993 Scratch 2
-18889 Scrcpy
-7425 Snapdrop
-49471 Snap Store
-1543 Sonic Pi
-35525 SpeedTest-CLI
-1870 StackEdit
-66742 Steam
-11952 Stunt Rally
-12562 Sublime Text
-195 Sysmon
-2232 TeamViewer Host
-460 Telegram
+79 Alacritty Terminal
+79 Alacritty Terminal
+62473 All Is Well
+62473 All Is Well
+161 Amiberry
+161 Amiberry
+23443 AndroidBuddy
+23443 AndroidBuddy
+30959 Angry IP scanner
+30959 Angry IP scanner
+13874 AnyDesk
+13874 AnyDesk
+48491 Arduino
+48491 Arduino
+1006 AstroMenace
+1006 AstroMenace
+1482 Autostar
+0 Autostar
+0 BalenaEtcher
+0 BalenaEtcher
+0 BleachBit
+0 BleachBit
+0 BlockPi
+0 BlockPi
+0 Bongo Cam
+0 Bongo Cam
+0 Box64
+0 Box86
+0 Box64
+0 Boxy SVG
+0 Box86
+0 Boxy SVG
+0 Browsh
+0 Browsh
+0 Chiaki
+0 Chromium Widevine
+0 Chiaki
+0 Clam Antivirus
+0 Chromium Widevine
+0 CloudBuddy
+0 Clam Antivirus
+0 Codex
+0 CloudBuddy
+0 Color Emoji font
+0 Codex
+0 CommanderPi
+0 Color Emoji font
+0 Conky
+0 CommanderPi
+0 Conky
+0 Conky Rings
+0 Cool Retro Term
+0 Conky Rings
+0 Cura
+0 Cool Retro Term
+0 Descent 1
+0 Cura
+0 Descent 2
+0 Descent 1
+0 Discord
+0 Descent 2
+-38756 Doom 3
+-49861 Discord
+7466 Downgrade Chromium
+59938 Doom 3
+898 Drawing
+7466 Downgrade Chromium
+898 Drawing
+6556 Eagle CAD
+6556 Eagle CAD
+33066 eDEX-UI
+8571 Email Checker
+33066 eDEX-UI
+153 Falkon
+8571 Email Checker
+153 Falkon
+4952 Firefox Rapid Release
+0 Firefox Rapid Release
+0 Flameshot
+0 Flameshot
+0 FreeCAD
+0 FreeCAD
+0 FreeTube
+0 FreeTube
+0 Geany Dark Mode
+0 Geany Dark Mode
+0 Geekbench
+0 Geekbench
+0 Github-CLI
+0 Github-CLI
+0 Godot
+0 Godot
+0 Heroes 2
+0 Heroes 2
+0 Https File Server
+0 Https File Server
+0 Intellij IDEA
+0 Intellij IDEA
+0 jGRASP IDE
+0 jGRASP IDE
+0 Lego Digital Designer
+0 Lego Digital Designer
+0 Libreoffice MS theme
+0 Libreoffice MS theme
+0 LibrePCB
+0 LibrePCB
+-6356 Lightpad
+14129 Lightpad
+74 LinuxCNC
+74 LinuxCNC
+4045 Lokinet
+4045 Lokinet
+20100 Mac OS Theme
+20100 Mac OS Theme
+468 Microsoft Teams
+468 Microsoft Teams
+219 Min
+219 Min
+88271 Minecraft Bedrock
+88271 Minecraft Bedrock
+182995 Minecraft Java
+262419 Minecraft Java
+0 Minecraft Java MultiMC5
+0 Minecraft Java MultiMC5
+0 Minecraft Pi (Modded)
+0 Minecraft Pi (Modded)
+0 Mission Planner
+0 Mission Planner
+0 Node.js
+0 Node.js
+0 Notepad ++
+0 Notepad ++
+0 OBS Studio
+0 OBS Studio
+0 OpenSCAD
+0 OpenSCAD
+0 Pale Moon
+0 Pale Moon
+0 Pi-Apps Terminal Plugin (bash)
+0 Pi-Apps Terminal Plugin (bash)
+0 Pi-Apps Terminal Plugin (python)
+0 Pi-Apps Terminal Plugin (python)
+0 PiGro
+0 PiGro
+0 piKiss
+0 piKiss
+0 Pi Power Tools
+0 Pi Power Tools
+0 PiSafe
+0 PiSafe
+0 Powerline-Shell
+0 Powerline-Shell
+0 PPSSPP (PSP emulator)
+0 PPSSPP (PSP emulator)
+0 Processing IDE
+0 Processing IDE
+0 PrusaSlicer
+0 PrusaSlicer
+0 Puffin
+0 Puffin
+0 Pycharm CE
+0 Pycharm CE
+0 QEMU
+0 QEMU
+0 Quartz
+0 Quartz
+7347 Raspi2png
+7347 Raspi2png
+3558 Remarkable
+3558 Remarkable
+3964 Scratch 2
+3964 Scratch 2
+22280 Scrcpy
+22280 Scrcpy
+9285 Snapdrop
+9285 Snapdrop
+60644 Snap Store
+60644 Snap Store
+1743 Sonic Pi
+1743 Sonic Pi
+54167 SpeedTest-CLI
+54167 SpeedTest-CLI
+0 StackEdit
+0 StackEdit
+0 Steam
+0 Steam
+0 Stunt Rally
+0 Stunt Rally
+0 Sublime Text
+0 Sublime Text
+0 Sysmon
+0 Sysmon
+0 TBOPlayer
+0 TBOPlayer
+0 TeamViewer Host
+0 TeamViewer Host
+0 Telegram
+0 Telegram
 0 template
-41 Temps
-14742 Timeshift
-5898 tldr
-968 Tor
-223 Turbowarp
-15684 Ulauncher
-41556 Update Buddy
-24030 USBImager
-5350 VeraCrypt
-51034 Visual Studio Code
-8327 Vivaldi
-5478 VSCodium
-4890 WACUP (new WinAmp)
-8021 Web Apps
-1079 Wechat
-564 WhatsApp
-50519 Windows 10 Theme
-1909 Windows Flasher
-551 Windows Screensavers
-84655 Wine (x86)
-2212 WPS Office
-140 XSnow
-36789 YouTubuddy
-86389 Zoom
-183 Zoom PWA
+0 template
+0 Temps
+0 Temps
+0 Timeshift
+0 Timeshift
+0 tldr
+0 tldr
+0 Tor
+0 Tor
+0 Turbowarp
+0 Turbowarp
+0 Ulauncher
+0 Ulauncher
+0 Update Buddy
+0 Update Buddy
+0 USBImager
+0 USBImager
+0 VeraCrypt
+0 VeraCrypt
+0 Visual Studio Code
+0 Visual Studio Code
+0 Vivaldi
+0 Vivaldi
+0 VSCodium
+0 VSCodium
+0 WACUP (new WinAmp)
+0 WACUP (new WinAmp)
+0 Web Apps
+0 Web Apps
+0 Wechat
+0 Wechat
+0 WhatsApp
+0 WhatsApp
+0 Windows 10 Theme
+0 Windows 10 Theme
+0 Windows Flasher
+0 Windows Flasher
+0 Windows Screensavers
+0 Windows Screensavers
+0 Wine (x86)
+0 Wine (x86)
+0 WPS Office
+0 WPS Office
+0 XSnow
+0 XSnow
+-12274 YouTubuddy
+44149 YouTubuddy
+99593 Zoom
+99593 Zoom
+364 Zoom PWA
