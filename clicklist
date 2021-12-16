@@ -1,145 +1,146 @@
-185 Alacritty Terminal
-62425 All Is Well
-218 Amiberry
-23406 AndroidBuddy
-31021 Angry IP scanner
-194 AntiMicroX
-13850 AnyDesk
-48451 Arduino
-1022 AstroMenace
-1445 Autostar
-74757 BalenaEtcher
-402 BleachBit
-116 BlockBench
-1209 BlockPi
-6261 Bongo Cam
-1667 Box64
-133858 Box86
-13827 Boxy SVG
-8777 Browsh
-212 btop++
-109 Caprine
-606 Chiaki
-79115 Chromium Widevine
-32564 Clam Antivirus
-1252 CloudBuddy
-167 Codex
-22603 Color Emoji font
-97254 CommanderPi
-80866 Conky
-1512 Conky Rings
-22668 Cool Retro Term
-25371 Cura
-5687 Descent 1
-5344 Descent 2
-129 Deskreen
-122412 Discord
-59999 Doom 3
-7529 Downgrade Chromium
-914 Drawing
-6539 Eagle CAD
-33000 eDEX-UI
-8566 Email Checker
-149 Falkon
-118 FF Multi Converter
-136 Filezilla
-5076 Firefox Rapid Release
-10097 Flameshot
-22915 FreeCAD
-25590 FreeTube
-5871 Geany Dark Mode
-323 Geekbench
-153 GIMP
-8938 Github-CLI
-887 Godot
-8819 Heroes 2
-617 Https File Server
-309 Imager
-17 Inkscape
-8701 Intellij IDEA
-2727 jGRASP IDE
-74 Kolourpaint
-1223 Lego Digital Designer
-131 LibreOffice
-10234 Libreoffice MS theme
-12098 LibrePCB
-14355 Lightpad
-77 LinuxCNC
-4031 Lokinet
-20023 Mac OS Theme
-442 Microsoft Teams
-178 Min
-88334 Minecraft Bedrock
-183148 Minecraft Java
-1183 Minecraft Java MultiMC5
-90685 Minecraft Pi (Modded)
-4057 Mission Planner
-54 MuseScore
-75 Nautilus
-10720 Node.js
-18283 Notepad ++
-34253 OBS Studio
-167 Oomox Theme Designer
-2437 OpenSCAD
-116 Pale Moon
-66 Persepolis Download Manager
-616 Pi-Apps Terminal Plugin (bash)
-659 Pi-Apps Terminal Plugin (python)
-39604 PiGro
-71631 piKiss
-82667 Pi Power Tools
-870 PiSafe
-11208 Powerline-Shell
-19456 PPSSPP (PSP emulator)
-1720 Processing IDE
-7966 PrusaSlicer
-703 Puffin
-24237 Pycharm CE
-15835 QEMU
-70 Quartz
-7335 Raspi2png
-3548 Remarkable
-3928 Scratch 2
-33 Scratch 3
-22264 Scrcpy
-95 Screenshot
-44 Shotwell
-9241 Snapdrop
-60579 Snap Store
-1734 Sonic Pi
-41732 SpeedTest-CLI
-2306 StackEdit
-77550 Steam
-15127 Stunt Rally
-14957 Sublime Text
-119 Synaptic
-207 Sysmon
-3179 TeamViewer Host
-685 Telegram
-2 template
-125 Temps
-17302 Timeshift
-7007 tldr
-985 Tor
-421 Turbowarp
-18706 Ulauncher
-48159 Update Buddy
-28167 USBImager
-6556 VeraCrypt
-59399 Visual Studio Code
-10904 Vivaldi
-6695 VSCodium
-6225 WACUP (new WinAmp)
-10450 Web Apps
-1372 Wechat
-703 WhatsApp
-58475 Windows 10 Theme
-3745 Windows Flasher
-1002 Windows Screensavers
-104844 Wine (x86)
-2614 WPS Office
-171 XSnow
-350 Xtreme Download Manager
-44110 YouTubuddy
-103660 Zoom
-312 Zoom PWA
+244 Alacritty Terminal
+71783 All Is Well
+364 Amiberry
+27953 AndroidBuddy
+37409 Angry IP scanner
+205 AntiMicroX
+16881 AnyDesk
+56270 Arduino
+1683 AstroMenace
+2469 Autostar
+87437 BalenaEtcher
+716 BleachBit
+121 BlockBench
+2013 BlockPi
+7770 Bongo Cam
+2828 Box64
+162121 Box86
+15933 Boxy SVG
+10096 Browsh
+226 btop++
+112 Caprine
+1007 Chiaki
+91149 Chromium Widevine
+37841 Clam Antivirus
+2086 CloudBuddy
+326 Codex
+25942 Color Emoji font
+112299 CommanderPi
+93161 Conky
+2506 Conky Rings
+25817 Cool Retro Term
+29474 Cura
+6908 Descent 1
+6495 Descent 2
+140 Deskreen
+141538 Discord
+69894 Doom 3
+9469 Downgrade Chromium
+1529 Drawing
+7761 Eagle CAD
+37548 eDEX-UI
+9815 Email Checker
+309 Falkon
+124 FF Multi Converter
+148 Filezilla
+8387 Firefox Rapid Release
+12925 Flameshot
+26830 FreeCAD
+31372 FreeTube
+7231 Geany Dark Mode
+671 Geekbench
+170 GIMP
+11299 Github-CLI
+1463 Godot
+11009 Heroes 2
+1053 Https File Server
+364 Imager
+24 Inkscape
+10280 Intellij IDEA
+3220 jGRASP IDE
+12 KeePassX
+81 Kolourpaint
+2074 Lego Digital Designer
+157 LibreOffice
+12928 Libreoffice MS theme
+13913 LibrePCB
+16920 Lightpad
+154 LinuxCNC
+4954 Lokinet
+25012 Mac OS Theme
+925 Microsoft Teams
+403 Min
+101576 Minecraft Bedrock
+210609 Minecraft Java
+2094 Minecraft Java MultiMC5
+108544 Minecraft Pi (Modded)
+4784 Mission Planner
+56 MuseScore
+82 Nautilus
+13116 Node.js
+22846 Notepad ++
+41561 OBS Studio
+179 Oomox Theme Designer
+3123 OpenSCAD
+220 Pale Moon
+68 Persepolis Download Manager
+1013 Pi-Apps Terminal Plugin (bash)
+1068 Pi-Apps Terminal Plugin (python)
+45644 PiGro
+82509 piKiss
+95143 Pi Power Tools
+1447 PiSafe
+13143 Powerline-Shell
+24008 PPSSPP (PSP emulator)
+2230 Processing IDE
+9207 PrusaSlicer
+1155 Puffin
+28500 Pycharm CE
+19089 QEMU
+153 Quartz
+8374 Raspi2png
+4234 Remarkable
+5054 Scratch 2
+39 Scratch 3
+25935 Scrcpy
+106 Screenshot
+45 Shotwell
+11324 Snapdrop
+72770 Snap Store
+2032 Sonic Pi
+48406 SpeedTest-CLI
+2774 StackEdit
+89084 Steam
+18653 Stunt Rally
+17645 Sublime Text
+136 Synaptic
+458 Sysmon
+4272 TeamViewer Host
+1311 Telegram
+4 template
+169 Temps
+20006 Timeshift
+8213 tldr
+2059 Tor
+728 Turbowarp
+22030 Ulauncher
+55185 Update Buddy
+32611 USBImager
+7829 VeraCrypt
+68392 Visual Studio Code
+13661 Vivaldi
+8041 VSCodium
+7630 WACUP (new WinAmp)
+13129 Web Apps
+1722 Wechat
+1429 WhatsApp
+67002 Windows 10 Theme
+6817 Windows Flasher
+1699 Windows Screensavers
+127565 Wine (x86)
+3094 WPS Office
+350 XSnow
+366 Xtreme Download Manager
+52059 YouTubuddy
+117493 Zoom
+662 Zoom PWA
