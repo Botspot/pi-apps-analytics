@@ -1,139 +1,140 @@
-127524 Wine (x86)
-117468 Zoom
-95130 Pi Power Tools
-89062 Steam
-82494 piKiss
-72732 Snap Store
-68401 Visual Studio Code
-67018 Windows 10 Theme
-55184 Update Buddy
-52053 YouTubuddy
+210682 Minecraft Java
+141518 Discord
+127533 Wine (x86)
+117472 Zoom
+112245 CommanderPi
+108548 Minecraft Pi (Modded)
+101591 Minecraft Bedrock
+95133 Pi Power Tools
+93144 Conky
+91121 Chromium Widevine
+89064 Steam
+82499 piKiss
+72738 Snap Store
+69891 Doom 3
+68403 Visual Studio Code
+67023 Windows 10 Theme
+55188 Update Buddy
+52056 YouTubuddy
 48394 SpeedTest-CLI
-45631 PiGro
-41566 OBS Studio
-32607 USBImager
-28491 Pycharm CE
-25927 Scrcpy
-23997 PPSSPP (PSP emulator)
-22826 Notepad ++
+45632 PiGro
+41575 OBS Studio
+37850 Clam Antivirus
+37543 eDEX-UI
+32609 USBImager
+31354 FreeTube
+29478 Cura
+28493 Pycharm CE
+26836 FreeCAD
+25945 Color Emoji font
+25929 Scrcpy
+25818 Cool Retro Term
+25015 Mac OS Theme
+23998 PPSSPP (PSP emulator)
+22827 Notepad ++
 22025 Ulauncher
-20001 Timeshift
-19080 QEMU
-18662 Stunt Rally
+20002 Timeshift
+19082 QEMU
+18666 Stunt Rally
 17645 Sublime Text
-13656 Vivaldi
-13138 Powerline-Shell
+16920 Lightpad
+13920 LibrePCB
+13658 Vivaldi
+13139 Powerline-Shell
 13121 Node.js
-13117 Web Apps
-11325 Snapdrop
+13118 Web Apps
+12928 Libreoffice MS theme
+12926 Flameshot
+11326 Snapdrop
+11307 Github-CLI
+11002 Heroes 2
+10280 Intellij IDEA
+9812 Email Checker
+9461 Downgrade Chromium
 9200 PrusaSlicer
 8380 Raspi2png
-8218 tldr
+8376 Firefox Rapid Release
+8219 tldr
 8043 VSCodium
 7829 VeraCrypt
+7762 Eagle CAD
 7630 WACUP (new WinAmp)
-6800 Windows Flasher
+7232 Geany Dark Mode
+6905 Descent 1
+6806 Windows Flasher
+6499 Descent 2
 5046 Scratch 2
+4955 Lokinet
 4783 Mission Planner
-4265 TeamViewer Host
+4266 TeamViewer Host
 4233 Remarkable
+3218 jGRASP IDE
 3121 OpenSCAD
 3091 WPS Office
 2773 StackEdit
+2498 Conky Rings
 2229 Processing IDE
-2038 Tor
-2030 Sonic Pi
+2116 Minecraft Java MultiMC5
+2090 Lego Digital Designer
+2085 CloudBuddy
+2042 Tor
+2031 Sonic Pi
 1726 Wechat
-1706 Windows Screensavers
-1446 PiSafe
-1426 WhatsApp
-1320 Telegram
-1177 Puffin
-1064 Pi-Apps Terminal Plugin (python)
-1013 Pi-Apps Terminal Plugin (bash)
-726 Turbowarp
-665 Zoom PWA
-457 Sysmon
-392 Xtreme Download Manager
-351 XSnow
+1707 Windows Screensavers
+1531 Drawing
+1468 Godot
+1447 PiSafe
+1428 WhatsApp
+1323 Telegram
+1179 Puffin
+1065 Pi-Apps Terminal Plugin (python)
+1056 Https File Server
+1016 Chiaki
+1014 Pi-Apps Terminal Plugin (bash)
+918 Microsoft Teams
+727 Turbowarp
+670 Geekbench
+666 Zoom PWA
+458 Sysmon
+422 Imager
+399 Min
+396 Xtreme Download Manager
+353 XSnow
+323 Codex
+310 Falkon
 219 Pale Moon
+206 GIMP
 192 Oomox Theme Designer
+189 LibreOffice
+177 Filezilla
 165 Temps
-159 Synaptic
+160 Synaptic
+159 LinuxCNC
 150 Quartz
-120 Screenshot
-94 Nautilus
+147 Deskreen
+133 FF Multi Converter
+121 Screenshot
+95 Nautilus
+94 Kolourpaint
 73 Persepolis Download Manager
 68 MuseScore
+55 Kodi
 50 Shotwell
-45 Scratch 3
-21 SysMonTask
+46 Scratch 3
+39 Inkscape
+33 GParted
+29 Disk Usage Analyzer
+28 KeePassX
+27 Deluge
+25 SysMonTask
+22 Chromium
+20 Transmission
 20 Steam Link
-19 Transmission
+12 Pinta
+12 Guake Terminal
 11 Thunderbird
-11 Pinta
 11 NixNote2
 4 template
-0 Minecraft Java MultiMC5
-0 Minecraft Java
-0 Minecraft Bedrock
-0 Min
-0 Microsoft Teams
-0 Mac OS Theme
-0 Lokinet
-0 LinuxCNC
-0 Lightpad
-0 LibrePCB
-0 Libreoffice MS theme
-0 LibreOffice
-0 Lego Digital Designer
-0 Kolourpaint
-0 Kodi
-0 KeePassX
-0 jGRASP IDE
-0 Intellij IDEA
-0 Inkscape
-0 Imager
-0 Https File Server
-0 Heroes 2
-0 Guake Terminal
-0 GParted
-0 Godot
-0 Github-CLI
-0 GIMP
-0 Geekbench
-0 Geany Dark Mode
-0 FreeTube
-0 FreeCAD
-0 Flameshot
-0 Firefox Rapid Release
-0 Filezilla
-0 FF Multi Converter
-0 Falkon
-0 Email Checker
-0 eDEX-UI
-0 Eagle CAD
-0 Drawing
-0 Downgrade Chromium
-0 Doom 3
-0 Disk Usage Analyzer
-0 Discord
-0 Deskreen
-0 Descent 2
-0 Descent 1
-0 Deluge
-0 Cura
-0 Cool Retro Term
-0 Conky Rings
-0 Conky
-0 CommanderPi
-0 Color Emoji font
-0 Codex
-0 CloudBuddy
-0 Clam Antivirus
-0 Chromium Widevine
-0 Chromium
-0 Chiaki
 0 Caprine
 0 btop++
 0 Browsh
@@ -158,4 +159,3 @@
 0 All Is Well
 0 Alacritty Terminal
 
--73433 Minecraft Pi (Modded)

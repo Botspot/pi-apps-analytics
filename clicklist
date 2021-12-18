@@ -21,140 +21,140 @@
 0 Browsh
 0 btop++
 0 Caprine
-0 Chiaki
-0 Chromium
-0 Chromium Widevine
-0 Clam Antivirus
-0 CloudBuddy
-0 Codex
-0 Color Emoji font
-0 CommanderPi
-0 Conky
-0 Conky Rings
-0 Cool Retro Term
-0 Cura
-0 Deluge
-0 Descent 1
-0 Descent 2
-0 Deskreen
-0 Discord
-0 Disk Usage Analyzer
-0 Doom 3
-0 Downgrade Chromium
-0 Drawing
-0 Eagle CAD
-0 eDEX-UI
-0 Email Checker
-0 Falkon
-0 FF Multi Converter
-0 Filezilla
-0 Firefox Rapid Release
-0 Flameshot
-0 FreeCAD
-0 FreeTube
-0 Geany Dark Mode
-0 Geekbench
-0 GIMP
-0 Github-CLI
-0 Godot
-0 GParted
-0 Guake Terminal
-0 Heroes 2
-0 Https File Server
-0 Imager
-0 Inkscape
-0 Intellij IDEA
-0 jGRASP IDE
-0 KeePassX
-0 Kodi
-0 Kolourpaint
-0 Lego Digital Designer
-0 LibreOffice
-0 Libreoffice MS theme
-0 LibrePCB
-0 Lightpad
-0 LinuxCNC
-0 Lokinet
-0 Mac OS Theme
-0 Microsoft Teams
-0 Min
-0 Minecraft Bedrock
-0 Minecraft Java
-0 Minecraft Java MultiMC5
--73433 Minecraft Pi (Modded)
+1016 Chiaki
+22 Chromium
+91121 Chromium Widevine
+37850 Clam Antivirus
+2085 CloudBuddy
+323 Codex
+25945 Color Emoji font
+112245 CommanderPi
+93144 Conky
+2498 Conky Rings
+25818 Cool Retro Term
+29478 Cura
+27 Deluge
+6905 Descent 1
+6499 Descent 2
+147 Deskreen
+141518 Discord
+29 Disk Usage Analyzer
+69891 Doom 3
+9461 Downgrade Chromium
+1531 Drawing
+7762 Eagle CAD
+37543 eDEX-UI
+9812 Email Checker
+310 Falkon
+133 FF Multi Converter
+177 Filezilla
+8376 Firefox Rapid Release
+12926 Flameshot
+26836 FreeCAD
+31354 FreeTube
+7232 Geany Dark Mode
+670 Geekbench
+206 GIMP
+11307 Github-CLI
+1468 Godot
+33 GParted
+12 Guake Terminal
+11002 Heroes 2
+1056 Https File Server
+422 Imager
+39 Inkscape
+10280 Intellij IDEA
+3218 jGRASP IDE
+28 KeePassX
+55 Kodi
+94 Kolourpaint
+2090 Lego Digital Designer
+189 LibreOffice
+12928 Libreoffice MS theme
+13920 LibrePCB
+16920 Lightpad
+159 LinuxCNC
+4955 Lokinet
+25015 Mac OS Theme
+918 Microsoft Teams
+399 Min
+101591 Minecraft Bedrock
+210682 Minecraft Java
+2116 Minecraft Java MultiMC5
+108548 Minecraft Pi (Modded)
 4783 Mission Planner
 68 MuseScore
-94 Nautilus
+95 Nautilus
 11 NixNote2
 13121 Node.js
-22826 Notepad ++
-41566 OBS Studio
+22827 Notepad ++
+41575 OBS Studio
 192 Oomox Theme Designer
 3121 OpenSCAD
 219 Pale Moon
 73 Persepolis Download Manager
-1013 Pi-Apps Terminal Plugin (bash)
-1064 Pi-Apps Terminal Plugin (python)
-45631 PiGro
-82494 piKiss
-11 Pinta
-95130 Pi Power Tools
-1446 PiSafe
-13138 Powerline-Shell
-23997 PPSSPP (PSP emulator)
+1014 Pi-Apps Terminal Plugin (bash)
+1065 Pi-Apps Terminal Plugin (python)
+45632 PiGro
+82499 piKiss
+12 Pinta
+95133 Pi Power Tools
+1447 PiSafe
+13139 Powerline-Shell
+23998 PPSSPP (PSP emulator)
 2229 Processing IDE
 9200 PrusaSlicer
-1177 Puffin
-28491 Pycharm CE
-19080 QEMU
+1179 Puffin
+28493 Pycharm CE
+19082 QEMU
 150 Quartz
 8380 Raspi2png
 4233 Remarkable
 5046 Scratch 2
-45 Scratch 3
-25927 Scrcpy
-120 Screenshot
+46 Scratch 3
+25929 Scrcpy
+121 Screenshot
 50 Shotwell
-11325 Snapdrop
-72732 Snap Store
-2030 Sonic Pi
+11326 Snapdrop
+72738 Snap Store
+2031 Sonic Pi
 48394 SpeedTest-CLI
 2773 StackEdit
-89062 Steam
+89064 Steam
 20 Steam Link
-18662 Stunt Rally
+18666 Stunt Rally
 17645 Sublime Text
-159 Synaptic
-457 Sysmon
-21 SysMonTask
-4265 TeamViewer Host
-1320 Telegram
+160 Synaptic
+458 Sysmon
+25 SysMonTask
+4266 TeamViewer Host
+1323 Telegram
 4 template
 165 Temps
 11 Thunderbird
-20001 Timeshift
-8218 tldr
-2038 Tor
-19 Transmission
-726 Turbowarp
+20002 Timeshift
+8219 tldr
+2042 Tor
+20 Transmission
+727 Turbowarp
 22025 Ulauncher
-55184 Update Buddy
-32607 USBImager
+55188 Update Buddy
+32609 USBImager
 7829 VeraCrypt
-68401 Visual Studio Code
-13656 Vivaldi
+68403 Visual Studio Code
+13658 Vivaldi
 8043 VSCodium
 7630 WACUP (new WinAmp)
-13117 Web Apps
+13118 Web Apps
 1726 Wechat
-1426 WhatsApp
-67018 Windows 10 Theme
-6800 Windows Flasher
-1706 Windows Screensavers
-127524 Wine (x86)
+1428 WhatsApp
+67023 Windows 10 Theme
+6806 Windows Flasher
+1707 Windows Screensavers
+127533 Wine (x86)
 3091 WPS Office
-351 XSnow
-392 Xtreme Download Manager
-52053 YouTubuddy
-117468 Zoom
-665 Zoom PWA
+353 XSnow
+396 Xtreme Download Manager
+52056 YouTubuddy
+117472 Zoom
+666 Zoom PWA
