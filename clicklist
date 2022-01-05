@@ -1,150 +1,151 @@
-203 Alacritty Terminal
-71707 All Is Well
-361 Amiberry
-27915 AndroidBuddy
-37324 Angry IP scanner
-231 AntiMicroX
-16876 AnyDesk
-56306 Arduino
-1718 AstroMenace
-144 Audacious
-294 Audacity
-2467 Autostar
-87347 BalenaEtcher
-662 BleachBit
-142 BlockBench
-1983 BlockPi
-7795 Bongo Cam
-2845 Box64
-162286 Box86
-15941 Boxy SVG
-10103 Browsh
-209 btop++
-173 Caprine
-1029 Chiaki
-193 Chromium
-91102 Chromium Widevine
-37838 Clam Antivirus
-2043 CloudBuddy
-306 Codex
+196 Alacritty Terminal
+71694 All Is Well
+355 Amiberry
+27912 AndroidBuddy
+37305 Angry IP scanner
+216 AntiMicroX
+16868 AnyDesk
+56277 Arduino
+1717 AstroMenace
+151 Audacious
+321 Audacity
+2464 Autostar
+87339 BalenaEtcher
+650 BleachBit
+137 BlockBench
+1968 BlockPi
+7791 Bongo Cam
+2839 Box64
+162315 Box86
+15929 Boxy SVG
+10099 Browsh
+212 btop++
+159 Caprine
+1031 Chiaki
+208 Chromium
+91092 Chromium Widevine
+37834 Clam Antivirus
+2031 CloudBuddy
+303 Codex
 25959 Color Emoji font
-112204 CommanderPi
-93042 Conky
+112178 CommanderPi
+93034 Conky
 2472 Conky Rings
-25821 Cool Retro Term
-29485 Cura
-144 Deluge
-6922 Descent 1
-6534 Descent 2
-141 Deskreen
-141744 Discord
-221 Disk Usage Analyzer
-70106 Doom 3
-9477 Downgrade Chromium
-1528 Drawing
-7770 Eagle CAD
-37569 eDEX-UI
-9818 Email Checker
-303 Falkon
-139 FF Multi Converter
-322 Filezilla
-8298 Firefox Rapid Release
-12896 Flameshot
-26810 FreeCAD
-31272 FreeTube
-7226 Geany Dark Mode
-665 Geekbench
-402 GIMP
-11305 Github-CLI
-1511 Godot
-360 GParted
-73 Guake Terminal
-10991 Heroes 2
-1046 Https File Server
-826 Imager
-141 Inkscape
-10284 Intellij IDEA
-3207 jGRASP IDE
-86 KeePassX
-382 Kodi
-150 Kolourpaint
+25814 Cool Retro Term
+29484 Cura
+151 Deluge
+6923 Descent 1
+6538 Descent 2
+140 Deskreen
+141728 Discord
+242 Disk Usage Analyzer
+70096 Doom 3
+9454 Downgrade Chromium
+1519 Drawing
+7768 Eagle CAD
+37567 eDEX-UI
+9819 Email Checker
+289 Falkon
+138 FF Multi Converter
+304 Filezilla
+8271 Firefox Rapid Release
+12891 Flameshot
+26819 FreeCAD
+31263 FreeTube
+7235 Geany Dark Mode
+670 Geekbench
+395 GIMP
+11291 Github-CLI
+1509 Godot
+395 GParted
+80 Guake Terminal
+10994 Heroes 2
+1042 Https File Server
+831 Imager
+154 Inkscape
+10280 Intellij IDEA
+3206 jGRASP IDE
+94 KeePassX
+406 Kodi
+138 Kolourpaint
 2155 Lego Digital Designer
-347 LibreOffice
-12894 Libreoffice MS theme
+353 LibreOffice
+12883 Libreoffice MS theme
 13912 LibrePCB
-16775 Lightpad
-150 LinuxCNC
-4947 Lokinet
-25075 Mac OS Theme
-884 Microsoft Teams
-395 Min
-101771 Minecraft Bedrock
-211408 Minecraft Java
-2324 Minecraft Java MultiMC5
-117621 Minecraft Pi (Modded)
-4783 Mission Planner
-111 MuseScore
-148 Nautilus
-50 NixNote2
-13104 Node.js
-22812 Notepad ++
-41580 OBS Studio
-188 Oomox Theme Designer
-3127 OpenSCAD
-226 Pale Moon
-61 Persepolis Download Manager
+16758 Lightpad
+147 LinuxCNC
+4943 Lokinet
+25065 Mac OS Theme
+874 Microsoft Teams
+394 Min
+101761 Minecraft Bedrock
+211393 Minecraft Java
+2294 Minecraft Java MultiMC5
+117610 Minecraft Pi (Modded)
+4785 Mission Planner
+110 MuseScore
+137 Nautilus
+51 NixNote2
+13107 Node.js
+22795 Notepad ++
+41599 OBS Studio
+184 Oomox Theme Designer
+3128 OpenSCAD
+222 Pale Moon
+56 Persepolis Download Manager
 982 Pi-Apps Terminal Plugin (bash)
-1043 Pi-Apps Terminal Plugin (python)
-45629 PiGro
-82480 piKiss
-83 Pinta
-95121 Pi Power Tools
-1450 PiSafe
-13117 Powerline-Shell
-24063 PPSSPP (PSP emulator)
-2238 Processing IDE
-9200 PrusaSlicer
-1010 Puffin
-28512 Pycharm CE
-19121 QEMU
-144 Quartz
-8373 Raspi2png
-4231 Remarkable
-5044 Scratch 2
-134 Scratch 3
-25929 Scrcpy
-220 Screenshot
-90 Shotwell
-11318 Snapdrop
-72682 Snap Store
-2026 Sonic Pi
-48353 SpeedTest-CLI
-2779 StackEdit
-89204 Steam
-231 Steam Link
-18697 Stunt Rally
-17646 Sublime Text
-274 Synaptic
-449 Sysmon
-132 SysMonTask
-4258 TeamViewer Host
-1263 Telegram
+1042 Pi-Apps Terminal Plugin (python)
+45632 PiGro
+82470 piKiss
+86 Pinta
+95114 Pi Power Tools
+1447 PiSafe
+13111 Powerline-Shell
+24069 PPSSPP (PSP emulator)
+2236 Processing IDE
+9199 PrusaSlicer
+954 Puffin
+28509 Pycharm CE
+19117 QEMU
+141 Quartz
+8370 Raspi2png
+4223 Remarkable
+5035 Scratch 2
+141 Scratch 3
+25928 Scrcpy
+215 Screenshot
+84 Shotwell
+11 SimpleScreenRecorder
+11310 Snapdrop
+72661 Snap Store
+2028 Sonic Pi
+48349 SpeedTest-CLI
+2781 StackEdit
+89207 Steam
+256 Steam Link
+18696 Stunt Rally
+17644 Sublime Text
+269 Synaptic
+442 Sysmon
+149 SysMonTask
+4250 TeamViewer Host
+1261 Telegram
 4 template
 160 Temps
-130 Thunderbird
-19992 Timeshift
-8219 tldr
-2290 Tor
-156 Transmission
+140 Thunderbird
+19983 Timeshift
+8218 tldr
+2294 Tor
+175 Transmission
 723 Turbowarp
-22049 Ulauncher
-163 Unciv
-55163 Update Buddy
-32617 USBImager
-7807 VeraCrypt
-68462 Visual Studio Code
-13578 Vivaldi
-8035 VSCodium
+22035 Ulauncher
+173 Unciv
+55162 Update Buddy
+32615 USBImager
+7797 VeraCrypt
+68453 Visual Studio Code
+13555 Vivaldi
+0 VSCodium
 0 WACUP (new WinAmp)
 0 Web Apps
 0 Wechat
