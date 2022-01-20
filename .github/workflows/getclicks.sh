@@ -21,7 +21,7 @@ get_clicks() {
     url="https://api-ssl.bitly.com/v4/bitlinks/bit.ly/${1}/clicks/summary?unit=day&units=1&size=0&unit_reference=${2}T00:00:00-0000"
     
     #get the data
-    output="$(curl -sH 'Authorization: Bearer ${{ secrets.BITLY_KEY }}' -X GET "$url")"
+    output="$(curl -sH "Authorization: Bearer ${{ secrets.BITLY_KEY }}" -X GET "$url")"
     
     #exit if curl failed
     if [ $? != 0 ];then
