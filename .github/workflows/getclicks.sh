@@ -8,7 +8,9 @@ function error {
 #get days since pi-apps epoch
 daysince="$((($(date +%s)-$(date +%s --date "9/22/2020"))/(3600*24)))"
 
-applist="$(/tmp/pi-apps/api list_apps online)"
+applist="$(ls /tmp/pi-apps/apps | grep .)"
+#debug output applist
+echo "$applist"
 
 rm -f "$GITHUB_WORKSPACE/clicklist"
 
