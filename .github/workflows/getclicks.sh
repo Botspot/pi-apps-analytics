@@ -10,7 +10,7 @@ daysince="$((($(date +%s)-$(date +%s --date "9/22/2020"))/(3600*24)))"
 
 applist="$(/tmp/pi-apps/api list_apps online)"
 
-rm -f "$(dirname "$0")/clicklist"
+rm -f "$GITHUB_WORKSPACE/clicklist"
 
 get_clicks() {
   
@@ -56,11 +56,11 @@ for app in $applist ;do
   #example value of link variable: 'VisualStudioCode'
   
   #if the link is mentioned in linklist
-  if cat "$(dirname "$0")/linklist" | grep -q "pi-apps-uninstall-$name"'$' ;then
+  if cat "$GITHUB_WORKSPACE/.github/workflows/linklist" | grep -q "pi-apps-uninstall-$name"'$' ;then
     #app was found in linklist
     
     #for every day since pi-apps epoch, a file is placed in this folder:
-    folder="$(dirname "$0")/daily clicks/${app}"
+    folder="$GITHUB_WORKSPACE/daily clicks/${app}"
     mkdir -p "$folder/install"
     mkdir -p "$folder/uninstall"
     
@@ -122,7 +122,7 @@ for app in $applist ;do
       daysadd=$((daysadd+1))
     done
     
-    echo "$((install_clicks - uninstall_clicks)) $app" >> "$(dirname "$0")/clicklist"
+    echo "$((install_clicks - uninstall_clicks)) $app" >> "$GITHUB_WORKSPACE/clicklist"
     
     echo "$app done. $install_clicks installs, $uninstall_clicks uninstalls"
     echo
@@ -134,4 +134,4 @@ done
 
 #write results to file
 #sort the results by number of clicks
-cat "$(dirname "$0")/clicklist" | sort -rn > "$(dirname "$0")/clicklist_sorted"
+cat "$GITHUB_WORKSPACE/clicklist" | sort -rn > "$GITHUB_WORKSPACE/clicklist_sorted"

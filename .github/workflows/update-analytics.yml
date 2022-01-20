@@ -18,6 +18,7 @@ jobs:
 
           git clone --depth 1 https://github.com/Botspot/pi-apps.git /tmp/pi-apps
           cd $GITHUB_WORKSPACE
+          export $GITHUB_WORKSPACE
           chmod +x .github/workflows/getclicks.sh
 
           # run get clicks
