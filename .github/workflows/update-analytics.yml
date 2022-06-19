@@ -41,11 +41,17 @@ jobs:
           message: |
             Update App Clicklist, run by GitHub Actions
 
-      - name: Upload
-        uses: ncipollo/release-action@v1
+#      - name: Upload
+#        uses: ncipollo/release-action@v1
+#        with:
+#          allowUpdates: true
+#          artifacts: "/tmp/graphs/*"
+#          body: "Net-Install-Graphs"
+#          name: net-install-graphs
+#          tag: net-install-graphs
+      - name: Release
+        uses: softprops/action-gh-release@v1
         with:
-          allowUpdates: true
-          artifacts: "/tmp/graphs/*"
+          files: /tmp/graphs/*
+          tag_name: net-install-graphs
           body: "Net-Install-Graphs"
-          name: net-install-graphs
-          tag: net-install-graphs
