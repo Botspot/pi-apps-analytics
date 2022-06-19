@@ -159,8 +159,8 @@ while [ $daysadd -lt $((daysince-1)) ];do #repeat until days offset is greater t
   daysadd=$((daysadd+1))
 done
 paste -d ' ' $GITHUB_WORKSPACE/datelist $GITHUB_WORKSPACE/net-installs-total > $GITHUB_WORKSPACE/net-installs-total-data
-gnuplot -e "set terminal png size 1000,300; set output '$GITHUB_WORKSPACE/net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set xrange ['2020-09-22':'$date']; set autoscale y; set title 'Total Pi-Apps Net-Installs'; set xlabel 'Date'; set ylabel 'Net Installs'; plot '$GITHUB_WORKSPACE/net-installs-total-data' using 1:2 title ''"
-
+gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set xrange ['2020-09-22':'$date']; set autoscale y; set title 'Total Pi-Apps Net-Installs'; set xlabel 'Date'; set ylabel 'Net Installs'; plot '$GITHUB_WORKSPACE/net-installs-total-data' using 1:2 title ''"
+echo '![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"net-installs-graph.png)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
 
 rm -f $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-data
 rm -f $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-numbers
