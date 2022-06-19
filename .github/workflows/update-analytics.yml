@@ -1,0 +1,51 @@
+name: Update Analytics
+# Controls when the workflow will run
+on:
+  # run at 21:00 UTC every day
+  schedule:
+     - cron: '0 21 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  update-analytics-numbers:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      # Runs a set of commands using the runners shell
+      - name: Run app update scripts
+        env:
+          BITLY_KEY: ${{ secrets.BITLY_KEY }}
+        run: |
+          sudo apt update
+          sudo apt install gnuplot jq -y
+          git clone --depth 1 https://github.com/Botspot/pi-apps.git /tmp/pi-apps
+          cd $GITHUB_WORKSPACE
+          export GITHUB_WORKSPACE
+          chmod +x .github/workflows/getclicks.sh
+
+          # run get clicks
+          .github/workflows/getclicks.sh
+
+      - name: Push changes to repo
+        uses: EndBug/add-and-commit@v7 # You can change this to use a specific version.
+        with:
+
+          default_author: github_actions
+
+          # The message for the commit.
+          # Default: 'Commit from GitHub Actions (name of the workflow)'
+          message: |
+            Update App Clicklist, run by GitHub Actions
+
+      - name: Upload
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          artifacts: "/tmp/graphs/*"
+          body: "Net-Install-Graphs"
+          name: net-install-graphs
+          tag: net-install-graphs
