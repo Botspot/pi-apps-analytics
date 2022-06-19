@@ -132,7 +132,7 @@ for app in $applist ;do
       daysadd=$((daysadd+1))
     done
     # save net clicks to plot
-    app_simple=$(echo "$app" | sed -r "s/['\" ]+/-/g")
+    app_simple=$(echo "$app" | sed -r "s/['\" ]+/-/g" | sed -r "s/[()]+//g")
     app_no_quote=$(echo "$app" | sed -r "s/['\"]+/-/g")
     cd "$folder" && gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/$app_simple-net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set xrange ['2020-09-22':'$date']; set autoscale y; set title '$app_no_quote'; set xlabel 'Date'; set ylabel 'Net Installs'; plot 'net-installs-data' using 1:2 title 'Net Installs', '' using 1:3 title 'Minimum Updates'"
     echo '![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"$app_simple-net-installs-graph.png)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
