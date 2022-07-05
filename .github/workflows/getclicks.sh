@@ -11,7 +11,7 @@ daysince="$((($(date +%s)-$(date +%s --date "9/22/2020"))/(3600*24)))"
 applist="$(ls /tmp/pi-apps/apps | grep .)"
 # temporarily add apps back to applist that have been removed
 # add Minecraft Java once it has been renamed to Minecraft Java Lunar
-applist="$(echo -e "$applist\nTeamViewer Host")"
+applist="$(echo -e "$applist\nTeamViewer Host\nMinecraft Java")"
 #debug output applist
 echo "$applist"
 
