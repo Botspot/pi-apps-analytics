@@ -25,6 +25,7 @@
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Browsh-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Caprine-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cawbird-net-installs-graph.png)
+![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Celeste-Classic-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chiaki-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chromium-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chromium-Widevine-net-installs-graph.png)
