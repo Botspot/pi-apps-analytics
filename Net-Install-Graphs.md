@@ -192,6 +192,7 @@
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-Screensavers-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wine-x86-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WorldPainter-net-installs-graph.png)
+![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/XMRig-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/XSnow-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Xfburn-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Xtreme-Download-Manager-net-installs-graph.png)
