@@ -58,6 +58,7 @@
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Filezilla-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Firefox-Rapid-Release-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Flameshot-net-installs-graph.png)
+![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Flow-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FreeTube-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Friday-Night-Funkin-Rewritten-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Fritzing-net-installs-graph.png)
