@@ -102,7 +102,7 @@ for app in $applist ;do
       # echo -n "$app $date "
       
       if [ ! -f "$folder/install/$date" ];then #only check bitly api if file nonexistant
-        output="$(get_clicks "pi-apps-install-$name" "$date" "$date_end)"
+        output="$(get_clicks "pi-apps-install-$name" "$date" "$date_end")"
         if [ $? == 0 ];then
           today_install_clicks="$(sed -n 1p <<<"$output")"
           limited="$(sed -n 2p <<<"$output")"
