@@ -36,14 +36,6 @@ get_clicks() {
     
     #determine number of clicks
     clickstoday="$(echo "$output" | tr ',' '\n' | grep total_clicks | awk -F: '{print $2}')"
-    
-    if [ -z "$clickstoday" ];then
-      echo -e "\e[91mClicks not found for $name\nURL: $url\nOutput: $output\e[39m\nWaiting 20 mins..." 1>&2
-      sleep 20m
-    else
-      #clicks acquired.
-      break #exit the loop
-    fi
 
     # get clicks for 1 day range from pi-apps shlink server
     clickstoday_shlink="$(curl -s -X 'GET' "$url_shlink" -H 'accept: application/json' -H "X-Api-Key: $SHLINK_KEY" | jq -r 'first( .visits | .pagination | .totalItems )')"
@@ -57,6 +49,14 @@ get_clicks() {
     # for testing, pi-apps-(un)install-Snapdrop pi-apps-(un)install-StackEdit and pi-apps-(un)install-template have been created at shlink
     if [ "$clickstoday_shlink" == "null" ]; then
       clickstoday_shlink=0
+    fi  
+    
+    if [ -z "$clickstoday" ];then
+      echo -e "\e[91mClicks not found for $name\nURL: $url\nOutput: $output\e[39m\nWaiting 20 mins..." 1>&2
+      sleep 20m
+    else
+      #clicks acquired.
+      break #exit the loop
     fi
   done
   #echo "$url"
