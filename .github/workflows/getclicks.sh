@@ -23,6 +23,7 @@ get_clicks() {
   while true;do
     #create bitly api url
     url="https://api-ssl.bitly.com/v4/bitlinks/bit.ly/${1}/clicks/summary?unit=day&units=1&size=0&unit_reference=${2}T00:00:00-0000"
+    url_shlink="https://analytics.pi-apps.io/rest/v2/short-urls/${1}/visits?startDate=${2}T00%3A00%3A00&endDate=${3}T00%3A00%3A00"
     
     #get the data
     output="$(curl -sH "Authorization: Bearer $BITLY_KEY" -X GET "$url")"
@@ -43,9 +44,26 @@ get_clicks() {
       #clicks acquired.
       break #exit the loop
     fi
+
+    # get clicks for 1 day range from pi-apps shlink server
+    clickstoday_shlink="$(curl -s -X 'GET' "$url_shlink" -H 'accept: application/json' -H "X-Api-Key: $SHLINK_KEY" | jq -r 'first( .visits | .pagination | .totalItems )')"
+
+    # for debuggging/testing print clickstoday_shlink to stderr (should not affect calculations)
+    # remove once testing has been completed
+    echo "$clickstoday_shlink" >/dev/stderr    
+
+    # null output can only mean that the URL does not exist and is not a valid endpoint
+    # untill all URLs are added, set this as a 0 output
+    # for testing, pi-apps-(un)install-Snapdrop pi-apps-(un)install-StackEdit and pi-apps-(un)install-template have been created at shlink
+    if [ "$clickstoday_shlink" == "null" ]; then
+      clickstoday_shlink=0
+    fi
   done
   #echo "$url"
-  echo "$clickstoday"
+
+  # combined shlink and bitly install/uninstall daily numbers (used for transition period and eventually bitly will be removed)
+  total_clickstoday=$(($clickstoday + $clickstoday_shlink))
+  echo "$total_clickstoday"
   #echo "$output"
   
   #on second line, return if bitly can't return daily metrics anymore
@@ -80,10 +98,11 @@ for app in $applist ;do
       
       #generate date to check for. This adds days to the pi-apps epoch until we reach the present.
       date="$(date --date "9/22/2020+${daysadd} days" '+%C%y-%m-%d')"
+      date_end="$(date --date "9/22/2020+${daysadd} days+1 days" '+%C%y-%m-%d')"
       # echo -n "$app $date "
       
       if [ ! -f "$folder/install/$date" ];then #only check bitly api if file nonexistant
-        output="$(get_clicks "pi-apps-install-$name" "$date")"
+        output="$(get_clicks "pi-apps-install-$name" "$date" "$date_end)"
         if [ $? == 0 ];then
           today_install_clicks="$(sed -n 1p <<<"$output")"
           limited="$(sed -n 2p <<<"$output")"

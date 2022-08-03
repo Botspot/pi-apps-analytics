@@ -19,6 +19,7 @@ jobs:
       - name: Run app update scripts
         env:
           BITLY_KEY: ${{ secrets.BITLY_KEY }}
+          SHLINK_KEY: ${{ secrets.SHLINK_KEY }}
         run: |
           sudo apt update
           sudo apt install gnuplot jq -y
