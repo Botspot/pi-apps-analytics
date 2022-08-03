@@ -50,6 +50,7 @@ jobs:
 #          name: net-install-graphs
 #          tag: net-install-graphs
       - name: Release
+        continue-on-error: true
         uses: softprops/action-gh-release@v1
         with:
           files: /tmp/graphs/*
