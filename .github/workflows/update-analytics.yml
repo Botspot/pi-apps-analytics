@@ -1,9 +1,9 @@
 name: Update Analytics
 # Controls when the workflow will run
 on:
-  # run at 21:00 UTC every day
+  # run at 2:00 UTC every day
   schedule:
-     - cron: '0 21 * * *'
+     - cron: '0 2 * * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
