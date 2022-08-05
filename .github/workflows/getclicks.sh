@@ -64,17 +64,19 @@ get_clicks() {
   done
   #echo "$url"
 
-  # for debug purposes, track the total number of clicks on shlink and bitly
-  # when the number of click on bitly have dropped to a very low ammount, it can be removed from this script
-  total_shlink=$(($total_shlink + $clickstoday_shlink))
-  total_bitly=$(($total_bitly + $clickstoday))
-
   # combined shlink and bitly install/uninstall daily numbers (used for transition period and eventually bitly will be removed)
   total_clickstoday=$(($clickstoday + $clickstoday_shlink))
   echo "$total_clickstoday"
   #echo "$output"
-  
-  #on second line, return if bitly can't return daily metrics anymore
+
+  # for debug purposes, track the total number of clicks on shlink and bitly
+  # when the number of click on bitly have dropped to a very low ammount, it can be removed from this script
+  total_shlink=$(($total_shlink + $clickstoday_shlink))
+  total_bitly=$(($total_bitly + $clickstoday))
+  echo "$total_shlink"
+  echo "$total_bitly"
+
+  #on fourth line, return if bitly can't return daily metrics anymore
   echo "$output" | grep -o limited
   true
 }
@@ -113,7 +115,10 @@ for app in $applist ;do
         output="$(get_clicks "pi-apps-install-$name" "$date" "$date_end")"
         if [ $? == 0 ];then
           today_install_clicks="$(sed -n 1p <<<"$output")"
-          limited="$(sed -n 2p <<<"$output")"
+          total_shlink="$(sed -n 2p <<<"$output")"
+          total_bitly="$(sed -n 3p <<<"$output")"
+          limited="$(sed -n 4p <<<"$output")"
+          total_shlink
           
           #if bitly says "Metrics data limited to after", then $installclicks is a total, not a one-day count
           if [ "$limited" == limited ];then
@@ -132,7 +137,9 @@ for app in $applist ;do
         output="$(get_clicks "pi-apps-uninstall-$name" "$date" "$date_end")"
         if [ $? == 0 ];then
           today_uninstall_clicks="$(sed -n 1p <<<"$output")"
-          limited="$(sed -n 2p <<<"$output")"
+          total_shlink="$(sed -n 2p <<<"$output")"
+          total_bitly="$(sed -n 3p <<<"$output")"
+          limited="$(sed -n 4p <<<"$output")"
           
           #if bitly says "Metrics data limited to after", then $installclicks is a total, not a one-day count
           if [ "$limited" == limited ];then
