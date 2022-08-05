@@ -116,7 +116,8 @@ for app in $applist ;do
       date_end="$(date --date "9/22/2020+${daysadd} days+1 days" '+%C%y-%m-%d')"
       # echo -n "$app $date "
       
-      if [ ! -f "$folder/install/$date" ];then #only check bitly api if file nonexistant
+      if ! cat "$folder/data.csv" | awk -F"," '{print $1}' | grep -q "$date"; then # only check for clicks if date is not in CSV
+        unset output
         output="$(get_clicks "pi-apps-install-$name" "$date" "$date_end")"
         if [ $? == 0 ];then
           today_install_clicks="$(sed -n 1p <<<"$output")"
@@ -128,16 +129,10 @@ for app in $applist ;do
           if [ "$limited" == limited ];then
             today_install_clicks=$((today_install_clicks - install_clicks))
           fi
-          echo $today_install_clicks > "$folder/install/$date"
         else
           exit 1
         fi
-      else
-        today_install_clicks=$(cat "$folder/install/$date")
-      fi
-      
-      
-      if [ ! -f "$folder/uninstall/$date" ];then #only check bitly api if file nonexistant
+        unset output
         output="$(get_clicks "pi-apps-uninstall-$name" "$date" "$date_end")"
         if [ $? == 0 ];then
           today_uninstall_clicks="$(sed -n 1p <<<"$output")"
@@ -149,26 +144,22 @@ for app in $applist ;do
           if [ "$limited" == limited ];then
             today_uninstall_clicks=$((today_uninstall_clicks - uninstall_clicks))
           fi
-          echo $today_uninstall_clicks > "$folder/uninstall/$date"
-          echo "$app $date $today_install_clicks,$today_uninstall_clicks"
         else
           exit 1
         fi
+        echo "$app $date $today_install_clicks,$today_uninstall_clicks"
+        # generate CSV of the data (data, net clicks, install clicks, uninstall clicks)
+        echo "$date,$net_clicks,$today_install_clicks,$today_uninstall_clicks" >> "$folder/data.csv"
       else
-        today_uninstall_clicks=$(cat "$folder/uninstall/$date")
+        today_install_clicks=$(cat "$folder/data.csv" | grep "$date" | awk -F"," '{print $3}')
+        today_uninstall_clicks=$(cat "$folder/data.csv" | grep "$date" | awk -F"," '{print $4}')
       fi
-      
-      # echo -en "$today_install_clicks,$today_uninstall_clicks\e[0K\r"
-      
+
       #keep running click totals
       install_clicks=$((today_install_clicks + install_clicks))
       uninstall_clicks=$((today_uninstall_clicks + uninstall_clicks))
       net_clicks=$((today_install_clicks - today_uninstall_clicks))
-      echo "$date $net_clicks" >> "$folder/net-installs-data"
       echo "$net_clicks" >> "$folder/net-installs-numbers"
-
-      # generate CSV of the data (data, net clicks, install clicks, uninstall clicks)
-      echo "$date,$net_clicks,$today_install_clicks,$today_uninstall_clicks" >> "$folder/data.csv"
       
       #check the next day's clicks
       daysadd=$((daysadd+1))
@@ -176,9 +167,8 @@ for app in $applist ;do
     # save net clicks to plot
     app_simple=$(echo "$app" | sed -r "s/['\" ]+/-/g" | sed -r "s/[()]+//g")
     app_no_quote=$(echo "$app" | sed -r "s/['\"]+/-/g")
-    cd "$folder" && gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/$app_simple-net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set xrange ['2020-09-22':'$date']; set autoscale y; set title '$app_no_quote'; set xlabel 'Date'; set ylabel 'Net Installs'; plot 'net-installs-data' using 1:2 title 'Net Installs'"
+    cd "$folder" && gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/$app_simple-net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set autoscale y; set title '$app_no_quote'; set xlabel 'Date'; set ylabel 'Net Installs'; set datafile separator ','; plot 'data.csv' using 1:2 title 'Net Installs'"
     echo '![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"$app_simple-net-installs-graph.png)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
-    # rm -f "$folder/net-installs-data"
     cd "$GITHUB_WORKSPACE"
 
     echo "$((install_clicks - uninstall_clicks)) $app" >> "$GITHUB_WORKSPACE/clicklist"
@@ -207,7 +197,6 @@ paste -d ' ' $GITHUB_WORKSPACE/datelist $GITHUB_WORKSPACE/net-installs-total > $
 gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set xrange ['2020-09-22':'$date']; set autoscale y; set title 'Total Pi-Apps Net-Installs'; set xlabel 'Date'; set ylabel 'Net Installs'; plot '$GITHUB_WORKSPACE/net-installs-total-data' using 1:2 title ''"
 echo '![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"net-installs-graph.png)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
 
-rm -f $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-data
 rm -f $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-numbers
 rm -f $GITHUB_WORKSPACE/datelist
 rm -f $GITHUB_WORKSPACE/net-installs-total
