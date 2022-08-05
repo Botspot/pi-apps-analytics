@@ -97,6 +97,11 @@ for app in $applist ;do
     folder="$GITHUB_WORKSPACE/daily clicks/${app}"
     mkdir -p "$folder/install"
     mkdir -p "$folder/uninstall"
+
+    if [ ! -f "$folder/data.csv" ]; then
+      # create folder header
+      echo "Date,Net Clicks,Install Clicks,Uninstall Clicks" > "$folder/data.csv"
+    fi
     
     install_clicks=0
     uninstall_clicks=0
@@ -161,6 +166,9 @@ for app in $applist ;do
       net_clicks=$((today_install_clicks - today_uninstall_clicks))
       echo "$date $net_clicks" >> "$folder/net-installs-data"
       echo "$net_clicks" >> "$folder/net-installs-numbers"
+
+      # generate CSV of the data (data, net clicks, install clicks, uninstall clicks)
+      echo "$date,$net_clicks,$today_install_clicks,$today_uninstall_clicks" >> "$folder/data.csv"
       
       #check the next day's clicks
       daysadd=$((daysadd+1))
