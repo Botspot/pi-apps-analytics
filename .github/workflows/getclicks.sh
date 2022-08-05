@@ -42,7 +42,7 @@ get_clicks() {
 
     # for debuggging/testing print clickstoday_shlink to stderr (should not affect calculations)
     # remove once testing has been completed
-    echo "$clickstoday_shlink" >/dev/stderr    
+    echo "$1 (date range: $2 to $3) $clickstoday_shlink" >/dev/stderr    
 
     # null output can only mean that the URL does not exist and is not a valid endpoint
     # untill all URLs are added, set this as a 0 output
@@ -121,7 +121,7 @@ for app in $applist ;do
       
       
       if [ ! -f "$folder/uninstall/$date" ];then #only check bitly api if file nonexistant
-        output="$(get_clicks "pi-apps-uninstall-$name" "$date")"
+        output="$(get_clicks "pi-apps-uninstall-$name" "$date" "$date_end")"
         if [ $? == 0 ];then
           today_uninstall_clicks="$(sed -n 1p <<<"$output")"
           limited="$(sed -n 2p <<<"$output")"
