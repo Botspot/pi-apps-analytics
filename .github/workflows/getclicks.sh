@@ -177,7 +177,7 @@ for app in $applist ;do
     # save net clicks to plot
     app_simple=$(echo "$app" | sed -r "s/['\" ]+/-/g" | sed -r "s/[()]+//g")
     app_no_quote=$(echo "$app" | sed -r "s/['\"]+/-/g")
-    cd "$folder" && gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/$app_simple-net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set autoscale y; set title '$app_no_quote'; set xlabel 'Date'; set ylabel 'Net Installs'; set datafile separator ','; plot 'data.csv' using 1:2 title 'Net Installs'"
+    cd "$folder" && gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/$app_simple-net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set xrange ['2020-09-22':'$date']; set autoscale y; set title '$app_no_quote'; set xlabel 'Date'; set ylabel 'Net Installs'; set datafile separator ','; plot 'data.csv' using 1:2 title 'Net Installs'"
     echo '![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"$app_simple-net-installs-graph.png)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
     cd "$GITHUB_WORKSPACE"
 
@@ -198,10 +198,11 @@ done
 # print debug output for total bitly and shlink clicks
 echo "total_shlink: $total_shlink, total_bitly: $total_bitly"
 
-paste -d+ $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-numbers | bc > $GITHUB_WORKSPACE/net-installs-total
-paste -d ' ' $GITHUB_WORKSPACE/datelist $GITHUB_WORKSPACE/net-installs-total > $GITHUB_WORKSPACE/net-installs-total-data
-gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set xrange ['2020-09-22':'$date']; set autoscale y; set title 'Total Pi-Apps Net-Installs'; set xlabel 'Date'; set ylabel 'Net Installs'; plot '$GITHUB_WORKSPACE/net-installs-total-data' using 1:2 title ''"
-echo '![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"net-installs-graph.png)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
+# FIXME: total numbers can no longer be collected in this way. we need to read from all the CSVs and combine their data and plot the sum
+# paste -d+ $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-numbers | bc > $GITHUB_WORKSPACE/net-installs-total
+# paste -d ' ' $GITHUB_WORKSPACE/datelist $GITHUB_WORKSPACE/net-installs-total > $GITHUB_WORKSPACE/net-installs-total-data
+# gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set xrange ['2020-09-22':'$date']; set autoscale y; set title 'Total Pi-Apps Net-Installs'; set xlabel 'Date'; set ylabel 'Net Installs'; plot '$GITHUB_WORKSPACE/net-installs-total-data' using 1:2 title ''"
+# echo '![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"net-installs-graph.png)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
 
 rm -f $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-numbers
 rm -f $GITHUB_WORKSPACE/datelist
