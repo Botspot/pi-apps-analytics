@@ -94,7 +94,7 @@ for app in $applist ;do
     
     #get number of clicks, 1 at a time.
     daysadd=0
-    while [ $daysadd -lt $((daysince-1)) ];do #repeat until days offset is greater than days since pi-apps epoch
+    while [ $daysadd -lt $daysince ];do #repeat until days offset is greater than days since pi-apps epoch
       
       #generate date to check for. This adds days to the pi-apps epoch until we reach the present.
       date="$(date --date "9/22/2020+${daysadd} days" '+%C%y-%m-%d')"
