@@ -172,6 +172,7 @@ for app in $applist ;do
       fi
       echo "$app $date $today_install_clicks,$today_uninstall_clicks"
       # generate CSV of the data (data, net clicks, install clicks, uninstall clicks)
+      net_clicks=$((today_install_clicks - today_uninstall_clicks))
       echo "$date,$net_clicks,$today_install_clicks,$today_uninstall_clicks" >> "$folder/data.csv"
     done
     # save net clicks to plot
