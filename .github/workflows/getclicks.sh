@@ -118,7 +118,6 @@ for app in $applist ;do
           total_shlink="$(sed -n 2p <<<"$output")"
           total_bitly="$(sed -n 3p <<<"$output")"
           limited="$(sed -n 4p <<<"$output")"
-          total_shlink
           
           #if bitly says "Metrics data limited to after", then $installclicks is a total, not a one-day count
           if [ "$limited" == limited ];then
