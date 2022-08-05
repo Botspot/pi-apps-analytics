@@ -82,6 +82,27 @@ get_clicks() {
 }
 [ "$1" == source ] && return 0
 
+# add pi-apps function (this is all that is needed so don't source the whole api)
+list_subtract() { #Outputs a list of apps from stdin, minus the ones that appear in $1
+  # for example, the following two inputs will be a match
+  # Audacity
+  # Audacity
+  # while these two will NOT be a match
+  # Multimedia/Audacity
+  # .*/Audacity
+  comm -23 - <(echo "$1" | sort)
+}
+
+daysadd=0
+while [ $daysadd -lt $daysince ];do #repeat until days offset is greater than days since pi-apps epoch
+  #generate date to check for. This adds days to the pi-apps epoch until we reach the present.
+  date="$(date --date "9/22/2020+${daysadd} days" '+%C%y-%m-%d')"
+  echo "$date" >> "$GITHUB_WORKSPACE/datelist"
+  #check the next day's clicks
+  daysadd=$((daysadd+1))
+done
+unset daysadd
+
 #install links
 IFS=$'\n'
 for app in $applist ;do
@@ -109,60 +130,49 @@ for app in $applist ;do
     
     #get number of clicks, 1 at a time.
     daysadd=0
-    while [ $daysadd -lt $daysince ];do #repeat until days offset is greater than days since pi-apps epoch
-      
-      #generate date to check for. This adds days to the pi-apps epoch until we reach the present.
-      date="$(date --date "9/22/2020+${daysadd} days" '+%C%y-%m-%d')"
-      date_end="$(date --date "9/22/2020+${daysadd} days+1 days" '+%C%y-%m-%d')"
-      # echo -n "$app $date "
-      
-      if ! cat "$folder/data.csv" | awk -F"," '{print $1}' | grep -q "$date"; then # only check for clicks if date is not in CSV
-        unset output
-        output="$(get_clicks "pi-apps-install-$name" "$date" "$date_end")"
-        if [ $? == 0 ];then
-          today_install_clicks="$(sed -n 1p <<<"$output")"
-          total_shlink="$(sed -n 2p <<<"$output")"
-          total_bitly="$(sed -n 3p <<<"$output")"
-          limited="$(sed -n 4p <<<"$output")"
-          
-          #if bitly says "Metrics data limited to after", then $installclicks is a total, not a one-day count
-          if [ "$limited" == limited ];then
-            today_install_clicks=$((today_install_clicks - install_clicks))
-          fi
-        else
-          exit 1
-        fi
-        unset output
-        output="$(get_clicks "pi-apps-uninstall-$name" "$date" "$date_end")"
-        if [ $? == 0 ];then
-          today_uninstall_clicks="$(sed -n 1p <<<"$output")"
-          total_shlink="$(sed -n 2p <<<"$output")"
-          total_bitly="$(sed -n 3p <<<"$output")"
-          limited="$(sed -n 4p <<<"$output")"
-          
-          #if bitly says "Metrics data limited to after", then $installclicks is a total, not a one-day count
-          if [ "$limited" == limited ];then
-            today_uninstall_clicks=$((today_uninstall_clicks - uninstall_clicks))
-          fi
-        else
-          exit 1
-        fi
-        echo "$app $date $today_install_clicks,$today_uninstall_clicks"
-        # generate CSV of the data (data, net clicks, install clicks, uninstall clicks)
-        echo "$date,$net_clicks,$today_install_clicks,$today_uninstall_clicks" >> "$folder/data.csv"
-      else
-        today_install_clicks=$(cat "$folder/data.csv" | grep "$date" | awk -F"," '{print $3}')
-        today_uninstall_clicks=$(cat "$folder/data.csv" | grep "$date" | awk -F"," '{print $4}')
-      fi
 
-      #keep running click totals
-      install_clicks=$((today_install_clicks + install_clicks))
-      uninstall_clicks=$((today_uninstall_clicks + uninstall_clicks))
-      net_clicks=$((today_install_clicks - today_uninstall_clicks))
-      echo "$net_clicks" >> "$folder/net-installs-numbers"
+    # only check for clicks if date is not in CSV
+    click_dates_needed="$(cat $GITHUB_WORKSPACE/datelist | list_subtract "$(cat "$folder/data.csv" | awk -F"," '{print $1}' | tail -n +2)")"
+
+    IFS=$'\n'
+    for date in $click_dates_needed;do
       
-      #check the next day's clicks
-      daysadd=$((daysadd+1))
+      #generate end date to check for. This adds days to the pi-apps epoch until we reach the present.
+      date_end="$(date --date "$date+1 days" '+%C%y-%m-%d')"
+      
+      unset output
+      output="$(get_clicks "pi-apps-install-$name" "$date" "$date_end")"
+      if [ $? == 0 ];then
+        today_install_clicks="$(sed -n 1p <<<"$output")"
+        total_shlink="$(sed -n 2p <<<"$output")"
+        total_bitly="$(sed -n 3p <<<"$output")"
+        limited="$(sed -n 4p <<<"$output")"
+        
+        #if bitly says "Metrics data limited to after", then $installclicks is a total, not a one-day count
+        if [ "$limited" == limited ];then
+          today_install_clicks=$((today_install_clicks - install_clicks))
+        fi
+      else
+        exit 1
+      fi
+      unset output
+      output="$(get_clicks "pi-apps-uninstall-$name" "$date" "$date_end")"
+      if [ $? == 0 ];then
+        today_uninstall_clicks="$(sed -n 1p <<<"$output")"
+        total_shlink="$(sed -n 2p <<<"$output")"
+        total_bitly="$(sed -n 3p <<<"$output")"
+        limited="$(sed -n 4p <<<"$output")"
+        
+        #if bitly says "Metrics data limited to after", then $installclicks is a total, not a one-day count
+        if [ "$limited" == limited ];then
+          today_uninstall_clicks=$((today_uninstall_clicks - uninstall_clicks))
+        fi
+      else
+        exit 1
+      fi
+      echo "$app $date $today_install_clicks,$today_uninstall_clicks"
+      # generate CSV of the data (data, net clicks, install clicks, uninstall clicks)
+      echo "$date,$net_clicks,$today_install_clicks,$today_uninstall_clicks" >> "$folder/data.csv"
     done
     # save net clicks to plot
     app_simple=$(echo "$app" | sed -r "s/['\" ]+/-/g" | sed -r "s/[()]+//g")
@@ -170,6 +180,10 @@ for app in $applist ;do
     cd "$folder" && gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/$app_simple-net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set autoscale y; set title '$app_no_quote'; set xlabel 'Date'; set ylabel 'Net Installs'; set datafile separator ','; plot 'data.csv' using 1:2 title 'Net Installs'"
     echo '![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"$app_simple-net-installs-graph.png)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
     cd "$GITHUB_WORKSPACE"
+
+    # obtain the install clicks and uninstall clicks by summing the column of the CSV
+    install_clicks="$(cat "$folder/data.csv" | tail +2 | awk -F , '{print $3}' | xargs | sed -e 's/\ /+/g' | bc)"
+    uninstall_clicks="$(cat "$folder/data.csv" | tail +2 | awk -F , '{print $4}' | xargs | sed -e 's/\ /+/g' | bc)"
 
     echo "$((install_clicks - uninstall_clicks)) $app" >> "$GITHUB_WORKSPACE/clicklist"
     
@@ -185,14 +199,6 @@ done
 echo "total_shlink: $total_shlink, total_bitly: $total_bitly"
 
 paste -d+ $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-numbers | bc > $GITHUB_WORKSPACE/net-installs-total
-daysadd=0
-while [ $daysadd -lt $daysince ];do #repeat until days offset is greater than days since pi-apps epoch
-  #generate date to check for. This adds days to the pi-apps epoch until we reach the present.
-  date="$(date --date "9/22/2020+${daysadd} days" '+%C%y-%m-%d')"
-  echo "$date" >> "$GITHUB_WORKSPACE/datelist"
-  #check the next day's clicks
-  daysadd=$((daysadd+1))
-done
 paste -d ' ' $GITHUB_WORKSPACE/datelist $GITHUB_WORKSPACE/net-installs-total > $GITHUB_WORKSPACE/net-installs-total-data
 gnuplot -e "set terminal png size 1000,300; set output '/tmp/graphs/net-installs-graph.png'; set xdata time; set timefmt '%Y-%m-%d'; set xrange ['2020-09-22':'$date']; set autoscale y; set title 'Total Pi-Apps Net-Installs'; set xlabel 'Date'; set ylabel 'Net Installs'; plot '$GITHUB_WORKSPACE/net-installs-total-data' using 1:2 title ''"
 echo '![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"net-installs-graph.png)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
