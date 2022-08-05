@@ -18,6 +18,9 @@ rm -f "$GITHUB_WORKSPACE/clicklist"
 rm -f "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
 mkdir /tmp/graphs
 
+total_shlink=0
+total_bitly=0
+
 get_clicks() {
   
   while true;do
@@ -60,6 +63,11 @@ get_clicks() {
     fi
   done
   #echo "$url"
+
+  # for debug purposes, track the total number of clicks on shlink and bitly
+  # when the number of click on bitly have dropped to a very low ammount, it can be removed from this script
+  total_shlink=$(($total_shlink + $clickstoday_shlink))
+  total_bitly=$(($total_bitly + $clickstoday))
 
   # combined shlink and bitly install/uninstall daily numbers (used for transition period and eventually bitly will be removed)
   total_clickstoday=$(($clickstoday + $clickstoday_shlink))
@@ -168,6 +176,9 @@ for app in $applist ;do
   fi
   
 done
+
+# print debug output for total bitly and shlink clicks
+echo "total_shlink: $total_shlink, total_bitly: $total_bitly"
 
 paste -d+ $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-numbers | bc > $GITHUB_WORKSPACE/net-installs-total
 daysadd=0
