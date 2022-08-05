@@ -207,3 +207,4 @@
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/piKiss-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/template-net-installs-graph.png)
 ![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/tldr-net-installs-graph.png)
+![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/net-installs-graph.png)
