@@ -188,7 +188,7 @@ for app in $applist ;do
       set xlabel 'Date'; 
       set ylabel 'Net Installs'; 
       set datafile separator ','; 
-      p 'data.csv' using 1:2 w l lc rgb "forest-green" t 'Net Installs'"
+      p 'data.csv' using 1:2 w l lc rgb \"forest-green\" t 'Net Installs'"
     echo '![logo-64.svg](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"$app_simple-net-installs-graph.svg)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
     cd "$GITHUB_WORKSPACE"
 
