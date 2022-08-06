@@ -179,21 +179,21 @@ for app in $applist ;do
     app_simple=$(echo "$app" | sed -r "s/['\" ]+/-/g" | sed -r "s/[()]+//g")
     app_no_quote=$(echo "$app" | sed -r "s/['\"]+/-/g")
     cd "$folder" && gnuplot -e "set terminal svg size 1000,300; 
-    save_encoding = GPVAL_ENCODING;
-    set encoding utf8;
-    set style fill solid 0.8;
-    set style function filledcurves y1=0;
-    set clip two;
-    set output '/tmp/graphs/$app_simple-net-installs-graph.svg'; 
-    set xdata time; 
-    set timefmt '%Y-%m-%d'; 
-    set xrange ['2020-09-22':'$date']; 
-    set autoscale y; 
-    set title '$app_no_quote'; 
-    set xlabel 'Date'; 
-    set ylabel 'Net Installs'; 
-    set datafile separator ','; 
-    plot 'data.csv' fs solid 0.8 lc rgb "forest-green" using 1:2 title 'Net Installs'"
+      save_encoding = GPVAL_ENCODING;
+      set encoding utf8;
+      set style fill solid 0.8;
+      set style function filledcurves y1=0;
+      set clip two;
+      set output '/tmp/graphs/$app_simple-net-installs-graph.svg'; 
+      set xdata time; 
+      set timefmt '%Y-%m-%d'; 
+      set xrange ['2020-09-22':'$date']; 
+      set autoscale y; 
+      set title '$app_no_quote'; 
+      set xlabel 'Date'; 
+      set ylabel 'Net Installs'; 
+      set datafile separator ','; 
+      plot 'data.csv' using 1:2 fs solid 0.8 lc rgb "forest-green" title 'Net Installs'"
     echo '![logo-64.svg](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/'"$app_simple-net-installs-graph.svg)" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
     cd "$GITHUB_WORKSPACE"
 
