@@ -190,7 +190,7 @@ for app in $applist ;do
       set datafile separator ','; 
       p 'data.csv' using 1:2 w filledcurve x1 fc \"#4ca724\" fs solid 0.7 t 'Net Installs',\
         'data.csv' using 1:2 w l lc rgb \"forest-green\" t ''"
-    echo '<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/${app_simple}-net-installs-graph.svg" alt="${app_simple}"></br>' >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
+    echo "<img src=\"https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/${app_simple}-net-installs-graph.svg\" alt=\"${app_simple}\"></br>" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
     cd "$GITHUB_WORKSPACE"
 
     # obtain the install clicks and uninstall clicks by summing the column of the CSV
