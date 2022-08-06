@@ -178,7 +178,7 @@ for app in $applist ;do
     # save net clicks to plot
     app_simple=$(echo "$app" | sed -r "s/['\" ]+/-/g" | sed -r "s/[()]+//g")
     app_no_quote=$(echo "$app" | sed -r "s/['\"]+/-/g")
-    cd "$folder" && gnuplot -e "set terminal png size 1000,300; 
+    cd "$folder" && gnuplot -e "set terminal pngcairo size 1000,300; 
       set output '/tmp/graphs/$app_simple-net-installs-graph.png'; 
       set xdata time; 
       set timefmt '%Y-%m-%d'; 
