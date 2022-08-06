@@ -1,209 +1,209 @@
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AbiWord-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Alacritty-Terminal-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/All-Is-Well-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Amiberry-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AndroidBuddy-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Angry-IP-scanner-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AntiMicroX-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AnyDesk-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Arduino-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/ArmCord-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AstroMenace-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Audacious-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Audacity-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Autostar-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BalenaEtcher-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Better-Chromium-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BleachBit-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlockBench-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlockPi-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlueJ-Java-IDE-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Bongo-Cam-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box64-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box86-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Boxy-SVG-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Browsh-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Caprine-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cawbird-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Celeste-Classic-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chiaki-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chromium-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chromium-Widevine-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Clam-Antivirus-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/CloudBuddy-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Codex-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Color-Emoji-font-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/CommanderPi-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Conky-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Conky-Rings-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cool-Retro-Term-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cura-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/DDNet-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Deluge-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Descent-1-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Descent-2-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Deskreen-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Discord-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Disk-Usage-Analyzer-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Doom-3-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Dot-Matrix-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Downgrade-Chromium-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Drawing-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Ducopanel-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Eagle-CAD-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Electron-Fiddle-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Email-Checker-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Epiphany-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FF-Multi-Converter-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Filezilla-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Firefox-Rapid-Release-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Flameshot-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Flow-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FreeTube-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Friday-Night-Funkin-Rewritten-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Fritzing-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GIMP-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GParted-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geany-Dark-Mode-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-Desktop-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-CLI-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Godot-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Guake-Terminal-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/HTTrack-Website-Copier-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Heroes-2-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Https-File-Server-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Hyper-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Imager-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Inkscape-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Intellij-IDEA-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/KeePassXC-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kodi-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kolourpaint-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LMMS-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lego-Digital-Designer-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreCAD-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreOffice-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibrePCB-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Libreoffice-MS-theme-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lightpad-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LineRider-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Linux-Wifi-Hotspot-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lokinet-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Mac-OS-Theme-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Marathon-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/MatterControl-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Microsoft-PowerShell-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Microsoft-Teams-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Min-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Bedrock-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-Lunar-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-MultiMC5-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-Server-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Pi-Modded-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Mission-Planner-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/More-RAM-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/MuseScore-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Nautilus-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Nemo-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Neofetch-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/NixNote2-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Node.js-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Notejot-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Notepad-++-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OBS-Studio-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oomox-Theme-Designer-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OpenSCAD-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PPSSPP-PSP-emulator-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pac-Man-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pale-Moon-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PeaZip-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Persepolis-Download-Manager-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Power-Tools-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Apps-Terminal-Plugin-bash-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Apps-Terminal-Plugin-python-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiGro-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiKISS-GUI-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiSafe-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pika-Backup-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pinta-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Powerline-Shell-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Processing-IDE-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Project-OutFox-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PrusaSlicer-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Puffin-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PyChess-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pycharm-CE-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/QEMU-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Quartz-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Reaper-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Remarkable-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Renoise-Demo-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scratch-2-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scratch-3-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scrcpy-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Screenshot-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Shattered-Pixel-Dungeon-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Shotwell-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SimpleScreenRecorder-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Snap-Store-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Snapdrop-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sonic-Pi-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SpeedTest-CLI-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sphero-SDK-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/StackEdit-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Steam-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Steam-Link-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/StepMania-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Stunt-Rally-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sublime-Text-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Synaptic-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Syncthing-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SysMonTask-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sysmon-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/System-Monitoring-Center-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Tabby-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/TeamViewer-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Telegram-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Temps-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Tetris-CLI-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Thunderbird-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/TiLP-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Timeshift-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Tor-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Transmission-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Turbowarp-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/USBImager-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Ulauncher-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Unciv-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Update-Buddy-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/VMware-Horizon-Client-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/VSCodium-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/VeraCrypt-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Visual-Studio-Code-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Vivaldi-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WACUP-new-WinAmp-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WPS-Office-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Waveform-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Web-Apps-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wechat-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WhatsApp-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-10-Theme-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-Flasher-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-Screensavers-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wine-x86-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WorldPainter-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/XMRig-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/XSnow-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Xfburn-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Xtreme-Download-Manager-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/YouTubuddy-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Zoom-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Zoom-PWA-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/btop++-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/ckb-next-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/eDEX-UI-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/jGRASP-IDE-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/piKiss-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/template-net-installs-graph.png)
-![logo-64.png](https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/tldr-net-installs-graph.png)
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AbiWord-net-installs-graph.svg" alt="AbiWord"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Alacritty-Terminal-net-installs-graph.svg" alt="Alacritty-Terminal"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/All-Is-Well-net-installs-graph.svg" alt="All-Is-Well"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Amiberry-net-installs-graph.svg" alt="Amiberry"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AndroidBuddy-net-installs-graph.svg" alt="AndroidBuddy"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Angry-IP-scanner-net-installs-graph.svg" alt="Angry-IP-scanner"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AntiMicroX-net-installs-graph.svg" alt="AntiMicroX"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AnyDesk-net-installs-graph.svg" alt="AnyDesk"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Arduino-net-installs-graph.svg" alt="Arduino"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/ArmCord-net-installs-graph.svg" alt="ArmCord"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AstroMenace-net-installs-graph.svg" alt="AstroMenace"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Audacious-net-installs-graph.svg" alt="Audacious"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Audacity-net-installs-graph.svg" alt="Audacity"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Autostar-net-installs-graph.svg" alt="Autostar"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BalenaEtcher-net-installs-graph.svg" alt="BalenaEtcher"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Better-Chromium-net-installs-graph.svg" alt="Better-Chromium"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BleachBit-net-installs-graph.svg" alt="BleachBit"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlockBench-net-installs-graph.svg" alt="BlockBench"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlockPi-net-installs-graph.svg" alt="BlockPi"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlueJ-Java-IDE-net-installs-graph.svg" alt="BlueJ-Java-IDE"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Bongo-Cam-net-installs-graph.svg" alt="Bongo-Cam"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box64-net-installs-graph.svg" alt="Box64"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box86-net-installs-graph.svg" alt="Box86"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Boxy-SVG-net-installs-graph.svg" alt="Boxy-SVG"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Browsh-net-installs-graph.svg" alt="Browsh"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Caprine-net-installs-graph.svg" alt="Caprine"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cawbird-net-installs-graph.svg" alt="Cawbird"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Celeste-Classic-net-installs-graph.svg" alt="Celeste-Classic"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chiaki-net-installs-graph.svg" alt="Chiaki"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chromium-net-installs-graph.svg" alt="Chromium"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chromium-Widevine-net-installs-graph.svg" alt="Chromium-Widevine"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Clam-Antivirus-net-installs-graph.svg" alt="Clam-Antivirus"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/CloudBuddy-net-installs-graph.svg" alt="CloudBuddy"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Codex-net-installs-graph.svg" alt="Codex"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Color-Emoji-font-net-installs-graph.svg" alt="Color-Emoji-font"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/CommanderPi-net-installs-graph.svg" alt="CommanderPi"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Conky-net-installs-graph.svg" alt="Conky"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Conky-Rings-net-installs-graph.svg" alt="Conky-Rings"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cool-Retro-Term-net-installs-graph.svg" alt="Cool-Retro-Term"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cura-net-installs-graph.svg" alt="Cura"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/DDNet-net-installs-graph.svg" alt="DDNet"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Deluge-net-installs-graph.svg" alt="Deluge"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Descent-1-net-installs-graph.svg" alt="Descent-1"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Descent-2-net-installs-graph.svg" alt="Descent-2"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Deskreen-net-installs-graph.svg" alt="Deskreen"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Discord-net-installs-graph.svg" alt="Discord"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Disk-Usage-Analyzer-net-installs-graph.svg" alt="Disk-Usage-Analyzer"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Doom-3-net-installs-graph.svg" alt="Doom-3"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Dot-Matrix-net-installs-graph.svg" alt="Dot-Matrix"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Downgrade-Chromium-net-installs-graph.svg" alt="Downgrade-Chromium"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Drawing-net-installs-graph.svg" alt="Drawing"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Ducopanel-net-installs-graph.svg" alt="Ducopanel"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Eagle-CAD-net-installs-graph.svg" alt="Eagle-CAD"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Electron-Fiddle-net-installs-graph.svg" alt="Electron-Fiddle"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Email-Checker-net-installs-graph.svg" alt="Email-Checker"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Epiphany-net-installs-graph.svg" alt="Epiphany"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FF-Multi-Converter-net-installs-graph.svg" alt="FF-Multi-Converter"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Filezilla-net-installs-graph.svg" alt="Filezilla"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Firefox-Rapid-Release-net-installs-graph.svg" alt="Firefox-Rapid-Release"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Flameshot-net-installs-graph.svg" alt="Flameshot"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Flow-net-installs-graph.svg" alt="Flow"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FreeTube-net-installs-graph.svg" alt="FreeTube"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Friday-Night-Funkin-Rewritten-net-installs-graph.svg" alt="Friday-Night-Funkin-Rewritten"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Fritzing-net-installs-graph.svg" alt="Fritzing"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GIMP-net-installs-graph.svg" alt="GIMP"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GParted-net-installs-graph.svg" alt="GParted"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geany-Dark-Mode-net-installs-graph.svg" alt="Geany-Dark-Mode"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-net-installs-graph.svg" alt="Geekbench"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-Desktop-net-installs-graph.svg" alt="Github-Desktop"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-CLI-net-installs-graph.svg" alt="Github-CLI"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Godot-net-installs-graph.svg" alt="Godot"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Guake-Terminal-net-installs-graph.svg" alt="Guake-Terminal"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/HTTrack-Website-Copier-net-installs-graph.svg" alt="HTTrack-Website-Copier"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Heroes-2-net-installs-graph.svg" alt="Heroes-2"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Https-File-Server-net-installs-graph.svg" alt="Https-File-Server"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Hyper-net-installs-graph.svg" alt="Hyper"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Imager-net-installs-graph.svg" alt="Imager"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Inkscape-net-installs-graph.svg" alt="Inkscape"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Intellij-IDEA-net-installs-graph.svg" alt="Intellij-IDEA"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/KeePassXC-net-installs-graph.svg" alt="KeePassXC"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kodi-net-installs-graph.svg" alt="Kodi"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kolourpaint-net-installs-graph.svg" alt="Kolourpaint"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LMMS-net-installs-graph.svg" alt="LMMS"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lego-Digital-Designer-net-installs-graph.svg" alt="Lego-Digital-Designer"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreCAD-net-installs-graph.svg" alt="LibreCAD"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreOffice-net-installs-graph.svg" alt="LibreOffice"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibrePCB-net-installs-graph.svg" alt="LibrePCB"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Libreoffice-MS-theme-net-installs-graph.svg" alt="Libreoffice-MS-theme"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lightpad-net-installs-graph.svg" alt="Lightpad"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LineRider-net-installs-graph.svg" alt="LineRider"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Linux-Wifi-Hotspot-net-installs-graph.svg" alt="Linux-Wifi-Hotspot"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lokinet-net-installs-graph.svg" alt="Lokinet"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Mac-OS-Theme-net-installs-graph.svg" alt="Mac-OS-Theme"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Marathon-net-installs-graph.svg" alt="Marathon"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/MatterControl-net-installs-graph.svg" alt="MatterControl"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Microsoft-PowerShell-net-installs-graph.svg" alt="Microsoft-PowerShell"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Microsoft-Teams-net-installs-graph.svg" alt="Microsoft-Teams"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Min-net-installs-graph.svg" alt="Min"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Bedrock-net-installs-graph.svg" alt="Minecraft-Bedrock"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-Lunar-net-installs-graph.svg" alt="Minecraft-Java-Lunar"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-MultiMC5-net-installs-graph.svg" alt="Minecraft-Java-MultiMC5"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-Server-net-installs-graph.svg" alt="Minecraft-Java-Server"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Pi-Modded-net-installs-graph.svg" alt="Minecraft-Pi-Modded"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Mission-Planner-net-installs-graph.svg" alt="Mission-Planner"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/More-RAM-net-installs-graph.svg" alt="More-RAM"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/MuseScore-net-installs-graph.svg" alt="MuseScore"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Nautilus-net-installs-graph.svg" alt="Nautilus"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Nemo-net-installs-graph.svg" alt="Nemo"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Neofetch-net-installs-graph.svg" alt="Neofetch"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/NixNote2-net-installs-graph.svg" alt="NixNote2"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Node.js-net-installs-graph.svg" alt="Node.js"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Notejot-net-installs-graph.svg" alt="Notejot"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Notepad-++-net-installs-graph.svg" alt="Notepad-++"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OBS-Studio-net-installs-graph.svg" alt="OBS-Studio"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oomox-Theme-Designer-net-installs-graph.svg" alt="Oomox-Theme-Designer"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OpenSCAD-net-installs-graph.svg" alt="OpenSCAD"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PPSSPP-PSP-emulator-net-installs-graph.svg" alt="PPSSPP-PSP-emulator"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pac-Man-net-installs-graph.svg" alt="Pac-Man"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pale-Moon-net-installs-graph.svg" alt="Pale-Moon"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PeaZip-net-installs-graph.svg" alt="PeaZip"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Persepolis-Download-Manager-net-installs-graph.svg" alt="Persepolis-Download-Manager"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Power-Tools-net-installs-graph.svg" alt="Pi-Power-Tools"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Apps-Terminal-Plugin-bash-net-installs-graph.svg" alt="Pi-Apps-Terminal-Plugin-bash"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Apps-Terminal-Plugin-python-net-installs-graph.svg" alt="Pi-Apps-Terminal-Plugin-python"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiGro-net-installs-graph.svg" alt="PiGro"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiKISS-GUI-net-installs-graph.svg" alt="PiKISS-GUI"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiSafe-net-installs-graph.svg" alt="PiSafe"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pika-Backup-net-installs-graph.svg" alt="Pika-Backup"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pinta-net-installs-graph.svg" alt="Pinta"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Powerline-Shell-net-installs-graph.svg" alt="Powerline-Shell"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Processing-IDE-net-installs-graph.svg" alt="Processing-IDE"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Project-OutFox-net-installs-graph.svg" alt="Project-OutFox"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PrusaSlicer-net-installs-graph.svg" alt="PrusaSlicer"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Puffin-net-installs-graph.svg" alt="Puffin"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PyChess-net-installs-graph.svg" alt="PyChess"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pycharm-CE-net-installs-graph.svg" alt="Pycharm-CE"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/QEMU-net-installs-graph.svg" alt="QEMU"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Quartz-net-installs-graph.svg" alt="Quartz"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Reaper-net-installs-graph.svg" alt="Reaper"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Remarkable-net-installs-graph.svg" alt="Remarkable"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Renoise-Demo-net-installs-graph.svg" alt="Renoise-Demo"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scratch-2-net-installs-graph.svg" alt="Scratch-2"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scratch-3-net-installs-graph.svg" alt="Scratch-3"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scrcpy-net-installs-graph.svg" alt="Scrcpy"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Screenshot-net-installs-graph.svg" alt="Screenshot"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Shattered-Pixel-Dungeon-net-installs-graph.svg" alt="Shattered-Pixel-Dungeon"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Shotwell-net-installs-graph.svg" alt="Shotwell"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SimpleScreenRecorder-net-installs-graph.svg" alt="SimpleScreenRecorder"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Snap-Store-net-installs-graph.svg" alt="Snap-Store"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Snapdrop-net-installs-graph.svg" alt="Snapdrop"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sonic-Pi-net-installs-graph.svg" alt="Sonic-Pi"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SpeedTest-CLI-net-installs-graph.svg" alt="SpeedTest-CLI"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sphero-SDK-net-installs-graph.svg" alt="Sphero-SDK"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/StackEdit-net-installs-graph.svg" alt="StackEdit"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Steam-net-installs-graph.svg" alt="Steam"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Steam-Link-net-installs-graph.svg" alt="Steam-Link"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/StepMania-net-installs-graph.svg" alt="StepMania"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Stunt-Rally-net-installs-graph.svg" alt="Stunt-Rally"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sublime-Text-net-installs-graph.svg" alt="Sublime-Text"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Synaptic-net-installs-graph.svg" alt="Synaptic"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Syncthing-net-installs-graph.svg" alt="Syncthing"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SysMonTask-net-installs-graph.svg" alt="SysMonTask"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sysmon-net-installs-graph.svg" alt="Sysmon"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/System-Monitoring-Center-net-installs-graph.svg" alt="System-Monitoring-Center"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Tabby-net-installs-graph.svg" alt="Tabby"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/TeamViewer-net-installs-graph.svg" alt="TeamViewer"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Telegram-net-installs-graph.svg" alt="Telegram"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Temps-net-installs-graph.svg" alt="Temps"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Tetris-CLI-net-installs-graph.svg" alt="Tetris-CLI"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Thunderbird-net-installs-graph.svg" alt="Thunderbird"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/TiLP-net-installs-graph.svg" alt="TiLP"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Timeshift-net-installs-graph.svg" alt="Timeshift"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Tor-net-installs-graph.svg" alt="Tor"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Transmission-net-installs-graph.svg" alt="Transmission"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Turbowarp-net-installs-graph.svg" alt="Turbowarp"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/USBImager-net-installs-graph.svg" alt="USBImager"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Ulauncher-net-installs-graph.svg" alt="Ulauncher"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Unciv-net-installs-graph.svg" alt="Unciv"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Update-Buddy-net-installs-graph.svg" alt="Update-Buddy"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/VMware-Horizon-Client-net-installs-graph.svg" alt="VMware-Horizon-Client"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/VSCodium-net-installs-graph.svg" alt="VSCodium"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/VeraCrypt-net-installs-graph.svg" alt="VeraCrypt"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Visual-Studio-Code-net-installs-graph.svg" alt="Visual-Studio-Code"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Vivaldi-net-installs-graph.svg" alt="Vivaldi"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WACUP-new-WinAmp-net-installs-graph.svg" alt="WACUP-new-WinAmp"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WPS-Office-net-installs-graph.svg" alt="WPS-Office"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Waveform-net-installs-graph.svg" alt="Waveform"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Web-Apps-net-installs-graph.svg" alt="Web-Apps"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wechat-net-installs-graph.svg" alt="Wechat"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WhatsApp-net-installs-graph.svg" alt="WhatsApp"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-10-Theme-net-installs-graph.svg" alt="Windows-10-Theme"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-Flasher-net-installs-graph.svg" alt="Windows-Flasher"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-Screensavers-net-installs-graph.svg" alt="Windows-Screensavers"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wine-x86-net-installs-graph.svg" alt="Wine-x86"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WorldPainter-net-installs-graph.svg" alt="WorldPainter"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/XMRig-net-installs-graph.svg" alt="XMRig"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/XSnow-net-installs-graph.svg" alt="XSnow"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Xfburn-net-installs-graph.svg" alt="Xfburn"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Xtreme-Download-Manager-net-installs-graph.svg" alt="Xtreme-Download-Manager"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/YouTubuddy-net-installs-graph.svg" alt="YouTubuddy"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Zoom-net-installs-graph.svg" alt="Zoom"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Zoom-PWA-net-installs-graph.svg" alt="Zoom-PWA"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/btop++-net-installs-graph.svg" alt="btop++"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/ckb-next-net-installs-graph.svg" alt="ckb-next"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/eDEX-UI-net-installs-graph.svg" alt="eDEX-UI"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/jGRASP-IDE-net-installs-graph.svg" alt="jGRASP-IDE"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/piKiss-net-installs-graph.svg" alt="piKiss"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/template-net-installs-graph.svg" alt="template"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/tldr-net-installs-graph.svg" alt="tldr"></br>
