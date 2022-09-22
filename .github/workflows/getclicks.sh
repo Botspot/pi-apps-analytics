@@ -26,7 +26,7 @@ get_clicks() {
   while true;do
     #create bitly api url
     url="https://api-ssl.bitly.com/v4/bitlinks/bit.ly/${1}/clicks/summary?unit=day&units=1&size=0&unit_reference=${2}T00:00:00-0000"
-    url_shlink="https://analytics.pi-apps.io/rest/v2/short-urls/${1}/visits?startDate=${2}T00%3A00%3A00&endDate=${3}T00%3A00%3A00"
+    url_shlink="https://pi-apps-analytics.linkpc.net/rest/v2/short-urls/${1}/visits?startDate=${2}T00%3A00%3A00&endDate=${3}T00%3A00%3A00"
     
     #get the data
     output="$(curl -sH "Authorization: Bearer $BITLY_KEY" -X GET "$url")"
