@@ -1,14 +1,13 @@
 85320 Chromium
-75609 Imager
+70385 Imager
 49292 Box86
-42370 Minecraft Pi (Modded)
 39735 LibreOffice
 39727 Minecraft Java Lunar
 39409 Wine (x86)
+32569 Minecraft Pi (Modded)
 30650 Discord
-30246 GParted
 25415 CommanderPi
-22360 Zoom
+24985 GParted
 22261 BalenaEtcher
 20927 Scratch 3
 20215 Minecraft Bedrock
@@ -17,6 +16,7 @@
 18977 piKiss
 18797 Pi Power Tools
 18317 GIMP
+18243 Zoom
 17827 BlueJ Java IDE
 16737 Disk Usage Analyzer
 16676 Steam
@@ -34,7 +34,6 @@
 12006 Windows 10 Theme
 11588 Audacious
 11383 FreeTube
-11237 Audacity
 11077 SpeedTest-CLI
 10572 Tor
 10536 Synaptic
@@ -56,11 +55,11 @@
 7046 Pycharm CE
 7025 Nautilus
 6964 USBImager
-6634 Pinta
 6417 Stunt Rally
 6032 eDEX-UI
 6017 Flameshot
 5999 QEMU
+5881 Audacity
 5850 Shotwell
 5636 Libreoffice MS theme
 5559 Kodi
@@ -149,6 +148,7 @@
 1372 Microsoft PowerShell
 1359 Deskreen
 1355 Chiaki
+1330 Pinta
 1306 Https File Server
 1296 Linux Wifi Hotspot
 1273 Github Desktop
