@@ -48,10 +48,9 @@ get_clicks() {
     echo "$1 (date range: $2 to $3) $clickstoday_shlink" >/dev/stderr    
 
     # null output can only mean that the URL does not exist and is not a valid endpoint
-    # untill all URLs are added, set this as a 0 output
-    # for testing, pi-apps-(un)install-Snapdrop pi-apps-(un)install-StackEdit and pi-apps-(un)install-template have been created at shlink
-    if [ "$clickstoday_shlink" == "null" ]; then
-      clickstoday_shlink=0
+    # urls are automatically added, so if a URL is not available then the server must be offline and we do not want to collect data
+    if [[ "$clickstoday_shlink" == "null" ]] || [[ -z "$clickstoday_shlink" ]]; then
+      error 'Could not find the corresponding URL, is the server offline?'
     fi  
     
     if [ -z "$clickstoday" ];then
