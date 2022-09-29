@@ -29,7 +29,7 @@ get_clicks() {
     url_shlink="https://pi-apps-analytics.linkpc.net/rest/v2/short-urls/${1}/visits?startDate=${2}T00%3A00%3A00&endDate=${3}T00%3A00%3A00"
     
     #get the data
-    output="$(curl -sH "Authorization: Bearer $BITLY_KEY" -X GET "$url")"
+    output="$(curl -sSH "Authorization: Bearer $BITLY_KEY" -X GET "$url")"
     
     #exit if curl failed
     if [ $? != 0 ];then
@@ -41,7 +41,7 @@ get_clicks() {
     clickstoday="$(echo "$output" | tr ',' '\n' | grep total_clicks | awk -F: '{print $2}')"
 
     # get clicks for 1 day range from pi-apps shlink server
-    clickstoday_shlink="$(curl -s -X 'GET' "$url_shlink" -H 'accept: application/json' -H "X-Api-Key: $SHLINK_KEY" | jq -r 'first( .visits | .pagination | .totalItems )')"
+    clickstoday_shlink="$(curl -sS -X 'GET' "$url_shlink" -H 'accept: application/json' -H "X-Api-Key: $SHLINK_KEY" | jq -r 'first( .visits | .pagination | .totalItems )')"
 
     # for debuggging/testing print clickstoday_shlink to stderr (should not affect calculations)
     # remove once testing has been completed
