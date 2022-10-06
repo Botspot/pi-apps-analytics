@@ -41,7 +41,7 @@ get_clicks() {
     clickstoday="$(echo "$output" | tr ',' '\n' | grep total_clicks | awk -F: '{print $2}')"
 
     # get clicks for 1 day range from pi-apps shlink server
-    clickstoday_shlink="$(curl -sS -X 'GET' "$url_shlink" -H 'accept: application/json' -H "X-Api-Key: $SHLINK_KEY" | jq -r 'first( .visits | .pagination | .totalItems )')"
+    clickstoday_shlink="$(curl --retry 5 -sS -X 'GET' "$url_shlink" -H 'accept: application/json' -H "X-Api-Key: $SHLINK_KEY" | jq -r 'first( .visits | .pagination | .totalItems )')"
 
     # for debuggging/testing print clickstoday_shlink to stderr (should not affect calculations)
     # remove once testing has been completed
