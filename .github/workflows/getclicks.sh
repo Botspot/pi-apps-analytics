@@ -50,7 +50,8 @@ get_clicks() {
     # null output can only mean that the URL does not exist and is not a valid endpoint
     # urls are automatically added, so if a URL is not available then the server must be offline and we do not want to collect data
     if [[ "$clickstoday_shlink" == "null" ]] || [[ -z "$clickstoday_shlink" ]]; then
-      error 'Could not find the corresponding URL, is the server offline?'
+      echo -e "\e[91mCould not find the corresponding URL, is the server offline? Trying again.\e[39m" 1>&2
+      sleep 10
     fi  
     
     if [ -z "$clickstoday" ];then
