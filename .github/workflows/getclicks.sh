@@ -52,11 +52,13 @@ get_clicks() {
     if [[ "$clickstoday_shlink" == "null" ]] || [[ -z "$clickstoday_shlink" ]]; then
       echo -e "\e[91mCould not find the corresponding URL, is the server offline? Trying again.\e[39m" 1>&2
       sleep 10
+      continue
     fi  
     
     if [ -z "$clickstoday" ];then
       echo -e "\e[91mClicks not found for $name\nURL: $url\nOutput: $output\e[39m\nWaiting 20 mins..." 1>&2
       sleep 20m
+      continue
     else
       #clicks acquired.
       break #exit the loop
