@@ -9,9 +9,6 @@ function error {
 daysince="$((($(date +%s)-$(date +%s --date "9/22/2020"))/(3600*24)))"
 
 applist="$(ls /tmp/pi-apps/apps | grep .)"
-# temporarily add apps back to applist that have been removed
-# applist="$(echo -e "$applist\nTeamViewer Host\nMinecraft Java")"
-#debug output applist
 echo "$applist"
 
 rm -f "$GITHUB_WORKSPACE/clicklist"
@@ -56,9 +53,9 @@ get_clicks() {
     fi  
     
     if [ -z "$clickstoday" ];then
-      echo -e "\e[91mClicks not found for $name\nURL: $url\nOutput: $output\e[39m\nWaiting 20 mins..." 1>&2
-      sleep 20m
-      continue
+      echo -e "\e[91mClicks not found for $name\nURL: $url\nOutput: $output\e[39m\nNot going to check anymore (incase the bitly link does not exist)..." 1>&2
+      clickstoday=0
+      break
     else
       #clicks acquired.
       break #exit the loop
