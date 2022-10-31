@@ -39,7 +39,7 @@ for app in $applist; do
     arch="ARM32"
   elif [ -f install ]; then
     arch="ARM32/ARM64"
-  elif [ -f package ]; then
+  elif [ -f packages ]; then
     arch="package"
   fi
   cat "$GITHUB_WORKSPACE/package_data.json" | jq -s '.[] + [{"Name": "'"$name"'", "Version": "'"$version"'", "Description": "'"$description"'", "URL": "'"$url"'", "Architecture": "'"$arch"'"}]' | sponge "$GITHUB_WORKSPACE/package_data.json"
