@@ -22,7 +22,7 @@ jobs:
           SHLINK_KEY: ${{ secrets.SHLINK_KEY }}
         run: |
           sudo apt update
-          sudo apt install gnuplot jq -y
+          sudo apt install gnuplot jq moreutils -y
           git clone --depth 1 https://github.com/Botspot/pi-apps.git /tmp/pi-apps
           cd $GITHUB_WORKSPACE
           export GITHUB_WORKSPACE
