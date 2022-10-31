@@ -31,6 +31,9 @@ jobs:
           # run get clicks
           .github/workflows/getclicks.sh
 
+          # run pi-apps repository json creation
+          .github/workflows/json_creator.sh
+
       - name: Push changes to repo
         uses: EndBug/add-and-commit@v7 # You can change this to use a specific version.
         with:
