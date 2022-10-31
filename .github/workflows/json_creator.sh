@@ -42,7 +42,7 @@ for app in $applist; do
   elif [ -f packages ]; then
     arch="package"
   fi
-  users=$(echo "$GITHUB_WORKSPACE/clicklist" | grep "[0-9] "$app""'$' | awk '{print $1}' | head -n1)
+  users=$(cat "$GITHUB_WORKSPACE/clicklist" | grep "[0-9] "$app""'$' | awk '{print $1}' | head -n1)
   cat "$GITHUB_WORKSPACE/package_data.json" | jq -s '.[] + [{"Name": "'"$name"'", "Version": "'"$version"'", "Description": "'"$description"'", "URL": "'"$url"'", "Architecture": "'"$arch"'", "Users": "'"$users"'"}]' | sponge "$GITHUB_WORKSPACE/package_data.json"
   unset url arch description version
 done
