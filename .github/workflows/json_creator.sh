@@ -17,15 +17,15 @@ for app in $applist; do
   version_number=""
   #check for the first version variable
   if [ -f install-32 ]; then
-    version="$(cat 'install-32' | grep -m 1 "version${version_number}=" | sed "s/version${version_number}=//" | xargs)"
+    version="$(cat 'install-32' | grep -m 1 "^version${version_number}=" | sed "s/version${version_number}=//" | xargs)"
   fi
 
   if [ -f install-64 ] && [ -z "$version" ]; then
-    version="$(cat 'install-64' | grep -m 1 "version${version_number}=" | sed "s/version${version_number}=//" | xargs)"
+    version="$(cat 'install-64' | grep -m 1 "^version${version_number}=" | sed "s/version${version_number}=//" | xargs)"
   fi
 
   if [ -f install ]; then
-    version="$(cat 'install' | grep -m 1 "version${version_number}=" | sed "s/version${version_number}=//" | xargs)"
+    version="$(cat 'install' | grep -m 1 "^version${version_number}=" | sed "s/version${version_number}=//" | xargs)"
   fi
   unset version_number
 
