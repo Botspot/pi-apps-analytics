@@ -365,7 +365,7 @@
   },
   {
     "Name": "Eagle CAD",
-    "Version": "echo",
+    "Version": "",
     "Description": "Design printed circuit boards.",
     "URL": "http://eagle.autodesk.com/eagle/software-versions/1",
     "Architecture": "ARM32"
@@ -435,7 +435,7 @@
   },
   {
     "Name": "Friday Night Funkin' Rewritten",
-    "Version": "love_$(apt-cache show love | sed -n 's/Version: //p' | head -1)",
+    "Version": "",
     "Description": "Friday Night Funkin’ is a musical rhythm game where you compete in freestyle music battles.",
     "URL": "https://github.com/HTV04/funkin-rewritten",
     "Architecture": "ARM32/ARM64"
@@ -722,7 +722,7 @@
   },
   {
     "Name": "Minecraft Java Server",
-    "Version": "server_$output",
+    "Version": "",
     "Description": "This is a simple tool to create a Minecraft server: Vanilla, Fabric, Forge, Paper, Bukkit, Spigot, Sponge, Purpur and Tuinity are supported",
     "URL": "https://serverjars.com",
     "Architecture": "ARM32/ARM64"
@@ -827,7 +827,7 @@
   },
   {
     "Name": "OpenSCAD",
-    "Version": "echo",
+    "Version": "",
     "Description": "OpenSCAD is software for creating solid 3D CAD models.",
     "URL": "http://www.openscad.org/\nhttps://github.com/koendv/openscad-raspberrypi",
     "Architecture": "ARM32/ARM64"
