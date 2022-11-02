@@ -833,7 +833,7 @@
   },
   {
     "Name": "Minecraft Pi (Modded)",
-    "Version": "255/artifact/out/minecraft-pi-reborn-client-2.4.6",
+    "Version": "256/artifact/out/minecraft-pi-reborn-client-2.4.6",
     "Description": "A modded version of Minecraft: Pi Edition with things like survival mode, multiplayer support, and more!",
     "URL": "https://discord.com/invite/aDqejQGMMy",
     "Architecture": "ARM32/ARM64",
@@ -1185,7 +1185,7 @@
   },
   {
     "Name": "Shattered Pixel Dungeon",
-    "Version": "1.4.2",
+    "Version": "1.4.3",
     "Description": "Shattered Pixel Dungeon is a Roguelike Dungeon Crawler RPG with pixel art graphics.",
     "URL": "https://shatteredpixel.com/",
     "Architecture": "ARM32/ARM64",
@@ -1401,7 +1401,7 @@
   },
   {
     "Name": "Tor",
-    "Version": "11.5.5",
+    "Version": "11.5.6",
     "Description": "The Tor Browser is a web broswer that anonymizes your web traffic using the Tor network, making it easy to protect your identity online.",
     "URL": "https://sourceforge.net/projects/tor-browser-ports/files/",
     "Architecture": "ARM32/ARM64",
