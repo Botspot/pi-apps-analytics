@@ -13,6 +13,7 @@ echo "$applist"
 
 rm -f "$GITHUB_WORKSPACE/clicklist"
 rm -f "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
+rm -f "$GITHUB_WORKSPACE/Update-Graphs.md"
 mkdir /tmp/graphs
 
 total_shlink=0
@@ -82,17 +83,16 @@ for app in $applist ;do
     
   #for every day since pi-apps epoch, a file is placed in this folder:
   folder="$GITHUB_WORKSPACE/daily clicks/${app}"
-  mkdir -p "$folder/install"
-  mkdir -p "$folder/uninstall"
 
   if [ ! -f "$folder/data.csv" ]; then
     # create folder header
-    echo "Date,Net Clicks,Install Clicks,Uninstall Clicks" > "$folder/data.csv"
+    echo "Date,Net Clicks,Install Clicks,Uninstall Clicks, Update Clicks" > "$folder/data.csv"
   fi
   
   install_clicks=0
   uninstall_clicks=0
   net_clicks=0
+  update_clicks=0
   
   #get number of clicks, 1 at a time.
   daysadd=0
@@ -122,10 +122,17 @@ for app in $applist ;do
     else
       exit 1
     fi
-    echo "$app $date $today_install_clicks,$today_uninstall_clicks"
-    # generate CSV of the data (data, net clicks, install clicks, uninstall clicks)
+    unset output
+    output="$(get_clicks "pi-apps-update-$name" "$date" "$date_end")"
+    if [ $? == 0 ];then
+      today_update_clicks="$(sed -n 1p <<<"$output")"
+    else
+      exit 1
+    fi
+    echo "$app $date $today_install_clicks,$today_uninstall_clicks,$today_update_clicks"
+    # generate CSV of the data (data, net clicks, install clicks, uninstall clicks, update clicks)
     net_clicks=$((today_install_clicks - today_uninstall_clicks))
-    echo "$date,$net_clicks,$today_install_clicks,$today_uninstall_clicks" >> "$folder/data.csv"
+    echo "$date,$net_clicks,$today_install_clicks,$today_uninstall_clicks,$today_update_clicks" >> "$folder/data.csv"
   done
   # save net clicks to plot
   app_simple=$(echo "$app" | sed -r "s/['\" ]+/-/g" | sed -r "s/[()]+//g")
@@ -142,7 +149,20 @@ for app in $applist ;do
     set datafile separator ','; 
     p 'data.csv' using 1:2 w filledcurve x1 fc \"#4ca724\" fs solid 0.7 t 'Net Installs',\
       'data.csv' using 1:2 w l lc rgb \"forest-green\" t ''"
+  cd "$folder" && gnuplot -e "set terminal pngcairo size 1000,300; 
+    set output '/tmp/graphs/$app_simple-updates-graph.png'; 
+    set xdata time; 
+    set timefmt '%Y-%m-%d'; 
+    set xrange ['2020-09-22':'$date']; 
+    set autoscale y; 
+    set title '$app_no_quote'; 
+    set xlabel 'Date'; 
+    set ylabel 'Updates'; 
+    set datafile separator ','; 
+    p 'data.csv' using 1:5 w filledcurve x1 fc \"#4ca724\" fs solid 0.7 t 'Updates',\
+      'data.csv' using 1:5 w l lc rgb \"forest-green\" t ''"
   echo "<img src=\"https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/${app_simple}-net-installs-graph.png\" alt=\"${app_simple}\"></br>" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
+  echo "<img src=\"https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/${app_simple}-updates-graph.png\" alt=\"${app_simple}\"></br>" >> "$GITHUB_WORKSPACE/Update-Graphs.md"
   cd "$GITHUB_WORKSPACE"
 
   # obtain the install clicks and uninstall clicks by summing the column of the CSV
