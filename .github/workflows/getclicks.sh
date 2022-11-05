@@ -16,33 +16,19 @@ rm -f "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
 mkdir /tmp/graphs
 
 total_shlink=0
-total_bitly=0
 
 get_clicks() {
   
   while true;do
-    #create bitly api url
-    url="https://api-ssl.bitly.com/v4/bitlinks/bit.ly/${1}/clicks/summary?unit=day&units=1&size=0&unit_reference=${2}T00:00:00-0000"
+    #create shlink api url
     url_shlink="https://pi-apps-analytics.linkpc.net/rest/v2/short-urls/${1}/visits?startDate=${2}T00%3A00%3A00&endDate=${3}T00%3A00%3A00"
-    
-    #get the data
-    output="$(curl -sSH "Authorization: Bearer $BITLY_KEY" -X GET "$url")"
-    
-    #exit if curl failed
-    if [ $? != 0 ];then
-      echo -e "\e[91mget_clicks: curl exited with an error\noutput: $output\e[39m\nWaiting 5 mins..." 1>&2
-      sleep 5m
-    fi
-    
-    #determine number of clicks
-    clickstoday="$(echo "$output" | tr ',' '\n' | grep total_clicks | awk -F: '{print $2}')"
 
     # get clicks for 1 day range from pi-apps shlink server
     clickstoday_shlink="$(curl --retry 5 -sS -X 'GET' "$url_shlink" -H 'accept: application/json' -H "X-Api-Key: $SHLINK_KEY" | jq -r 'first( .visits | .pagination | .totalItems )')"
 
-    # for debuggging/testing print clickstoday_shlink to stderr (should not affect calculations)
-    # remove once testing has been completed
-    echo "$1 (date range: $2 to $3) $clickstoday_shlink" >/dev/stderr    
+    # # for debuggging/testing print clickstoday_shlink to stderr (should not affect calculations)
+    # # remove once testing has been completed
+    # echo "$1 (date range: $2 to $3) $clickstoday_shlink" >/dev/stderr
 
     # null output can only mean that the URL does not exist and is not a valid endpoint
     # urls are automatically added, so if a URL is not available then the server must be offline and we do not want to collect data
@@ -50,33 +36,18 @@ get_clicks() {
       echo -e "\e[91mCould not find the corresponding URL, is the server offline? Trying again.\e[39m" 1>&2
       sleep 10
       continue
-    fi  
-    
-    if [ -z "$clickstoday" ];then
-      echo -e "\e[91mClicks not found for $name\nURL: $url\nOutput: $output\e[39m\nNot going to check anymore (incase the bitly link does not exist)..." 1>&2
-      clickstoday=0
-      break
     else
       #clicks acquired.
       break #exit the loop
     fi
   done
-  #echo "$url"
 
-  # combined shlink and bitly install/uninstall daily numbers (used for transition period and eventually bitly will be removed)
-  total_clickstoday=$(($clickstoday + $clickstoday_shlink))
-  echo "$total_clickstoday"
-  #echo "$output"
+  echo "$clickstoday_shlink"
 
-  # for debug purposes, track the total number of clicks on shlink and bitly
-  # when the number of click on bitly have dropped to a very low ammount, it can be removed from this script
+  # for debug purposes, track the total number of clicks on shlink
   total_shlink=$(($total_shlink + $clickstoday_shlink))
-  total_bitly=$(($total_bitly + $clickstoday))
   echo "$total_shlink"
-  echo "$total_bitly"
 
-  #on fourth line, return if bitly can't return daily metrics anymore
-  echo "$output" | grep -o limited
   true
 }
 [ "$1" == source ] && return 0
@@ -140,13 +111,6 @@ for app in $applist ;do
     if [ $? == 0 ];then
       today_install_clicks="$(sed -n 1p <<<"$output")"
       total_shlink="$(sed -n 2p <<<"$output")"
-      total_bitly="$(sed -n 3p <<<"$output")"
-      limited="$(sed -n 4p <<<"$output")"
-      
-      #if bitly says "Metrics data limited to after", then $installclicks is a total, not a one-day count
-      if [ "$limited" == limited ];then
-        today_install_clicks=$((today_install_clicks - install_clicks))
-      fi
     else
       exit 1
     fi
@@ -155,13 +119,6 @@ for app in $applist ;do
     if [ $? == 0 ];then
       today_uninstall_clicks="$(sed -n 1p <<<"$output")"
       total_shlink="$(sed -n 2p <<<"$output")"
-      total_bitly="$(sed -n 3p <<<"$output")"
-      limited="$(sed -n 4p <<<"$output")"
-      
-      #if bitly says "Metrics data limited to after", then $installclicks is a total, not a one-day count
-      if [ "$limited" == limited ];then
-        today_uninstall_clicks=$((today_uninstall_clicks - uninstall_clicks))
-      fi
     else
       exit 1
     fi
@@ -199,8 +156,8 @@ for app in $applist ;do
   
 done
 
-# print debug output for total bitly and shlink clicks
-echo "total_shlink: $total_shlink, total_bitly: $total_bitly"
+# print debug output for total shlink clicks
+echo "total_shlink: $total_shlink"
 
 # FIXME: total numbers can no longer be collected in this way. we need to read from all the CSVs and combine their data and plot the sum
 # paste -d+ $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-numbers | bc > $GITHUB_WORKSPACE/net-installs-total
