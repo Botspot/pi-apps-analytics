@@ -86,7 +86,7 @@ for app in $applist ;do
 
   if [ ! -f "$folder/data.csv" ]; then
     # create folder header
-    echo "Date,Net Clicks,Install Clicks,Uninstall Clicks, Update Clicks" > "$folder/data.csv"
+    echo "Date,Net Clicks,Install Clicks,Uninstall Clicks,Update Clicks" > "$folder/data.csv"
   fi
   
   install_clicks=0
