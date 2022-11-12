@@ -149,11 +149,12 @@ for app in $applist ;do
     set datafile separator ','; 
     p 'data.csv' using 1:2 w filledcurve x1 fc \"#4ca724\" fs solid 0.7 t 'Net Installs',\
       'data.csv' using 1:2 w l lc rgb \"forest-green\" t ''"
+  date_begin="$(date --date "$date-14 days" '+%C%y-%m-%d')"
   cd "$folder" && gnuplot -e "set terminal pngcairo size 1000,300; 
     set output '/tmp/graphs/$app_simple-updates-graph.png'; 
     set xdata time; 
     set timefmt '%Y-%m-%d'; 
-    set xrange ['2020-09-22':'$date']; 
+    set xrange ['$date_begin':'$date']; 
     set autoscale y; 
     set title '$app_no_quote'; 
     set xlabel 'Date'; 
