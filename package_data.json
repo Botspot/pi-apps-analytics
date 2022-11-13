@@ -113,7 +113,7 @@
   },
   {
     "Name": "BalenaEtcher",
-    "Version": "",
+    "Version": "1.10.0",
     "Description": "Flash SD cards with a disk image. Many file types supported.",
     "URL": "https://www.raspberrypi.org/forums/viewtopic.php?f=62&t=255205&start=25#p1564958",
     "Architecture": "ARM32/ARM64",
