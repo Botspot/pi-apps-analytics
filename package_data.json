@@ -553,7 +553,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.20.0",
+    "Version": "2.20.2",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -1129,7 +1129,7 @@
   },
   {
     "Name": "Reaper",
-    "Version": "669",
+    "Version": "670",
     "Description": "REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.",
     "URL": "https://reaper.fm",
     "Architecture": "ARM32/ARM64",
@@ -1441,7 +1441,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.2.19",
+    "Version": "4.2.20",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
