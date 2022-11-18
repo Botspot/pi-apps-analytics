@@ -794,7 +794,7 @@
   {
     "Name": "Minecraft Java GDLauncher",
     "Version": "",
-    "Description": "GDLauncher is simple, yet powerful Minecraft launcher with a strong focus on the user experience. Includes Microsoft, Mojang, and PC GamePass Account support as well as CurseForge Mod and Modpack installation. This is a CUSTOM BUILD of GDLauncher for ARM32/ARM64 support.",
+    "Description": "GDLauncher is simple, yet powerful Minecraft launcher with a strong focus on the user experience. This is a CUSTOM BUILD of GDLauncher for ARM32/ARM64 support.",
     "URL": "https://gdevs.io/",
     "Architecture": "ARM32/ARM64",
     "Users": "595"
@@ -802,7 +802,7 @@
   {
     "Name": "Minecraft Java Lunar",
     "Version": "",
-    "Description": "Lunar Client is an all-in-one modpack integrated Launcher available for ONLY popular versions of Minecraft \r",
+    "Description": "Lunar Client is an all-in-one modpack integrated Launcher available for ONLY popular versions of Minecraft.\r",
     "URL": "https://www.lunarclient.com/",
     "Architecture": "ARM32/ARM64",
     "Users": "40183"
@@ -810,7 +810,7 @@
   {
     "Name": "Minecraft Java MultiMC5",
     "Version": "",
-    "Description": "CUSTOM BUILD of MultiMC5/Launcher code for ARMhf/ARM64 support. Includes Microsoft, Mojang, and PC GamePass Account support. This launcher allows you to easily manage multiple instances of minecraft and your mods at once.",
+    "Description": "CUSTOM BUILD of MultiMC5/Launcher. MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface. ",
     "URL": "https://github.com/MultiMC/Launcher",
     "Architecture": "ARM32/ARM64",
     "Users": "10216"
