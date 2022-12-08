@@ -1657,7 +1657,7 @@
   },
   {
     "Name": "eDEX-UI",
-    "Version": "2.2.8",
+    "Version": "",
     "Description": "Futuristic hacker terminal",
     "URL": "https://github.com/GitSquared/edex-ui",
     "Architecture": "ARM32/ARM64",
