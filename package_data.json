@@ -73,7 +73,7 @@
   },
   {
     "Name": "ArmCord",
-    "Version": "3.1.0",
+    "Version": "3.1.1",
     "Description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://github.com/ArmCord/ArmCord",
     "Architecture": "ARM32/ARM64",
@@ -321,7 +321,7 @@
   },
   {
     "Name": "DDNet",
-    "Version": "16.5",
+    "Version": "16.6",
     "Description": "DDRaceNetwork is a 2D cooperative platformer experience. Work together with up to 64 people and push your way through maps.",
     "URL": "https://ddnet.tw/",
     "Architecture": "ARM32/ARM64",
@@ -481,7 +481,7 @@
   },
   {
     "Name": "Flow",
-    "Version": "ekioh_6.6.0_raspberry-pi64-flow_20221102_r37894",
+    "Version": "ekioh_6.7.0_raspberry-pi64-flow_20221207_r38069",
     "Description": "High-performance browser built from the ground up without relying on Chromium.",
     "URL": "https://www.ekioh.com/flow-browser/",
     "Architecture": "ARM32/ARM64",
@@ -1329,7 +1329,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.35.1",
+    "Version": "1.36.0",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1441,7 +1441,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.3.6-patch1",
+    "Version": "4.3.7-patch1",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1465,7 +1465,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.73.1.22314",
+    "Version": "1.74.0.22342",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
@@ -1577,7 +1577,7 @@
   },
   {
     "Name": "WorldPainter",
-    "Version": "2.15.14",
+    "Version": "2.15.16",
     "Description": "WorldPainter is an interactive map generator for Minecraft.",
     "URL": "https://www.worldpainter.net/",
     "Architecture": "ARM32/ARM64",
