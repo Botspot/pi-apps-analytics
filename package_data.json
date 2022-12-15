@@ -1441,7 +1441,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.3.7-patch1",
+    "Version": "4.3.8",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1465,7 +1465,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.74.0.22342",
+    "Version": "1.74.1.22349",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
