@@ -73,7 +73,7 @@
   },
   {
     "Name": "ArmCord",
-    "Version": "3.1.0",
+    "Version": "3.1.2",
     "Description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://github.com/ArmCord/ArmCord",
     "Architecture": "ARM32/ARM64",
@@ -1441,7 +1441,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.3.8",
+    "Version": "4.3.9-patch1",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
