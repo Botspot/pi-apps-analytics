@@ -41,7 +41,7 @@
   },
   {
     "Name": "Angry IP scanner",
-    "Version": "3.8.2",
+    "Version": "3.9.0",
     "Description": "Scans local networks as well as Internet",
     "URL": "https://angryip.org",
     "Architecture": "ARM32/ARM64",
@@ -625,7 +625,7 @@
   },
   {
     "Name": "Intellij IDEA",
-    "Version": "2022.3",
+    "Version": "2022.3.1",
     "Description": "IntelliJ IDEA is an IDE designed to maximize developer productivity.",
     "URL": "https://www.jetbrains.com/idea/",
     "Architecture": "ARM32/ARM64",
@@ -1129,7 +1129,7 @@
   },
   {
     "Name": "Reaper",
-    "Version": "671",
+    "Version": "672",
     "Description": "REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.",
     "URL": "https://reaper.fm",
     "Architecture": "ARM32/ARM64",
@@ -1441,7 +1441,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.3.9-patch1",
+    "Version": "4.3.10",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
