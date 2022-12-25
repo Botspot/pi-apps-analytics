@@ -625,7 +625,7 @@
   },
   {
     "Name": "Intellij IDEA",
-    "Version": "2022.3.1",
+    "Version": "2022.1.4",
     "Description": "IntelliJ IDEA is an IDE designed to maximize developer productivity.",
     "URL": "https://www.jetbrains.com/idea/",
     "Architecture": "ARM32/ARM64",
@@ -1105,7 +1105,7 @@
   },
   {
     "Name": "Pycharm CE",
-    "Version": "2022.3",
+    "Version": "2022.1.4",
     "Description": "Python Community Edition IDE for Professional and Educational Developers.",
     "URL": "https://www.jetbrains.com/pycharm/",
     "Architecture": "ARM32/ARM64",
