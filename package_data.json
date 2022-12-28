@@ -1329,7 +1329,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.37.1",
+    "Version": "1.38.0",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1537,7 +1537,7 @@
   },
   {
     "Name": "WhatsApp",
-    "Version": "11.0",
+    "Version": "12.0",
     "Description": "Nativefier Whatsapp Web webapp",
     "URL": "no website",
     "Architecture": "ARM32/ARM64",
