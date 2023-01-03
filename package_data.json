@@ -892,7 +892,7 @@
     "Version": "",
     "Description": "An aesthetically pleasing bash script to show system information.",
     "URL": "https://github.com/dylanaraps/neofetch",
-    "Architecture": "package",
+    "Architecture": "ARM32/ARM64",
     "Users": "24007"
   },
   {
