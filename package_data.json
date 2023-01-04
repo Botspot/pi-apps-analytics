@@ -313,7 +313,7 @@
   },
   {
     "Name": "Cura",
-    "Version": "4.20.9",
+    "Version": "4.20.10",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/smartavionics/Cura",
     "Architecture": "ARM32/ARM64",
@@ -553,7 +553,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.21.1",
+    "Version": "2.21.2",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -1401,7 +1401,7 @@
   },
   {
     "Name": "Tor",
-    "Version": "11.5.8",
+    "Version": "12.0",
     "Description": "The Tor Browser is a web broswer that anonymizes your web traffic using the Tor network, making it easy to protect your identity online.",
     "URL": "https://sourceforge.net/projects/tor-browser-ports/files/",
     "Architecture": "ARM32/ARM64",
@@ -1441,7 +1441,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.3.13",
+    "Version": "4.3.15",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1537,7 +1537,7 @@
   },
   {
     "Name": "WhatsApp",
-    "Version": "12.0",
+    "Version": "13.0",
     "Description": "Nativefier Whatsapp Web webapp",
     "URL": "no website",
     "Architecture": "ARM32/ARM64",
@@ -1577,7 +1577,7 @@
   },
   {
     "Name": "WorldPainter",
-    "Version": "2.15.16",
+    "Version": "2.15.17",
     "Description": "WorldPainter is an interactive map generator for Minecraft.",
     "URL": "https://www.worldpainter.net/",
     "Architecture": "ARM32/ARM64",
