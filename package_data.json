@@ -1056,6 +1056,14 @@
     "Users": "1822"
   },
   {
+    "Name": "Pixelorama",
+    "Version": "",
+    "Description": "Pixelorama is a free and open source pixel art editor, proudly created with the Godot Engine, by Orama Interactive.",
+    "URL": "https://orama-interactive.itch.io/pixelorama",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Powerline-Shell",
     "Version": "",
     "Description": "A beautiful and useful prompt generator for Bash, ZSH, Fish, and tcsh:",
