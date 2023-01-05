@@ -1449,7 +1449,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.3.16",
+    "Version": "4.3.17",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1585,7 +1585,7 @@
   },
   {
     "Name": "WorldPainter",
-    "Version": "2.15.17",
+    "Version": "2.15.18",
     "Description": "WorldPainter is an interactive map generator for Minecraft.",
     "URL": "https://www.worldpainter.net/",
     "Architecture": "ARM32/ARM64",
