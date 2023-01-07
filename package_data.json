@@ -1177,7 +1177,7 @@
   },
   {
     "Name": "Scrcpy",
-    "Version": "",
+    "Version": "v1.25",
     "Description": "Connect and control your Android smartphone.",
     "URL": "https://github.com/Genymobile/scrcpy",
     "Architecture": "ARM32/ARM64",
