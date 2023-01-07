@@ -874,9 +874,9 @@
   {
     "Name": "MuseScore",
     "Version": "",
-    "Description": "Professional music notation software",
+    "Description": "Professional music notation software - LATEST MuseScore 4!",
     "URL": "https://musescore.org",
-    "Architecture": "package",
+    "Architecture": "ARM32/ARM64",
     "Users": "1414"
   },
   {
