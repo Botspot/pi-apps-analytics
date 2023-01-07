@@ -83,6 +83,7 @@ for app in $applist ;do
     
   #for every day since pi-apps epoch, a file is placed in this folder:
   folder="$GITHUB_WORKSPACE/daily clicks/${app}"
+  [ ! -d "$folder" ] && mkdir -p "$folder"
 
   if [ ! -f "$folder/data.csv" ]; then
     # create folder header
