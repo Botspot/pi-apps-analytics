@@ -68,6 +68,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-net-installs-graph.png" alt="Geekbench"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-Desktop-net-installs-graph.png" alt="Github-Desktop"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-CLI-net-installs-graph.png" alt="Github-CLI"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Gnome-Builder-IDE-net-installs-graph.png" alt="Gnome-Builder-IDE"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Godot-net-installs-graph.png" alt="Godot"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Guake-Terminal-net-installs-graph.png" alt="Guake-Terminal"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/HTTrack-Website-Copier-net-installs-graph.png" alt="HTTrack-Website-Copier"></br>
