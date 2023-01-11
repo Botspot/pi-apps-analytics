@@ -1185,7 +1185,7 @@
   },
   {
     "Name": "Scrcpy",
-    "Version": "v1.24",
+    "Version": "v1.25",
     "Description": "Connect and control your Android smartphone.",
     "URL": "https://github.com/Genymobile/scrcpy",
     "Architecture": "ARM32/ARM64",
@@ -1345,7 +1345,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.39.0",
+    "Version": "1.39.1",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1457,7 +1457,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.3.17",
+    "Version": "4.3.19",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1481,7 +1481,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.74.2.22355",
+    "Version": "1.74.3.23010",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
