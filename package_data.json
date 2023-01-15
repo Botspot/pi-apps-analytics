@@ -185,7 +185,7 @@
   },
   {
     "Name": "Boxy SVG",
-    "Version": "",
+    "Version": "3.95.4.zip",
     "Description": "The best vector graphics image editor for Raspberry Pi.",
     "URL": "https://github.com/Botspot/Boxy-SVG-RPi",
     "Architecture": "ARM32/ARM64",
