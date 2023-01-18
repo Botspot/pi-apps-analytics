@@ -321,7 +321,7 @@
   },
   {
     "Name": "DDNet",
-    "Version": "16.7",
+    "Version": "16.7.1",
     "Description": "DDRaceNetwork is a 2D cooperative platformer experience. Work together with up to 64 people and push your way through maps.",
     "URL": "https://ddnet.org/",
     "Architecture": "ARM32/ARM64",
@@ -537,7 +537,7 @@
   },
   {
     "Name": "Geekbench",
-    "Version": "5.4.4",
+    "Version": "5.5.0",
     "Description": "Geekbench 5 is a cross-platform benchmark that measures your system's performance with the press of a button. ",
     "URL": "https://www.geekbench.com/",
     "Architecture": "ARM32/ARM64",
@@ -1081,7 +1081,7 @@
   },
   {
     "Name": "Processing IDE",
-    "Version": "processing-1289-4.1.1",
+    "Version": "processing-1290-4.1.2",
     "Description": "Simple Java IDE",
     "URL": "https://processing.org/",
     "Architecture": "ARM32/ARM64",
@@ -1449,7 +1449,7 @@
   },
   {
     "Name": "Ulauncher",
-    "Version": "5.15.0",
+    "Version": "5.15.1",
     "Description": "All-in-one application launcher, Google search engine, calculator, file manager...",
     "URL": "https://ulauncher.io/",
     "Architecture": "ARM32/ARM64",
@@ -1457,7 +1457,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.3.20",
+    "Version": "4.4.2",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
