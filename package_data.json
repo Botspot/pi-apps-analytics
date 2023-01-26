@@ -698,8 +698,8 @@
   {
     "Name": "LibrePCB",
     "Version": "",
-    "Description": "Develop printed circuit boards.",
-    "URL": "https://librepcb.discourse.group/t/how-to-install-librepcb-on-a-raspberry-pi/212",
+    "Description": "LibrePCB is a free, cross-platform, easy-to-use electronic design automation suite to draw schematics and design printed circuit boards – for makers, students and professionals, from beginners to experts.",
+    "URL": "https://librepcb.org/",
     "Architecture": "ARM64",
     "Users": "2908"
   },
