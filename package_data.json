@@ -137,7 +137,7 @@
   },
   {
     "Name": "BlockBench",
-    "Version": "4.6.1",
+    "Version": "4.6.4",
     "Description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
     "URL": "https://github.com/JannisX11/blockbench",
     "Architecture": "ARM32/ARM64",
@@ -1097,7 +1097,7 @@
   },
   {
     "Name": "PrusaSlicer",
-    "Version": "2.6.0-alpha2",
+    "Version": "2.6.0-alpha3",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/davidk/PrusaSlicer-ARM.AppImage",
     "Architecture": "ARM32/ARM64",
@@ -1145,7 +1145,7 @@
   },
   {
     "Name": "Reaper",
-    "Version": "673",
+    "Version": "675",
     "Description": "REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.",
     "URL": "https://reaper.fm",
     "Architecture": "ARM32/ARM64",
@@ -1457,7 +1457,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.4.9",
+    "Version": "4.4.12",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1609,7 +1609,7 @@
   },
   {
     "Name": "XSnow",
-    "Version": "3.7.0~pre02",
+    "Version": "3.7.0~pre04",
     "Description": "This turns your desktop wallpaper into an animated winter wonderland!",
     "URL": "https://www.ratrabbit.nl/ratrabbit/xsnow/",
     "Architecture": "ARM32/ARM64",
