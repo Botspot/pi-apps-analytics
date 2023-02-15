@@ -41,7 +41,7 @@
   },
   {
     "Name": "Angry IP scanner",
-    "Version": "3.9.0",
+    "Version": "3.9.1",
     "Description": "Scans local networks as well as Internet",
     "URL": "https://angryip.org",
     "Architecture": "ARM32/ARM64",
@@ -553,7 +553,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.22.1",
+    "Version": "2.23.0",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -1081,7 +1081,7 @@
   },
   {
     "Name": "Processing IDE",
-    "Version": "processing-1290-4.1.2",
+    "Version": "processing-1291-4.1.3",
     "Description": "Simple Java IDE",
     "URL": "https://processing.org/",
     "Architecture": "ARM32/ARM64",
@@ -1457,7 +1457,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.4.12",
+    "Version": "4.4.15",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1481,7 +1481,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.75.0.23033",
+    "Version": "1.75.1.23040",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
