@@ -913,7 +913,7 @@
   },
   {
     "Name": "Node.js",
-    "Version": "v19.6.0",
+    "Version": "v19.7.0",
     "Description": "JavaScript code outside a web browser.",
     "URL": "https://nodesource.com/",
     "Architecture": "ARM32/ARM64",
@@ -1081,7 +1081,7 @@
   },
   {
     "Name": "Processing IDE",
-    "Version": "processing-1291-4.1.3",
+    "Version": "processing-1292-4.2",
     "Description": "Simple Java IDE",
     "URL": "https://processing.org/",
     "Architecture": "ARM32/ARM64",
@@ -1097,7 +1097,7 @@
   },
   {
     "Name": "PrusaSlicer",
-    "Version": "2.6.0-alpha3",
+    "Version": "2.6.0-alpha4",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/davidk/PrusaSlicer-ARM.AppImage",
     "Architecture": "ARM32/ARM64",
@@ -1345,7 +1345,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.40.0",
+    "Version": "1.41.0",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1417,7 +1417,7 @@
   },
   {
     "Name": "Tor",
-    "Version": "12.0.2",
+    "Version": "12.0.3",
     "Description": "The Tor Browser is a web broswer that anonymizes your web traffic using the Tor network, making it easy to protect your identity online.",
     "URL": "https://sourceforge.net/projects/tor-browser-ports/files/",
     "Architecture": "ARM32/ARM64",
@@ -1457,7 +1457,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.4.15",
+    "Version": "4.4.18",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
