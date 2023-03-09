@@ -1560,14 +1560,6 @@
     "Users": "6952"
   },
   {
-    "Name": "Windows 10 Theme",
-    "Version": "",
-    "Description": "Make Raspberry Pi OS look as close to Windows 10 as possible.",
-    "URL": "https://github.com/Botspot/Windows-10",
-    "Architecture": "ARM32",
-    "Users": "12983"
-  },
-  {
     "Name": "Windows Flasher",
     "Version": "",
     "Description": "Install Windows 10 or Windows 11 on a Raspberry Pi SD card.",

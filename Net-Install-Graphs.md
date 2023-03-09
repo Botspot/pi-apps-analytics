@@ -193,7 +193,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Web-Apps-net-installs-graph.png" alt="Web-Apps"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wechat-net-installs-graph.png" alt="Wechat"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WhatsApp-net-installs-graph.png" alt="WhatsApp"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-10-Theme-net-installs-graph.png" alt="Windows-10-Theme"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-Flasher-net-installs-graph.png" alt="Windows-Flasher"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-Screensavers-net-installs-graph.png" alt="Windows-Screensavers"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wine-x86-net-installs-graph.png" alt="Wine-x86"></br>
