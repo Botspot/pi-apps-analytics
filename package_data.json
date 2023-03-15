@@ -73,7 +73,7 @@
   },
   {
     "Name": "ArmCord",
-    "Version": "3.1.6",
+    "Version": "3.1.7",
     "Description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://github.com/ArmCord/ArmCord",
     "Architecture": "ARM32/ARM64",
@@ -137,7 +137,7 @@
   },
   {
     "Name": "BlockBench",
-    "Version": "4.6.4",
+    "Version": "4.6.5",
     "Description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
     "URL": "https://github.com/JannisX11/blockbench",
     "Architecture": "ARM32/ARM64",
@@ -481,7 +481,7 @@
   },
   {
     "Name": "Flow",
-    "Version": "ekioh_6.7.0_raspberry-pi64-flow_20221207_r38069",
+    "Version": "ekioh_6.9.0_raspberry-pi64-flow_20230307_r38512",
     "Description": "High-performance browser built from the ground up without relying on Chromium.",
     "URL": "https://www.ekioh.com/flow-browser/",
     "Architecture": "ARM32/ARM64",
@@ -553,7 +553,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.23.0",
+    "Version": "2.24.3",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -777,7 +777,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.0.49",
+    "Version": "1.0.53",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -1097,7 +1097,7 @@
   },
   {
     "Name": "PrusaSlicer",
-    "Version": "2.6.0-alpha4",
+    "Version": "2.6.0-alpha5",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/davidk/PrusaSlicer-ARM.AppImage",
     "Architecture": "ARM32/ARM64",
@@ -1145,7 +1145,7 @@
   },
   {
     "Name": "Reaper",
-    "Version": "676",
+    "Version": "678",
     "Description": "REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.",
     "URL": "https://reaper.fm",
     "Architecture": "ARM32/ARM64",
@@ -1201,7 +1201,7 @@
   },
   {
     "Name": "Shattered Pixel Dungeon",
-    "Version": "1.4.3",
+    "Version": "2.0.0",
     "Description": "Shattered Pixel Dungeon is a Roguelike Dungeon Crawler RPG with pixel art graphics.",
     "URL": "https://shatteredpixel.com/",
     "Architecture": "ARM32/ARM64",
@@ -1345,7 +1345,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.42.0",
+    "Version": "1.43.0",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1457,7 +1457,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.5.1",
+    "Version": "4.5.8",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1481,7 +1481,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.75.1.23040",
+    "Version": "1.76.1.23069",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
@@ -1553,7 +1553,7 @@
   },
   {
     "Name": "WhatsApp",
-    "Version": "14.0",
+    "Version": "15.0",
     "Description": "Nativefier Whatsapp Web webapp",
     "URL": "no website",
     "Architecture": "ARM32/ARM64",
@@ -1585,7 +1585,7 @@
   },
   {
     "Name": "WorldPainter",
-    "Version": "2.15.18",
+    "Version": "2.16.0",
     "Description": "WorldPainter is an interactive map generator for Minecraft.",
     "URL": "https://www.worldpainter.net/",
     "Architecture": "ARM32/ARM64",
