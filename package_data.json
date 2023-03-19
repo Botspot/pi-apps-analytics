@@ -913,7 +913,7 @@
   },
   {
     "Name": "Node.js",
-    "Version": "v19.7.0",
+    "Version": "v19.8.1",
     "Description": "JavaScript code outside a web browser.",
     "URL": "https://nodesource.com/",
     "Architecture": "ARM32/ARM64",
@@ -1097,7 +1097,7 @@
   },
   {
     "Name": "PrusaSlicer",
-    "Version": "2.6.0-alpha5",
+    "Version": "2.5.1",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/davidk/PrusaSlicer-ARM.AppImage",
     "Architecture": "ARM32/ARM64",
@@ -1457,7 +1457,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.5.8",
+    "Version": "4.5.10",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1481,7 +1481,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.76.1.23069",
+    "Version": "1.76.2.23074",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
