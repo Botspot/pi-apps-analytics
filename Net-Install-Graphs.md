@@ -22,6 +22,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box64-net-installs-graph.png" alt="Box64"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box86-net-installs-graph.png" alt="Box86"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Boxy-SVG-net-installs-graph.png" alt="Boxy-SVG"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Brave-Browser-net-installs-graph.png" alt="Brave-Browser"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Browsh-net-installs-graph.png" alt="Browsh"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Caprine-net-installs-graph.png" alt="Caprine"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cawbird-net-installs-graph.png" alt="Cawbird"></br>

@@ -192,6 +192,14 @@
     "Users": "3769"
   },
   {
+    "Name": "Brave Browser",
+    "Version": "",
+    "Description": "The new Brave browser blocks ads and trackers that slow you down and invade your privacy.",
+    "URL": "",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Browsh",
     "Version": "1.8.2",
     "Description": "The modern text-based terminal browser.",
