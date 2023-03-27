@@ -170,7 +170,7 @@
   {
     "Name": "Box64",
     "Version": "",
-    "Description": "Easily emulate x86_64 linux apps on Raspberry Pi.",
+    "Description": "Easily emulate x86_64 linux apps on ARM64.",
     "URL": "https://github.com/ptitSeb/box64",
     "Architecture": "ARM64",
     "Users": "11190"
@@ -178,7 +178,7 @@
   {
     "Name": "Box86",
     "Version": "",
-    "Description": "Easily emulate x86 linux apps on Raspberry Pi.",
+    "Description": "Easily emulate x86 linux apps on ARM32.",
     "URL": "https://github.com/ptitSeb/box86",
     "Architecture": "ARM32/ARM64",
     "Users": "58711"
