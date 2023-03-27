@@ -1274,9 +1274,9 @@
   {
     "Name": "Steam",
     "Version": "",
-    "Description": "This emulates the x86_32bit Linux version of Steam using Box86.",
-    "URL": "https://www.tomshardware.com/how-to/raspberry-pi-install-steam",
-    "Architecture": "ARM32",
+    "Description": "This emulates the Linux x86_64 version of Steam using Box86 and Box64.",
+    "URL": "",
+    "Architecture": "ARM64",
     "Users": "17989"
   },
   {
