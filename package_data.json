@@ -195,7 +195,7 @@
     "Name": "Brave Browser",
     "Version": "",
     "Description": "The new Brave browser blocks ads and trackers that slow you down and invade your privacy.",
-    "URL": "",
+    "URL": "https://brave.com/",
     "Architecture": "ARM64",
     "Users": "0"
   },
