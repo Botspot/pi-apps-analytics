@@ -22,7 +22,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box64-updates-graph.png" alt="Box64"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box86-updates-graph.png" alt="Box86"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Boxy-SVG-updates-graph.png" alt="Boxy-SVG"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Brave-Browser-updates-graph.png" alt="Brave-Browser"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Brave-updates-graph.png" alt="Brave"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Browsh-updates-graph.png" alt="Browsh"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Caprine-updates-graph.png" alt="Caprine"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cawbird-updates-graph.png" alt="Cawbird"></br>
@@ -44,7 +44,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Descent-1-updates-graph.png" alt="Descent-1"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Descent-2-updates-graph.png" alt="Descent-2"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Deskreen-updates-graph.png" alt="Deskreen"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Discord-updates-graph.png" alt="Discord"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Disk-Usage-Analyzer-updates-graph.png" alt="Disk-Usage-Analyzer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Doom-3-updates-graph.png" alt="Doom-3"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Dot-Matrix-updates-graph.png" alt="Dot-Matrix"></br>
@@ -192,6 +191,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WPS-Office-updates-graph.png" alt="WPS-Office"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Waveform-updates-graph.png" alt="Waveform"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Web-Apps-updates-graph.png" alt="Web-Apps"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Webcord-updates-graph.png" alt="Webcord"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wechat-updates-graph.png" alt="Wechat"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WhatsApp-updates-graph.png" alt="WhatsApp"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-Flasher-updates-graph.png" alt="Windows-Flasher"></br>

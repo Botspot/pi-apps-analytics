@@ -192,12 +192,12 @@
     "Users": "3771"
   },
   {
-    "Name": "Brave Browser",
+    "Name": "Brave",
     "Version": "",
     "Description": "The new Brave browser blocks ads and trackers that slow you down and invade your privacy.",
     "URL": "https://brave.com/",
     "Architecture": "ARM64",
-    "Users": "1"
+    "Users": "0"
   },
   {
     "Name": "Browsh",
@@ -366,14 +366,6 @@
     "URL": "https://deskreen.com/",
     "Architecture": "ARM32/ARM64",
     "Users": "1896"
-  },
-  {
-    "Name": "Discord",
-    "Version": "3.10.2",
-    "Description": "Fast Discord client for ARM that mimics the official Discord client.",
-    "URL": "https://github.com/SpacingBat3/WebCord/",
-    "Architecture": "ARM32/ARM64",
-    "Users": "34749"
   },
   {
     "Name": "Disk Usage Analyzer",
@@ -1550,6 +1542,14 @@
     "URL": "https://itsfoss.com/web-app-manager-linux-mint/",
     "Architecture": "ARM32/ARM64",
     "Users": "5693"
+  },
+  {
+    "Name": "Webcord",
+    "Version": "3.10.2",
+    "Description": "Fast Discord client for ARM that mimics the official Discord client.",
+    "URL": "https://github.com/SpacingBat3/WebCord/",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
   },
   {
     "Name": "Wechat",
