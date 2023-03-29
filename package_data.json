@@ -609,7 +609,7 @@
   },
   {
     "Name": "Hyper",
-    "Version": "3.2.3",
+    "Version": "3.4.1",
     "Description": "A modern electron terminal",
     "URL": "https://hyper.is",
     "Architecture": "ARM32/ARM64",
@@ -1345,7 +1345,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.43.0",
+    "Version": "1.43.1",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1457,7 +1457,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.5.11",
+    "Version": "4.5.14",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1609,7 +1609,7 @@
   },
   {
     "Name": "XSnow",
-    "Version": "3.7.1",
+    "Version": "3.7.4~pre04",
     "Description": "This turns your desktop wallpaper into an animated winter wonderland!",
     "URL": "https://www.ratrabbit.nl/ratrabbit/xsnow/",
     "Architecture": "ARM32/ARM64",
