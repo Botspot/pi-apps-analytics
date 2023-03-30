@@ -1705,9 +1705,9 @@
   },
   {
     "Name": "tldr",
-    "Version": "",
+    "Version": "1.6.1",
     "Description": "The tldr project is a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages.",
-    "URL": "https://github.com/dbrgn/tealdeer",
+    "URL": "https://dbrgn.github.io/tealdeer",
     "Architecture": "ARM32/ARM64",
     "Users": "2473"
   }
