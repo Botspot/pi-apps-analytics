@@ -445,7 +445,7 @@
     "Description": "Epiphany is a lightweight web browser based on the WebKit rendering engine. It is also known as GNOME Web.",
     "URL": "https://gitlab.gnome.org/GNOME/epiphany",
     "Architecture": "package",
-    "Users": "4386"
+    "Users": "4240"
   },
   {
     "Name": "FF Multi Converter",
@@ -461,7 +461,7 @@
     "Description": "Download and upload files via FTP, FTPS, and HTTP",
     "URL": "https://filezilla-project.org/",
     "Architecture": "package",
-    "Users": "8827"
+    "Users": "8681"
   },
   {
     "Name": "Firefox Rapid Release",
@@ -525,7 +525,7 @@
     "Description": "Graphically manage disk partitions",
     "URL": "https://gparted.org",
     "Architecture": "package",
-    "Users": "48590"
+    "Users": "43280"
   },
   {
     "Name": "Geany Dark Mode",
@@ -1669,7 +1669,7 @@
     "Description": "ckb-next is an open-source Linux driver for Corsair keyboards and mice.",
     "URL": "https://github.com/ckb-next/ckb-next",
     "Architecture": "package",
-    "Users": "262"
+    "Users": "197"
   },
   {
     "Name": "eDEX-UI",

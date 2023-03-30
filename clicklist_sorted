@@ -2,7 +2,7 @@
 136125 Imager
 69653 LibreOffice
 58897 Box86
-48590 GParted
+43280 GParted
 42543 Wine (x86)
 41193 Minecraft Java Lunar
 37244 Minecraft Pi (Modded)
@@ -54,7 +54,7 @@
 10004 Scrcpy
 9455 Audacity
 9249 AndroidBuddy
-8827 Filezilla
+8681 Filezilla
 8352 Cura
 8345 Notepad ++
 8293 USBImager
@@ -95,7 +95,7 @@
 4514 Geekbench
 4469 Minecraft Java Server
 4425 CloudBuddy
-4386 Epiphany
+4240 Epiphany
 4195 Discord
 4182 Conky Rings
 4077 BlockPi
@@ -205,8 +205,8 @@
 404 Notejot
 288 Project OutFox
 276 Dot Matrix
-262 ckb-next
 241 Ducopanel
+197 ckb-next
 197 Renoise (Demo)
 158 Sphero SDK
 156 StepMania
