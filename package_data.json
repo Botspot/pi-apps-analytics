@@ -553,7 +553,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.25.1",
+    "Version": "2.26.1",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -777,7 +777,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.0.54",
+    "Version": "1.0.58",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -1097,7 +1097,7 @@
   },
   {
     "Name": "PrusaSlicer",
-    "Version": "2.5.1",
+    "Version": "2.5.2",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/davidk/PrusaSlicer-ARM.AppImage",
     "Architecture": "ARM32/ARM64",
@@ -1201,7 +1201,7 @@
   },
   {
     "Name": "Shattered Pixel Dungeon",
-    "Version": "2.0.0",
+    "Version": "2.0.1",
     "Description": "Shattered Pixel Dungeon is a Roguelike Dungeon Crawler RPG with pixel art graphics.",
     "URL": "https://shatteredpixel.com/",
     "Architecture": "ARM32/ARM64",
@@ -1481,7 +1481,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.76.2.23074",
+    "Version": "1.77.0.23093",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
@@ -1561,7 +1561,7 @@
   },
   {
     "Name": "WhatsApp",
-    "Version": "15.0",
+    "Version": "16.0",
     "Description": "Nativefier Whatsapp Web webapp",
     "URL": "no website",
     "Architecture": "ARM32/ARM64",
@@ -1609,7 +1609,7 @@
   },
   {
     "Name": "XSnow",
-    "Version": "3.7.4~pre04",
+    "Version": "3.7.4",
     "Description": "This turns your desktop wallpaper into an animated winter wonderland!",
     "URL": "https://www.ratrabbit.nl/ratrabbit/xsnow/",
     "Architecture": "ARM32/ARM64",
