@@ -1025,7 +1025,7 @@
   },
   {
     "Name": "PiGro",
-    "Version": "23.01",
+    "Version": "23.02",
     "Description": "PiGro is a program designed to make all Debian-based distributions easier to use on the Pi.",
     "URL": "https://github.com/actionschnitzel/PiGro-Aid-",
     "Architecture": "ARM32/ARM64",
