@@ -5,7 +5,7 @@
     "Description": "A free and open-source alternative to Microsoft Word.  ",
     "URL": "http://www.abisource.com/",
     "Architecture": "package",
-    "Users": "2164"
+    "Users": "2167"
   },
   {
     "Name": "Alacritty Terminal",
@@ -13,7 +13,7 @@
     "Description": "A fast, cross-platform, OpenGL terminal emulator",
     "URL": "https://github.com/alacritty/alacritty",
     "Architecture": "ARM32/ARM64",
-    "Users": "2091"
+    "Users": "2092"
   },
   {
     "Name": "All Is Well",
@@ -21,7 +21,7 @@
     "Description": "ALL IS WELL is a bash script that allows users to easily update and upgrade their repositories and packages on linux.",
     "URL": "https://github.com/spectrumgamer75/All-is-well",
     "Architecture": "ARM32/ARM64",
-    "Users": "16374"
+    "Users": "16386"
   },
   {
     "Name": "Amiberry",
@@ -29,7 +29,7 @@
     "Description": "Amiberry is a well-optimized, high-performance emulator for running Amiga games on low-power ARM boards like Raspberry Pi.",
     "URL": "https://github.com/midwan/amiberry/",
     "Architecture": "ARM32/ARM64",
-    "Users": "2792"
+    "Users": "2793"
   },
   {
     "Name": "AndroidBuddy",
@@ -37,7 +37,7 @@
     "Description": "A GUI for Android device recovery and maintenance.",
     "URL": "https://gitlab.com/gazlene/droidbuddy",
     "Architecture": "ARM32/ARM64",
-    "Users": "9419"
+    "Users": "9427"
   },
   {
     "Name": "Angry IP scanner",
@@ -45,7 +45,7 @@
     "Description": "Scans local networks as well as Internet",
     "URL": "https://angryip.org",
     "Architecture": "ARM32/ARM64",
-    "Users": "15200"
+    "Users": "15214"
   },
   {
     "Name": "AntiMicroX",
@@ -53,7 +53,7 @@
     "Description": "A graphical program used to map keyboard buttons and mouse controls to a gamepad.",
     "URL": "https://antimicrox.github.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "2916"
+    "Users": "2919"
   },
   {
     "Name": "AnyDesk",
@@ -61,7 +61,7 @@
     "Description": "AnyDesk is the ultimate remote desktop solution for editing and maintaining a desktop or server from a remote location using Linux on Raspberry Pi.",
     "URL": "https://anydesk.com/en/downloads/raspberry-pi",
     "Architecture": "ARM32",
-    "Users": "6544"
+    "Users": "6549"
   },
   {
     "Name": "Arduino",
@@ -69,7 +69,7 @@
     "Description": "Arduino IDE 1.8.X. Now called Arduino IDE Legacy, based on the Java and Python Frameworks.",
     "URL": "https://www.arduino.cc/en/main/software",
     "Architecture": "ARM32/ARM64",
-    "Users": "16860"
+    "Users": "16870"
   },
   {
     "Name": "ArmCord",
@@ -77,7 +77,7 @@
     "Description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://github.com/ArmCord/ArmCord",
     "Architecture": "ARM32/ARM64",
-    "Users": "1189"
+    "Users": "1193"
   },
   {
     "Name": "AstroMenace",
@@ -85,7 +85,7 @@
     "Description": "Immerse into a decisive battle against tons of cunning foes, face the terrifying bosses and protect your homeland throughout 15 diverse levels of the game. The hardcore gameplay of AstroMenace, packed with pure non-stop action, will become a full scale test for your basic instinct of survival.",
     "URL": "https://github.com/viewizard/astromenace",
     "Architecture": "ARM32/ARM64",
-    "Users": "3355"
+    "Users": "3357"
   },
   {
     "Name": "Audacious",
@@ -93,7 +93,7 @@
     "Description": "Lightweight but flexible audio player",
     "URL": "https://audacious-media-player.org/",
     "Architecture": "package",
-    "Users": "20368"
+    "Users": "20401"
   },
   {
     "Name": "Audacity",
@@ -101,7 +101,7 @@
     "Description": "Easy-to-use audio editor with numerous features",
     "URL": "https://www.audacityteam.org/",
     "Architecture": "package",
-    "Users": "9823"
+    "Users": "9837"
   },
   {
     "Name": "Autostar",
@@ -109,7 +109,7 @@
     "Description": "Simple utility to make programs run on boot. The sky's the limit.",
     "URL": "https://github.com/Botspot/autostar",
     "Architecture": "ARM32/ARM64",
-    "Users": "5661"
+    "Users": "5671"
   },
   {
     "Name": "BalenaEtcher",
@@ -117,7 +117,7 @@
     "Description": "Flash SD cards with a disk image. Many file types supported.",
     "URL": "https://github.com/Pi-Apps-Coders/files/blob/main/CompileCommands.md#balenaetcher",
     "Architecture": "ARM32/ARM64",
-    "Users": "27012"
+    "Users": "27028"
   },
   {
     "Name": "Better Chromium",
@@ -125,7 +125,7 @@
     "Description": "Make the most of your browser.",
     "URL": "",
     "Architecture": "ARM32/ARM64",
-    "Users": "11371"
+    "Users": "11395"
   },
   {
     "Name": "BleachBit",
@@ -133,7 +133,7 @@
     "Description": "BleachBit is a free and open-source disk space cleaner, privacy manager, and computer system optimizer. Not outdated like the APT repo's BleachBit.",
     "URL": "https://www.bleachbit.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "5609"
+    "Users": "5616"
   },
   {
     "Name": "BlockBench",
@@ -141,7 +141,7 @@
     "Description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
     "URL": "https://github.com/JannisX11/blockbench",
     "Architecture": "ARM32/ARM64",
-    "Users": "1960"
+    "Users": "1959"
   },
   {
     "Name": "BlockPi",
@@ -149,7 +149,7 @@
     "Description": "Create python programs using drag-n-drop blocks",
     "URL": "https://github.com/alienzhangyw/BlockPi",
     "Architecture": "ARM32/ARM64",
-    "Users": "4164"
+    "Users": "4171"
   },
   {
     "Name": "BlueJ Java IDE",
@@ -157,7 +157,7 @@
     "Description": "A simple but powerful Java IDE.",
     "URL": "https://bluej.org",
     "Architecture": "package",
-    "Users": "25598"
+    "Users": "25624"
   },
   {
     "Name": "Bongo Cam",
@@ -173,7 +173,7 @@
     "Description": "Easily emulate x86_64 linux apps on ARM64.",
     "URL": "https://github.com/ptitSeb/box64",
     "Architecture": "ARM64",
-    "Users": "11922"
+    "Users": "11945"
   },
   {
     "Name": "Box86",
@@ -181,7 +181,7 @@
     "Description": "Easily emulate x86 linux apps on ARM32.",
     "URL": "https://github.com/ptitSeb/box86",
     "Architecture": "ARM32/ARM64",
-    "Users": "60048"
+    "Users": "60093"
   },
   {
     "Name": "Boxy SVG",
@@ -197,7 +197,7 @@
     "Description": "The new Brave browser blocks ads and trackers that slow you down and invade your privacy.",
     "URL": "https://brave.com/",
     "Architecture": "ARM64",
-    "Users": "376"
+    "Users": "389"
   },
   {
     "Name": "Browsh",
@@ -213,7 +213,7 @@
     "Description": "Caprine is an unofficial and privacy focused Facebook Messenger app with many useful features. ",
     "URL": "https://sindresorhus.com/caprine/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1805"
+    "Users": "1807"
   },
   {
     "Name": "Cawbird",
@@ -229,7 +229,7 @@
     "Description": "This is a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable.",
     "URL": "",
     "Architecture": "ARM32/ARM64",
-    "Users": "1235"
+    "Users": "1237"
   },
   {
     "Name": "Chiaki",
@@ -237,7 +237,7 @@
     "Description": "Chiaki is a free and open source software client which enables PlayStation 4/5 remote play on the Raspberry Pi.",
     "URL": "https://github.com/Fredrum/chiaki/wiki/Chiaki-for-the-Raspberry-Pi",
     "Architecture": "ARM32/ARM64",
-    "Users": "1597"
+    "Users": "1598"
   },
   {
     "Name": "Chromium",
@@ -245,7 +245,7 @@
     "Description": "Open-source version of Google Chrome.",
     "URL": "",
     "Architecture": "package",
-    "Users": "168127"
+    "Users": "168377"
   },
   {
     "Name": "Chromium Widevine",
@@ -253,7 +253,7 @@
     "Description": "Widevine DRM support for any version of chromium-browser.",
     "URL": "https://github.com/Botspot/chromium-v84-widevine",
     "Architecture": "ARM32",
-    "Users": "17032"
+    "Users": "17041"
   },
   {
     "Name": "Clam Antivirus",
@@ -261,7 +261,7 @@
     "Description": "Open-source antivirus for your pi",
     "URL": "https://gitlab.com/dave_m/clamtk",
     "Architecture": "ARM32/ARM64",
-    "Users": "10303"
+    "Users": "10306"
   },
   {
     "Name": "CloudBuddy",
@@ -269,7 +269,7 @@
     "Description": "CloudBuddy is the ultimate wizard for cloud storage. Google Drive, Onedrive, Dropbox, and many more.",
     "URL": "https://github.com/Botspot/cloudbuddy",
     "Architecture": "ARM32/ARM64",
-    "Users": "4535"
+    "Users": "4537"
   },
   {
     "Name": "Codex",
@@ -277,7 +277,7 @@
     "Description": "A free note-taking software for programmers and Computer Science students.",
     "URL": "https://github.com/jcv8000/Codex",
     "Architecture": "ARM32/ARM64",
-    "Users": "1368"
+    "Users": "1369"
   },
   {
     "Name": "Color Emoji font",
@@ -285,7 +285,7 @@
     "Description": "Installs two fonts to display all emojis in the Unicode Emoji 13.0.",
     "URL": "",
     "Architecture": "ARM32/ARM64",
-    "Users": "5697"
+    "Users": "5699"
   },
   {
     "Name": "CommanderPi",
@@ -293,7 +293,7 @@
     "Description": "Easy RaspberryPi4 GUI system management",
     "URL": "https://github.com/Jack477/CommanderPi",
     "Architecture": "ARM32/ARM64",
-    "Users": "30199"
+    "Users": "30222"
   },
   {
     "Name": "Conky",
@@ -301,7 +301,7 @@
     "Description": "Monitors CPU, RAM, disk usage, and more.",
     "URL": "https://github.com/Botspot/rpi_conky",
     "Architecture": "ARM32/ARM64",
-    "Users": "22503"
+    "Users": "22520"
   },
   {
     "Name": "Conky Rings",
@@ -309,7 +309,7 @@
     "Description": "Animated gauges and graphs of your system, on your desktop.",
     "URL": "https://github.com/Botspot/rpi_conky/tree/master/conky_rings",
     "Architecture": "ARM32/ARM64",
-    "Users": "4227"
+    "Users": "4229"
   },
   {
     "Name": "Cool Retro Term",
@@ -317,7 +317,7 @@
     "Description": "Simulates an old CRT terminal.",
     "URL": "https://github.com/Swordfish90/cool-retro-term",
     "Architecture": "ARM32/ARM64",
-    "Users": "4963"
+    "Users": "4966"
   },
   {
     "Name": "Cura",
@@ -325,7 +325,7 @@
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/smartavionics/Cura",
     "Architecture": "ARM32/ARM64",
-    "Users": "8468"
+    "Users": "8477"
   },
   {
     "Name": "DDNet",
@@ -341,7 +341,7 @@
     "Description": "Lightweight BitTorrent client",
     "URL": "https://www.deluge-torrent.org",
     "Architecture": "package",
-    "Users": "4711"
+    "Users": "4715"
   },
   {
     "Name": "Descent 1",
@@ -349,7 +349,7 @@
     "Description": "D1X-Rebirth - source port of Descent: First Strike from 1995",
     "URL": "https://www.dxx-rebirth.com/",
     "Architecture": "ARM32",
-    "Users": "2296"
+    "Users": "2295"
   },
   {
     "Name": "Descent 2",
@@ -365,7 +365,7 @@
     "Description": "Share your desktop to your browser, and turn any device into a second screen!",
     "URL": "https://deskreen.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1971"
+    "Users": "1974"
   },
   {
     "Name": "Disk Usage Analyzer",
@@ -373,7 +373,7 @@
     "Description": "Ever wonder where you put that big file, or why your SD card is full? Now you can, with a glance at a pie chart.",
     "URL": "https://wiki.gnome.org/Apps/DiskUsageAnalyzer",
     "Architecture": "package",
-    "Users": "32774"
+    "Users": "32840"
   },
   {
     "Name": "Doom 3",
@@ -381,7 +381,7 @@
     "Description": "Doom 3 is a 2004 horror first-person shooter video game developed by id Software and published by Activision.",
     "URL": "https://github.com/techcoder20/RPIDoom3Installer.git",
     "Architecture": "ARM32/ARM64",
-    "Users": "16879"
+    "Users": "16890"
   },
   {
     "Name": "Dot Matrix",
@@ -397,7 +397,7 @@
     "Description": "Change Chromium versions easily.",
     "URL": "https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=308303",
     "Architecture": "ARM32/ARM64",
-    "Users": "3965"
+    "Users": "3966"
   },
   {
     "Name": "Drawing",
@@ -413,7 +413,7 @@
     "Description": "Desktop app to manage Duino-Coin miners and tools.",
     "URL": "https://github.com/ponsato/ducopanel",
     "Architecture": "ARM64",
-    "Users": "248"
+    "Users": "249"
   },
   {
     "Name": "Eagle CAD",
@@ -421,7 +421,7 @@
     "Description": "Design printed circuit boards.",
     "URL": "http://eagle.autodesk.com/eagle/software-versions/1",
     "Architecture": "ARM32",
-    "Users": "2182"
+    "Users": "2184"
   },
   {
     "Name": "Electron Fiddle",
@@ -445,7 +445,7 @@
     "Description": "Epiphany is a lightweight web browser based on the WebKit rendering engine. It is also known as GNOME Web.",
     "URL": "https://gitlab.gnome.org/GNOME/epiphany",
     "Architecture": "package",
-    "Users": "4486"
+    "Users": "4495"
   },
   {
     "Name": "FF Multi Converter",
@@ -453,7 +453,7 @@
     "Description": "FF Multi Converter is a simple graphical application for Linux which enables you to convert audio,",
     "URL": "https://sites.google.com/site/ffmulticonverter/",
     "Architecture": "ARM32/ARM64",
-    "Users": "2497"
+    "Users": "2499"
   },
   {
     "Name": "Filezilla",
@@ -461,7 +461,7 @@
     "Description": "Download and upload files via FTP, FTPS, and HTTP",
     "URL": "https://filezilla-project.org/",
     "Architecture": "package",
-    "Users": "9098"
+    "Users": "9113"
   },
   {
     "Name": "Firefox Rapid Release",
@@ -469,7 +469,7 @@
     "Description": "Latest stable Mozilla Firefox version available. (Downloaded from Ubuntu Repo)",
     "URL": "https://firefox.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "21290"
+    "Users": "21314"
   },
   {
     "Name": "Flameshot",
@@ -477,7 +477,7 @@
     "Description": "A simple tool to take screenshots of your screen or just parts of the screen. It is similar to Microsoft's Snipping Tool.",
     "URL": "https://flameshot.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "7351"
+    "Users": "7355"
   },
   {
     "Name": "Flow",
@@ -493,7 +493,7 @@
     "Description": "Privacy-friendly YouTube player.",
     "URL": "https://freetubeapp.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "13818"
+    "Users": "13828"
   },
   {
     "Name": "Friday Night Funkin' Rewritten",
@@ -501,7 +501,7 @@
     "Description": "Friday Night Funkin’ is a musical rhythm game where you compete in freestyle music battles.",
     "URL": "https://github.com/HTV04/funkin-rewritten",
     "Architecture": "ARM32/ARM64",
-    "Users": "1343"
+    "Users": "1347"
   },
   {
     "Name": "Fritzing",
@@ -509,7 +509,7 @@
     "Description": "The Fritzing application is an Electronic Design Automation software with a low entry barrier, suited for the needs of makers and hobbyists.",
     "URL": "https://fritzing.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1866"
+    "Users": "1868"
   },
   {
     "Name": "GIMP",
@@ -517,7 +517,7 @@
     "Description": "Create images and edit photographs",
     "URL": "https://www.gimp.org/",
     "Architecture": "package",
-    "Users": "32643"
+    "Users": "32691"
   },
   {
     "Name": "GParted",
@@ -525,7 +525,7 @@
     "Description": "Graphically manage disk partitions",
     "URL": "https://gparted.org",
     "Architecture": "package",
-    "Users": "44773"
+    "Users": "44839"
   },
   {
     "Name": "Geany Dark Mode",
@@ -533,7 +533,7 @@
     "Description": "Proper appearance theme for the Geany text editor.",
     "URL": "https://github.com/codebrainz/geany-themes",
     "Architecture": "ARM32/ARM64",
-    "Users": "3619"
+    "Users": "3620"
   },
   {
     "Name": "Geekbench",
@@ -541,7 +541,7 @@
     "Description": "Geekbench 5 is a cross-platform benchmark that measures your system's performance with the press of a button. ",
     "URL": "https://www.geekbench.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "4639"
+    "Users": "4646"
   },
   {
     "Name": "Github Desktop",
@@ -549,7 +549,7 @@
     "Description": "Github Desktop is a GUI git client.",
     "URL": "https://desktop.github.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "2747"
+    "Users": "2751"
   },
   {
     "Name": "Github-CLI",
@@ -573,7 +573,7 @@
     "Description": "Open Source Game Engine that runs fine on the Raspberry Pi (for 2d games).",
     "URL": "https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi",
     "Architecture": "ARM32/ARM64",
-    "Users": "2869"
+    "Users": "2870"
   },
   {
     "Name": "Guake Terminal",
@@ -581,7 +581,7 @@
     "Description": "Guake is a top-down terminal, inspirated by the famous terminal used in Quake.",
     "URL": "http://guake-project.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1581"
+    "Users": "1582"
   },
   {
     "Name": "HTTrack Website Copier",
@@ -597,7 +597,7 @@
     "Description": "Free implementation of Heroes of Might and Magic II game engine.",
     "URL": "https://github.com/ihhub/fheroes2",
     "Architecture": "ARM32",
-    "Users": "3474"
+    "Users": "3475"
   },
   {
     "Name": "Https File Server",
@@ -613,7 +613,7 @@
     "Description": "A modern electron terminal",
     "URL": "https://hyper.is",
     "Architecture": "ARM32/ARM64",
-    "Users": "1245"
+    "Users": "1246"
   },
   {
     "Name": "Imager",
@@ -621,7 +621,7 @@
     "Description": "Raspberry Pi's official SD card imaging utility.",
     "URL": "https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility",
     "Architecture": "package",
-    "Users": "140802"
+    "Users": "141009"
   },
   {
     "Name": "Inkscape",
@@ -629,7 +629,7 @@
     "Description": "Popular free vector graphics editor",
     "URL": "https://inkscape.org",
     "Architecture": "package",
-    "Users": "8219"
+    "Users": "8233"
   },
   {
     "Name": "Intellij IDEA",
@@ -637,7 +637,7 @@
     "Description": "IntelliJ IDEA is an IDE designed to maximize developer productivity.",
     "URL": "https://www.jetbrains.com/idea/",
     "Architecture": "ARM32/ARM64",
-    "Users": "3053"
+    "Users": "3056"
   },
   {
     "Name": "KeePassXC",
@@ -653,7 +653,7 @@
     "Description": "Kodi is the ultimate entertainment center.",
     "URL": "https://kodi.tv/about",
     "Architecture": "ARM32/ARM64",
-    "Users": "8519"
+    "Users": "8529"
   },
   {
     "Name": "Kolourpaint",
@@ -661,7 +661,7 @@
     "Description": "An easy-to-use paint program.",
     "URL": "https://apps.kde.org/kolourpaint/",
     "Architecture": "package",
-    "Users": "2894"
+    "Users": "2898"
   },
   {
     "Name": "LMMS",
@@ -669,7 +669,7 @@
     "Description": "LMMS (Let’s Make Music) is a free, open-source and cross-platform software for making music on your computer, made by musicians, for musicians. It comes with a user-friendly and modern interface.",
     "URL": "https://lmms.io",
     "Architecture": "package",
-    "Users": "1970"
+    "Users": "1969"
   },
   {
     "Name": "Lego Digital Designer",
@@ -677,7 +677,7 @@
     "Description": "Play with virtual Lego blocks and create your own plans!",
     "URL": "https://github.com/Botspot/lego-digital-designer-rpi",
     "Architecture": "ARM32",
-    "Users": "3072"
+    "Users": "3073"
   },
   {
     "Name": "LibreCAD",
@@ -685,7 +685,7 @@
     "Description": "Open Source 2D-CAD",
     "URL": "https://librecad.org/",
     "Architecture": "package",
-    "Users": "2577"
+    "Users": "2581"
   },
   {
     "Name": "LibreOffice",
@@ -693,7 +693,7 @@
     "Description": "Free office suite including a word editor, slideshow, spreadsheet, database, and image editor",
     "URL": "https://www.libreoffice.org",
     "Architecture": "package",
-    "Users": "71804"
+    "Users": "71910"
   },
   {
     "Name": "LibrePCB",
@@ -701,7 +701,7 @@
     "Description": "LibrePCB is a free, cross-platform, easy-to-use electronic design automation suite to draw schematics and design printed circuit boards – for makers, students and professionals, from beginners to experts.",
     "URL": "https://librepcb.org/",
     "Architecture": "ARM64",
-    "Users": "3090"
+    "Users": "3092"
   },
   {
     "Name": "Libreoffice MS theme",
@@ -709,7 +709,7 @@
     "Description": "Make Libreoffice to look like Microsoft office - icon theme and tabbed interface.",
     "URL": "https://github.com/Botspot/libreoffice-ms-theme",
     "Architecture": "ARM32/ARM64",
-    "Users": "7142"
+    "Users": "7148"
   },
   {
     "Name": "Lightpad",
@@ -717,7 +717,7 @@
     "Description": "LightPad is a lightweight, simple and powerful application launcher.",
     "URL": "https://github.com/libredeb/lightpad",
     "Architecture": "ARM32/ARM64",
-    "Users": "6008"
+    "Users": "6011"
   },
   {
     "Name": "LineRider",
@@ -725,7 +725,7 @@
     "Description": "Draw a track for a sledder to ride on. Make it sync with music and share your work with friends!",
     "URL": "https://github.com/Sussy-OS/LRA-Community-Edition",
     "Architecture": "ARM32/ARM64",
-    "Users": "2132"
+    "Users": "2136"
   },
   {
     "Name": "Linux Wifi Hotspot",
@@ -733,7 +733,7 @@
     "Description": "A feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface.",
     "URL": "https://github.com/lakinduakash/linux-wifi-hotspot",
     "Architecture": "ARM32/ARM64",
-    "Users": "2969"
+    "Users": "2975"
   },
   {
     "Name": "Lokinet",
@@ -749,7 +749,7 @@
     "Description": "Realistic Light/Dark Mac OS Big Sur appearance theme. Uses XFCE desktop.",
     "URL": "https://github.com/techcoder20/MacOSBigSurThemeConverter",
     "Architecture": "ARM32",
-    "Users": "10321"
+    "Users": "10323"
   },
   {
     "Name": "Marathon",
@@ -757,7 +757,7 @@
     "Description": "Marathon, Marathon 2 and Marathon Infinity are single and online multiplayer old school 1st person shooter games.",
     "URL": "https://https://alephone.lhowon.org",
     "Architecture": "ARM32/ARM64",
-    "Users": "582"
+    "Users": "584"
   },
   {
     "Name": "MatterControl",
@@ -765,7 +765,7 @@
     "Description": "MatterControl is an all-in-one program to create, edit, slice, and manage your 3D prints.",
     "URL": "https://mattercontrol.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "813"
+    "Users": "814"
   },
   {
     "Name": "Microsoft PowerShell",
@@ -773,7 +773,7 @@
     "Description": "PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.",
     "URL": "https://docs.microsoft.com/en-us/powershell/scripting/install/install-raspbian?view=powershell-7.2",
     "Architecture": "ARM32/ARM64",
-    "Users": "2179"
+    "Users": "2182"
   },
   {
     "Name": "Microsoft Teams",
@@ -781,7 +781,7 @@
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
-    "Users": "3882"
+    "Users": "3889"
   },
   {
     "Name": "Min",
@@ -789,7 +789,7 @@
     "Description": "A fast, minimal browser that protects your privacy.",
     "URL": "https://minbrowser.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "2529"
+    "Users": "2530"
   },
   {
     "Name": "Minecraft Bedrock",
@@ -797,7 +797,7 @@
     "Description": "Unofficial launcher for Minecraft Bedrock edition",
     "URL": "https://github.com/ChristopherHX/linux-packaging-scripts/releases/tag/appimage",
     "Architecture": "ARM32/ARM64",
-    "Users": "22651"
+    "Users": "22669"
   },
   {
     "Name": "Minecraft Java GDLauncher",
@@ -805,7 +805,7 @@
     "Description": "GDLauncher is simple, yet powerful Minecraft launcher with a strong focus on the user experience. This is a CUSTOM BUILD of GDLauncher for ARM32/ARM64 support.",
     "URL": "https://gdevs.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1739"
+    "Users": "1749"
   },
   {
     "Name": "Minecraft Java Lunar",
@@ -813,7 +813,7 @@
     "Description": "Lunar Client is an all-in-one modpack integrated Launcher available for ONLY popular versions of Minecraft.\r",
     "URL": "https://www.lunarclient.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "41363"
+    "Users": "41366"
   },
   {
     "Name": "Minecraft Java MultiMC5",
@@ -821,7 +821,7 @@
     "Description": "CUSTOM BUILD of MultiMC5/Launcher. MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface. ",
     "URL": "https://github.com/MultiMC/Launcher",
     "Architecture": "ARM32/ARM64",
-    "Users": "11269"
+    "Users": "11276"
   },
   {
     "Name": "Minecraft Java Prism Launcher",
@@ -829,7 +829,7 @@
     "Description": "Prism Launcher is an Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.",
     "URL": "https://prismlauncher.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1425"
+    "Users": "1428"
   },
   {
     "Name": "Minecraft Java Server",
@@ -837,7 +837,7 @@
     "Description": "This is a simple tool to create a Minecraft server: Vanilla, Fabric, Forge, Paper, Bukkit, Spigot, Sponge, Purpur and Tuinity are supported",
     "URL": "https://serverjars.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "4621"
+    "Users": "4634"
   },
   {
     "Name": "Minecraft Pi (Modded)",
@@ -845,7 +845,7 @@
     "Description": "A modded version of Minecraft: Pi Edition with things like survival mode, multiplayer support, and more!",
     "URL": "https://discord.com/invite/aDqejQGMMy",
     "Architecture": "ARM32/ARM64",
-    "Users": "37714"
+    "Users": "37737"
   },
   {
     "Name": "Mission Planner",
@@ -861,7 +861,7 @@
     "Description": "Of course Pi-Apps lets you download more RAM!",
     "URL": "https://forums.raspberrypi.com/viewtopic.php?t=327238",
     "Architecture": "ARM32/ARM64",
-    "Users": "18817"
+    "Users": "18850"
   },
   {
     "Name": "Mu",
@@ -869,7 +869,7 @@
     "Description": "A simple Python editor for beginner programmers.",
     "URL": "https://codewith.mu/",
     "Architecture": "package",
-    "Users": "18243"
+    "Users": "18302"
   },
   {
     "Name": "MuseScore",
@@ -877,7 +877,7 @@
     "Description": "Professional music notation software - LATEST MuseScore 4!",
     "URL": "https://musescore.org",
     "Architecture": "ARM32/ARM64",
-    "Users": "1546"
+    "Users": "1547"
   },
   {
     "Name": "Nautilus",
@@ -885,7 +885,7 @@
     "Description": "Feature-rich file manager for the GNOME desktop",
     "URL": "https://wiki.gnome.org/Apps/Files",
     "Architecture": "package",
-    "Users": "16195"
+    "Users": "16234"
   },
   {
     "Name": "Nemo",
@@ -893,7 +893,7 @@
     "Description": "File manager and graphical shell for Cinnamon, also works well on other desktop environments.",
     "URL": "https://github.com/linuxmint/nemo",
     "Architecture": "package",
-    "Users": "3890"
+    "Users": "3895"
   },
   {
     "Name": "Neofetch",
@@ -901,7 +901,7 @@
     "Description": "An aesthetically pleasing bash script to show system information.",
     "URL": "https://github.com/dylanaraps/neofetch",
     "Architecture": "ARM32/ARM64",
-    "Users": "24329"
+    "Users": "24339"
   },
   {
     "Name": "NixNote2",
@@ -909,7 +909,7 @@
     "Description": "Take notes, organize your schedule, and save websites with this offline and open-source Evernote client.",
     "URL": "https://github.com/baumgarr/Nixnote2",
     "Architecture": "package",
-    "Users": "1328"
+    "Users": "1330"
   },
   {
     "Name": "Node.js",
@@ -917,7 +917,7 @@
     "Description": "JavaScript code outside a web browser.",
     "URL": "https://nodesource.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "5679"
+    "Users": "5681"
   },
   {
     "Name": "Notejot",
@@ -933,7 +933,7 @@
     "Description": "Notepad++ is a free source code editor and Notepad replacement that supports several languages. ",
     "URL": "https://notepad-plus-plus.org/",
     "Architecture": "ARM32",
-    "Users": "8425"
+    "Users": "8430"
   },
   {
     "Name": "OBS Studio",
@@ -941,7 +941,7 @@
     "Description": "Free and open source software for video recording and live streaming.",
     "URL": "https://obsproject.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "17562"
+    "Users": "17581"
   },
   {
     "Name": "Oomox Theme Designer",
@@ -949,7 +949,7 @@
     "Description": "A tool to customize icons, xrdb and GTK themes. ",
     "URL": "https://github.com/themix-project/oomox",
     "Architecture": "ARM32/ARM64",
-    "Users": "1935"
+    "Users": "1936"
   },
   {
     "Name": "OpenSCAD",
@@ -957,7 +957,7 @@
     "Description": "OpenSCAD is software for creating solid 3D CAD models.",
     "URL": "http://www.openscad.org/\nhttps://github.com/koendv/openscad-raspberrypi",
     "Architecture": "ARM32/ARM64",
-    "Users": "2602"
+    "Users": "2604"
   },
   {
     "Name": "PPSSPP (PSP emulator)",
@@ -965,7 +965,7 @@
     "Description": "A PSP emulator that can run PSP games in full HD and can upscale textures also.",
     "URL": "http://ppsspp.org",
     "Architecture": "ARM32/ARM64",
-    "Users": "11025"
+    "Users": "11032"
   },
   {
     "Name": "Pac-Man",
@@ -973,7 +973,7 @@
     "Description": "Pac-Man clone in SLD2 and C/C++",
     "URL": "https://github.com/ebuc99/pacman",
     "Architecture": "ARM32/ARM64",
-    "Users": "4803"
+    "Users": "4820"
   },
   {
     "Name": "Pale Moon",
@@ -981,7 +981,7 @@
     "Description": "A distant fork of Firefox, this is a lightweight and customizable web browser.",
     "URL": "https://www.palemoon.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1639"
+    "Users": "1645"
   },
   {
     "Name": "PeaZip",
@@ -989,7 +989,7 @@
     "Description": "PeaZip is free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, Brotli, FreeArc, PAQ, Zstandard, and PEA projects.",
     "URL": "https://peazip.github.io",
     "Architecture": "ARM64",
-    "Users": "1319"
+    "Users": "1326"
   },
   {
     "Name": "Persepolis Download Manager",
@@ -997,7 +997,7 @@
     "Description": "Persepolis is a Download Manager and a GUI For aria2. ",
     "URL": "https://persepolisdm.github.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "899"
+    "Users": "900"
   },
   {
     "Name": "Pi Power Tools",
@@ -1005,7 +1005,7 @@
     "Description": "Easily edit RaspiOS image files with a suite of useful tools.",
     "URL": "https://github.com/Botspot/Pi-Power-Tools",
     "Architecture": "ARM32/ARM64",
-    "Users": "21711"
+    "Users": "21718"
   },
   {
     "Name": "Pi-Apps Terminal Plugin (bash)",
@@ -1013,7 +1013,7 @@
     "Description": "Pi-apps terminal is a script that lets you use pi-apps from the terminal, its written in bash.",
     "URL": "https://github.com/Itai-Nelken/PiApps-terminal_bash-edition",
     "Architecture": "ARM32/ARM64",
-    "Users": "2351"
+    "Users": "2352"
   },
   {
     "Name": "Pi-Apps Terminal Plugin (python)",
@@ -1021,7 +1021,7 @@
     "Description": "This is a terminal version of pi apps but with more features.",
     "URL": "https://github.com/techcoder20/PiAppsTerminalAdvanced",
     "Architecture": "ARM32",
-    "Users": "1258"
+    "Users": "1259"
   },
   {
     "Name": "PiGro",
@@ -1029,7 +1029,7 @@
     "Description": "PiGro is a program designed to make all Debian-based distributions easier to use on the Pi.",
     "URL": "https://github.com/actionschnitzel/PiGro-Aid-",
     "Architecture": "ARM32/ARM64",
-    "Users": "10363"
+    "Users": "10371"
   },
   {
     "Name": "PiKISS GUI",
@@ -1037,7 +1037,7 @@
     "Description": "PiKISS GUI is a GTK frontend for PiKISS",
     "URL": "https://github.com/Jai-JAP/PiKISS-GUI",
     "Architecture": "ARM32/ARM64",
-    "Users": "5521"
+    "Users": "5526"
   },
   {
     "Name": "PiSafe",
@@ -1045,7 +1045,7 @@
     "Description": "Create compressed image files.  Flash SD cards from a disk image. Many file types supported.",
     "URL": "https://github.com/RichardMidnight/pi-safe",
     "Architecture": "ARM32/ARM64",
-    "Users": "3491"
+    "Users": "3494"
   },
   {
     "Name": "Pika Backup",
@@ -1061,7 +1061,7 @@
     "Description": "A powerful painting program including numberous adjustments, drawing tools, multiple layers, and a flexible interface.",
     "URL": "https://www.pinta-project.com/",
     "Architecture": "package",
-    "Users": "2195"
+    "Users": "2198"
   },
   {
     "Name": "Pixelorama",
@@ -1069,7 +1069,7 @@
     "Description": "Pixelorama is a free and open source pixel art editor, proudly created with the Godot Engine, by Orama Interactive.",
     "URL": "https://orama-interactive.itch.io/pixelorama",
     "Architecture": "ARM32/ARM64",
-    "Users": "488"
+    "Users": "492"
   },
   {
     "Name": "Powerline-Shell",
@@ -1077,7 +1077,7 @@
     "Description": "A beautiful and useful prompt generator for Bash, ZSH, Fish, and tcsh:",
     "URL": "https://github.com/techcoder20/RPI-PowerlineShell-Installer.git",
     "Architecture": "ARM32/ARM64",
-    "Users": "3108"
+    "Users": "3109"
   },
   {
     "Name": "Processing IDE",
@@ -1101,7 +1101,7 @@
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/davidk/PrusaSlicer-ARM.AppImage",
     "Architecture": "ARM32/ARM64",
-    "Users": "3103"
+    "Users": "3107"
   },
   {
     "Name": "Puffin",
@@ -1109,7 +1109,7 @@
     "Description": "Speeds up web browsing thanks to cloud servers.",
     "URL": "https://www.puffin.com/raspberry-pi/",
     "Architecture": "ARM32/ARM64",
-    "Users": "7597"
+    "Users": "7610"
   },
   {
     "Name": "PyChess",
@@ -1117,7 +1117,7 @@
     "Description": "PyChess is a chess client for playing and analyzing chess games. It is intended to be usable both for those totally new to chess as well as advanced users who want to use a computer to further enhance their play.",
     "URL": "http://www.pychess.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "2023"
+    "Users": "2028"
   },
   {
     "Name": "Pycharm CE",
@@ -1125,7 +1125,7 @@
     "Description": "Python Community Edition IDE for Professional and Educational Developers.",
     "URL": "https://www.jetbrains.com/pycharm/",
     "Architecture": "ARM32/ARM64",
-    "Users": "8248"
+    "Users": "8249"
   },
   {
     "Name": "QEMU",
@@ -1133,7 +1133,7 @@
     "Description": "QEMU is a generic and open source machine emulator and virtualizer.",
     "URL": "https://www.qemu.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "7486"
+    "Users": "7490"
   },
   {
     "Name": "Quartz",
@@ -1141,7 +1141,7 @@
     "Description": "A useful fast Web Browser for Windows and Linux written in pyqt5 webkit.",
     "URL": "https://github.com/ksharindam/quartz-browser-qt5",
     "Architecture": "ARM32/ARM64",
-    "Users": "922"
+    "Users": "924"
   },
   {
     "Name": "Reaper",
@@ -1157,7 +1157,7 @@
     "Description": "A fully featured Markdown editor for Linux.",
     "URL": "https://remarkableapp.github.io",
     "Architecture": "ARM32/ARM64",
-    "Users": "1462"
+    "Users": "1463"
   },
   {
     "Name": "Renoise (Demo)",
@@ -1173,7 +1173,7 @@
     "Description": "Scratch 2 was removed from RPiOS in January. Install it back with this app!",
     "URL": "https://github.com/Botspot/scratch2",
     "Architecture": "ARM32",
-    "Users": "2450"
+    "Users": "2451"
   },
   {
     "Name": "Scratch 3",
@@ -1181,7 +1181,7 @@
     "Description": "Enjoy learning computer programming with drag-n-drop blocks!",
     "URL": "https://scratch.mit.edu",
     "Architecture": "package",
-    "Users": "37491"
+    "Users": "37542"
   },
   {
     "Name": "Scrcpy",
@@ -1189,7 +1189,7 @@
     "Description": "Connect and control your Android smartphone.",
     "URL": "https://github.com/Genymobile/scrcpy",
     "Architecture": "ARM32/ARM64",
-    "Users": "10271"
+    "Users": "10281"
   },
   {
     "Name": "Screenshot",
@@ -1197,7 +1197,7 @@
     "Description": "Simple interface for capturing screenshots, similar to the Windows Snipping Tool.",
     "URL": "https://apps.gnome.org/app/org.gnome.Screenshot",
     "Architecture": "package",
-    "Users": "15595"
+    "Users": "15643"
   },
   {
     "Name": "Shattered Pixel Dungeon",
@@ -1205,7 +1205,7 @@
     "Description": "Shattered Pixel Dungeon is a Roguelike Dungeon Crawler RPG with pixel art graphics.",
     "URL": "https://shatteredpixel.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1553"
+    "Users": "1558"
   },
   {
     "Name": "Shotwell",
@@ -1213,7 +1213,7 @@
     "Description": "Organize, edit, and publish your photos.",
     "URL": "https://shotwell-project.org/doc/html/",
     "Architecture": "package",
-    "Users": "14161"
+    "Users": "14196"
   },
   {
     "Name": "SimpleScreenRecorder",
@@ -1221,7 +1221,7 @@
     "Description": "Feature-rich screen recorder for X11 and OpenGL",
     "URL": "https://www.maartenbaert.be/simplescreenrecorder/",
     "Architecture": "package",
-    "Users": "4870"
+    "Users": "4878"
   },
   {
     "Name": "Snap Store",
@@ -1229,7 +1229,7 @@
     "Description": "Snaps are app packages for desktop, cloud and IoT that are easy to install, secure, cross‐platform and dependency‐free.",
     "URL": "https://snapcraft.io/store",
     "Architecture": "ARM32/ARM64",
-    "Users": "22728"
+    "Users": "22748"
   },
   {
     "Name": "Snapdrop",
@@ -1237,7 +1237,7 @@
     "Description": "Share files with nearby devices on the local network. Inspired by Apple's Airdrop.",
     "URL": "https://github.com/RobinLinus/snapdrop",
     "Architecture": "ARM32/ARM64",
-    "Users": "5582"
+    "Users": "5583"
   },
   {
     "Name": "Sonic Pi",
@@ -1245,7 +1245,7 @@
     "Description": "Write code to make music. Latest version of Sonic Pi.",
     "URL": "https://sonic-pi.net/#rp",
     "Architecture": "ARM32/ARM64",
-    "Users": "1386"
+    "Users": "1388"
   },
   {
     "Name": "SpeedTest-CLI",
@@ -1253,7 +1253,7 @@
     "Description": "Test your internet speed from a terminal!",
     "URL": "https://www.speedtest.net/",
     "Architecture": "ARM32/ARM64",
-    "Users": "13373"
+    "Users": "13382"
   },
   {
     "Name": "Sphero SDK",
@@ -1277,7 +1277,7 @@
     "Description": "This emulates the Linux x86_64 version of Steam using Box86 and Box64.",
     "URL": "",
     "Architecture": "ARM64",
-    "Users": "18206"
+    "Users": "18216"
   },
   {
     "Name": "Steam Link",
@@ -1285,7 +1285,7 @@
     "Description": "The Steam Link app brings desktop gaming to your Raspberry Pi. Just pair a controller to your device, connect to a computer running Steam on the same local network, and start playing your existing Steam games.",
     "URL": "",
     "Architecture": "package",
-    "Users": "6595"
+    "Users": "6605"
   },
   {
     "Name": "StepMania",
@@ -1301,7 +1301,7 @@
     "Description": "Racing game with rally style driving, mostly on gravel.",
     "URL": "http://stuntrally.tuxfamily.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "6983"
+    "Users": "6987"
   },
   {
     "Name": "Sublime Text",
@@ -1309,7 +1309,7 @@
     "Description": "Cross-platform source code editor with a Python application programming interface.",
     "URL": "https://www.sublimetext.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "5672"
+    "Users": "5669"
   },
   {
     "Name": "Synaptic",
@@ -1317,7 +1317,7 @@
     "Description": "Advanced APT-package-management tool",
     "URL": "https://www.lifewire.com/guide-to-synaptic-package-manager-220570y",
     "Architecture": "package",
-    "Users": "19318"
+    "Users": "19347"
   },
   {
     "Name": "Syncthing",
@@ -1325,7 +1325,7 @@
     "Description": "A sync manager that syncs folders to different devices no matter where you are!",
     "URL": "https://syncthing.net",
     "Architecture": "ARM32/ARM64",
-    "Users": "889"
+    "Users": "890"
   },
   {
     "Name": "SysMonTask",
@@ -1333,7 +1333,7 @@
     "Description": "Linux system monitor similar to the Windows task manager, written in Python.",
     "URL": "https://github.com/KrispyCamel4u/SysMonTask",
     "Architecture": "ARM32/ARM64",
-    "Users": "3211"
+    "Users": "3214"
   },
   {
     "Name": "Sysmon",
@@ -1341,7 +1341,7 @@
     "Description": "Monitor your Raspberry Pi using a web browser on another computer.",
     "URL": "https://github.com/t0xic0der/sysmon",
     "Architecture": "ARM32/ARM64",
-    "Users": "2221"
+    "Users": "2222"
   },
   {
     "Name": "System Monitoring Center",
@@ -1349,7 +1349,7 @@
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
-    "Users": "5162"
+    "Users": "5180"
   },
   {
     "Name": "Tabby",
@@ -1357,7 +1357,7 @@
     "Description": " A terminal for a more modern age ",
     "URL": "https://tabby.sh/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1089"
+    "Users": "1092"
   },
   {
     "Name": "TeamViewer",
@@ -1365,7 +1365,7 @@
     "Description": "Remote desktop server and client software.",
     "URL": "https://github.com/Benmac83/Teamviewer-installer-for-pi",
     "Architecture": "ARM32/ARM64",
-    "Users": "5243"
+    "Users": "5253"
   },
   {
     "Name": "Telegram",
@@ -1373,7 +1373,7 @@
     "Description": "Telegram is a free and open source, cross-platform, cloud-based instant messaging software. This service also provides end-to-end encrypted video calling, VoIP, file sharing and several other features. ",
     "URL": "https://github.com/telegramdesktop/tdesktop",
     "Architecture": "ARM64",
-    "Users": "5841"
+    "Users": "5842"
   },
   {
     "Name": "Temps",
@@ -1381,7 +1381,7 @@
     "Description": "Temps is a modern and minimal menubar application based on Electron with actual weather information and forecast.",
     "URL": "https://github.com/musicpro/temps",
     "Architecture": "ARM32/ARM64",
-    "Users": "1624"
+    "Users": "1627"
   },
   {
     "Name": "Tetris CLI",
@@ -1389,7 +1389,7 @@
     "Description": "ASCII/CLI rendition of the Tetris game.",
     "URL": "https://github.com/k-vernooy/tetris",
     "Architecture": "ARM32/ARM64",
-    "Users": "3690"
+    "Users": "3701"
   },
   {
     "Name": "Thunderbird",
@@ -1397,7 +1397,7 @@
     "Description": "Email client with many features like a tabbed interface, smart spam filter, address book, search and filter tools, encryption, and numerous add-ons.",
     "URL": "https://www.thunderbird.net/features",
     "Architecture": "package",
-    "Users": "15025"
+    "Users": "15047"
   },
   {
     "Name": "TiLP",
@@ -1413,7 +1413,7 @@
     "Description": "System restore tool for Linux that provides functionality similar to the System Restore feature in Windows and the Time Machine tool in Mac OS.",
     "URL": "https://github.com/linuxmint/timeshift",
     "Architecture": "ARM32/ARM64",
-    "Users": "5307"
+    "Users": "5310"
   },
   {
     "Name": "Tor",
@@ -1421,7 +1421,7 @@
     "Description": "The Tor Browser is a web broswer that anonymizes your web traffic using the Tor network, making it easy to protect your identity online.",
     "URL": "https://sourceforge.net/projects/tor-browser-ports/files/",
     "Architecture": "ARM32/ARM64",
-    "Users": "15370"
+    "Users": "15391"
   },
   {
     "Name": "Transmission",
@@ -1429,7 +1429,7 @@
     "Description": "Lightweight BitTorrent client",
     "URL": "https://transmissionbt.com",
     "Architecture": "package",
-    "Users": "9584"
+    "Users": "9639"
   },
   {
     "Name": "Turbowarp",
@@ -1445,7 +1445,7 @@
     "Description": "A very minimal GUI app that can write compressed disk images to USB drives.",
     "URL": "https://bztsrc.gitlab.io/usbimager/",
     "Architecture": "ARM32/ARM64",
-    "Users": "8437"
+    "Users": "8441"
   },
   {
     "Name": "Ulauncher",
@@ -1453,7 +1453,7 @@
     "Description": "All-in-one application launcher, Google search engine, calculator, file manager...",
     "URL": "https://ulauncher.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "6207"
+    "Users": "6210"
   },
   {
     "Name": "Unciv",
@@ -1461,7 +1461,7 @@
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
-    "Users": "2145"
+    "Users": "2147"
   },
   {
     "Name": "Update Buddy",
@@ -1469,7 +1469,7 @@
     "Description": "Automatically check for APT updates on boot.",
     "URL": "https://github.com/Botspot/update-buddy",
     "Architecture": "ARM32/ARM64",
-    "Users": "12484"
+    "Users": "12491"
   },
   {
     "Name": "VMware Horizon Client",
@@ -1485,7 +1485,7 @@
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "3051"
+    "Users": "3050"
   },
   {
     "Name": "VeraCrypt",
@@ -1493,7 +1493,7 @@
     "Description": "Open source disk encryption software",
     "URL": "https://www.veracrypt.fr/en/Documentation.html",
     "Architecture": "ARM32/ARM64",
-    "Users": "3604"
+    "Users": "3609"
   },
   {
     "Name": "Visual Studio Code",
@@ -1501,7 +1501,7 @@
     "Description": "Visual Studio Code is a free source-code editor made by Microsoft.",
     "URL": "https://code.visualstudio.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "18075"
+    "Users": "18091"
   },
   {
     "Name": "Vivaldi",
@@ -1509,7 +1509,7 @@
     "Description": "Fast, private browser with unique features.",
     "URL": "https://vivaldi.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "6962"
+    "Users": "6966"
   },
   {
     "Name": "WACUP (new WinAmp)",
@@ -1525,7 +1525,7 @@
     "Description": "This is a Chinese clone of Microsoft Office.",
     "URL": "https://www.wps.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "3160"
+    "Users": "3161"
   },
   {
     "Name": "Waveform",
@@ -1533,7 +1533,7 @@
     "Description": "Waveform is a proprietary Digital Audio Workstation specializing in creative and inspirational workflows.",
     "URL": "https://tracktion.com/products/waveform-free",
     "Architecture": "ARM32/ARM64",
-    "Users": "488"
+    "Users": "489"
   },
   {
     "Name": "Web Apps",
@@ -1541,7 +1541,7 @@
     "Description": "Run websites as if they were apps.",
     "URL": "https://itsfoss.com/web-app-manager-linux-mint/",
     "Architecture": "ARM32/ARM64",
-    "Users": "5861"
+    "Users": "5868"
   },
   {
     "Name": "Webcord",
@@ -1549,7 +1549,7 @@
     "Description": "Fast Discord client for ARM that mimics the official Discord client.",
     "URL": "https://github.com/SpacingBat3/WebCord/",
     "Architecture": "ARM32/ARM64",
-    "Users": "35130"
+    "Users": "35145"
   },
   {
     "Name": "Wechat",
@@ -1565,7 +1565,7 @@
     "Description": "Nativefier Whatsapp Web webapp",
     "URL": "no website",
     "Architecture": "ARM32/ARM64",
-    "Users": "7404"
+    "Users": "7415"
   },
   {
     "Name": "Windows Flasher",
@@ -1573,7 +1573,7 @@
     "Description": "Install Windows 10 or Windows 11 on a Raspberry Pi SD card.",
     "URL": "https://github.com/Botspot/wor-flasher",
     "Architecture": "ARM32/ARM64",
-    "Users": "18823"
+    "Users": "18844"
   },
   {
     "Name": "Windows Screensavers",
@@ -1589,7 +1589,7 @@
     "Description": "Run x86 Windows apps with a box86-emulated version of x86 wine.",
     "URL": "https://www.winehq.org/",
     "Architecture": "ARM32",
-    "Users": "42872"
+    "Users": "42884"
   },
   {
     "Name": "WorldPainter",
@@ -1597,7 +1597,7 @@
     "Description": "WorldPainter is an interactive map generator for Minecraft.",
     "URL": "https://www.worldpainter.net/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1139"
+    "Users": "1141"
   },
   {
     "Name": "XMRig",
@@ -1613,7 +1613,7 @@
     "Description": "This turns your desktop wallpaper into an animated winter wonderland!",
     "URL": "https://www.ratrabbit.nl/ratrabbit/xsnow/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1057"
+    "Users": "1058"
   },
   {
     "Name": "Xfburn",
@@ -1621,7 +1621,7 @@
     "Description": "Xfburn is a tool to help burning CDs and DVDs. It fits well in the Xfce Desktop Environment but can be used anywhere.",
     "URL": "https://docs.xfce.org/apps/xfburn/start",
     "Architecture": "package",
-    "Users": "16643"
+    "Users": "16671"
   },
   {
     "Name": "Xtreme Download Manager",
@@ -1629,7 +1629,7 @@
     "Description": "Xtreme Download Manager is a powerful tool to increase download speed up-to 500%, save and convert streaming videos from thousands of websites, resume broken/dead downloads and schedule downloads.",
     "URL": "https://xtremedownloadmanager.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "4821"
+    "Users": "4829"
   },
   {
     "Name": "YouTubuddy",
@@ -1637,7 +1637,7 @@
     "Description": "Simple YouTube search engine, downloader and player.",
     "URL": "https://github.com/Botspot/youtubuddy",
     "Architecture": "ARM32/ARM64",
-    "Users": "15604"
+    "Users": "15614"
   },
   {
     "Name": "Zoom",
@@ -1645,7 +1645,7 @@
     "Description": "Zoom video calls on the Raspberry Pi.",
     "URL": "https://github.com/Botspot/pi-apps/issues/188",
     "Architecture": "ARM32/ARM64",
-    "Users": "19532"
+    "Users": "19537"
   },
   {
     "Name": "Zoom PWA",
@@ -1653,7 +1653,7 @@
     "Description": "Web-app for Zoom",
     "URL": "https://github.com/Botspot/zoom-pwa",
     "Architecture": "ARM32/ARM64",
-    "Users": "1604"
+    "Users": "1605"
   },
   {
     "Name": "btop++",
@@ -1661,7 +1661,7 @@
     "Description": "Awesome terminal resource monitor and task manager, similar to htop.",
     "URL": "https://github.com/aristocratos/btop",
     "Architecture": "ARM32/ARM64",
-    "Users": "3979"
+    "Users": "3992"
   },
   {
     "Name": "ckb-next",
@@ -1693,7 +1693,7 @@
     "Description": "A bunch of scripts with a menu to make your life easier. ",
     "URL": "https://github.com/jmcerrejon/PiKISS",
     "Architecture": "ARM32/ARM64",
-    "Users": "23169"
+    "Users": "23182"
   },
   {
     "Name": "template",
@@ -1709,6 +1709,6 @@
     "Description": "The tldr project is a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages.",
     "URL": "https://dbrgn.github.io/tealdeer",
     "Architecture": "ARM32/ARM64",
-    "Users": "2514"
+    "Users": "2516"
   }
 ]
