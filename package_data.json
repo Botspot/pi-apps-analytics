@@ -137,7 +137,7 @@
   },
   {
     "Name": "BlockBench",
-    "Version": "4.7.0",
+    "Version": "4.7.1",
     "Description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
     "URL": "https://github.com/JannisX11/blockbench",
     "Architecture": "ARM32/ARM64",
@@ -425,7 +425,7 @@
   },
   {
     "Name": "Electron Fiddle",
-    "Version": "0.32.2",
+    "Version": "0.32.4",
     "Description": "Electron Fiddle lets you create and play with small Electron experiments. ",
     "URL": "https://www.electronjs.org/fiddle",
     "Architecture": "ARM32/ARM64",
@@ -553,7 +553,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.27.0",
+    "Version": "2.28.0",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -777,7 +777,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.0.67",
+    "Version": "1.0.72",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -1145,7 +1145,7 @@
   },
   {
     "Name": "Reaper",
-    "Version": "678",
+    "Version": "679",
     "Description": "REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.",
     "URL": "https://reaper.fm",
     "Architecture": "ARM32/ARM64",
@@ -1345,7 +1345,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.43.1",
+    "Version": "1.43.2",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1417,7 +1417,7 @@
   },
   {
     "Name": "Tor",
-    "Version": "12.0.4",
+    "Version": "12.0.5",
     "Description": "The Tor Browser is a web broswer that anonymizes your web traffic using the Tor network, making it easy to protect your identity online.",
     "URL": "https://sourceforge.net/projects/tor-browser-ports/files/",
     "Architecture": "ARM32/ARM64",
@@ -1457,7 +1457,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.6.3-patch1",
+    "Version": "4.6.7",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1593,7 +1593,7 @@
   },
   {
     "Name": "WorldPainter",
-    "Version": "2.16.0",
+    "Version": "2.17.0",
     "Description": "WorldPainter is an interactive map generator for Minecraft.",
     "URL": "https://www.worldpainter.net/",
     "Architecture": "ARM32/ARM64",
