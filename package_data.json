@@ -664,6 +664,14 @@
     "Users": "2926"
   },
   {
+    "Name": "Krita",
+    "Version": "",
+    "Description": "Krita is the full-featured digital art studio.",
+    "URL": "https://krita.org/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "LMMS",
     "Version": "",
     "Description": "LMMS (Let’s Make Music) is a free, open-source and cross-platform software for making music on your computer, made by musicians, for musicians. It comes with a user-friendly and modern interface.",

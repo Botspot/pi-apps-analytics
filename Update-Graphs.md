@@ -81,6 +81,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/KeePassXC-updates-graph.png" alt="KeePassXC"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kodi-updates-graph.png" alt="Kodi"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kolourpaint-updates-graph.png" alt="Kolourpaint"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Krita-updates-graph.png" alt="Krita"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LMMS-updates-graph.png" alt="LMMS"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lego-Digital-Designer-updates-graph.png" alt="Lego-Digital-Designer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreCAD-updates-graph.png" alt="LibreCAD"></br>
