@@ -137,7 +137,7 @@
   },
   {
     "Name": "BlockBench",
-    "Version": "4.7.1",
+    "Version": "4.7.2",
     "Description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
     "URL": "https://github.com/JannisX11/blockbench",
     "Architecture": "ARM32/ARM64",
@@ -321,7 +321,7 @@
   },
   {
     "Name": "Cura",
-    "Version": "4.20.11",
+    "Version": "4.20.12",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/smartavionics/Cura",
     "Architecture": "ARM32/ARM64",
@@ -425,7 +425,7 @@
   },
   {
     "Name": "Electron Fiddle",
-    "Version": "0.32.4",
+    "Version": "0.32.5",
     "Description": "Electron Fiddle lets you create and play with small Electron experiments. ",
     "URL": "https://www.electronjs.org/fiddle",
     "Architecture": "ARM32/ARM64",
@@ -793,7 +793,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.0.72",
+    "Version": "1.0.80",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -1473,7 +1473,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.6.7",
+    "Version": "4.6.8",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1537,7 +1537,7 @@
   },
   {
     "Name": "WPS Office",
-    "Version": "11.1.0.11691",
+    "Version": "11.1.0.11698",
     "Description": "This is a Chinese clone of Microsoft Office.",
     "URL": "https://www.wps.com",
     "Architecture": "ARM32/ARM64",
@@ -1577,7 +1577,7 @@
   },
   {
     "Name": "WhatsApp",
-    "Version": "16.0",
+    "Version": "17.0",
     "Description": "Nativefier Whatsapp Web webapp",
     "URL": "no website",
     "Architecture": "ARM32/ARM64",
