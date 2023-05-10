@@ -793,7 +793,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.0.80",
+    "Version": "1.0.83",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -929,7 +929,7 @@
   },
   {
     "Name": "Node.js",
-    "Version": "v20.0.0",
+    "Version": "v20.1.0",
     "Description": "JavaScript code outside a web browser.",
     "URL": "https://nodesource.com/",
     "Architecture": "ARM32/ARM64",
@@ -1473,7 +1473,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.6.8",
+    "Version": "4.6.10-patch1",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
