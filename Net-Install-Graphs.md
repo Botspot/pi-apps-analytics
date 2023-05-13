@@ -214,4 +214,3 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/piKiss-net-installs-graph.png" alt="piKiss"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/template-net-installs-graph.png" alt="template"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/tldr-net-installs-graph.png" alt="tldr"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Discord-net-installs-graph.png" alt="Discord"></br>
