@@ -872,6 +872,14 @@
     "Users": "1406"
   },
   {
+    "Name": "Monero GUI",
+    "Version": "",
+    "Description": "Store Monero cryptocurrency with the official wallet software.",
+    "URL": "https://getmonero.org",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "More RAM",
     "Version": "",
     "Description": "Of course Pi-Apps lets you download more RAM!",

@@ -107,6 +107,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-Server-updates-graph.png" alt="Minecraft-Java-Server"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Pi-Modded-updates-graph.png" alt="Minecraft-Pi-Modded"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Mission-Planner-updates-graph.png" alt="Mission-Planner"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Monero-GUI-updates-graph.png" alt="Monero-GUI"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/More-RAM-updates-graph.png" alt="More-RAM"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Mu-updates-graph.png" alt="Mu"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/MuseScore-updates-graph.png" alt="MuseScore"></br>
