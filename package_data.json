@@ -481,7 +481,7 @@
   },
   {
     "Name": "Flow",
-    "Version": "ekioh_6.9.0_raspberry-pi64-flow_20230307_r38512",
+    "Version": "ekioh_6.9.0_raspberry-pi32-flow_20230307_r38512",
     "Description": "High-performance browser built from the ground up without relying on Chromium.",
     "URL": "https://www.ekioh.com/flow-browser/",
     "Architecture": "ARM32/ARM64",
