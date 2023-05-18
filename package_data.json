@@ -745,7 +745,7 @@
   },
   {
     "Name": "Linux Wifi Hotspot",
-    "Version": "",
+    "Version": "v4.5.0",
     "Description": "A feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface.",
     "URL": "https://github.com/lakinduakash/linux-wifi-hotspot",
     "Architecture": "ARM32/ARM64",
