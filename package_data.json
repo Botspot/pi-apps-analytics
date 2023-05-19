@@ -44,7 +44,7 @@
     "Version": "3.9.1",
     "Description": "Scans local networks as well as Internet",
     "URL": "https://angryip.org",
-    "Architecture": "ARM32/ARM64",
+    "Architecture": "ARM64",
     "Users": "15492"
   },
   {
