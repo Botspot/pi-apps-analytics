@@ -793,7 +793,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.0.90",
+    "Version": "1.1.0",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -857,7 +857,7 @@
   },
   {
     "Name": "Minecraft Pi (Modded)",
-    "Version": "256/artifact/out/minecraft-pi-reborn-client-2.4.6",
+    "Version": "257/artifact/out/minecraft-pi-reborn-client-2.4.7",
     "Description": "A modded version of Minecraft: Pi Edition with things like survival mode, multiplayer support, and more!",
     "URL": "https://discord.com/invite/aDqejQGMMy",
     "Architecture": "ARM32/ARM64",
@@ -1369,7 +1369,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.43.2",
+    "Version": "1.43.3",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1441,7 +1441,7 @@
   },
   {
     "Name": "Tor",
-    "Version": "12.0.5",
+    "Version": "12.0.6",
     "Description": "The Tor Browser is a web broswer that anonymizes your web traffic using the Tor network, making it easy to protect your identity online.",
     "URL": "https://sourceforge.net/projects/tor-browser-ports/files/",
     "Architecture": "ARM32/ARM64",
@@ -1481,7 +1481,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.6.12-patch1",
+    "Version": "4.6.14",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1617,7 +1617,7 @@
   },
   {
     "Name": "WorldPainter",
-    "Version": "2.17.1",
+    "Version": "2.17.2",
     "Description": "WorldPainter is an interactive map generator for Minecraft.",
     "URL": "https://www.worldpainter.net/",
     "Architecture": "ARM32/ARM64",
