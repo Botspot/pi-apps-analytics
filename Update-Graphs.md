@@ -65,7 +65,8 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GIMP-updates-graph.png" alt="GIMP"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GParted-updates-graph.png" alt="GParted"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geany-Dark-Mode-updates-graph.png" alt="Geany-Dark-Mode"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-updates-graph.png" alt="Geekbench"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-5-updates-graph.png" alt="Geekbench-5"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-6-updates-graph.png" alt="Geekbench-6"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-Desktop-updates-graph.png" alt="Github-Desktop"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-CLI-updates-graph.png" alt="Github-CLI"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Gnome-Builder-IDE-updates-graph.png" alt="Gnome-Builder-IDE"></br>
@@ -215,3 +216,4 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/piKiss-updates-graph.png" alt="piKiss"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/template-updates-graph.png" alt="template"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/tldr-updates-graph.png" alt="tldr"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-updates-graph.png" alt="Geekbench"></br>
