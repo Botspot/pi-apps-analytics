@@ -9,9 +9,9 @@ function error {
 daysince="$((($(date +%s)-$(date +%s --date "9/22/2020"))/(3600*24)))"
 
 applist="$(ls /tmp/pi-apps/apps | grep .)"
-# # temporarily add apps back to applist that have been removed
-# # remove once install numbers on Discord drop below a noticeable threshold
-# applist="$(echo -e "$applist\nDiscord")"
+# temporarily add apps back to applist that have been removed
+# remove once install numbers on Geekbench drop below a noticeable threshold
+applist="$(echo -e "$applist\nGeekbench")"
 echo "$applist"
 
 rm -f "$GITHUB_WORKSPACE/clicklist"
