@@ -137,7 +137,7 @@
   },
   {
     "Name": "BlockBench",
-    "Version": "4.7.2",
+    "Version": "4.7.4",
     "Description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
     "URL": "https://github.com/JannisX11/blockbench",
     "Architecture": "ARM32/ARM64",
@@ -561,7 +561,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.29.0",
+    "Version": "2.30.0",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -777,7 +777,7 @@
   },
   {
     "Name": "Marathon",
-    "Version": "20230119",
+    "Version": "20230529",
     "Description": "Marathon, Marathon 2 and Marathon Infinity are single and online multiplayer old school 1st person shooter games.",
     "URL": "https://https://alephone.lhowon.org",
     "Architecture": "ARM32/ARM64",
@@ -801,7 +801,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -865,7 +865,7 @@
   },
   {
     "Name": "Minecraft Pi (Modded)",
-    "Version": "257/artifact/out/minecraft-pi-reborn-client-2.4.7",
+    "Version": "259/artifact/out/minecraft-pi-reborn-client-2.4.8",
     "Description": "A modded version of Minecraft: Pi Edition with things like survival mode, multiplayer support, and more!",
     "URL": "https://discord.com/invite/aDqejQGMMy",
     "Architecture": "ARM32/ARM64",
@@ -1177,7 +1177,7 @@
   },
   {
     "Name": "Reaper",
-    "Version": "679",
+    "Version": "680",
     "Description": "REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.",
     "URL": "https://reaper.fm",
     "Architecture": "ARM32/ARM64",
@@ -1489,7 +1489,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.6.14",
+    "Version": "4.6.15",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
