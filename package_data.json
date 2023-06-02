@@ -257,7 +257,7 @@
   },
   {
     "Name": "Clam Antivirus",
-    "Version": "6.14",
+    "Version": "6.16",
     "Description": "Open-source antivirus for your pi",
     "URL": "https://gitlab.com/dave_m/clamtk",
     "Architecture": "ARM32/ARM64",
@@ -1593,7 +1593,7 @@
   },
   {
     "Name": "WhatsApp",
-    "Version": "17.0",
+    "Version": "18.0",
     "Description": "Nativefier Whatsapp Web webapp",
     "URL": "no website",
     "Architecture": "ARM32/ARM64",
