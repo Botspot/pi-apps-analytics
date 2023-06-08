@@ -849,7 +849,7 @@
   },
   {
     "Name": "Minecraft Java Prism Launcher",
-    "Version": "6.3-2",
+    "Version": "7.0-1",
     "Description": "Prism Launcher is an Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.",
     "URL": "https://prismlauncher.org/",
     "Architecture": "ARM32/ARM64",
