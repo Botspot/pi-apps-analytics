@@ -1233,7 +1233,7 @@
   },
   {
     "Name": "Shattered Pixel Dungeon",
-    "Version": "2.1.0",
+    "Version": "2.0.2",
     "Description": "Shattered Pixel Dungeon is a Roguelike Dungeon Crawler RPG with pixel art graphics.",
     "URL": "https://shatteredpixel.com/",
     "Architecture": "ARM32/ARM64",
