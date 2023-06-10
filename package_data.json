@@ -858,7 +858,7 @@
   {
     "Name": "Minecraft Java Server",
     "Version": "",
-    "Description": "This is a simple tool to create a Minecraft server: Vanilla, Fabric, Forge, Paper, Bukkit, Spigot, Sponge, Purpur and Tuinity are supported",
+    "Description": "This is a simple tool to create a Minecraft server: Vanilla, Fabric, Forge, Paper, Sponge, Purpur are supported",
     "URL": "https://serverjars.com",
     "Architecture": "ARM32/ARM64",
     "Users": "4845"
