@@ -466,7 +466,7 @@
   {
     "Name": "Firefox Rapid Release",
     "Version": "",
-    "Description": "Latest stable Mozilla Firefox version available. (Downloaded from Ubuntu Repo)",
+    "Description": "Latest stable Mozilla Firefox version available. (Downloaded from Mozilla Team Official PPA)",
     "URL": "https://firefox.com",
     "Architecture": "ARM32/ARM64",
     "Users": "22627"
