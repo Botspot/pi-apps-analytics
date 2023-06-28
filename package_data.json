@@ -1377,7 +1377,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.43.5",
+    "Version": "1.43.6",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1489,7 +1489,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.7.4",
+    "Version": "4.7.5",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
