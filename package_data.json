@@ -561,7 +561,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.30.0",
+    "Version": "2.31.0",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -793,7 +793,7 @@
   },
   {
     "Name": "Microsoft PowerShell",
-    "Version": "7.3.4",
+    "Version": "7.3.5",
     "Description": "PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.",
     "URL": "https://docs.microsoft.com/en-us/powershell/scripting/install/install-raspbian?view=powershell-7.2",
     "Architecture": "ARM32/ARM64",
@@ -801,7 +801,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.1.6",
+    "Version": "1.1.8",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -809,7 +809,7 @@
   },
   {
     "Name": "Min",
-    "Version": "1.27.0",
+    "Version": "1.28.0",
     "Description": "A fast, minimal browser that protects your privacy.",
     "URL": "https://minbrowser.org/",
     "Architecture": "ARM32/ARM64",
@@ -945,7 +945,7 @@
   },
   {
     "Name": "Node.js",
-    "Version": "v20.3.0",
+    "Version": "v20.3.1",
     "Description": "JavaScript code outside a web browser.",
     "URL": "https://nodesource.com/",
     "Architecture": "ARM32/ARM64",
@@ -1129,7 +1129,7 @@
   },
   {
     "Name": "PrusaSlicer",
-    "Version": "2.5.2",
+    "Version": "2.6.0",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/davidk/PrusaSlicer-ARM.AppImage",
     "Architecture": "ARM32/ARM64",
@@ -1217,7 +1217,7 @@
   },
   {
     "Name": "Scrcpy",
-    "Version": "v2.0",
+    "Version": "v2.1",
     "Description": "Connect and control your Android smartphone.",
     "URL": "https://github.com/Genymobile/scrcpy",
     "Architecture": "ARM32/ARM64",
@@ -1377,7 +1377,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.43.4",
+    "Version": "1.43.5",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1465,7 +1465,7 @@
   },
   {
     "Name": "Turbowarp",
-    "Version": "1.8.0",
+    "Version": "1.8.1",
     "Description": "Scratch 3 Desktop, but runs much faster. Also known as 'TurboWarp'",
     "URL": "https://turbowarp.org/",
     "Architecture": "ARM32/ARM64",
@@ -1489,7 +1489,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.7.2",
+    "Version": "4.7.4",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1633,7 +1633,7 @@
   },
   {
     "Name": "WorldPainter",
-    "Version": "2.18.2",
+    "Version": "2.18.4",
     "Description": "WorldPainter is an interactive map generator for Minecraft.",
     "URL": "https://www.worldpainter.net/",
     "Architecture": "ARM32/ARM64",
@@ -1649,7 +1649,7 @@
   },
   {
     "Name": "XSnow",
-    "Version": "3.7.4",
+    "Version": "3.7.5",
     "Description": "This turns your desktop wallpaper into an animated winter wonderland!",
     "URL": "https://www.ratrabbit.nl/ratrabbit/xsnow/",
     "Architecture": "ARM32/ARM64",
