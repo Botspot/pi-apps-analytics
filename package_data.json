@@ -216,6 +216,14 @@
     "Users": "1983"
   },
   {
+    "Name": "Caskaydia Cove NF",
+    "Version": "v3.0.2",
+    "Description": "A fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "URL": "nerdfonts.com",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Cawbird",
     "Version": "",
     "Description": "Cawbird is a fork of the Corebird GTK Twitter client that continues to work with Twitter.",

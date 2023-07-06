@@ -25,6 +25,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Brave-updates-graph.png" alt="Brave"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Browsh-updates-graph.png" alt="Browsh"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Caprine-updates-graph.png" alt="Caprine"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Caskaydia-Cove-NF-updates-graph.png" alt="Caskaydia-Cove-NF"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cawbird-updates-graph.png" alt="Cawbird"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Celeste-Classic-updates-graph.png" alt="Celeste-Classic"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chiaki-updates-graph.png" alt="Chiaki"></br>
