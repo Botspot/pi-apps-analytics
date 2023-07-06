@@ -984,6 +984,14 @@
     "Users": "18493"
   },
   {
+    "Name": "Oh My Posh",
+    "Version": "v17.6.0",
+    "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
+    "URL": "ohmyposh.dev",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Oomox Theme Designer",
     "Version": "",
     "Description": "A tool to customize icons, xrdb and GTK themes. ",

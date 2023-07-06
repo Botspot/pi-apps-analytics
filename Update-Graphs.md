@@ -121,6 +121,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Notejot-updates-graph.png" alt="Notejot"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Notepad-++-updates-graph.png" alt="Notepad-++"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OBS-Studio-updates-graph.png" alt="OBS-Studio"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oh-My-Posh-updates-graph.png" alt="Oh-My-Posh"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oomox-Theme-Designer-updates-graph.png" alt="Oomox-Theme-Designer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OpenSCAD-updates-graph.png" alt="OpenSCAD"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PPSSPP-PSP-emulator-updates-graph.png" alt="PPSSPP-PSP-emulator"></br>
