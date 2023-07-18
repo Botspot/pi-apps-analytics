@@ -73,7 +73,7 @@
   },
   {
     "Name": "ArmCord",
-    "Version": "3.2.0",
+    "Version": "3.2.1",
     "Description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://github.com/ArmCord/ArmCord",
     "Architecture": "ARM32/ARM64",
@@ -433,7 +433,7 @@
   },
   {
     "Name": "Electron Fiddle",
-    "Version": "0.32.9",
+    "Version": "0.33.0",
     "Description": "Electron Fiddle lets you create and play with small Electron experiments. ",
     "URL": "https://www.electronjs.org/fiddle",
     "Architecture": "ARM32/ARM64",
@@ -801,7 +801,7 @@
   },
   {
     "Name": "Microsoft PowerShell",
-    "Version": "7.3.5",
+    "Version": "7.3.6",
     "Description": "PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.",
     "URL": "https://docs.microsoft.com/en-us/powershell/scripting/install/install-raspbian?view=powershell-7.2",
     "Architecture": "ARM32/ARM64",
@@ -809,7 +809,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.2.4",
+    "Version": "1.2.6",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -817,7 +817,7 @@
   },
   {
     "Name": "Min",
-    "Version": "1.28.0",
+    "Version": "1.28.1",
     "Description": "A fast, minimal browser that protects your privacy.",
     "URL": "https://minbrowser.org/",
     "Architecture": "ARM32/ARM64",
@@ -985,7 +985,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v17.9.0",
+    "Version": "v17.11.2",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1233,7 +1233,7 @@
   },
   {
     "Name": "Scrcpy",
-    "Version": "v2.1",
+    "Version": "v2.1.1",
     "Description": "Connect and control your Android smartphone.",
     "URL": "https://github.com/Genymobile/scrcpy",
     "Architecture": "ARM32/ARM64",
@@ -1505,7 +1505,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.7.8-patch1",
+    "Version": "4.7.9",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1529,7 +1529,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.80.0.23188",
+    "Version": "1.80.1.23194",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
