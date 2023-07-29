@@ -137,7 +137,7 @@
   },
   {
     "Name": "BlockBench",
-    "Version": "4.7.4",
+    "Version": "4.8.0",
     "Description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
     "URL": "https://github.com/JannisX11/blockbench",
     "Architecture": "ARM32/ARM64",
@@ -481,7 +481,7 @@
   },
   {
     "Name": "Flow",
-    "Version": "ekioh_6.11.0_raspberry-pi32-flow_20230605_r38953",
+    "Version": "ekioh_6.12.0_raspberry-pi32-flow_20230717_r39263",
     "Description": "High-performance browser built from the ground up without relying on Chromium.",
     "URL": "https://www.ekioh.com/flow-browser/",
     "Architecture": "ARM32/ARM64",
@@ -553,7 +553,7 @@
   },
   {
     "Name": "Github Desktop",
-    "Version": "3.2.7-linux1",
+    "Version": "3.2.7-linux2",
     "Description": "Github Desktop is a GUI git client.",
     "URL": "https://desktop.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -561,7 +561,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.32.0",
+    "Version": "2.32.1",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -801,7 +801,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.2.6",
+    "Version": "1.2.9",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -945,7 +945,7 @@
   },
   {
     "Name": "Node.js",
-    "Version": "v20.4.0",
+    "Version": "v20.5.0",
     "Description": "JavaScript code outside a web browser.",
     "URL": "https://nodesource.com/",
     "Architecture": "ARM32/ARM64",
@@ -977,7 +977,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v17.11.2",
+    "Version": "v18.2.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1121,7 +1121,7 @@
   },
   {
     "Name": "Processing IDE",
-    "Version": "processing-1292-4.2",
+    "Version": "processing-1293-4.3",
     "Description": "Simple Java IDE",
     "URL": "https://processing.org/",
     "Architecture": "ARM32/ARM64",
@@ -1385,7 +1385,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.43.7",
+    "Version": "1.43.9",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1489,7 +1489,7 @@
   },
   {
     "Name": "Ulauncher",
-    "Version": "5.15.2",
+    "Version": "5.15.3",
     "Description": "All-in-one application launcher, Google search engine, calculator, file manager...",
     "URL": "https://ulauncher.io/",
     "Architecture": "ARM32/ARM64",
@@ -1497,7 +1497,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.7.9",
+    "Version": "4.7.10",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1521,7 +1521,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.80.1.23194",
+    "Version": "1.80.2.23209",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
