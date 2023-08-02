@@ -865,7 +865,7 @@
   },
   {
     "Name": "Minecraft Pi (Modded)",
-    "Version": "259/artifact/out/minecraft-pi-reborn-client-2.4.8",
+    "Version": "265/artifact/out/minecraft-pi-reborn-client-2.4.8",
     "Description": "A modded version of Minecraft: Pi Edition with things like survival mode, multiplayer support, and more!",
     "URL": "https://discord.com/invite/aDqejQGMMy",
     "Architecture": "ARM32/ARM64",
@@ -1393,7 +1393,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "1.43.9",
+    "Version": "1.43.10",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
