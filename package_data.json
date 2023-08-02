@@ -1208,6 +1208,14 @@
     "Users": "240"
   },
   {
+    "Name": "RiiTag-RPC",
+    "Version": "v1.3.2",
+    "Description": "Show what games you're playing on your Wii and Wii U in Discord.",
+    "URL": "tag.rc24.xyz",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Scratch 2",
     "Version": "",
     "Description": "Scratch 2 was removed from RPiOS in January. Install it back with this app!",

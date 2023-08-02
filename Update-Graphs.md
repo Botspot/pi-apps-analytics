@@ -149,6 +149,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Reaper-updates-graph.png" alt="Reaper"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Remarkable-updates-graph.png" alt="Remarkable"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Renoise-Demo-updates-graph.png" alt="Renoise-Demo"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/RiiTag-RPC-updates-graph.png" alt="RiiTag-RPC"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scratch-2-updates-graph.png" alt="Scratch-2"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scratch-3-updates-graph.png" alt="Scratch-3"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scrcpy-updates-graph.png" alt="Scrcpy"></br>
