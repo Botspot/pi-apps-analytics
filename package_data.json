@@ -1058,7 +1058,7 @@
   {
     "Name": "Pi-Apps Terminal Plugin (python)",
     "Version": "",
-    "Description": "This is a terminal version of pi apps but with more features.",
+    "Description": "This is a terminal version of Pi-Apps but with more features.",
     "URL": "https://github.com/techcoder20/PiAppsTerminalAdvanced",
     "Architecture": "ARM32",
     "Users": "1328"
