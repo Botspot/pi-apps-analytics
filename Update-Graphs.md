@@ -16,7 +16,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Better-Chromium-updates-graph.png" alt="Better-Chromium"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BleachBit-updates-graph.png" alt="BleachBit"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlockBench-updates-graph.png" alt="BlockBench"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlockPi-updates-graph.png" alt="BlockPi"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlueJ-Java-IDE-updates-graph.png" alt="BlueJ-Java-IDE"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Bongo-Cam-updates-graph.png" alt="Bongo-Cam"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box64-updates-graph.png" alt="Box64"></br>
@@ -52,7 +51,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Ducopanel-updates-graph.png" alt="Ducopanel"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Eagle-CAD-updates-graph.png" alt="Eagle-CAD"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Electron-Fiddle-updates-graph.png" alt="Electron-Fiddle"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Email-Checker-updates-graph.png" alt="Email-Checker"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Epiphany-updates-graph.png" alt="Epiphany"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FF-Multi-Converter-updates-graph.png" alt="FF-Multi-Converter"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Filezilla-updates-graph.png" alt="Filezilla"></br>
@@ -130,7 +128,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Persepolis-Download-Manager-updates-graph.png" alt="Persepolis-Download-Manager"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Power-Tools-updates-graph.png" alt="Pi-Power-Tools"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Apps-Terminal-Plugin-bash-updates-graph.png" alt="Pi-Apps-Terminal-Plugin-bash"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Apps-Terminal-Plugin-python-updates-graph.png" alt="Pi-Apps-Terminal-Plugin-python"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiGro-updates-graph.png" alt="PiGro"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiKISS-GUI-updates-graph.png" alt="PiKISS-GUI"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiSafe-updates-graph.png" alt="PiSafe"></br>
@@ -171,7 +168,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Synaptic-updates-graph.png" alt="Synaptic"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Syncthing-updates-graph.png" alt="Syncthing"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SysMonTask-updates-graph.png" alt="SysMonTask"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sysmon-updates-graph.png" alt="Sysmon"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/System-Monitoring-Center-updates-graph.png" alt="System-Monitoring-Center"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Tabby-updates-graph.png" alt="Tabby"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/TeamViewer-updates-graph.png" alt="TeamViewer"></br>

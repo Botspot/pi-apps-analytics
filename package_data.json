@@ -144,14 +144,6 @@
     "Users": "2206"
   },
   {
-    "Name": "BlockPi",
-    "Version": "1.2.1",
-    "Description": "Create python programs using drag-n-drop blocks",
-    "URL": "https://github.com/alienzhangyw/BlockPi",
-    "Architecture": "ARM32/ARM64",
-    "Users": "4585"
-  },
-  {
     "Name": "BlueJ Java IDE",
     "Version": "",
     "Description": "A simple but powerful Java IDE.",
@@ -430,14 +422,6 @@
     "URL": "https://www.electronjs.org/fiddle",
     "Architecture": "ARM32/ARM64",
     "Users": "653"
-  },
-  {
-    "Name": "Email Checker",
-    "Version": "",
-    "Description": "Continuously checks for new emails and display a notification if there are any.",
-    "URL": "https://github.com/Botspot/raspi-email-checker",
-    "Architecture": "ARM32/ARM64",
-    "Users": "1869"
   },
   {
     "Name": "Epiphany",
@@ -1056,14 +1040,6 @@
     "Users": "2642"
   },
   {
-    "Name": "Pi-Apps Terminal Plugin (python)",
-    "Version": "",
-    "Description": "This is a terminal version of Pi-Apps but with more features.",
-    "URL": "https://github.com/techcoder20/PiAppsTerminalAdvanced",
-    "Architecture": "ARM32",
-    "Users": "1331"
-  },
-  {
     "Name": "PiGro",
     "Version": "23.03",
     "Description": "PiGro is a program designed to make all Debian-based distributions easier to use on the Pi.",
@@ -1382,14 +1358,6 @@
     "URL": "https://github.com/KrispyCamel4u/SysMonTask",
     "Architecture": "ARM32/ARM64",
     "Users": "3697"
-  },
-  {
-    "Name": "Sysmon",
-    "Version": "",
-    "Description": "Monitor your Raspberry Pi using a web browser on another computer.",
-    "URL": "https://github.com/t0xic0der/sysmon",
-    "Architecture": "ARM32/ARM64",
-    "Users": "2469"
   },
   {
     "Name": "System Monitoring Center",
