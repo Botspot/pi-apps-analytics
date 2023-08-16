@@ -1081,7 +1081,7 @@
   },
   {
     "Name": "Pixelorama",
-    "Version": "",
+    "Version": "v0.11.1",
     "Description": "Pixelorama is a free and open source pixel art editor, proudly created with the Godot Engine, by Orama Interactive.",
     "URL": "https://orama-interactive.itch.io/pixelorama",
     "Architecture": "ARM32/ARM64",
