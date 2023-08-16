@@ -1425,7 +1425,7 @@
   },
   {
     "Name": "Timeshift",
-    "Version": "22.06.5",
+    "Version": "23.07.1",
     "Description": "System restore tool for Linux that provides functionality similar to the System Restore feature in Windows and the Time Machine tool in Mac OS.",
     "URL": "https://github.com/linuxmint/timeshift",
     "Architecture": "ARM32/ARM64",
