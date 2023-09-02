@@ -73,7 +73,7 @@
   },
   {
     "Name": "ArmCord",
-    "Version": "3.2.3",
+    "Version": "3.2.4",
     "Description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://github.com/ArmCord/ArmCord",
     "Architecture": "ARM32/ARM64",
@@ -137,7 +137,7 @@
   },
   {
     "Name": "BlockBench",
-    "Version": "4.8.1",
+    "Version": "4.8.3",
     "Description": "Blockbench is a free, modern model editor for low-poly and boxy models with pixel art textures. Models can be exported into standardized formats, to be shared, rendered, 3D-printed, or used in game engines. There are also multiple dedicated formats for Minecraft Java and Bedrock Edition with format-specific features.",
     "URL": "https://github.com/JannisX11/blockbench",
     "Architecture": "ARM32/ARM64",
@@ -537,7 +537,7 @@
   },
   {
     "Name": "Github Desktop",
-    "Version": "3.2.9-linux1",
+    "Version": "3.3.1-linux1",
     "Description": "Github Desktop is a GUI git client.",
     "URL": "https://desktop.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -785,7 +785,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.3.7",
+    "Version": "1.3.8",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -961,7 +961,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v18.4.0",
+    "Version": "v18.6.2",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1473,7 +1473,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.7.17-patch1",
+    "Version": "4.7.19",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1577,7 +1577,7 @@
   },
   {
     "Name": "WhatsApp",
-    "Version": "20.0",
+    "Version": "21.0",
     "Description": "Nativefier Whatsapp Web webapp",
     "URL": "no website",
     "Architecture": "ARM32/ARM64",
