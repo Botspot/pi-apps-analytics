@@ -824,14 +824,6 @@
     "Users": "42270"
   },
   {
-    "Name": "Minecraft Java MultiMC5",
-    "Version": "",
-    "Description": "CUSTOM BUILD of MultiMC5/Launcher. MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface. ",
-    "URL": "https://github.com/MultiMC/Launcher",
-    "Architecture": "ARM32/ARM64",
-    "Users": "11935"
-  },
-  {
     "Name": "Minecraft Java Prism Launcher",
     "Version": "7.2-1",
     "Description": "Prism Launcher is an Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.",
@@ -1601,16 +1593,16 @@
   },
   {
     "Name": "Wine (x64)",
-    "Version": "8.14",
-    "Description": "Run x86 and x64 Windows apps with a box64-emulated version x86/x64 wine-8.14 (WOW64 mode enabled).",
+    "Version": "8.15",
+    "Description": "Run x86 and x64 Windows apps with a box64-emulated version x86/x64 wine-8.15 (WOW64 mode enabled).",
     "URL": "https://www.winehq.org/",
     "Architecture": "ARM64",
     "Users": "1755"
   },
   {
     "Name": "Wine (x86)",
-    "Version": "8.14",
-    "Description": "Run x86 Windows apps with a box86-emulated version of x86 wine-8.14.",
+    "Version": "8.15",
+    "Description": "Run x86 Windows apps with a box86-emulated version of x86 wine-8.15.",
     "URL": "https://www.winehq.org/",
     "Architecture": "ARM32",
     "Users": "44677"
