@@ -568,6 +568,14 @@
     "Users": "173"
   },
   {
+    "Name": "Gnumeric",
+    "Version": "",
+    "Description": "Fast, reliable spreadsheet program",
+    "URL": "http://www.gnumeric.org/",
+    "Architecture": "package",
+    "Users": "0"
+  },
+  {
     "Name": "Godot",
     "Version": "3.5.2",
     "Description": "Open Source Game Engine that runs fine on the Raspberry Pi (for 2d games).",
