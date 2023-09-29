@@ -529,7 +529,7 @@
   },
   {
     "Name": "Geekbench 6",
-    "Version": "6.2.0",
+    "Version": "6.2.1",
     "Description": "Geekbench 6 is a cross-platform benchmark that measures your system's performance with the press of a button. ",
     "URL": "https://www.geekbench.com/",
     "Architecture": "ARM64",
@@ -793,7 +793,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.3.11",
+    "Version": "1.3.13",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -929,7 +929,7 @@
   },
   {
     "Name": "Node.js",
-    "Version": "v20.7.0",
+    "Version": "v20.8.0",
     "Description": "JavaScript code outside a web browser.",
     "URL": "https://nodesource.com/",
     "Architecture": "ARM32/ARM64",
@@ -961,7 +961,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v18.10.1",
+    "Version": "v18.10.3",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1361,7 +1361,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "2.22.2",
+    "Version": "2.23.0",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
