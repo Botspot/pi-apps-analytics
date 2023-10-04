@@ -130,7 +130,7 @@
   {
     "Name": "BleachBit",
     "Version": "4.4.2-0",
-    "Description": "BleachBit is a free and open-source disk space cleaner, privacy manager, and computer system optimizer. Not outdated like the APT repo's BleachBit.",
+    "Description": "BleachBit is a free and open-source disk space cleaner, privacy manager, and computer system optimizer.",
     "URL": "https://www.bleachbit.org/",
     "Architecture": "ARM32/ARM64",
     "Users": "6826"
