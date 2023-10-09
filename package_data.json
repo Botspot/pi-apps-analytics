@@ -465,7 +465,7 @@
   },
   {
     "Name": "Flow",
-    "Version": "ekioh_6.12.0_raspberry-pi32-flow_20230717_r39263",
+    "Version": "ekioh_6.13.0_raspberry-pi32-flow_20230906_r39511",
     "Description": "High-performance browser built from the ground up without relying on Chromium.",
     "URL": "https://www.ekioh.com/flow-browser/",
     "Architecture": "ARM32/ARM64",
@@ -537,7 +537,7 @@
   },
   {
     "Name": "Github Desktop",
-    "Version": "3.3.1-linux1",
+    "Version": "3.3.3-linux2",
     "Description": "Github Desktop is a GUI git client.",
     "URL": "https://desktop.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -1361,7 +1361,7 @@
   },
   {
     "Name": "System Monitoring Center",
-    "Version": "2.23.0",
+    "Version": "2.24.0",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
@@ -1473,7 +1473,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.8.10",
+    "Version": "4.8.12",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1497,7 +1497,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.82.2.23257",
+    "Version": "1.83.0.23277",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
@@ -1561,7 +1561,7 @@
   },
   {
     "Name": "Webcord",
-    "Version": "3.10.2",
+    "Version": "4.4.3",
     "Description": "Fast Discord client for ARM that mimics the official Discord client.",
     "URL": "https://github.com/SpacingBat3/WebCord/",
     "Architecture": "ARM32/ARM64",
