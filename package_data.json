@@ -177,7 +177,7 @@
   },
   {
     "Name": "Boxy SVG",
-    "Version": "4.2.3.zip",
+    "Version": "4.12.5.zip",
     "Description": "Quick and streamlined vector graphics creator.",
     "URL": "https://boxy-svg.com/",
     "Architecture": "ARM32/ARM64",
@@ -473,7 +473,7 @@
   },
   {
     "Name": "FreeTube",
-    "Version": "0.19.0-beta",
+    "Version": "0.19.1-beta",
     "Description": "Privacy-friendly YouTube player.",
     "URL": "https://freetubeapp.io/",
     "Architecture": "ARM32/ARM64",
@@ -785,7 +785,7 @@
   },
   {
     "Name": "Microsoft PowerShell",
-    "Version": "7.3.7",
+    "Version": "7.3.8",
     "Description": "PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.",
     "URL": "https://docs.microsoft.com/en-us/powershell/scripting/install/install-raspbian?view=powershell-7.2",
     "Architecture": "ARM32/ARM64",
@@ -1497,7 +1497,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.83.0.23277",
+    "Version": "1.83.0.23283",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
