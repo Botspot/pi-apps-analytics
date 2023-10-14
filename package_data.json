@@ -1105,7 +1105,7 @@
   },
   {
     "Name": "Project OutFox",
-    "Version": "https://github.com/TeamRizu/OutFox/releases/download/OF4.14.1/OutFox-alpha-0.4.14.1HF-RPi-Linux-arm32v7-date-20220327.tar.gz",
+    "Version": "https://github.com/TeamRizu/OutFox/releases/download/OF4.19.0/OutFox-0.4.19-LTS-Linux-RPi32bit-arm32v7-modern-date-20230415.tar.gz",
     "Description": "Project OutFox is a free BUT CLOSED SOURCE, cross-platform rhythm game. It is a fork of the OPEN SOURCE game, StepMania. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controllers.",
     "URL": "https://projectoutfox.com/",
     "Architecture": "ARM32/ARM64",
