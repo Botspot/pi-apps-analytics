@@ -434,7 +434,7 @@
   {
     "Name": "FF Multi Converter",
     "Version": "",
-    "Description": "FF Multi Converter is a simple graphical application for Linux which enables you to convert audio,",
+    "Description": "Simple file conversions for audio, video, images and documents.",
     "URL": "https://sites.google.com/site/ffmulticonverter/",
     "Architecture": "ARM32/ARM64",
     "Users": "3114"
