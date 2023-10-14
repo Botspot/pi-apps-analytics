@@ -1004,7 +1004,7 @@
     "Version": "",
     "Description": "A distant fork of Firefox, this is a lightweight and customizable web browser.",
     "URL": "https://www.palemoon.org/",
-    "Architecture": "ARM32/ARM64",
+    "Architecture": "ARM64",
     "Users": "2036"
   },
   {
