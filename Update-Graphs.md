@@ -120,6 +120,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OBS-Studio-updates-graph.png" alt="OBS-Studio"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oh-My-Posh-updates-graph.png" alt="Oh-My-Posh"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oomox-Theme-Designer-updates-graph.png" alt="Oomox-Theme-Designer"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Open-Typer-updates-graph.png" alt="Open-Typer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OpenSCAD-updates-graph.png" alt="OpenSCAD"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PPSSPP-PSP-emulator-updates-graph.png" alt="PPSSPP-PSP-emulator"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pac-Man-updates-graph.png" alt="Pac-Man"></br>
