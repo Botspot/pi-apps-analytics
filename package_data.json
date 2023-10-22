@@ -5,7 +5,7 @@
     "Description": "A free and open-source alternative to Microsoft Word.  ",
     "URL": "http://www.abisource.com/",
     "Architecture": "package",
-    "Users": "3303"
+    "Users": "3164"
   },
   {
     "Name": "Alacritty Terminal",
@@ -333,7 +333,7 @@
     "Description": "Lightweight BitTorrent client",
     "URL": "https://www.deluge-torrent.org",
     "Architecture": "package",
-    "Users": "7028"
+    "Users": "5906"
   },
   {
     "Name": "Descent 1",
@@ -445,7 +445,7 @@
     "Description": "Download and upload files via FTP, FTPS, and HTTP",
     "URL": "https://filezilla-project.org/",
     "Architecture": "package",
-    "Users": "11735"
+    "Users": "11637"
   },
   {
     "Name": "Firefox Rapid Release",
@@ -509,7 +509,7 @@
     "Description": "Graphically manage disk partitions",
     "URL": "https://gparted.org",
     "Architecture": "package",
-    "Users": "56487"
+    "Users": "55381"
   },
   {
     "Name": "Geany Dark Mode",
@@ -637,7 +637,7 @@
     "Description": "Popular free vector graphics editor",
     "URL": "https://inkscape.org",
     "Architecture": "package",
-    "Users": "10713"
+    "Users": "10346"
   },
   {
     "Name": "Intellij IDEA",
@@ -701,7 +701,7 @@
     "Description": "Open Source 2D-CAD",
     "URL": "https://librecad.org/",
     "Architecture": "package",
-    "Users": "3957"
+    "Users": "3589"
   },
   {
     "Name": "LibreOffice",
@@ -709,7 +709,7 @@
     "Description": "Free office suite including a word editor, slideshow, spreadsheet, database, and image editor",
     "URL": "https://www.libreoffice.org",
     "Architecture": "package",
-    "Users": "98168"
+    "Users": "88474"
   },
   {
     "Name": "LibrePCB",
@@ -885,7 +885,7 @@
     "Description": "A simple Python editor for beginner programmers.",
     "URL": "https://codewith.mu/",
     "Architecture": "package",
-    "Users": "36345"
+    "Users": "26692"
   },
   {
     "Name": "MuseScore",
@@ -1213,7 +1213,7 @@
     "Description": "Enjoy learning computer programming with drag-n-drop blocks!",
     "URL": "https://scratch.mit.edu",
     "Architecture": "package",
-    "Users": "233686"
+    "Users": "45845"
   },
   {
     "Name": "Scrcpy",

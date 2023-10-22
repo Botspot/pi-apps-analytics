@@ -1,19 +1,19 @@
-233686 Scratch 3
 213546 Chromium
 178518 Imager
-98168 LibreOffice
+88474 LibreOffice
 69098 Box86
-56487 GParted
+55381 GParted
+45845 Scratch 3
 45543 Wine (x86)
 44134 Disk Usage Analyzer
 42652 Minecraft Java Lunar
 41977 Minecraft Pi (Modded)
 40024 GIMP
 37357 Webcord
-36345 Mu
 33774 CommanderPi
 30713 BalenaEtcher
 28535 BlueJ Java IDE
+26692 Mu
 26263 Neofetch
 26238 piKiss
 26177 More RAM
@@ -50,13 +50,13 @@
 12679 PPSSPP (PSP emulator)
 12508 Audacity
 12261 Scrcpy
-11735 Filezilla
+11637 Filezilla
 11625 Clam Antivirus
 11296 PiGro
 11059 Mac OS Theme
 10783 Kodi
-10713 Inkscape
 10611 AndroidBuddy
+10346 Inkscape
 10232 Puffin
 9617 Notepad ++
 9543 USBImager
@@ -75,7 +75,6 @@
 7161 Stunt Rally
 7111 Web Apps
 7035 BleachBit
-7028 Deluge
 7018 Autostar
 6979 Pac-Man
 6921 Node.js
@@ -89,6 +88,7 @@
 5990 Timeshift
 5982 SimpleScreenRecorder
 5943 Epiphany
+5906 Deluge
 5858 Snapdrop
 5753 Github-CLI
 5674 Minecraft Java Server
@@ -109,7 +109,6 @@
 4065 VeraCrypt
 4006 Github Desktop
 4000 Boxy SVG
-3957 LibreCAD
 3952 AstroMenace
 3869 WPS Office
 3720 Heroes 2
@@ -117,17 +116,18 @@
 3594 AntiMicroX
 3593 Kolourpaint
 3592 PrusaSlicer
+3589 LibreCAD
 3475 LibrePCB
 3445 Powerline-Shell
 3395 Godot
 3364 Intellij IDEA
 3314 Amiberry
-3303 AbiWord
 3288 Drawing
 3200 Wine (x64)
 3198 Minecraft Java GDLauncher
 3198 Lego Digital Designer
 3164 FF Multi Converter
+3164 AbiWord
 3125 Min
 3121 OpenSCAD
 3081 Minecraft Java Prism Launcher
