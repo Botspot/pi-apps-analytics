@@ -240,14 +240,6 @@
     "Users": "218265"
   },
   {
-    "Name": "Chromium Widevine",
-    "Version": "",
-    "Description": "Widevine DRM support for any version of chromium-browser.",
-    "URL": "https://github.com/Botspot/chromium-v84-widevine",
-    "Architecture": "ARM32",
-    "Users": "18128"
-  },
-  {
     "Name": "Clam Antivirus",
     "Version": "6.16",
     "Description": "Open-source antivirus for your pi",
