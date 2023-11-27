@@ -529,7 +529,7 @@
   },
   {
     "Name": "Github Desktop",
-    "Version": "3.3.5-linux1",
+    "Version": "3.3.5-linux2",
     "Description": "Github Desktop is a GUI git client.",
     "URL": "https://desktop.github.com/",
     "Architecture": "ARM32/ARM64",
