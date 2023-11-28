@@ -346,7 +346,7 @@
   {
     "Name": "Deskreen",
     "Version": "",
-    "Description": "Share your desktop to your browser, and turn any device into a second screen!",
+    "Description": "Share your screen to any device on the local network that has a web browser.",
     "URL": "https://deskreen.com/",
     "Architecture": "ARM32/ARM64",
     "Users": "2503"
