@@ -1042,7 +1042,7 @@
   {
     "Name": "PiGro",
     "Version": "23.04",
-    "Description": "PiGro is a program designed to make all Debian-based distributions easier to use on the Pi.",
+    "Description": "A system configuration tool inspired by openSUSE's YaST but with the user-friendliness of Linux Mint. PiGro equips Raspberry Pi OS with graphical interfaces for tasks that would otherwise require the terminal. It is also optimized for Ubuntu, Ubuntu Mate, and MX Linux.",
     "URL": "https://github.com/actionschnitzel/PiGro-Aid-",
     "Architecture": "ARM32/ARM64",
     "Users": "11614"
