@@ -841,7 +841,7 @@
   },
   {
     "Name": "Minecraft Pi (Modded)",
-    "Version": "288/artifact/out/minecraft-pi-reborn-client-2.5.1",
+    "Version": "2.5.2",
     "Description": "A modded version of Minecraft: Pi Edition with things like survival mode, multiplayer support, and more!",
     "URL": "https://discord.com/invite/aDqejQGMMy",
     "Architecture": "ARM32/ARM64",
