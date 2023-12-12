@@ -313,7 +313,7 @@
   },
   {
     "Name": "DDNet",
-    "Version": "16.8",
+    "Version": "17.4",
     "Description": "DDRaceNetwork is a 2D cooperative platformer experience. Work together with up to 64 people and push your way through maps.",
     "URL": "https://ddnet.org/",
     "Architecture": "ARM32/ARM64",
