@@ -173,7 +173,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Tabby-updates-graph.png" alt="Tabby"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/TeamViewer-updates-graph.png" alt="TeamViewer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Telegram-updates-graph.png" alt="Telegram"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Temps-updates-graph.png" alt="Temps"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Tetris-CLI-updates-graph.png" alt="Tetris-CLI"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Thunderbird-updates-graph.png" alt="Thunderbird"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/TiLP-updates-graph.png" alt="TiLP"></br>

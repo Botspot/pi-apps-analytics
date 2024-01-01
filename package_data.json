@@ -1400,14 +1400,6 @@
     "Users": "6993"
   },
   {
-    "Name": "Temps",
-    "Version": "",
-    "Description": "Temps is a modern and minimal menubar application based on Electron with actual weather information and forecast.",
-    "URL": "https://github.com/musicpro/temps",
-    "Architecture": "ARM32/ARM64",
-    "Users": "2213"
-  },
-  {
     "Name": "Tetris CLI",
     "Version": "",
     "Description": "ASCII/CLI rendition of the Tetris game.",
