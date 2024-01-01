@@ -164,6 +164,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Steam-Link-updates-graph.png" alt="Steam-Link"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/StepMania-updates-graph.png" alt="StepMania"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Stunt-Rally-updates-graph.png" alt="Stunt-Rally"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sublime-Merge-updates-graph.png" alt="Sublime-Merge"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sublime-Text-updates-graph.png" alt="Sublime-Text"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Synaptic-updates-graph.png" alt="Synaptic"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Syncthing-updates-graph.png" alt="Syncthing"></br>

@@ -1328,6 +1328,14 @@
     "Users": "7154"
   },
   {
+    "Name": "Sublime Merge",
+    "Version": "",
+    "Description": "Git Client, done Sublime. Line-by-line Staging. Commit Editing. Unmatched Performance.",
+    "URL": "https://www.sublimemerge.com/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Sublime Text",
     "Version": "",
     "Description": "Cross-platform source code editor with a Python application programming interface.",
