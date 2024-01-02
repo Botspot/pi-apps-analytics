@@ -357,7 +357,7 @@
     "Description": "Ever wonder where you put that big file, or why your SD card is full? Now you can, with a glance at a pie chart.",
     "URL": "https://wiki.gnome.org/Apps/DiskUsageAnalyzer",
     "Architecture": "package",
-    "Users": "48595"
+    "Users": "49781"
   },
   {
     "Name": "Doom 3",
@@ -565,7 +565,7 @@
     "Description": "Fast, reliable spreadsheet program",
     "URL": "http://www.gnumeric.org/",
     "Architecture": "package",
-    "Users": "854"
+    "Users": "700"
   },
   {
     "Name": "Godot",
@@ -701,7 +701,7 @@
     "Description": "Free office suite including a word editor, slideshow, spreadsheet, database, and image editor",
     "URL": "https://www.libreoffice.org",
     "Architecture": "package",
-    "Users": "97480"
+    "Users": "98660"
   },
   {
     "Name": "LibrePCB",
