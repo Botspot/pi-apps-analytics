@@ -953,7 +953,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v19.3.1",
+    "Version": "v19.4.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1473,7 +1473,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.9.15",
+    "Version": "4.9.16",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
