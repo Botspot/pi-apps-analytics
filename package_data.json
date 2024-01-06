@@ -425,9 +425,9 @@
   },
   {
     "Name": "FF Multi Converter",
-    "Version": "",
+    "Version": "2.1.4",
     "Description": "Simple file conversions for audio, video, images and documents.",
-    "URL": "https://sites.google.com/site/ffmulticonverter/",
+    "URL": "https://github.com/l-koehler/FF-converter",
     "Architecture": "ARM32/ARM64",
     "Users": "3639"
   },
