@@ -777,7 +777,7 @@
   },
   {
     "Name": "Microsoft PowerShell",
-    "Version": "7.4.0",
+    "Version": "7.4.1",
     "Description": "PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.",
     "URL": "https://docs.microsoft.com/en-us/powershell/scripting/install/install-raspbian?view=powershell-7.2",
     "Architecture": "ARM32/ARM64",
@@ -921,7 +921,7 @@
   },
   {
     "Name": "Node.js",
-    "Version": "v21.5.0",
+    "Version": "v21.6.0",
     "Description": "JavaScript code outside a web browser.",
     "URL": "https://nodesource.com/",
     "Architecture": "ARM32/ARM64",
@@ -953,7 +953,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v19.5.1",
+    "Version": "v19.5.2",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1473,7 +1473,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.9.17-patch2",
+    "Version": "4.9.18",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1633,7 +1633,7 @@
   },
   {
     "Name": "XSnow",
-    "Version": "3.7.6",
+    "Version": "3.7.7~pre02",
     "Description": "This turns your desktop wallpaper into an animated winter wonderland!",
     "URL": "https://www.ratrabbit.nl/ratrabbit/xsnow/",
     "Architecture": "ARM32/ARM64",
