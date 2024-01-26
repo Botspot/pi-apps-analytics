@@ -409,7 +409,7 @@
   },
   {
     "Name": "Electron Fiddle",
-    "Version": "0.35.1",
+    "Version": "0.36.0",
     "Description": "Electron Fiddle lets you create and play with small Electron experiments. ",
     "URL": "https://www.electronjs.org/fiddle",
     "Architecture": "ARM32/ARM64",
@@ -953,7 +953,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v19.8.0",
+    "Version": "v19.8.1",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1473,7 +1473,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.10.1",
+    "Version": "4.10.3-patch1",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
