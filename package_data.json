@@ -241,7 +241,7 @@
   },
   {
     "Name": "Clam Antivirus",
-    "Version": "6.17",
+    "Version": "6.18",
     "Description": "Open-source antivirus for your pi",
     "URL": "https://gitlab.com/dave_m/clamtk",
     "Architecture": "ARM32/ARM64",
@@ -953,7 +953,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v19.8.1",
+    "Version": "v19.8.2",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -985,7 +985,7 @@
   },
   {
     "Name": "PPSSPP (PSP emulator)",
-    "Version": "v1.16.6",
+    "Version": "v1.17",
     "Description": "A PSP emulator that can run PSP games in full HD and can upscale textures also.",
     "URL": "http://ppsspp.org",
     "Architecture": "ARM32/ARM64",
