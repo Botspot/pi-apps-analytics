@@ -73,7 +73,7 @@
   },
   {
     "Name": "ArmCord",
-    "Version": "3.2.5",
+    "Version": "3.2.6",
     "Description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://github.com/ArmCord/ArmCord",
     "Architecture": "ARM32/ARM64",
@@ -425,7 +425,7 @@
   },
   {
     "Name": "FF Multi Converter",
-    "Version": "2.2.2",
+    "Version": "2.3.0",
     "Description": "Simple file conversions for audio, video, images and documents.",
     "URL": "https://github.com/l-koehler/FF-converter",
     "Architecture": "ARM32/ARM64",
@@ -457,7 +457,7 @@
   },
   {
     "Name": "Flow",
-    "Version": "ekioh_6.15.0_raspberry-pi32-flow_20231203_r39963",
+    "Version": "ekioh_6.16.0_raspberry-pi32-flow_20240129_r40141",
     "Description": "High-performance browser built from the ground up without relying on Chromium.",
     "URL": "https://www.ekioh.com/flow-browser/",
     "Architecture": "ARM32/ARM64",
@@ -785,7 +785,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.4.3",
+    "Version": "1.4.6",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -1225,7 +1225,7 @@
   },
   {
     "Name": "Shattered Pixel Dungeon",
-    "Version": "2.3.0",
+    "Version": "2.3.1",
     "Description": "Shattered Pixel Dungeon is a Roguelike Dungeon Crawler RPG with pixel art graphics.",
     "URL": "https://shatteredpixel.com/",
     "Architecture": "ARM32/ARM64",
@@ -1473,7 +1473,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.10.3-patch1",
+    "Version": "4.10.5",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1561,7 +1561,7 @@
   },
   {
     "Name": "Webcord",
-    "Version": "4.6.1",
+    "Version": "4.7.0",
     "Description": "Fast Discord client for ARM that mimics the official Discord client.",
     "URL": "https://github.com/SpacingBat3/WebCord/",
     "Architecture": "ARM32/ARM64",
