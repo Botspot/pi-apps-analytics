@@ -425,7 +425,7 @@
   },
   {
     "Name": "FF Multi Converter",
-    "Version": "2.3.0",
+    "Version": "2.3.1",
     "Description": "Simple file conversions for audio, video, images and documents.",
     "URL": "https://github.com/l-koehler/FF-converter",
     "Architecture": "ARM32/ARM64",
@@ -537,7 +537,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.42.1",
+    "Version": "2.43.1",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -785,7 +785,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.4.6",
+    "Version": "1.4.9",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -1473,7 +1473,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.10.5",
+    "Version": "4.10.6",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
