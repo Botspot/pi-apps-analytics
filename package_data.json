@@ -224,6 +224,14 @@
     "Users": "2510"
   },
   {
+    "Name": "Celeste64",
+    "Version": "1.1.1",
+    "Description": "Relive the magic of Celeste Mountain alongside Madeline in this small, heartfelt 3D platformer.",
+    "URL": "",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Chiaki",
     "Version": "",
     "Description": "Chiaki is a free and open source software client which enables PlayStation 4/5 remote play on the Raspberry Pi.",
@@ -1473,7 +1481,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.10.7",
+    "Version": "4.10.8",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
