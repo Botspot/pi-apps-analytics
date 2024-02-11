@@ -1169,7 +1169,7 @@
   },
   {
     "Name": "Reaper",
-    "Version": "710",
+    "Version": "711",
     "Description": "REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.",
     "URL": "https://reaper.fm",
     "Architecture": "ARM32/ARM64",
