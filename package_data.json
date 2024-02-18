@@ -464,6 +464,14 @@
     "Users": "9345"
   },
   {
+    "Name": "Floorp",
+    "Version": "11.10.0",
+    "Description": "Based on Firefox, includes extra privacy features and customization.",
+    "URL": "https://floorp.app/en/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Flow",
     "Version": "ekioh_6.16.0_raspberry-pi32-flow_20240129_r40141",
     "Description": "High-performance browser built from the ground up without relying on Chromium.",

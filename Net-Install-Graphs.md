@@ -56,6 +56,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Filezilla-net-installs-graph.png" alt="Filezilla"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Firefox-Rapid-Release-net-installs-graph.png" alt="Firefox-Rapid-Release"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Flameshot-net-installs-graph.png" alt="Flameshot"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Floorp-net-installs-graph.png" alt="Floorp"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Flow-net-installs-graph.png" alt="Flow"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FreeTube-net-installs-graph.png" alt="FreeTube"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Friday-Night-Funkin-Rewritten-net-installs-graph.png" alt="Friday-Night-Funkin-Rewritten"></br>
