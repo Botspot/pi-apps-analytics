@@ -24,6 +24,10 @@ total_shlink=0
 get_clicks() {
   
   while true;do
+    if [ "$app" == 'Minecraft Java' ];then #generate minecraft java graph but don't contact shlink server about it
+      clickstoday_shlink=0
+      break
+    fi
     #create shlink api url
     url_shlink="https://pi-apps-analytics.linkpc.net/rest/v2/short-urls/${1}/visits?startDate=${2}T00%3A00%3A00&endDate=${3}T00%3A00%3A00"
 
@@ -36,9 +40,7 @@ get_clicks() {
 
     # null output can only mean that the URL does not exist and is not a valid endpoint
     # urls are automatically added, so if a URL is not available then the server must be offline and we do not want to collect data
-    if [ "$app" == 'Minecraft Java' ];then
-      clickstoday_shlink=0
-    elif [ "$clickstoday_shlink" == "null" ] || [ -z "$clickstoday_shlink" ]; then
+    if [ "$clickstoday_shlink" == "null" ] || [ -z "$clickstoday_shlink" ]; then
       echo -e "\e[91mCould not find the corresponding URL for $1, is the server offline? Trying again.\e[39m" 1>&2
       sleep 10
       continue
