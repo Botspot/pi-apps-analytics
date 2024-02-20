@@ -36,8 +36,10 @@ get_clicks() {
 
     # null output can only mean that the URL does not exist and is not a valid endpoint
     # urls are automatically added, so if a URL is not available then the server must be offline and we do not want to collect data
-    if [ "$clickstoday_shlink" == "null" ] || [ -z "$clickstoday_shlink" ]; then
-      echo -e "\e[91mCould not find the corresponding URL, is the server offline? Trying again.\e[39m" 1>&2
+    if [ "$app" == 'Minecraft Java' ];then
+      clickstoday_shlink=0
+    elif [ "$clickstoday_shlink" == "null" ] || [ -z "$clickstoday_shlink" ]; then
+      echo -e "\e[91mCould not find the corresponding URL for $1, is the server offline? Trying again.\e[39m" 1>&2
       sleep 10
       continue
     else
