@@ -146,7 +146,7 @@ for app in $applist ;do
     set xdata time; 
     set timefmt '%Y-%m-%d'; 
     set xrange ['2020-09-22':'$date']; 
-    set autoscale y; 
+    set yrange [0:*];
     set title '$app_no_quote'; 
     set xlabel 'Date'; 
     set ylabel 'Net Installs'; 
@@ -159,7 +159,7 @@ for app in $applist ;do
     set xdata time; 
     set timefmt '%Y-%m-%d'; 
     set xrange ['$date_begin':'$date']; 
-    set autoscale y; 
+    set yrange [0:*];
     set title '$app_no_quote'; 
     set xlabel 'Date'; 
     set ylabel 'Updates'; 
