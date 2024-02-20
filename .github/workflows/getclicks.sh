@@ -11,7 +11,7 @@ daysince="$((($(date +%s)-$(date +%s --date "9/22/2020"))/(3600*24)))"
 applist="$(ls /tmp/pi-apps/apps | grep .)"
 # temporarily add apps back to applist that have been removed
 # remove once install numbers on Geekbench drop below a noticeable threshold
-applist="$(echo -e "$applist\nGeekbench")"
+applist="$(echo -e "$applist\nGeekbench\nMinecraft" | sort -f)"
 echo "$applist"
 
 rm -f "$GITHUB_WORKSPACE/clicklist"
@@ -147,6 +147,7 @@ for app in $applist ;do
     set timefmt '%Y-%m-%d'; 
     set xrange ['2020-09-22':'$date']; 
     set yrange [0:*];
+    set format y '%.0f';
     set title '$app_no_quote'; 
     set xlabel 'Date'; 
     set ylabel 'Net Installs'; 
@@ -160,6 +161,7 @@ for app in $applist ;do
     set timefmt '%Y-%m-%d'; 
     set xrange ['$date_begin':'$date']; 
     set yrange [0:*];
+    set format y '%.0f';
     set title '$app_no_quote'; 
     set xlabel 'Date'; 
     set ylabel 'Updates'; 
