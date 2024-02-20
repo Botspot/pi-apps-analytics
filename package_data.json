@@ -664,6 +664,14 @@
     "Users": "2412"
   },
   {
+    "Name": "KiCad",
+    "Version": "",
+    "Description": "Electronics Design Automation Suite - newer than what is available from APT",
+    "URL": "https://www.kicad.org/",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Kodi",
     "Version": "",
     "Description": "Kodi is the ultimate entertainment center.",
