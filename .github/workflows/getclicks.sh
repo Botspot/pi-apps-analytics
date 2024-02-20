@@ -11,7 +11,7 @@ daysince="$((($(date +%s)-$(date +%s --date "9/22/2020"))/(3600*24)))"
 applist="$(ls /tmp/pi-apps/apps | grep .)"
 # temporarily add apps back to applist that have been removed
 # remove once install numbers on Geekbench drop below a noticeable threshold
-applist="$(echo -e "$applist\nGeekbench\nMinecraft" | sort -f)"
+applist="$(echo -e "$applist\nGeekbench\nMinecraft Java" | sort -f)"
 echo "$applist"
 
 rm -f "$GITHUB_WORKSPACE/clicklist"
@@ -36,7 +36,7 @@ get_clicks() {
 
     # null output can only mean that the URL does not exist and is not a valid endpoint
     # urls are automatically added, so if a URL is not available then the server must be offline and we do not want to collect data
-    if [[ "$clickstoday_shlink" == "null" ]] || [[ -z "$clickstoday_shlink" ]]; then
+    if [ "$clickstoday_shlink" == "null" ] || [ -z "$clickstoday_shlink" ]; then
       echo -e "\e[91mCould not find the corresponding URL, is the server offline? Trying again.\e[39m" 1>&2
       sleep 10
       continue
