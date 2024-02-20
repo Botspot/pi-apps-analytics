@@ -11,7 +11,7 @@ daysince="$((($(date +%s)-$(date +%s --date "9/22/2020"))/(3600*24)))"
 applist="$(ls /tmp/pi-apps/apps | grep .)"
 # temporarily add apps back to applist that have been removed
 # remove once install numbers on Geekbench drop below a noticeable threshold
-applist="$(echo -e "$applist\nGeekbench\nMinecraft Java" | sort -f)"
+applist="$(echo -e "$applist\nGeekbench" | sort -f)"
 echo "$applist"
 
 rm -f "$GITHUB_WORKSPACE/clicklist"
@@ -24,10 +24,6 @@ total_shlink=0
 get_clicks() {
   
   while true;do
-    if [ "$app" == 'Minecraft Java' ];then #generate minecraft java graph but don't contact shlink server about it
-      clickstoday_shlink=0
-      break
-    fi
     #create shlink api url
     url_shlink="https://pi-apps-analytics.linkpc.net/rest/v2/short-urls/${1}/visits?startDate=${2}T00%3A00%3A00&endDate=${3}T00%3A00%3A00"
 
