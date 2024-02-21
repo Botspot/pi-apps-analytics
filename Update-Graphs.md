@@ -146,6 +146,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PPSSPP-PSP-emulator-updates-graph.png" alt="PPSSPP-PSP-emulator"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Processing-IDE-updates-graph.png" alt="Processing-IDE"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Project-OutFox-updates-graph.png" alt="Project-OutFox"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/ProjectLibre-updates-graph.png" alt="ProjectLibre"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PrusaSlicer-updates-graph.png" alt="PrusaSlicer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Puffin-updates-graph.png" alt="Puffin"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pycharm-CE-updates-graph.png" alt="Pycharm-CE"></br>

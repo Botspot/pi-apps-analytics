@@ -1136,6 +1136,14 @@
     "Users": "594"
   },
   {
+    "Name": "ProjectLibre",
+    "Version": "1.9.3",
+    "Description": "A desktop replacement for Microsoft Project - a project management software",
+    "URL": "https://www.projectlibre.com/product/1-alternative-microsoft-project-open-source",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "PrusaSlicer",
     "Version": "2.7.1",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
