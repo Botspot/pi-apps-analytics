@@ -163,6 +163,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Screenshot-updates-graph.png" alt="Screenshot"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Shattered-Pixel-Dungeon-updates-graph.png" alt="Shattered-Pixel-Dungeon"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Shotwell-updates-graph.png" alt="Shotwell"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Signal-updates-graph.png" alt="Signal"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SimpleScreenRecorder-updates-graph.png" alt="SimpleScreenRecorder"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Snap-Store-updates-graph.png" alt="Snap-Store"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Snapdrop-updates-graph.png" alt="Snapdrop"></br>

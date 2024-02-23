@@ -1272,6 +1272,14 @@
     "Users": "30379"
   },
   {
+    "Name": "Signal",
+    "Version": "6.48.1",
+    "Description": "Secure messaging client (phone number required)",
+    "URL": "https://www.signal.org",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "SimpleScreenRecorder",
     "Version": "",
     "Description": "Feature-rich screen recorder for X11 and OpenGL",
@@ -1529,7 +1537,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.86.2.24053",
+    "Version": "1.86.2.24054",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
