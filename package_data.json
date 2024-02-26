@@ -736,6 +736,14 @@
     "Users": "3997"
   },
   {
+    "Name": "LibreWolf",
+    "Version": "123.0-1",
+    "Description": "A custom version of Firefox, focused on privacy, security and freedom.",
+    "URL": "https://librewolf.net/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Libreoffice MS theme",
     "Version": "",
     "Description": "Make Libreoffice to look like Microsoft office - icon theme and tabbed interface.",

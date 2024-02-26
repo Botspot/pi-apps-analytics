@@ -95,6 +95,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreOffice-updates-graph.png" alt="LibreOffice"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Libreoffice-MS-theme-updates-graph.png" alt="Libreoffice-MS-theme"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibrePCB-updates-graph.png" alt="LibrePCB"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreWolf-updates-graph.png" alt="LibreWolf"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lightpad-updates-graph.png" alt="Lightpad"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LineRider-updates-graph.png" alt="LineRider"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Linux-Wifi-Hotspot-updates-graph.png" alt="Linux-Wifi-Hotspot"></br>
