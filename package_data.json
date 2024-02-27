@@ -984,6 +984,14 @@
     "Users": "22428"
   },
   {
+    "Name": "Obsidian",
+    "Version": "1.5.8",
+    "Description": "Powerful knowledge base using plain text Markdown files (for note-taking & project management)",
+    "URL": "https://obsidian.md/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Oh My Posh",
     "Version": "v19.11.4",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
