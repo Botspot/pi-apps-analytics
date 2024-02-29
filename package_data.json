@@ -1289,7 +1289,7 @@
   },
   {
     "Name": "Signal",
-    "Version": "6.48.1",
+    "Version": "7.0.0",
     "Description": "Secure messaging client (phone number required)",
     "URL": "https://www.signal.org",
     "Architecture": "ARM64",
