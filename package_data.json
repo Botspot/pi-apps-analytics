@@ -1652,7 +1652,7 @@
     "Version": "",
     "Description": "14 Windows screensavers that run well on Raspberry Pi.",
     "URL": "https://github.com/Botspot/Screensavers",
-    "Architecture": "ARM32",
+    "Architecture": "ARM32/ARM64",
     "Users": "2387"
   },
   {
