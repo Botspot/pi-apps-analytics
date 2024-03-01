@@ -993,7 +993,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v19.11.6",
+    "Version": "v19.11.7",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1553,7 +1553,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.86.2.24057",
+    "Version": "1.87.0.24060",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
@@ -1689,7 +1689,7 @@
   },
   {
     "Name": "XSnow",
-    "Version": "3.7.9~pre2",
+    "Version": "3.7.9~pre4",
     "Description": "This turns your desktop wallpaper into an animated winter wonderland!",
     "URL": "https://www.ratrabbit.nl/ratrabbit/xsnow/",
     "Architecture": "ARM32/ARM64",
