@@ -1200,6 +1200,14 @@
     "Users": "9543"
   },
   {
+    "Name": "QR Code Reader",
+    "Version": "",
+    "Description": "CoBang app - simple lightweight QR code and barcode scanner, uses the webcam.",
+    "URL": "https://github.com/hongquan/CoBang",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Quartz",
     "Version": "",
     "Description": "A useful fast Web Browser for Windows and Linux written in pyqt5 webkit.",

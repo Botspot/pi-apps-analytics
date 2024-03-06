@@ -154,6 +154,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pycharm-CE-net-installs-graph.png" alt="Pycharm-CE"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PyChess-net-installs-graph.png" alt="PyChess"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/QEMU-net-installs-graph.png" alt="QEMU"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/QR-Code-Reader-net-installs-graph.png" alt="QR-Code-Reader"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Quartz-net-installs-graph.png" alt="Quartz"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Reaper-net-installs-graph.png" alt="Reaper"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Remarkable-net-installs-graph.png" alt="Remarkable"></br>
