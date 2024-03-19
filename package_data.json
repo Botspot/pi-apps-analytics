@@ -1336,6 +1336,14 @@
     "Users": "2263"
   },
   {
+    "Name": "Sound Recorder",
+    "Version": "",
+    "Description": "Record audio from the microphone",
+    "URL": "https://wiki.gnome.org/Apps/SoundRecorder",
+    "Architecture": "package",
+    "Users": "0"
+  },
+  {
     "Name": "SpeedTest-CLI",
     "Version": "",
     "Description": "Test your internet speed from a terminal!",
