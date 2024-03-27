@@ -139,8 +139,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Apps-Terminal-Plugin-bash-net-installs-graph.png" alt="Pi-Apps-Terminal-Plugin-bash"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiGro-net-installs-graph.png" alt="PiGro"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pika-Backup-net-installs-graph.png" alt="Pika-Backup"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/piKiss-net-installs-graph.png" alt="piKiss"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiKISS-GUI-net-installs-graph.png" alt="PiKISS-GUI"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pinta-net-installs-graph.png" alt="Pinta"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiSafe-net-installs-graph.png" alt="PiSafe"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pixelorama-net-installs-graph.png" alt="Pixelorama"></br>

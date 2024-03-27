@@ -1088,14 +1088,6 @@
     "Users": "13082"
   },
   {
-    "Name": "PiKISS GUI",
-    "Version": "",
-    "Description": "PiKISS GUI is a GTK frontend for PiKISS",
-    "URL": "https://github.com/Jai-JAP/PiKISS-GUI",
-    "Architecture": "ARM32/ARM64",
-    "Users": "9944"
-  },
-  {
     "Name": "PiSafe",
     "Version": "",
     "Description": "Create compressed image files.  Flash SD cards from a disk image. Many file types supported.",
@@ -1782,14 +1774,6 @@
     "URL": "https://www.jgrasp.org/index.html",
     "Architecture": "ARM32/ARM64",
     "Users": "1108"
-  },
-  {
-    "Name": "piKiss",
-    "Version": "",
-    "Description": "A bunch of scripts with a menu to make your life easier. ",
-    "URL": "https://github.com/jmcerrejon/PiKISS",
-    "Architecture": "ARM32/ARM64",
-    "Users": "31148"
   },
   {
     "Name": "template",
