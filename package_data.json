@@ -1697,7 +1697,7 @@
   },
   {
     "Name": "XSnow",
-    "Version": "3.7.9~pre9",
+    "Version": "3.7.9",
     "Description": "This turns your desktop wallpaper into an animated winter wonderland!",
     "URL": "https://www.ratrabbit.nl/ratrabbit/xsnow/",
     "Architecture": "ARM32/ARM64",
