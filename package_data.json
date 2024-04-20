@@ -465,7 +465,7 @@
   },
   {
     "Name": "Floorp",
-    "Version": "11.11.2",
+    "Version": "11.12.1",
     "Description": "Based on Firefox, includes extra privacy features and customization.",
     "URL": "https://floorp.app/en/",
     "Architecture": "ARM64",
@@ -993,7 +993,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v19.23.0",
+    "Version": "v19.24.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1738,8 +1738,8 @@
   {
     "Name": "Zoom PWA",
     "Version": "",
-    "Description": "Web-app for Zoom",
-    "URL": "https://github.com/Botspot/zoom-pwa",
+    "Description": "Progressive Web App for Zoom",
+    "URL": "",
     "Architecture": "ARM32/ARM64",
     "Users": "2249"
   },
