@@ -825,7 +825,7 @@
   },
   {
     "Name": "Min",
-    "Version": "1.32.0",
+    "Version": "1.32.1",
     "Description": "A fast, minimal browser that protects your privacy.",
     "URL": "https://minbrowser.org/",
     "Architecture": "ARM32/ARM64",
