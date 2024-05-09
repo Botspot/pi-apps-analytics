@@ -912,6 +912,14 @@
     "Users": "44235"
   },
   {
+    "Name": "Mullvad",
+    "Version": "13.0.9",
+    "Description": "Mullvad Browser is security-minded browser meant for use with a VPN.",
+    "URL": "https://sourceforge.net/projects/tor-browser-ports/files/",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "MuseScore",
     "Version": "4.2.1.240230938-experimental",
     "Description": "Professional music notation software - LATEST MuseScore 4!",

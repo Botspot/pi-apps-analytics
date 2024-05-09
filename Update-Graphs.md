@@ -117,6 +117,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Monero-GUI-updates-graph.png" alt="Monero-GUI"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/More-RAM-updates-graph.png" alt="More-RAM"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Mu-updates-graph.png" alt="Mu"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Mullvad-updates-graph.png" alt="Mullvad"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/MuseScore-updates-graph.png" alt="MuseScore"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Nautilus-updates-graph.png" alt="Nautilus"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Nemo-updates-graph.png" alt="Nemo"></br>
