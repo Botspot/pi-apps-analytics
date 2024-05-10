@@ -921,7 +921,7 @@
   },
   {
     "Name": "MuseScore",
-    "Version": "4.2.1.240230938-experimental",
+    "Version": "4.3.0.241231432",
     "Description": "Professional music notation software - LATEST MuseScore 4!",
     "URL": "https://musescore.org",
     "Architecture": "ARM32/ARM64",
