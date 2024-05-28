@@ -1233,7 +1233,7 @@
   },
   {
     "Name": "Renoise (Demo)",
-    "Version": "3_4_3",
+    "Version": "3_4_4",
     "Description": "Renoise is a cross-platform Digital Audio Workstation with a unique top-down approach to music composition known as a tracker interface.",
     "URL": "https://renoise.com",
     "Architecture": "ARM32/ARM64",
