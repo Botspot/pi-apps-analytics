@@ -133,7 +133,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Open-Typer-updates-graph.png" alt="Open-Typer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OpenSCAD-updates-graph.png" alt="OpenSCAD"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pac-Man-updates-graph.png" alt="Pac-Man"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pale-Moon-updates-graph.png" alt="Pale-Moon"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PeaZip-updates-graph.png" alt="PeaZip"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Persepolis-Download-Manager-updates-graph.png" alt="Persepolis-Download-Manager"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pi-Power-Tools-updates-graph.png" alt="Pi-Power-Tools"></br>

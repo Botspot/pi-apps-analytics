@@ -1048,14 +1048,6 @@
     "Users": "11935"
   },
   {
-    "Name": "Pale Moon",
-    "Version": "",
-    "Description": "A distant fork of Firefox, this is a lightweight and customizable web browser.",
-    "URL": "https://www.palemoon.org/",
-    "Architecture": "ARM64",
-    "Users": "2301"
-  },
-  {
     "Name": "PeaZip",
     "Version": "",
     "Description": "PeaZip is free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, Brotli, FreeArc, PAQ, Zstandard, and PEA projects.",
