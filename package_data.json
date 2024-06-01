@@ -1760,14 +1760,6 @@
     "Users": "425"
   },
   {
-    "Name": "eDEX-UI",
-    "Version": "",
-    "Description": "Futuristic hacker terminal",
-    "URL": "https://github.com/GitSquared/edex-ui",
-    "Architecture": "ARM32/ARM64",
-    "Users": "8358"
-  },
-  {
     "Name": "jGRASP IDE",
     "Version": "206_16",
     "Description": "An IDE with visualizations for improving software comprehensibility.",
