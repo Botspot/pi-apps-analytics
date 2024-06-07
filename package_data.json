@@ -817,7 +817,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.6.0",
+    "Version": "1.6.1",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
