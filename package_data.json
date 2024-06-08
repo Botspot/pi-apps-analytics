@@ -993,7 +993,7 @@
   },
   {
     "Name": "Obsidian",
-    "Version": "1.5.12",
+    "Version": "1.6.2",
     "Description": "Powerful knowledge base using plain text Markdown files (for note-taking & project management)",
     "URL": "https://obsidian.md/",
     "Architecture": "ARM64",
