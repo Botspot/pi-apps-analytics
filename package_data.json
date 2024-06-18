@@ -921,7 +921,7 @@
   },
   {
     "Name": "MuseScore",
-    "Version": "4.3.1.241490902",
+    "Version": "",
     "Description": "Professional music notation software - LATEST MuseScore 4!",
     "URL": "https://musescore.org",
     "Architecture": "ARM32/ARM64",
@@ -1001,7 +1001,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v21.12.1",
+    "Version": "v21.13.1",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
