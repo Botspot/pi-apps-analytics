@@ -1050,7 +1050,7 @@
   {
     "Name": "Pac-Man",
     "Version": "",
-    "Description": "Pac-Man clone in SLD2 and C/C++",
+    "Description": "Pac-Man clone in SDL2 and C/C++",
     "URL": "https://github.com/ebuc99/pacman",
     "Architecture": "ARM32/ARM64",
     "Users": "12614"
