@@ -52,6 +52,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Drawing-net-installs-graph.png" alt="Drawing"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Ducopanel-net-installs-graph.png" alt="Ducopanel"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Eagle-CAD-net-installs-graph.png" alt="Eagle-CAD"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Easy-Effects-net-installs-graph.png" alt="Easy-Effects"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Electron-Fiddle-net-installs-graph.png" alt="Electron-Fiddle"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Epiphany-net-installs-graph.png" alt="Epiphany"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FF-Multi-Converter-net-installs-graph.png" alt="FF-Multi-Converter"></br>

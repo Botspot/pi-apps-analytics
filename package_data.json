@@ -416,6 +416,14 @@
     "Users": "2562"
   },
   {
+    "Name": "Easy Effects",
+    "Version": "",
+    "Description": "Useful audio effects that are applied to all system sounds",
+    "URL": "https://github.com/wwmm/easyeffects",
+    "Architecture": "package",
+    "Users": "0"
+  },
+  {
     "Name": "Electron Fiddle",
     "Version": "0.36.3",
     "Description": "Electron Fiddle lets you create and play with small Electron experiments. ",
