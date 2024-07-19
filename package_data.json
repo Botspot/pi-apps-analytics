@@ -792,14 +792,6 @@
     "Users": "1773"
   },
   {
-    "Name": "Mac OS Theme",
-    "Version": "",
-    "Description": "Realistic Light/Dark Mac OS Big Sur appearance theme. Uses XFCE desktop.",
-    "URL": "https://github.com/techcoder20/MacOSBigSurThemeConverter",
-    "Architecture": "ARM32",
-    "Users": "11818"
-  },
-  {
     "Name": "Marathon",
     "Version": "20240712",
     "Description": "Marathon, Marathon 2 and Marathon Infinity are single and online multiplayer old school 1st person shooter games.",
