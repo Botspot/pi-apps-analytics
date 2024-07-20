@@ -85,6 +85,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Inkscape-updates-graph.png" alt="Inkscape"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Intellij-IDEA-updates-graph.png" alt="Intellij-IDEA"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/jGRASP-IDE-updates-graph.png" alt="jGRASP-IDE"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kdenlive-updates-graph.png" alt="Kdenlive"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/KeePassXC-updates-graph.png" alt="KeePassXC"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/KiCad-updates-graph.png" alt="KiCad"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kodi-updates-graph.png" alt="Kodi"></br>

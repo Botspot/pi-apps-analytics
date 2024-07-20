@@ -664,6 +664,14 @@
     "Users": "4454"
   },
   {
+    "Name": "Kdenlive",
+    "Version": "",
+    "Description": "Newest version of a popular video editor, compatible with PiOS Bookworm",
+    "URL": "https://kdenlive.org/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "KeePassXC",
     "Version": "",
     "Description": "KeePassXC is a modern, secure, and open-source password manager that stores and manages sensitive information.",
