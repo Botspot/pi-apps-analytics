@@ -1009,7 +1009,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v21.28.0",
+    "Version": "v22.0.1",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1673,16 +1673,16 @@
   },
   {
     "Name": "Wine (x64)",
-    "Version": "9.3",
-    "Description": "Run x86 and x64 Windows apps with a box64-emulated version x86/x64 wine-9.3 (WOW64 mode enabled).",
+    "Version": "9.13",
+    "Description": "Run x86 and x64 Windows apps with a box64-emulated version x86/x64 wine-9.13 (WOW64 mode enabled).",
     "URL": "https://www.winehq.org/",
     "Architecture": "ARM64",
     "Users": "16889"
   },
   {
     "Name": "Wine (x86)",
-    "Version": "9.3",
-    "Description": "Run x86 Windows apps with a box86-emulated version of x86 wine-9.3.",
+    "Version": "9.13",
+    "Description": "Run x86 Windows apps with a box86-emulated version of x86 wine-9.13.",
     "URL": "https://www.winehq.org/",
     "Architecture": "ARM32",
     "Users": "48909"
