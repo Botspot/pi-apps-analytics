@@ -5,7 +5,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AndroidBuddy-net-installs-graph.png" alt="AndroidBuddy"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Angry-IP-scanner-net-installs-graph.png" alt="Angry-IP-scanner"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AntiMicroX-net-installs-graph.png" alt="AntiMicroX"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AnyDesk-net-installs-graph.png" alt="AnyDesk"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Arduino-net-installs-graph.png" alt="Arduino"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/ArmCord-net-installs-graph.png" alt="ArmCord"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AstroMenace-net-installs-graph.png" alt="AstroMenace"></br>

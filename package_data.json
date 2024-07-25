@@ -56,14 +56,6 @@
     "Users": "5090"
   },
   {
-    "Name": "AnyDesk",
-    "Version": "6.3.0-1",
-    "Description": "AnyDesk is the ultimate remote desktop solution for editing and maintaining a desktop or server from a remote location using Linux on Raspberry Pi.",
-    "URL": "https://anydesk.com/en/downloads/raspberry-pi",
-    "Architecture": "ARM32",
-    "Users": "9095"
-  },
-  {
     "Name": "Arduino",
     "Version": "1.8.19",
     "Description": "Arduino IDE 1.8.X. Now called Arduino IDE Legacy, based on the Java and Python Frameworks.",
@@ -489,7 +481,7 @@
   },
   {
     "Name": "FreeTube",
-    "Version": "0.21.1-beta",
+    "Version": "0.21.2-beta",
     "Description": "Privacy-friendly YouTube player.",
     "URL": "https://freetubeapp.io/",
     "Architecture": "ARM32/ARM64",
@@ -1009,7 +1001,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v22.0.3",
+    "Version": "v22.1.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
