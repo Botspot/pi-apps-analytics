@@ -198,6 +198,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Unciv-updates-graph.png" alt="Unciv"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Update-Buddy-updates-graph.png" alt="Update-Buddy"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/USBImager-updates-graph.png" alt="USBImager"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/VARA-HF-updates-graph.png" alt="VARA-HF"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/VeraCrypt-updates-graph.png" alt="VeraCrypt"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Visual-Studio-Code-updates-graph.png" alt="Visual-Studio-Code"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Vivaldi-updates-graph.png" alt="Vivaldi"></br>

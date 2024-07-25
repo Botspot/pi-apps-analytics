@@ -1552,6 +1552,14 @@
     "Users": "18214"
   },
   {
+    "Name": "VARA HF",
+    "Version": "",
+    "Description": "A shareware HF modem for amateur radio messaging.",
+    "URL": "https://rosmodem.wordpress.com/",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "VMware Horizon Client",
     "Version": "",
     "Description": "VMware Horizon Client allows your end users to connect to their VMware Horizon View VM from a device of choice.",
