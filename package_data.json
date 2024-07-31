@@ -1537,7 +1537,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.12.14-msi-test-7",
+    "Version": "4.12.15",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
