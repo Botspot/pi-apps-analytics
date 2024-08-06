@@ -112,6 +112,14 @@
     "Users": "39787"
   },
   {
+    "Name": "Bambu Studio",
+    "Version": "",
+    "Description": "Optimized 3D slicing software for BambuLab and other printers",
+    "URL": "https://bambulab.com/en/download/studio",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Better Chromium",
     "Version": "",
     "Description": "Make the most of your browser.",
@@ -1537,7 +1545,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.12.16",
+    "Version": "4.12.17",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
