@@ -1449,8 +1449,8 @@
   },
   {
     "Name": "Tabby",
-    "Version": "1.0.183",
-    "Description": " A terminal for a more modern age ",
+    "Version": "1.0.211",
+    "Description": "A terminal for a more modern age ",
     "URL": "https://tabby.sh/",
     "Architecture": "ARM32/ARM64",
     "Users": "2879"
