@@ -109,7 +109,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Min-net-installs-graph.png" alt="Min"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Bedrock-net-installs-graph.png" alt="Minecraft-Bedrock"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-GDLauncher-net-installs-graph.png" alt="Minecraft-Java-GDLauncher"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-Lunar-net-installs-graph.png" alt="Minecraft-Java-Lunar"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-Prism-Launcher-net-installs-graph.png" alt="Minecraft-Java-Prism-Launcher"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Java-Server-net-installs-graph.png" alt="Minecraft-Java-Server"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Minecraft-Pi-Modded-net-installs-graph.png" alt="Minecraft-Pi-Modded"></br>

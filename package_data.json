@@ -856,14 +856,6 @@
     "Users": "8407"
   },
   {
-    "Name": "Minecraft Java Lunar",
-    "Version": "",
-    "Description": "Lunar Client is an all-in-one modpack integrated Launcher available for ONLY popular versions of Minecraft.\r",
-    "URL": "https://www.lunarclient.com/",
-    "Architecture": "ARM32/ARM64",
-    "Users": "43564"
-  },
-  {
     "Name": "Minecraft Java Prism Launcher",
     "Version": "8.4-1",
     "Description": "Prism Launcher is an Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.",
