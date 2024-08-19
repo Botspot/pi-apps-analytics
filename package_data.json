@@ -1001,7 +1001,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v23.6.5",
+    "Version": "v23.6.6",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1609,7 +1609,7 @@
   },
   {
     "Name": "WPS Office",
-    "Version": "11.1.0.11720",
+    "Version": "",
     "Description": "This is a Chinese clone of Microsoft Office.",
     "URL": "https://www.wps.com",
     "Architecture": "ARM32/ARM64",
