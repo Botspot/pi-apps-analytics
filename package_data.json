@@ -65,7 +65,7 @@
   },
   {
     "Name": "ArmCord",
-    "Version": "3.2.8",
+    "Version": "3.3.0",
     "Description": "ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://github.com/ArmCord/ArmCord",
     "Architecture": "ARM32/ARM64",
