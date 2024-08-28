@@ -65,7 +65,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Friday-Night-Funkin-Rewritten-updates-graph.png" alt="Friday-Night-Funkin-Rewritten"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Fritzing-updates-graph.png" alt="Fritzing"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geany-Dark-Mode-updates-graph.png" alt="Geany-Dark-Mode"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-updates-graph.png" alt="Geekbench"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-5-updates-graph.png" alt="Geekbench-5"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-6-updates-graph.png" alt="Geekbench-6"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GIMP-updates-graph.png" alt="GIMP"></br>
@@ -161,6 +160,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scratch-3-updates-graph.png" alt="Scratch-3"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scrcpy-updates-graph.png" alt="Scrcpy"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Screenshot-updates-graph.png" alt="Screenshot"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/script-updates-graph.png" alt="script"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Shattered-Pixel-Dungeon-updates-graph.png" alt="Shattered-Pixel-Dungeon"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Shotwell-updates-graph.png" alt="Shotwell"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Signal-updates-graph.png" alt="Signal"></br>

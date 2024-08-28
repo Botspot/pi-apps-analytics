@@ -65,7 +65,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Friday-Night-Funkin-Rewritten-net-installs-graph.png" alt="Friday-Night-Funkin-Rewritten"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Fritzing-net-installs-graph.png" alt="Fritzing"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geany-Dark-Mode-net-installs-graph.png" alt="Geany-Dark-Mode"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-net-installs-graph.png" alt="Geekbench"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-5-net-installs-graph.png" alt="Geekbench-5"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-6-net-installs-graph.png" alt="Geekbench-6"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GIMP-net-installs-graph.png" alt="GIMP"></br>
@@ -161,6 +160,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scratch-3-net-installs-graph.png" alt="Scratch-3"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Scrcpy-net-installs-graph.png" alt="Scrcpy"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Screenshot-net-installs-graph.png" alt="Screenshot"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/script-net-installs-graph.png" alt="script"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Shattered-Pixel-Dungeon-net-installs-graph.png" alt="Shattered-Pixel-Dungeon"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Shotwell-net-installs-graph.png" alt="Shotwell"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Signal-net-installs-graph.png" alt="Signal"></br>
