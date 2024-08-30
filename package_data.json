@@ -93,7 +93,7 @@
     "Description": "Easy-to-use audio editor with numerous features",
     "URL": "https://www.audacityteam.org/",
     "Architecture": "package",
-    "Users": "20788"
+    "Users": "20366"
   },
   {
     "Name": "Autostar",
@@ -1269,7 +1269,7 @@
     "Description": "Simple interface for capturing screenshots, similar to the Windows Snipping Tool.",
     "URL": "https://apps.gnome.org/app/org.gnome.Screenshot",
     "Architecture": "package",
-    "Users": "37453"
+    "Users": "37007"
   },
   {
     "Name": "Shattered Pixel Dungeon",
@@ -1285,7 +1285,7 @@
     "Description": "Organize, edit, and publish your photos.",
     "URL": "https://shotwell-project.org/doc/html/",
     "Architecture": "package",
-    "Users": "44436"
+    "Users": "44004"
   },
   {
     "Name": "Signal",
@@ -1301,7 +1301,7 @@
     "Description": "Feature-rich screen recorder for X11 and OpenGL",
     "URL": "https://www.maartenbaert.be/simplescreenrecorder/",
     "Architecture": "package",
-    "Users": "9097"
+    "Users": "8664"
   },
   {
     "Name": "Snap Store",
@@ -1477,7 +1477,7 @@
     "Description": "Email client with many features like a tabbed interface, smart spam filter, address book, search and filter tools, encryption, and numerous add-ons.",
     "URL": "https://www.thunderbird.net/features",
     "Architecture": "package",
-    "Users": "39989"
+    "Users": "39565"
   },
   {
     "Name": "TiLP",

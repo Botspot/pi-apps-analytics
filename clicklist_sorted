@@ -14,13 +14,13 @@
 49114 Nautilus
 45598 Transmission
 44470 More RAM
-44436 Shotwell
+44004 Shotwell
 42528 Webcord
 42016 CommanderPi
-39989 Thunderbird
 39890 Synaptic
 39788 BalenaEtcher
-37453 Screenshot
+39565 Thunderbird
+37007 Screenshot
 33752 BlueJ Java IDE
 33421 Windows Flasher
 32360 Neofetch
@@ -43,8 +43,8 @@
 22614 Zoom
 22119 YouTubuddy
 20845 FreeTube
-20788 Audacity
 20633 SpeedTest-CLI
+20366 Audacity
 19398 Filezilla
 19109 Wine (x64)
 18640 Update Buddy
@@ -76,11 +76,11 @@
 9609 Node.js
 9302 Telegram
 9156 Nemo
-9097 SimpleScreenRecorder
 8960 Sublime Text
 8931 Minecraft Java Server
 8858 Deluge
 8782 Xtreme Download Manager
+8664 SimpleScreenRecorder
 8575 btop++
 8521 Minecraft Java GDLauncher
 8518 Lightpad
