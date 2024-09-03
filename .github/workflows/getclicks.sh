@@ -31,7 +31,7 @@ get_clicks() {
     url_shlink="https://pi-apps-analytics.linkpc.net/rest/v2/short-urls/${1}/visits?startDate=${2}T00%3A00%3A00&endDate=${3}T00%3A00%3A00"
 
     # get clicks for 1 day range from pi-apps shlink server
-    clickstoday_shlink="$(curl --retry 5 -sS -X 'GET' "$url_shlink" -H 'accept: application/json' -H "X-Api-Key: $SHLINK_KEY" | jq -r 'first( .visits | .pagination | .totalItems )')"
+    clickstoday_shlink="$(curl -sS -X 'GET' "$url_shlink" -H 'accept: application/json' -H "X-Api-Key: $SHLINK_KEY" | jq -r 'first( .visits | .pagination | .totalItems )')"
 
     # # for debuggging/testing print clickstoday_shlink to stderr (should not affect calculations)
     # # remove once testing has been completed
@@ -39,7 +39,7 @@ get_clicks() {
 
     # null output can only mean that the URL does not exist and is not a valid endpoint
     # urls are automatically added, so if a URL is not available then the server must be offline and we do not want to collect data
-    if [ "$clickstoday_shlink" == "null" ] || [ -z "$clickstoday_shlink" ]; then
+    if [[ $clickstoday_shlink == *null* ]] || [ -z "$clickstoday_shlink" ]; then
       echo -e "\e[91mCould not find the corresponding URL for $1, is the server offline? Trying again.\e[39m" 1>&2
       sleep 10
       continue
