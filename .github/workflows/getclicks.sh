@@ -19,6 +19,7 @@ echo "$applist"
 rm -f "$GITHUB_WORKSPACE/clicklist"
 rm -f "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
 rm -f "$GITHUB_WORKSPACE/Update-Graphs.md"
+rm -f "$GITHUB_WORKSPACE/Active-Usage-Graph.md"
 mkdir /tmp/graphs
 
 total_shlink=0
@@ -67,6 +68,46 @@ list_subtract() { #Outputs a list of apps from stdin, minus the ones that appear
   # Multimedia/Audacity
   # .*/Audacity
   comm -23 - <(echo "$1" | sort)
+}
+
+# create gnu plot
+gnu_plot(){
+  local app="$1"
+  local folder="$2"
+  local type="$3"
+  local date="$4"
+  local app_simple=$(echo "$app" | sed -r "s/['\" ]+/-/g" | sed -r "s/[()]+//g")
+  local type_simple=$(echo "${type,,}" | sed -r "s/['\" ]+/-/g" | sed -r "s/[()]+//g")
+  local app_no_quote=$(echo "$app" | sed -r "s/['\"]+/-/g")
+  if [ "$type" == "Updates" ]; then
+    local columns='1:5'
+    local date_begin="$(date --date "$date-14 days" '+%C%y-%m-%d')"
+  else
+    local columns='1:2'
+    local date_begin="2020-09-22"
+  fi
+  local orig_dir="$(pwd)"
+  cd "$folder" && gnuplot -e "set terminal pngcairo size 1000,300; 
+    set output '/tmp/graphs/$app_simple-$type_simple-graph.png'; 
+    set xdata time; 
+    set timefmt '%Y-%m-%d'; 
+    set xrange ['2020-09-22':'$date']; 
+    set yrange [0:*];
+    set format y '%.0f';
+    set title '$app_no_quote'; 
+    set xlabel 'Date'; 
+    set ylabel '$type'; 
+    set datafile separator ','; 
+    p 'data.csv' using $columns w filledcurve x1 fc \"#4ca724\" fs solid 0.7 t '$type',\
+      'data.csv' using $columns w l lc rgb \"forest-green\" t ''"
+  cd "$orig_dir"
+  if [ "$type" == "Updates" ]; then
+    echo "<img src=\"https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/${app_simple}-updates-graph.png\" alt=\"${app_simple}\"></br>" >> "$GITHUB_WORKSPACE/Update-Graphs.md"
+  elif [ "$type" == "Net Installs" ]; then
+    echo "<img src=\"https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/${app_simple}-net-installs-graph.png\" alt=\"${app_simple}\"></br>" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
+  elif [ "$type" == "active" ]; then
+    echo "<img src=\"https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/${app_simple}-${type_simple}-graph.png\" alt=\"${app_simple}\"></br>" >> "$GITHUB_WORKSPACE/Active-Usage-Graph.md"
+  fi
 }
 
 daysadd=0
@@ -140,39 +181,9 @@ for app in $applist ;do
     net_clicks=$((today_install_clicks - today_uninstall_clicks))
     echo "$date,$net_clicks,$today_install_clicks,$today_uninstall_clicks,$today_update_clicks" >> "$folder/data.csv"
   done
-  # save net clicks to plot
-  app_simple=$(echo "$app" | sed -r "s/['\" ]+/-/g" | sed -r "s/[()]+//g")
-  app_no_quote=$(echo "$app" | sed -r "s/['\"]+/-/g")
-  cd "$folder" && gnuplot -e "set terminal pngcairo size 1000,300; 
-    set output '/tmp/graphs/$app_simple-net-installs-graph.png'; 
-    set xdata time; 
-    set timefmt '%Y-%m-%d'; 
-    set xrange ['2020-09-22':'$date']; 
-    set yrange [0:*];
-    set format y '%.0f';
-    set title '$app_no_quote'; 
-    set xlabel 'Date'; 
-    set ylabel 'Net Installs'; 
-    set datafile separator ','; 
-    p 'data.csv' using 1:2 w filledcurve x1 fc \"#4ca724\" fs solid 0.7 t 'Net Installs',\
-      'data.csv' using 1:2 w l lc rgb \"forest-green\" t ''"
-  date_begin="$(date --date "$date-14 days" '+%C%y-%m-%d')"
-  cd "$folder" && gnuplot -e "set terminal pngcairo size 1000,300; 
-    set output '/tmp/graphs/$app_simple-updates-graph.png'; 
-    set xdata time; 
-    set timefmt '%Y-%m-%d'; 
-    set xrange ['$date_begin':'$date']; 
-    set yrange [0:*];
-    set format y '%.0f';
-    set title '$app_no_quote'; 
-    set xlabel 'Date'; 
-    set ylabel 'Updates'; 
-    set datafile separator ','; 
-    p 'data.csv' using 1:5 w filledcurve x1 fc \"#4ca724\" fs solid 0.7 t 'Updates',\
-      'data.csv' using 1:5 w l lc rgb \"forest-green\" t ''"
-  echo "<img src=\"https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/${app_simple}-net-installs-graph.png\" alt=\"${app_simple}\"></br>" >> "$GITHUB_WORKSPACE/Net-Install-Graphs.md"
-  echo "<img src=\"https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/${app_simple}-updates-graph.png\" alt=\"${app_simple}\"></br>" >> "$GITHUB_WORKSPACE/Update-Graphs.md"
-  cd "$GITHUB_WORKSPACE"
+  # save clicks to plot
+  gnu_plot "$app" "$folder" "Net Installs" "$date"
+  gnu_plot "$app" "$folder" "Updates" "$date"
 
   # obtain the install clicks and uninstall clicks by summing the column of the CSV
   install_clicks="$(cat "$folder/data.csv" | tail +2 | awk -F , '{print $3}' | xargs | sed -e 's/\ /+/g' | bc)"
@@ -187,6 +198,44 @@ done
 
 # print debug output for total shlink clicks
 echo "total_shlink: $total_shlink"
+
+# pi-apps-active-usage  
+app="usage"
+  
+#for every day since pi-apps epoch, a file is placed in this folder:
+folder="$GITHUB_WORKSPACE/daily clicks/${app}"
+[ ! -d "$folder" ] && mkdir -p "$folder"
+
+if [ ! -f "$folder/data.csv" ]; then
+  # create folder header
+  echo "Date,Usage Clicks" > "$folder/data.csv"
+fi
+
+# only check for clicks if date is not in CSV
+click_dates_needed="$(cat $GITHUB_WORKSPACE/datelist | list_subtract "$(cat "$folder/data.csv" | awk -F"," '{print $1}' | tail -n +2)")"
+
+IFS=$'\n'
+for date in $click_dates_needed;do
+  
+  #generate end date to check for. This adds days to the pi-apps epoch until we reach the present.
+  date_end="$(date --date "$date+1 days" '+%C%y-%m-%d')"
+  
+  unset output
+  output="$(get_clicks "pi-apps-active-$app" "$date" "$date_end")"
+  if [ $? == 0 ];then
+    today_usage_clicks="$(sed -n 1p <<<"$output")"
+    total_shlink="$(sed -n 2p <<<"$output")"
+  else
+    exit 1
+  fi
+  echo "$app $date $today_usage_clicks"
+  # generate CSV of the data (data, usage clicks)
+  echo "$date,$today_usage_clicks" >> "$folder/data.csv"
+done
+# save clicks to plot
+gnu_plot "$app" "$folder" "active" "$date"
+
+cd "$GITHUB_WORKSPACE"
 
 # FIXME: total numbers can no longer be collected in this way. we need to read from all the CSVs and combine their data and plot the sum
 # paste -d+ $GITHUB_WORKSPACE/daily\ clicks/*/net-installs-numbers | bc > $GITHUB_WORKSPACE/net-installs-total
