@@ -177,7 +177,7 @@
   },
   {
     "Name": "Boxy SVG",
-    "Version": "4.41.6.zip",
+    "Version": "4.41.7.zip",
     "Description": "Quick and streamlined vector graphics creator.",
     "URL": "https://boxy-svg.com/",
     "Architecture": "ARM32/ARM64",
@@ -889,10 +889,10 @@
   },
   {
     "Name": "Monero GUI",
-    "Version": "",
+    "Version": "v0.18.3.4",
     "Description": "Store Monero cryptocurrency with the official wallet software.",
     "URL": "https://getmonero.org",
-    "Architecture": "ARM32/ARM64",
+    "Architecture": "ARM64",
     "Users": "431"
   },
   {
