@@ -369,7 +369,7 @@
   },
   {
     "Name": "Doom 3",
-    "Version": "",
+    "Version": "1.5.4",
     "Description": "Doom 3 is a 2004 horror first-person shooter video game developed by id Software and published by Activision.",
     "URL": "https://github.com/techcoder20/RPIDoom3Installer.git",
     "Architecture": "ARM32/ARM64",
@@ -441,7 +441,7 @@
   },
   {
     "Name": "FF Multi Converter",
-    "Version": "2.4.5",
+    "Version": "2.4.6",
     "Description": "Simple file conversions for audio, video, images and documents.",
     "URL": "https://github.com/l-koehler/FF-converter",
     "Architecture": "ARM32/ARM64",
@@ -473,7 +473,7 @@
   },
   {
     "Name": "Floorp",
-    "Version": "11.19.0",
+    "Version": "11.19.1",
     "Description": "Based on Firefox, includes extra privacy features and customization.",
     "URL": "https://floorp.app/en/",
     "Architecture": "ARM64",
