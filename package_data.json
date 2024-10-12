@@ -177,7 +177,7 @@
   },
   {
     "Name": "Boxy SVG",
-    "Version": "4.41.7.zip",
+    "Version": "4.42.0.zip",
     "Description": "Quick and streamlined vector graphics creator.",
     "URL": "https://boxy-svg.com/",
     "Architecture": "ARM32/ARM64",
@@ -1785,7 +1785,7 @@
   },
   {
     "Name": "tldr",
-    "Version": "1.6.1",
+    "Version": "1.7.0",
     "Description": "The tldr project is a collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional man pages.",
     "URL": "https://dbrgn.github.io/tealdeer",
     "Architecture": "ARM32/ARM64",
