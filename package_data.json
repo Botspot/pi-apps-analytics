@@ -1308,7 +1308,7 @@
     "Version": "",
     "Description": "Snaps are app packages for desktop, cloud and IoT that are easy to install, secure, cross‐platform and dependency‐free.",
     "URL": "https://snapcraft.io/store",
-    "Architecture": "ARM32/ARM64",
+    "Architecture": "ARM64",
     "Users": "32185"
   },
   {
