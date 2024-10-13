@@ -9,9 +9,9 @@ function error {
 daysince="$((($(date +%s)-$(date +%s --date "9/22/2020"))/(3600*24)))"
 
 applist="$(ls /tmp/pi-apps/apps | grep .)"
-# # temporarily add apps back to applist that have been removed
-# # remove once install numbers on Geekbench drop below a noticeable threshold
-# applist="$(echo -e "$applist\nGeekbench" | sort -f)"
+# temporarily add apps back to applist that have been removed
+# remove once install numbers on ArmCord drop below a noticeable threshold
+applist="$(echo -e "$applist\nArmCord" | sort -f)"
 # add pi-apps-install-script (and uninstall and update which are currently unused) to the applist to track installation numbers of pi-apps itself
 applist="$(echo -e "$applist\nscript" | sort -f)"
 echo "$applist"
