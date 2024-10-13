@@ -6,7 +6,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Angry-IP-scanner-net-installs-graph.png" alt="Angry-IP-scanner"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AntiMicroX-net-installs-graph.png" alt="AntiMicroX"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Arduino-net-installs-graph.png" alt="Arduino"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/ArmCord-net-installs-graph.png" alt="ArmCord"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AstroMenace-net-installs-graph.png" alt="AstroMenace"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Audacious-net-installs-graph.png" alt="Audacious"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Audacity-net-installs-graph.png" alt="Audacity"></br>
@@ -90,6 +89,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kodi-net-installs-graph.png" alt="Kodi"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kolourpaint-net-installs-graph.png" alt="Kolourpaint"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Krita-net-installs-graph.png" alt="Krita"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LegCord-net-installs-graph.png" alt="LegCord"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lego-Digital-Designer-net-installs-graph.png" alt="Lego-Digital-Designer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreCAD-net-installs-graph.png" alt="LibreCAD"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreOffice-net-installs-graph.png" alt="LibreOffice"></br>
