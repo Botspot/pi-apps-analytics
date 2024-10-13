@@ -6,6 +6,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Angry-IP-scanner-updates-graph.png" alt="Angry-IP-scanner"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AntiMicroX-updates-graph.png" alt="AntiMicroX"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Arduino-updates-graph.png" alt="Arduino"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/ArmCord-updates-graph.png" alt="ArmCord"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/AstroMenace-updates-graph.png" alt="AstroMenace"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Audacious-updates-graph.png" alt="Audacious"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Audacity-updates-graph.png" alt="Audacity"></br>
@@ -89,7 +90,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kodi-updates-graph.png" alt="Kodi"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kolourpaint-updates-graph.png" alt="Kolourpaint"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Krita-updates-graph.png" alt="Krita"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LegCord-updates-graph.png" alt="LegCord"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Legcord-updates-graph.png" alt="Legcord"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lego-Digital-Designer-updates-graph.png" alt="Lego-Digital-Designer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreCAD-updates-graph.png" alt="LibreCAD"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreOffice-updates-graph.png" alt="LibreOffice"></br>

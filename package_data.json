@@ -712,12 +712,12 @@
     "Users": "4650"
   },
   {
-    "Name": "LegCord",
+    "Name": "Legcord",
     "Version": "1.0.1",
-    "Description": "LegCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
+    "Description": "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://github.com/Legcord/Legcord",
     "Architecture": "ARM32/ARM64",
-    "Users": "0"
+    "Users": "4059"
   },
   {
     "Name": "Lego Digital Designer",
