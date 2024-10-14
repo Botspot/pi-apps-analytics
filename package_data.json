@@ -1472,6 +1472,14 @@
     "Users": "8961"
   },
   {
+    "Name": "Thonny",
+    "Version": "",
+    "Description": "Thonny is a simple Python IDE with features useful for learning programming.",
+    "URL": "https://thonny.org",
+    "Architecture": "package",
+    "Users": "0"
+  },
+  {
     "Name": "Thunderbird",
     "Version": "",
     "Description": "Email client with many features like a tabbed interface, smart spam filter, address book, search and filter tools, encryption, and numerous add-ons.",
