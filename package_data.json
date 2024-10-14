@@ -825,7 +825,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "1.11.0",
+    "Version": "1.11.1",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -1001,7 +1001,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v23.19.0",
+    "Version": "v23.20.1",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1537,7 +1537,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.13.15",
+    "Version": "4.13.16",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
