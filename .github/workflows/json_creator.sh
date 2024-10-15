@@ -8,6 +8,7 @@ echo "$applist"
 
 # generate repository json from scratch
 jq --null-input '[]' >"$GITHUB_WORKSPACE/package_data.json"
+jq --null-input '{}' >"$GITHUB_WORKSPACE/package_data_v2.json"
 
 #install links
 IFS=$'\n'
@@ -44,6 +45,7 @@ for app in $applist; do
   fi
   users=$(cat "$GITHUB_WORKSPACE/clicklist" | grep "[0-9] "$app""'$' | awk '{print $1}' | head -n1)
   cat "$GITHUB_WORKSPACE/package_data.json" | jq -s '.[] + [{"Name": "'"$name"'", "Version": "'"$version"'", "Description": "'"$description"'", "URL": "'"$url"'", "Architecture": "'"$arch"'", "Users": "'"$users"'"}]' | sponge "$GITHUB_WORKSPACE/package_data.json"
+  cat "$GITHUB_WORKSPACE/package_data_v2.json" | jq -r '. + {"'"$name"'": {"Version": "'"$version"'", "Description": "'"$description"'", "URL": "'"$url"'", "Architecture": "'"$arch"'", "Users": "'"$users"'"}}' | sponge "$GITHUB_WORKSPACE/package_data_v2.json"
   unset url arch description version
 done
 cd $GITHUB_WORKSPACE
