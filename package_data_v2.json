@@ -84,10 +84,10 @@
     "Users": "11129"
   },
   "BalenaEtcher": {
-    "Version": "1.18.11",
+    "Version": "1.19.25",
     "Description": "Flash SD cards with a disk image. Many file types supported.",
     "URL": "https://github.com/Pi-Apps-Coders/files/blob/main/CompileCommands.md#balenaetcher",
-    "Architecture": "ARM32/ARM64",
+    "Architecture": "ARM64",
     "Users": "39766"
   },
   "Bambu Studio": {
