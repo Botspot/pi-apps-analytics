@@ -1240,6 +1240,14 @@
     "Users": "130"
   },
   {
+    "Name": "RustDesk",
+    "Version": "1.3.2",
+    "Description": "Open-source secure remote desktop connection software, better than AnyDesk or TeamViewer",
+    "URL": "https://rustdesk.com/",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Scratch 2",
     "Version": "",
     "Description": "Scratch 2 was removed from RPiOS in January. Install it back with this app!",
