@@ -34,8 +34,8 @@
   {
     "Name": "AndroidBuddy",
     "Version": "",
-    "Description": "A GUI for Android device recovery and maintenance.",
-    "URL": "https://gitlab.com/gazlene/droidbuddy",
+    "Description": "Share your keyboard, mouse, screen, internet connection, files, and more with your Android phone.",
+    "URL": "https://github.com/Botspot/androidbuddy",
     "Architecture": "ARM32/ARM64",
     "Users": "14681"
   },
