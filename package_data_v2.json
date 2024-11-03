@@ -910,7 +910,7 @@
     "Users": "4850"
   },
   "PPSSPP (PSP emulator)": {
-    "Version": "v1.17.1",
+    "Version": "v1.18",
     "Description": "A PSP emulator that can run PSP games in full HD and can upscale textures also.",
     "URL": "http://ppsspp.org",
     "Architecture": "ARM32/ARM64",
