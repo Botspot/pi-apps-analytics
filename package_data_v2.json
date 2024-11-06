@@ -518,9 +518,9 @@
     "Users": "2072"
   },
   "Godot": {
-    "Version": "3.5.2",
-    "Description": "Open Source Game Engine that runs fine on the Raspberry Pi (for 2d games).",
-    "URL": "https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi",
+    "Version": "4.3-stable",
+    "Description": "Your free, open‑source game engine.",
+    "URL": "https://godotengine.org/",
     "Architecture": "ARM32/ARM64",
     "Users": "5472"
   },
