@@ -147,7 +147,7 @@
     "Users": "96790"
   },
   "Boxy SVG": {
-    "Version": "4.48.2.zip",
+    "Version": "4.48.4.zip",
     "Description": "Quick and streamlined vector graphics creator.",
     "URL": "https://boxy-svg.com/",
     "Architecture": "ARM32/ARM64",
@@ -882,7 +882,7 @@
     "Users": "1400"
   },
   "Oh My Posh": {
-    "Version": "v24.0.7",
+    "Version": "v24.0.8",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1020,13 +1020,6 @@
     "URL": "https://github.com/davidk/PrusaSlicer-ARM.AppImage",
     "Architecture": "ARM32/ARM64",
     "Users": "5656"
-  },
-  "Puffin": {
-    "Version": "",
-    "Description": "Speeds up web browsing thanks to cloud servers.",
-    "URL": "https://www.puffin.com/raspberry-pi/",
-    "Architecture": "ARM32/ARM64",
-    "Users": "16048"
   },
   "PyChess": {
     "Version": "1.0.5",
