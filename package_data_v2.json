@@ -1021,6 +1021,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "5656"
   },
+  "Puffin": {
+    "Version": "",
+    "Description": "Speeds up web browsing thanks to cloud servers.",
+    "URL": "https://www.puffin.com/raspberry-pi/",
+    "Architecture": "ARM64",
+    "Users": "16048"
+  },
   "PyChess": {
     "Version": "1.0.5",
     "Description": "PyChess is a chess client for playing and analyzing chess games. It is intended to be usable both for those totally new to chess as well as advanced users who want to use a computer to further enhance their play.",

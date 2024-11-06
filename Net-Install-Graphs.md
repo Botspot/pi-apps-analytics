@@ -148,6 +148,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Project-OutFox-net-installs-graph.png" alt="Project-OutFox"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/ProjectLibre-net-installs-graph.png" alt="ProjectLibre"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PrusaSlicer-net-installs-graph.png" alt="PrusaSlicer"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Puffin-net-installs-graph.png" alt="Puffin"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pycharm-CE-net-installs-graph.png" alt="Pycharm-CE"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PyChess-net-installs-graph.png" alt="PyChess"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/QEMU-net-installs-graph.png" alt="QEMU"></br>
