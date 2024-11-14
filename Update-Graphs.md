@@ -102,7 +102,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LineRider-updates-graph.png" alt="LineRider"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Linux-Wifi-Hotspot-updates-graph.png" alt="Linux-Wifi-Hotspot"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LMMS-updates-graph.png" alt="LMMS"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lokinet-updates-graph.png" alt="Lokinet"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Marathon-updates-graph.png" alt="Marathon"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/MatterControl-updates-graph.png" alt="MatterControl"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Microsoft-PowerShell-updates-graph.png" alt="Microsoft-PowerShell"></br>

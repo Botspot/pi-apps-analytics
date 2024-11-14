@@ -800,14 +800,6 @@
     "Users": "8162"
   },
   {
-    "Name": "Lokinet",
-    "Version": "",
-    "Description": "Lokinet is a privacy focused network anyone can access using the latest in decentralized onion routing technology.",
-    "URL": "https://wiki.oxen.io/wiki/Main_Page",
-    "Architecture": "ARM32/ARM64",
-    "Users": "1773"
-  },
-  {
     "Name": "Marathon",
     "Version": "20240712",
     "Description": "Marathon, Marathon 2 and Marathon Infinity are single and online multiplayer old school 1st person shooter games.",
@@ -1009,7 +1001,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v24.4.1",
+    "Version": "v24.5.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1561,7 +1553,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.14.6",
+    "Version": "4.14.6-patch1",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
