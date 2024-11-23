@@ -272,6 +272,14 @@
     "Users": "7762"
   },
   {
+    "Name": "Colored Man Pages",
+    "Version": "",
+    "Description": "Add a bit of color coding to the documentation for linux commands.",
+    "URL": "",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "CommanderPi",
     "Version": "",
     "Description": "Easy RaspberryPi4 GUI system management",

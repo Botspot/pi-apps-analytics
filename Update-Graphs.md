@@ -35,6 +35,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/CloudBuddy-updates-graph.png" alt="CloudBuddy"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Codex-updates-graph.png" alt="Codex"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Color-Emoji-font-updates-graph.png" alt="Color-Emoji-font"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Colored-Man-Pages-updates-graph.png" alt="Colored-Man-Pages"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/CommanderPi-updates-graph.png" alt="CommanderPi"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Conky-updates-graph.png" alt="Conky"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Conky-Rings-updates-graph.png" alt="Conky-Rings"></br>
