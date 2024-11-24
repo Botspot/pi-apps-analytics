@@ -57,6 +57,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Electron-Fiddle-net-installs-graph.png" alt="Electron-Fiddle"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Epiphany-net-installs-graph.png" alt="Epiphany"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Fastfetch-net-installs-graph.png" alt="Fastfetch"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Feather-Wallet-net-installs-graph.png" alt="Feather-Wallet"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FF-Multi-Converter-net-installs-graph.png" alt="FF-Multi-Converter"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Filezilla-net-installs-graph.png" alt="Filezilla"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Firefox-Rapid-Release-net-installs-graph.png" alt="Firefox-Rapid-Release"></br>

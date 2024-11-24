@@ -398,6 +398,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "259"
   },
+  "Feather Wallet": {
+    "Version": "2.7.0",
+    "Description": "Store Monero cryptocurrency with Feather Wallet - better experience than Monero GUI",
+    "URL": "https://featherwallet.org",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
   "Filezilla": {
     "Version": "",
     "Description": "Download and upload files via FTP, FTPS, and HTTP",
