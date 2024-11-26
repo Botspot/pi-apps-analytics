@@ -1546,6 +1546,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "23352"
   },
+  "Zen": {
+    "Version": "1.0.1-a.19",
+    "Description": "Privacy-focused browser based on Firefox",
+    "URL": "https://zen-browser.app/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
   "Zoom": {
     "Version": "5.4.53391.1108",
     "Description": "Zoom video calls on the Raspberry Pi.",

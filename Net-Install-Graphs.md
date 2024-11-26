@@ -226,5 +226,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/XSnow-net-installs-graph.png" alt="XSnow"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Xtreme-Download-Manager-net-installs-graph.png" alt="Xtreme-Download-Manager"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/YouTubuddy-net-installs-graph.png" alt="YouTubuddy"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Zen-net-installs-graph.png" alt="Zen"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Zoom-net-installs-graph.png" alt="Zoom"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Zoom-PWA-net-installs-graph.png" alt="Zoom-PWA"></br>
