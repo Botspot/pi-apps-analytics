@@ -1547,7 +1547,7 @@
     "Users": "23644"
   },
   "Zen": {
-    "Version": "1.0.1-a.19",
+    "Version": "1.0.2-b.2",
     "Description": "Privacy-focused browser based on Firefox",
     "URL": "https://zen-browser.app/",
     "Architecture": "ARM64",
