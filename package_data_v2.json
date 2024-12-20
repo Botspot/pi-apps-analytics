@@ -889,7 +889,7 @@
     "Users": "1749"
   },
   "Oh My Posh": {
-    "Version": "v24.15.1",
+    "Version": "v24.16.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1547,7 +1547,7 @@
     "Users": "23717"
   },
   "Zen": {
-    "Version": "1.0.2-b.2",
+    "Version": "1.0.2-b.3",
     "Description": "Privacy-focused browser based on Firefox",
     "URL": "https://zen-browser.app/",
     "Architecture": "ARM64",
