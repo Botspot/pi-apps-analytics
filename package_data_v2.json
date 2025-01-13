@@ -392,7 +392,7 @@
     "Users": "6116"
   },
   "Fastfetch": {
-    "Version": "2.34.0",
+    "Version": "2.34.1",
     "Description": "Fastfetch is a neofetch-like tool for fetching system information and displaying it prettily.",
     "URL": "https://github.com/fastfetch-cli/fastfetch",
     "Architecture": "ARM32/ARM64",
@@ -551,6 +551,13 @@
     "URL": "https://httrack.com",
     "Architecture": "package",
     "Users": "4087"
+  },
+  "Hangover": {
+    "Version": "9.22",
+    "Description": "Hangover runs simple Win64 and Win32 applications on arm64 Linux. Only the application is emulated instead of a whole Wine installation.",
+    "URL": "https://github.com/AndreRH/hangover",
+    "Architecture": "ARM64",
+    "Users": "0"
   },
   "Heroes 2": {
     "Version": "",
@@ -1372,7 +1379,7 @@
     "Users": "9157"
   },
   "Unciv": {
-    "Version": "4.15.2",
+    "Version": "4.15.2-patch1",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",

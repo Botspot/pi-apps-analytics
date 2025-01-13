@@ -79,6 +79,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Godot-updates-graph.png" alt="Godot"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GParted-updates-graph.png" alt="GParted"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Guake-Terminal-updates-graph.png" alt="Guake-Terminal"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Hangover-updates-graph.png" alt="Hangover"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Heroes-2-updates-graph.png" alt="Heroes-2"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Https-File-Server-updates-graph.png" alt="Https-File-Server"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/HTTrack-Website-Copier-updates-graph.png" alt="HTTrack-Website-Copier"></br>
