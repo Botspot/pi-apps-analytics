@@ -664,6 +664,14 @@
     "Users": "2448"
   },
   {
+    "Name": "INAV Configurator",
+    "Version": "v20250118.101",
+    "Description": "Configure the brains of any flying craft",
+    "URL": "https://github.com/iNavFlight/inav-configurator",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Imager",
     "Version": "",
     "Description": "Raspberry Pi's official SD card imaging utility.",

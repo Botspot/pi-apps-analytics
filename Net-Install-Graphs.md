@@ -85,6 +85,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/HTTrack-Website-Copier-net-installs-graph.png" alt="HTTrack-Website-Copier"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Hyper-net-installs-graph.png" alt="Hyper"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Imager-net-installs-graph.png" alt="Imager"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/INAV-Configurator-net-installs-graph.png" alt="INAV-Configurator"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Inkscape-net-installs-graph.png" alt="Inkscape"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Intellij-IDEA-net-installs-graph.png" alt="Intellij-IDEA"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/jGRASP-IDE-net-installs-graph.png" alt="jGRASP-IDE"></br>
