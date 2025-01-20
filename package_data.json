@@ -1785,7 +1785,7 @@
   },
   {
     "Name": "Zen",
-    "Version": "1.7b",
+    "Version": "1.7.1b",
     "Description": "Privacy-focused browser based on Firefox",
     "URL": "https://zen-browser.app/",
     "Architecture": "ARM64",
