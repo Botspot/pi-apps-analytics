@@ -1365,7 +1365,7 @@
     "Users": "56973"
   },
   "Turbowarp": {
-    "Version": "1.12.3",
+    "Version": "1.13.0",
     "Description": "Scratch 3 Desktop, but runs much faster. Also known as 'TurboWarp'",
     "URL": "https://turbowarp.org/",
     "Architecture": "ARM32/ARM64",
