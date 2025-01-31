@@ -132,6 +132,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OBS-Studio-net-installs-graph.png" alt="OBS-Studio"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Obsidian-net-installs-graph.png" alt="Obsidian"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oh-My-Posh-net-installs-graph.png" alt="Oh-My-Posh"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Ollama-net-installs-graph.png" alt="Ollama"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oomox-Theme-Designer-net-installs-graph.png" alt="Oomox-Theme-Designer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Open-Typer-net-installs-graph.png" alt="Open-Typer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OpenSCAD-net-installs-graph.png" alt="OpenSCAD"></br>

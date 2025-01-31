@@ -909,6 +909,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "1066"
   },
+  "Ollama": {
+    "Version": "",
+    "Description": "Run LLMs like ChatGPT locally without the Internet",
+    "URL": "https://ollama.com",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
   "Oomox Theme Designer": {
     "Version": "",
     "Description": "A tool to customize icons, xrdb and GTK themes. ",
