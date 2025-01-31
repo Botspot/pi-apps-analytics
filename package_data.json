@@ -1040,7 +1040,7 @@
     "Users": "1066"
   },
   {
-    "Name": "Ollama",
+    "Name": "Ollama GUI",
     "Version": "",
     "Description": "Run LLMs like ChatGPT locally without the Internet",
     "URL": "https://ollama.com",
