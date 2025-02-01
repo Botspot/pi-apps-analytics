@@ -441,7 +441,7 @@
     "Users": "2799"
   },
   "FreeTube": {
-    "Version": "0.23.0-beta",
+    "Version": "0.23.1-beta",
     "Description": "Privacy-friendly YouTube player.",
     "URL": "https://freetubeapp.io/",
     "Architecture": "ARM32/ARM64",
@@ -1169,7 +1169,7 @@
     "Users": "53625"
   },
   "Signal": {
-    "Version": "7.40.0",
+    "Version": "7.39.0",
     "Description": "Secure messaging client (phone number required)",
     "URL": "https://www.signal.org",
     "Architecture": "ARM64",
