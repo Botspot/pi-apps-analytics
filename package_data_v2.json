@@ -1428,7 +1428,7 @@
     "Users": "6076"
   },
   "VeraCrypt": {
-    "Version": "1.26.7",
+    "Version": "1.26.20",
     "Description": "Open source disk encryption software",
     "URL": "https://www.veracrypt.fr/en/Documentation.html",
     "Architecture": "ARM32/ARM64",
