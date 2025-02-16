@@ -74,6 +74,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-Desktop-updates-graph.png" alt="Github-Desktop"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-CLI-updates-graph.png" alt="Github-CLI"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Gnome-Builder-IDE-updates-graph.png" alt="Gnome-Builder-IDE"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Gnome-Maps-updates-graph.png" alt="Gnome-Maps"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Gnome-Software-updates-graph.png" alt="Gnome-Software"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Gnumeric-updates-graph.png" alt="Gnumeric"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Godot-updates-graph.png" alt="Godot"></br>
@@ -136,6 +137,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oomox-Theme-Designer-updates-graph.png" alt="Oomox-Theme-Designer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Open-Typer-updates-graph.png" alt="Open-Typer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OpenSCAD-updates-graph.png" alt="OpenSCAD"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Organic-Maps-updates-graph.png" alt="Organic-Maps"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pac-Man-updates-graph.png" alt="Pac-Man"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PeaZip-updates-graph.png" alt="PeaZip"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Persepolis-Download-Manager-updates-graph.png" alt="Persepolis-Download-Manager"></br>

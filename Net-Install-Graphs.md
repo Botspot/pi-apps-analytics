@@ -74,6 +74,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-Desktop-net-installs-graph.png" alt="Github-Desktop"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-CLI-net-installs-graph.png" alt="Github-CLI"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Gnome-Builder-IDE-net-installs-graph.png" alt="Gnome-Builder-IDE"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Gnome-Maps-net-installs-graph.png" alt="Gnome-Maps"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Gnome-Software-net-installs-graph.png" alt="Gnome-Software"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Gnumeric-net-installs-graph.png" alt="Gnumeric"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Godot-net-installs-graph.png" alt="Godot"></br>
@@ -136,6 +137,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oomox-Theme-Designer-net-installs-graph.png" alt="Oomox-Theme-Designer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Open-Typer-net-installs-graph.png" alt="Open-Typer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OpenSCAD-net-installs-graph.png" alt="OpenSCAD"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Organic-Maps-net-installs-graph.png" alt="Organic-Maps"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pac-Man-net-installs-graph.png" alt="Pac-Man"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PeaZip-net-installs-graph.png" alt="PeaZip"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Persepolis-Download-Manager-net-installs-graph.png" alt="Persepolis-Download-Manager"></br>

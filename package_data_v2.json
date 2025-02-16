@@ -517,6 +517,13 @@
     "Architecture": "ARM64",
     "Users": "637"
   },
+  "Gnome Maps": {
+    "Version": "",
+    "Description": "Minimalistic maps program, requires an Internet connection",
+    "URL": "https://apps.gnome.org/Maps/",
+    "Architecture": "package",
+    "Users": "0"
+  },
   "Gnome Software": {
     "Version": "",
     "Description": "Gnome Software allows you to easily find, discover and install apps.",
@@ -936,6 +943,13 @@
     "URL": "http://www.openscad.org/\nhttps://github.com/koendv/openscad-raspberrypi",
     "Architecture": "ARM32/ARM64",
     "Users": "5533"
+  },
+  "Organic Maps": {
+    "Version": "",
+    "Description": "Free offline maps for everyone",
+    "URL": "https://flathub.org/apps/app.organicmaps.desktop",
+    "Architecture": "ARM64",
+    "Users": "0"
   },
   "PPSSPP (PSP emulator)": {
     "Version": "v1.18.1",
