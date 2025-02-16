@@ -1504,6 +1504,14 @@
     "Users": "22656"
   },
   {
+    "Name": "Systemd Pilot",
+    "Version": "3.0.0",
+    "Description": "Desktop application for managing systemd services. it can be described as a gui for systemctl.",
+    "URL": "https://github.com/mfat/systemd-pilot",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Tabby",
     "Version": "1.0.221",
     "Description": "A terminal for a more modern age ",

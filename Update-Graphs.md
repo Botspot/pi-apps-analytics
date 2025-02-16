@@ -191,6 +191,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Syncthing-updates-graph.png" alt="Syncthing"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SysMonTask-updates-graph.png" alt="SysMonTask"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/System-Monitoring-Center-updates-graph.png" alt="System-Monitoring-Center"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Systemd-Pilot-updates-graph.png" alt="Systemd-Pilot"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Tabby-updates-graph.png" alt="Tabby"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/TeamViewer-updates-graph.png" alt="TeamViewer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Telegram-updates-graph.png" alt="Telegram"></br>
