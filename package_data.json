@@ -1056,6 +1056,14 @@
     "Users": "649"
   },
   {
+    "Name": "OnionShare",
+    "Version": "",
+    "Description": "Securely and anonymously share files, host websites, and chat with friends using the Tor network.",
+    "URL": "https://onionshare.org/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Oomox Theme Designer",
     "Version": "",
     "Description": "A tool to customize icons, xrdb and GTK themes. ",
