@@ -139,6 +139,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "0"
   },
+  "Botspot Virtual Machine": {
+    "Version": "",
+    "Description": "Run Windows 11 in a high-speed virtual machine on Linux",
+    "URL": "https://github.com/Botspot/bvm",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
   "Box64": {
     "Version": "",
     "Description": "Easily emulate x86_64 linux apps on ARM64.",
