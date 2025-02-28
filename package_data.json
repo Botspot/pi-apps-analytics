@@ -152,6 +152,14 @@
     "Users": "3056"
   },
   {
+    "Name": "Botspot Screen Recorder",
+    "Version": "",
+    "Description": "All-in-one screen recording utility for wlroots Wayland compositors like Wayfire, LabWC and Sway.",
+    "URL": "https://github.com/Botspot/botspot-screen-recorder",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Box64",
     "Version": "",
     "Description": "Easily emulate x86_64 linux apps on ARM64.",

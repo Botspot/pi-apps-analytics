@@ -18,6 +18,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlockBench-net-installs-graph.png" alt="BlockBench"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BlueJ-Java-IDE-net-installs-graph.png" alt="BlueJ-Java-IDE"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Bongo-Cam-net-installs-graph.png" alt="Bongo-Cam"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Botspot-Screen-Recorder-net-installs-graph.png" alt="Botspot-Screen-Recorder"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box64-net-installs-graph.png" alt="Box64"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Box86-net-installs-graph.png" alt="Box86"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Boxy-SVG-net-installs-graph.png" alt="Boxy-SVG"></br>
