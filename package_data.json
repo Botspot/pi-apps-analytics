@@ -441,7 +441,7 @@
   },
   {
     "Name": "Electron Fiddle",
-    "Version": "0.36.5",
+    "Version": "0.36.6",
     "Description": "Electron Fiddle lets you create and play with small Electron experiments. ",
     "URL": "https://www.electronjs.org/fiddle",
     "Architecture": "ARM32/ARM64",
@@ -593,7 +593,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.68.0",
+    "Version": "2.68.1",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -1057,7 +1057,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v25.1.1",
+    "Version": "v25.2.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1641,7 +1641,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.15.14",
+    "Version": "4.15.15",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1809,7 +1809,7 @@
   },
   {
     "Name": "XSnow",
-    "Version": "3.8.4~pre01",
+    "Version": "3.8.4",
     "Description": "This turns your desktop wallpaper into an animated winter wonderland!",
     "URL": "https://www.ratrabbit.nl/ratrabbit/xsnow/",
     "Architecture": "ARM32/ARM64",
