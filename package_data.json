@@ -1057,7 +1057,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v25.4.2",
+    "Version": "v25.4.3",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
