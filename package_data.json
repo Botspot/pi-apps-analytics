@@ -593,7 +593,7 @@
   },
   {
     "Name": "Github-CLI",
-    "Version": "2.68.1",
+    "Version": "2.69.0",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
@@ -1057,7 +1057,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v25.4.3",
+    "Version": "v25.5.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1385,7 +1385,7 @@
   },
   {
     "Name": "Signal",
-    "Version": "7.46.1",
+    "Version": "7.47.0",
     "Description": "Secure messaging client (phone number required)",
     "URL": "https://www.signal.org",
     "Architecture": "ARM64",
@@ -1681,7 +1681,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.98.2.25072",
+    "Version": "1.98.2.25078",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
