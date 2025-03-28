@@ -441,7 +441,7 @@
     "Users": "12480"
   },
   "Floorp": {
-    "Version": "11.24.0",
+    "Version": "11.25.0",
     "Description": "Based on Firefox, includes extra privacy features and customization.",
     "URL": "https://floorp.app/en/",
     "Architecture": "ARM64",
@@ -455,7 +455,7 @@
     "Users": "2973"
   },
   "FreeTube": {
-    "Version": "0.23.2-beta",
+    "Version": "0.23.3-beta",
     "Description": "Privacy-friendly YouTube player.",
     "URL": "https://freetubeapp.io/",
     "Architecture": "ARM32/ARM64",
@@ -1617,7 +1617,7 @@
     "Users": "25613"
   },
   "Zen": {
-    "Version": "1.7.4b",
+    "Version": "1.10.3b",
     "Description": "Privacy-focused browser based on Firefox",
     "URL": "https://zen-browser.app/",
     "Architecture": "ARM64",
