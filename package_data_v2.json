@@ -924,7 +924,7 @@
     "Users": "2994"
   },
   "Oh My Posh": {
-    "Version": "v25.18.0",
+    "Version": "v25.19.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
