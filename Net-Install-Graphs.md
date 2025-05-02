@@ -42,6 +42,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Conky-net-installs-graph.png" alt="Conky"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Conky-Rings-net-installs-graph.png" alt="Conky-Rings"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cool-Retro-Term-net-installs-graph.png" alt="Cool-Retro-Term"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/CrazyCattle3D-net-installs-graph.png" alt="CrazyCattle3D"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Cura-net-installs-graph.png" alt="Cura"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/DDNet-net-installs-graph.png" alt="DDNet"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Deluge-net-installs-graph.png" alt="Deluge"></br>

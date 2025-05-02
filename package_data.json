@@ -328,6 +328,14 @@
     "Users": "8640"
   },
   {
+    "Name": "CrazyCattle3D",
+    "Version": "",
+    "Description": "A battle royale rage game about sheep; will you have what it takes to survive?",
+    "URL": "https://4nn4t4t.itch.io/crazycattle3d",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Cura",
     "Version": "4.20.27",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
@@ -1057,7 +1065,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v25.20.0",
+    "Version": "v25.20.1",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1649,7 +1657,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.16.7",
+    "Version": "4.16.7-patch1",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
