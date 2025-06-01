@@ -609,7 +609,7 @@
     "Users": "2446"
   },
   "INAV Configurator": {
-    "Version": "v20250118.101",
+    "Version": "8.0.1",
     "Description": "Configure the brains of any flying craft",
     "URL": "https://github.com/iNavFlight/inav-configurator",
     "Architecture": "ARM64",
