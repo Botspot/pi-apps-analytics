@@ -931,7 +931,7 @@
     "Users": "3292"
   },
   "Oh My Posh": {
-    "Version": "v26.2.1",
+    "Version": "v26.2.2",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1449,7 +1449,7 @@
     "Users": "9902"
   },
   "Unciv": {
-    "Version": "4.16.13",
+    "Version": "4.16.13-patch1",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
