@@ -1169,7 +1169,7 @@
     "Users": "321"
   },
   "RustDesk": {
-    "Version": "1.4.0",
+    "Version": "1.4.1",
     "Description": "Open-source secure remote desktop connection software, better than AnyDesk or TeamViewer",
     "URL": "https://rustdesk.com/",
     "Architecture": "ARM32/ARM64",
