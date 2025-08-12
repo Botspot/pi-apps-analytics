@@ -529,7 +529,7 @@
   },
   {
     "Name": "FreeTube",
-    "Version": "0.23.5-beta",
+    "Version": "0.23.6-beta",
     "Description": "Privacy-friendly YouTube player.",
     "URL": "https://freetubeapp.io/",
     "Architecture": "ARM32/ARM64",
