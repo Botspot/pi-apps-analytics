@@ -511,7 +511,7 @@
     "Users": "8974"
   },
   "Geekbench 6": {
-    "Version": "6.4.0",
+    "Version": "6.5.0",
     "Description": "Geekbench 6 is a cross-platform benchmark that measures your system's performance with the press of a button. ",
     "URL": "https://www.geekbench.com/",
     "Architecture": "ARM64",
@@ -805,7 +805,7 @@
     "Users": "14040"
   },
   "Minecraft Java Prism Launcher": {
-    "Version": "9.0-1",
+    "Version": "9.4-4",
     "Description": "Prism Launcher is an Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.",
     "URL": "https://prismlauncher.org/",
     "Architecture": "ARM32/ARM64",
@@ -1050,7 +1050,7 @@
     "Users": "3621"
   },
   "Pixelorama": {
-    "Version": "v1.1.4",
+    "Version": "v1.1.5",
     "Description": "Pixelorama is a free and open source pixel art editor, proudly created with the Godot Engine, by Orama Interactive.",
     "URL": "https://orama-interactive.itch.io/pixelorama",
     "Architecture": "ARM32/ARM64",
