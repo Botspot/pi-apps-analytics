@@ -513,7 +513,7 @@
   },
   {
     "Name": "Floorp",
-    "Version": "11.29.0",
+    "Version": "12.2.0",
     "Description": "Based on Firefox, includes extra privacy features and customization.",
     "URL": "https://floorp.app/en/",
     "Architecture": "ARM64",
