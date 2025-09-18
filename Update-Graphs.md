@@ -67,6 +67,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Flameshot-updates-graph.png" alt="Flameshot"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Floorp-updates-graph.png" alt="Floorp"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Flow-updates-graph.png" alt="Flow"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FreeCAD-updates-graph.png" alt="FreeCAD"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FreeTube-updates-graph.png" alt="FreeTube"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Friday-Night-Funkin-Rewritten-updates-graph.png" alt="Friday-Night-Funkin-Rewritten"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Fritzing-updates-graph.png" alt="Fritzing"></br>
