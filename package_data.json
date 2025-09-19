@@ -1073,7 +1073,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v26.23.6",
+    "Version": "v26.23.7",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1305,7 +1305,7 @@
   },
   {
     "Name": "Reaper",
-    "Version": "745",
+    "Version": "746",
     "Description": "REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.",
     "URL": "https://reaper.fm",
     "Architecture": "ARM32/ARM64",
@@ -1401,7 +1401,7 @@
   },
   {
     "Name": "Signal",
-    "Version": "7.70.0",
+    "Version": "7.71.0",
     "Description": "Secure messaging client (phone number required)",
     "URL": "https://www.signal.org",
     "Architecture": "ARM64",
@@ -1697,7 +1697,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.104.06131",
+    "Version": "1.104.16282",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
