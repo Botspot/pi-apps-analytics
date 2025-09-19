@@ -604,8 +604,8 @@
   "Https File Server": {
     "Version": "",
     "Description": "Simple file-sharing webserver. Other computers on your local network can connect to your computer from the web browser and download files you share.",
-    "URL": "http://www.rejetto.com/hfs/?f=intro",
-    "Architecture": "ARM32",
+    "URL": "https://github.com/rejetto/hfs",
+    "Architecture": "ARM32/ARM64",
     "Users": "1646"
   },
   "Hyper": {
@@ -938,7 +938,7 @@
     "Users": "4132"
   },
   "Oh My Posh": {
-    "Version": "v26.23.7",
+    "Version": "v26.23.8",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
