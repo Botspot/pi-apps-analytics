@@ -1532,6 +1532,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "1976"
   },
+  "Waydroid": {
+    "Version": "",
+    "Description": "Boot a full Android OS on systems running Wayland based desktop environments.",
+    "URL": "https://waydro.id/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
   "Web Apps": {
     "Version": "",
     "Description": "Run websites as if they were apps.",

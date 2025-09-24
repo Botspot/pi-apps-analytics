@@ -1752,6 +1752,14 @@
     "Users": "1976"
   },
   {
+    "Name": "Waydroid",
+    "Version": "",
+    "Description": "Boot a full Android OS on systems running Wayland based desktop environments.",
+    "URL": "https://waydro.id/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Web Apps",
     "Version": "",
     "Description": "Run websites as if they were apps.",

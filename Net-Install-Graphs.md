@@ -223,6 +223,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/VSCodium-net-installs-graph.png" alt="VSCodium"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WACUP-new-WinAmp-net-installs-graph.png" alt="WACUP-new-WinAmp"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Waveform-net-installs-graph.png" alt="Waveform"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Waydroid-net-installs-graph.png" alt="Waydroid"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Web-Apps-net-installs-graph.png" alt="Web-Apps"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Webcord-net-installs-graph.png" alt="Webcord"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wechat-net-installs-graph.png" alt="Wechat"></br>
