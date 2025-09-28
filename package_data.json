@@ -1825,7 +1825,7 @@
   },
   {
     "Name": "WorldPainter",
-    "Version": "2.26.0",
+    "Version": "2.26.1",
     "Description": "WorldPainter is an interactive map generator for Minecraft.",
     "URL": "https://www.worldpainter.net/",
     "Architecture": "ARM32/ARM64",
@@ -1873,7 +1873,7 @@
   },
   {
     "Name": "Zen",
-    "Version": "1.16.1b",
+    "Version": "1.16.2b",
     "Description": "Privacy-focused browser based on Firefox",
     "URL": "https://zen-browser.app/",
     "Architecture": "ARM64",
