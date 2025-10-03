@@ -161,7 +161,7 @@
     "Users": "124095"
   },
   "Boxy SVG": {
-    "Version": "v4.84.1",
+    "Version": "v4.85.0",
     "Description": "Quick and streamlined vector graphics creator.",
     "URL": "https://boxy-svg.com/",
     "Architecture": "ARM32/ARM64",
@@ -413,7 +413,7 @@
     "Users": "7792"
   },
   "Fastfetch": {
-    "Version": "2.36.0",
+    "Version": "2.53.0",
     "Description": "Fastfetch is a neofetch-like tool for fetching system information and displaying it prettily.",
     "URL": "https://github.com/fastfetch-cli/fastfetch",
     "Architecture": "ARM32/ARM64",
@@ -777,7 +777,7 @@
     "Users": "2662"
   },
   "Microsoft PowerShell": {
-    "Version": "7.5.0",
+    "Version": "7.5.3",
     "Description": "PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.",
     "URL": "https://docs.microsoft.com/en-us/powershell/scripting/install/install-raspbian?view=powershell-7.2",
     "Architecture": "ARM32/ARM64",
@@ -1225,7 +1225,7 @@
     "Users": "67993"
   },
   "Signal": {
-    "Version": "7.72.1",
+    "Version": "7.73.0",
     "Description": "Secure messaging client (phone number required)",
     "URL": "https://www.signal.org",
     "Architecture": "ARM64",
@@ -1547,7 +1547,7 @@
     "Users": "14667"
   },
   "Webcord": {
-    "Version": "4.10.4",
+    "Version": "4.11.1",
     "Description": "Fast Discord client for ARM that mimics the official Discord client.",
     "URL": "https://github.com/SpacingBat3/WebCord/",
     "Architecture": "ARM32/ARM64",
@@ -1673,7 +1673,7 @@
     "Users": "802"
   },
   "jGRASP IDE": {
-    "Version": "206_18",
+    "Version": "210b2",
     "Description": "An IDE with visualizations for improving software comprehensibility.",
     "URL": "https://www.jgrasp.org/index.html",
     "Architecture": "ARM32/ARM64",
