@@ -30,7 +30,6 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Caskaydia-Cove-NF-net-installs-graph.png" alt="Caskaydia-Cove-NF"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Celeste-Classic-net-installs-graph.png" alt="Celeste-Classic"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Celeste64-net-installs-graph.png" alt="Celeste64"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chiaki-net-installs-graph.png" alt="Chiaki"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Chromium-net-installs-graph.png" alt="Chromium"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/ckb-next-net-installs-graph.png" alt="ckb-next"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Clam-Antivirus-net-installs-graph.png" alt="Clam-Antivirus"></br>

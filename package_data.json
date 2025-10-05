@@ -240,14 +240,6 @@
     "Users": "4501"
   },
   {
-    "Name": "Chiaki",
-    "Version": "",
-    "Description": "Chiaki is a free and open source software client which enables PlayStation 4/5 remote play on the Raspberry Pi.",
-    "URL": "https://github.com/Fredrum/chiaki/wiki/Chiaki-for-the-Raspberry-Pi",
-    "Architecture": "ARM32/ARM64",
-    "Users": "3581"
-  },
-  {
     "Name": "Chromium",
     "Version": "",
     "Description": "Open-source version of Google Chrome.",
