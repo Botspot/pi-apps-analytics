@@ -735,10 +735,10 @@
     "Users": "16550"
   },
   "Lightpad": {
-    "Version": "",
+    "Version": "0.1.0",
     "Description": "LightPad is a lightweight, simple and powerful application launcher.",
     "URL": "https://github.com/libredeb/lightpad",
-    "Architecture": "ARM32/ARM64",
+    "Architecture": "ARM64",
     "Users": "10524"
   },
   "LineRider": {
