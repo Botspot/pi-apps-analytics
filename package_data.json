@@ -865,7 +865,7 @@
   },
   {
     "Name": "Marathon",
-    "Version": "20250302",
+    "Version": "20250829",
     "Description": "Marathon, Marathon 2 and Marathon Infinity are single and online multiplayer old school 1st person shooter games.",
     "URL": "https://alephone.lhowon.org",
     "Architecture": "ARM32/ARM64",
