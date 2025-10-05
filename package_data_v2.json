@@ -1415,8 +1415,8 @@
   },
   "Tor": {
     "Version": "13.0.9",
-    "Description": "The Tor Browser is a web broswer that anonymizes your web traffic using the Tor network, making it easy to protect your identity online.",
-    "URL": "https://sourceforge.net/projects/tor-browser-ports/files/",
+    "Description": "The Tor Browser is a free web browser built on Firefox that helps you surf the web anonymously by routing your connection through a secure, global network of volunteer servers known as Tor network. Your data is encrypted, and your IP address is hidden by onion routing, protecting you from trackers, advertisers, and prying eyes. With built-in features like tracker blocking and script protection, Tor Browser ensures a safer online experience. Perfect for private browsing, accessing restricted sites, or exploring the web without leaving a trace.",
+    "URL": "https://nightlies.tbb.torproject.org/nightly-builds/tor-browser-builds/",
     "Architecture": "ARM32/ARM64",
     "Users": "44099"
   },
