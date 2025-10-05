@@ -907,8 +907,8 @@
     "Name": "Minecraft Bedrock",
     "Version": "",
     "Description": "Unofficial launcher for Minecraft Bedrock edition",
-    "URL": "https://github.com/ChristopherHX/linux-packaging-scripts/releases/tag/appimage",
-    "Architecture": "ARM32/ARM64",
+    "URL": "https://minecraft-linux.github.io/",
+    "Architecture": "ARM64",
     "Users": "41971"
   },
   {
