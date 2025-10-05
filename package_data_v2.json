@@ -441,7 +441,7 @@
     "Users": "14331"
   },
   "Floorp": {
-    "Version": "12.2.0",
+    "Version": "12.2.1",
     "Description": "Based on Firefox, includes extra privacy features and customization.",
     "URL": "https://floorp.app/en/",
     "Architecture": "ARM64",
@@ -1596,7 +1596,7 @@
     "Users": "4083"
   },
   "XMRig": {
-    "Version": "v6.19.2-mo1",
+    "Version": "v6.24.0-mo1",
     "Description": "Advanced cryptocurrency miner - for Monero and beyond",
     "URL": "https://github.com/xmrig/xmrig",
     "Architecture": "ARM32/ARM64",
