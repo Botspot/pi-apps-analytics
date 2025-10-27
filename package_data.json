@@ -505,7 +505,7 @@
   },
   {
     "Name": "Floorp",
-    "Version": "12.3.4",
+    "Version": "12.3.5",
     "Description": "Based on Firefox, includes extra privacy features and customization.",
     "URL": "https://floorp.app/en/",
     "Architecture": "ARM64",
@@ -1065,7 +1065,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v27.3.1",
+    "Version": "v27.4.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1329,7 +1329,7 @@
   },
   {
     "Name": "Ruffle",
-    "Version": "nightly-2025-10-25",
+    "Version": "nightly-2025-10-27",
     "Description": "Ruffle is a open source Adobe Flash Player emulator aimed at having the best compatibility as the official Adobe Flash Player (which is proprietary, EOL and has many unpatched security vulnerabilities)",
     "URL": "https://ruffle.rs",
     "Architecture": "ARM32/ARM64",
