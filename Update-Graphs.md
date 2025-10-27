@@ -181,6 +181,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SimpleScreenRecorder-updates-graph.png" alt="SimpleScreenRecorder"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Snap-Store-updates-graph.png" alt="Snap-Store"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Snapdrop-updates-graph.png" alt="Snapdrop"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SolveSpace-updates-graph.png" alt="SolveSpace"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sonic-Pi-updates-graph.png" alt="Sonic-Pi"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Sound-Recorder-updates-graph.png" alt="Sound-Recorder"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/SpeedTest-CLI-updates-graph.png" alt="SpeedTest-CLI"></br>
