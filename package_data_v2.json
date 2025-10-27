@@ -1056,6 +1056,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "5387"
   },
+  "Plasma Discover": {
+    "Version": "",
+    "Description": "Easy to use app store for flatpak and apt packages",
+    "URL": "https://apps.kde.org/discover/",
+    "Architecture": "package",
+    "Users": "0"
+  },
   "Powerline-Shell": {
     "Version": "",
     "Description": "A beautiful and useful prompt generator for Bash, ZSH, Fish, and tcsh:",

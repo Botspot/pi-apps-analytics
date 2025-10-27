@@ -152,6 +152,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pinta-updates-graph.png" alt="Pinta"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PiSafe-updates-graph.png" alt="PiSafe"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pixelorama-updates-graph.png" alt="Pixelorama"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Plasma-Discover-updates-graph.png" alt="Plasma-Discover"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Powerline-Shell-updates-graph.png" alt="Powerline-Shell"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PPSSPP-PSP-emulator-updates-graph.png" alt="PPSSPP-PSP-emulator"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Processing-IDE-updates-graph.png" alt="Processing-IDE"></br>
