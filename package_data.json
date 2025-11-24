@@ -505,7 +505,7 @@
   },
   {
     "Name": "Floorp",
-    "Version": "12.6.0",
+    "Version": "12.7.0",
     "Description": "Based on Firefox, includes extra privacy features and customization.",
     "URL": "https://floorp.app/en/",
     "Architecture": "ARM64",
@@ -1065,7 +1065,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v27.6.0",
+    "Version": "v28.0.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
