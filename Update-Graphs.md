@@ -239,6 +239,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/XMRig-updates-graph.png" alt="XMRig"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/XSnow-updates-graph.png" alt="XSnow"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Xtreme-Download-Manager-updates-graph.png" alt="Xtreme-Download-Manager"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/YouTube-Player-updates-graph.png" alt="YouTube-Player"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/YouTubuddy-updates-graph.png" alt="YouTubuddy"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Zen-updates-graph.png" alt="Zen"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Zoom-updates-graph.png" alt="Zoom"></br>

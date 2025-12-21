@@ -441,7 +441,7 @@
     "Users": "15195"
   },
   "Floorp": {
-    "Version": "12.8.3",
+    "Version": "12.9.1",
     "Description": "Based on Firefox, includes extra privacy features and customization.",
     "URL": "https://floorp.app/en/",
     "Architecture": "ARM64",
@@ -1636,6 +1636,13 @@
     "URL": "https://xtremedownloadmanager.com",
     "Architecture": "ARM32/ARM64",
     "Users": "13898"
+  },
+  "YouTube Player": {
+    "Version": "",
+    "Description": "Simple YouTube search engine, downloader and player.",
+    "URL": "https://github.com/trizen/pipe-viewer",
+    "Architecture": "ARM64",
+    "Users": "0"
   },
   "YouTubuddy": {
     "Version": "",
