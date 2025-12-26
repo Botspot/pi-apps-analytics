@@ -1888,14 +1888,6 @@
     "Users": "133"
   },
   {
-    "Name": "YouTubuddy",
-    "Version": "",
-    "Description": "Simple YouTube search engine, downloader and player.",
-    "URL": "https://github.com/Botspot/youtubuddy",
-    "Architecture": "ARM32/ARM64",
-    "Users": "29949"
-  },
-  {
     "Name": "Zen",
     "Version": "1.17.15b",
     "Description": "Privacy-focused browser based on Firefox",
