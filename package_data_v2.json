@@ -951,6 +951,13 @@
     "Architecture": "ARM64",
     "Users": "894"
   },
+  "OnlyOffice": {
+    "Version": "9.2.1",
+    "Description": "Open source Microsoft Office alternative, with a better interface than LibreOffice",
+    "URL": "https://www.onlyoffice.com/download-desktop",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
   "Oomox Theme Designer": {
     "Version": "",
     "Description": "A tool to customize icons, xrdb and GTK themes. ",
