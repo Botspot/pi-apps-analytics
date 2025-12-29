@@ -1099,7 +1099,7 @@
     "Users": "1653"
   },
   "PrusaSlicer": {
-    "Version": "2.7.4",
+    "Version": "2.9.4",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/davidk/PrusaSlicer-ARM.AppImage",
     "Architecture": "ARM32/ARM64",
