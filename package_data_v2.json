@@ -581,7 +581,7 @@
     "Users": "5732"
   },
   "Hangover": {
-    "Version": "9.22",
+    "Version": "hangover-11.0-rc4",
     "Description": "Hangover runs simple Win64 and Win32 applications on arm64 Linux. Only the application is emulated instead of a whole Wine installation.",
     "URL": "https://github.com/AndreRH/hangover",
     "Architecture": "ARM64",
