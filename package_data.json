@@ -1409,7 +1409,7 @@
   },
   {
     "Name": "Signal",
-    "Version": "7.77.1",
+    "Version": "7.83.0",
     "Description": "Secure messaging client (phone number required)",
     "URL": "https://www.signal.org",
     "Architecture": "ARM64",
