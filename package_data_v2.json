@@ -1176,7 +1176,7 @@
     "Users": "253"
   },
   "Ruffle": {
-    "Version": "nightly-2026-01-05",
+    "Version": "nightly-2026-01-06",
     "Description": "Ruffle is a open source Adobe Flash Player emulator aimed at having the best compatibility as the official Adobe Flash Player (which is proprietary, EOL and has many unpatched security vulnerabilities)",
     "URL": "https://ruffle.rs",
     "Architecture": "ARM32/ARM64",
