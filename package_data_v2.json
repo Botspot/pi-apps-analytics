@@ -239,7 +239,7 @@
   },
   "Color Emoji font": {
     "Version": "",
-    "Description": "Installs two fonts to display all emojis in the Unicode Emoji 13.0.",
+    "Description": "Installs two fonts to display all emojis in color in Unicode 13.0.",
     "URL": "",
     "Architecture": "ARM32/ARM64",
     "Users": "9602"
