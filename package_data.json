@@ -1282,7 +1282,7 @@
   {
     "Name": "Pycharm CE",
     "Version": "2022.1.4",
-    "Description": "Python Community Edition IDE for Professional and Educational Developers.",
+    "Description": "Python IDE for Professional and Educational Developers.",
     "URL": "https://www.jetbrains.com/pycharm/",
     "Architecture": "ARM32/ARM64",
     "Users": "20558"
