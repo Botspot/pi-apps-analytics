@@ -825,7 +825,7 @@
   },
   {
     "Name": "LibreWolf",
-    "Version": "146.0.1-1",
+    "Version": "147.0.2-1",
     "Description": "A custom version of Firefox, focused on privacy, security and freedom.",
     "URL": "https://librewolf.net/",
     "Architecture": "ARM64",
