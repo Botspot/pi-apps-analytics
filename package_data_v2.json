@@ -825,6 +825,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "74647"
   },
+  "Mission Center": {
+    "Version": "",
+    "Description": "Beautiful and powerful task manager",
+    "URL": "https://gitlab.com/mission-center-devs/mission-center",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
   "Mission Planner": {
     "Version": "",
     "Description": "Software used to control autonomous vehicles.",
