@@ -251,6 +251,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "1833"
   },
+  "Command Not Found": {
+    "Version": "",
+    "Description": "Suggests which package to install if command not found",
+    "URL": "",
+    "Architecture": "package",
+    "Users": "0"
+  },
   "CommanderPi": {
     "Version": "",
     "Description": "Easy RaspberryPi4 GUI system management",

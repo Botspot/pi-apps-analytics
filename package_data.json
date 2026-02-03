@@ -288,6 +288,14 @@
     "Users": "1833"
   },
   {
+    "Name": "Command Not Found",
+    "Version": "",
+    "Description": "Suggests which package to install if command not found",
+    "URL": "",
+    "Architecture": "package",
+    "Users": "0"
+  },
+  {
     "Name": "CommanderPi",
     "Version": "",
     "Description": "Easy RaspberryPi4 GUI system management",
