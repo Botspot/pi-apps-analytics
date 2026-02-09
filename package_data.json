@@ -185,7 +185,7 @@
   },
   {
     "Name": "Boxy SVG",
-    "Version": "v4.98.6",
+    "Version": "v4.100.0",
     "Description": "Quick and streamlined vector graphics creator.",
     "URL": "https://boxy-svg.com/",
     "Architecture": "ARM32/ARM64",
@@ -1361,7 +1361,7 @@
   },
   {
     "Name": "Ruffle",
-    "Version": "nightly-2026-02-08",
+    "Version": "nightly-2026-02-09",
     "Description": "Ruffle is a open source Adobe Flash Player emulator aimed at having the best compatibility as the official Adobe Flash Player (which is proprietary, EOL and has many unpatched security vulnerabilities)",
     "URL": "https://ruffle.rs",
     "Architecture": "ARM32/ARM64",
