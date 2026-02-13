@@ -489,6 +489,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "6985"
   },
+  "GB Studio": {
+    "Version": "4.2.0",
+    "Description": "GB Studio is a drag and drop game creator for making Game Boy games.",
+    "URL": "",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
   "GIMP": {
     "Version": "",
     "Description": "Create images and edit photographs",
@@ -1666,7 +1673,7 @@
     "Users": "1692"
   },
   "Zen": {
-    "Version": "1.18.5b",
+    "Version": "1.18.6b",
     "Description": "Privacy-focused browser based on Firefox",
     "URL": "https://zen-browser.app/",
     "Architecture": "ARM64",

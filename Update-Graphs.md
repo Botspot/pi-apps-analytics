@@ -71,6 +71,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FreeTube-updates-graph.png" alt="FreeTube"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Friday-Night-Funkin-Rewritten-updates-graph.png" alt="Friday-Night-Funkin-Rewritten"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Fritzing-updates-graph.png" alt="Fritzing"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GB-Studio-updates-graph.png" alt="GB-Studio"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geany-Dark-Mode-updates-graph.png" alt="Geany-Dark-Mode"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-5-updates-graph.png" alt="Geekbench-5"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-6-updates-graph.png" alt="Geekbench-6"></br>
