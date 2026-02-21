@@ -56,6 +56,14 @@
     "Users": "8692"
   },
   {
+    "Name": "Antigravity",
+    "Version": "",
+    "Description": "Google's AI agent IDE powered by Gemini 3 Pro for autonomous, end-to-end software development.",
+    "URL": "https://antigravity.google/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Arduino",
     "Version": "1.8.19",
     "Description": "Arduino IDE 1.8.X. Now called Arduino IDE Legacy, based on the Java and Python Frameworks.",
