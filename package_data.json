@@ -457,7 +457,7 @@
   },
   {
     "Name": "Electron Fiddle",
-    "Version": "0.37.3",
+    "Version": "0.38.0",
     "Description": "Electron Fiddle lets you create and play with small Electron experiments. ",
     "URL": "https://www.electronjs.org/fiddle",
     "Architecture": "ARM32/ARM64",
@@ -545,7 +545,7 @@
   },
   {
     "Name": "FreeTube",
-    "Version": "0.23.12-beta",
+    "Version": "0.23.13-beta",
     "Description": "Privacy-friendly YouTube player.",
     "URL": "https://freetubeapp.io/",
     "Architecture": "ARM32/ARM64",
@@ -809,7 +809,7 @@
   },
   {
     "Name": "Legcord",
-    "Version": "1.1.6",
+    "Version": "1.2.2",
     "Description": "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://github.com/Legcord/Legcord",
     "Architecture": "ARM32/ARM64",
@@ -913,7 +913,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "2.6.13",
+    "Version": "2.7.7",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
@@ -921,7 +921,7 @@
   },
   {
     "Name": "Min",
-    "Version": "1.35.2",
+    "Version": "1.35.3",
     "Description": "A fast, minimal browser that protects your privacy.",
     "URL": "https://minbrowser.org/",
     "Architecture": "ARM32/ARM64",
@@ -1377,7 +1377,7 @@
   },
   {
     "Name": "Ruffle",
-    "Version": "nightly-2026-02-24",
+    "Version": "nightly-2026-02-25",
     "Description": "Ruffle is a open source Adobe Flash Player emulator aimed at having the best compatibility as the official Adobe Flash Player (which is proprietary, EOL and has many unpatched security vulnerabilities)",
     "URL": "https://ruffle.rs",
     "Architecture": "ARM32/ARM64",
@@ -1385,7 +1385,7 @@
   },
   {
     "Name": "RustDesk",
-    "Version": "1.4.3",
+    "Version": "1.4.5",
     "Description": "Open-source secure remote desktop connection software, better than AnyDesk or TeamViewer",
     "URL": "https://rustdesk.com/",
     "Architecture": "ARM32/ARM64",
@@ -1425,7 +1425,7 @@
   },
   {
     "Name": "Shattered Pixel Dungeon",
-    "Version": "3.2.5",
+    "Version": "3.3.6",
     "Description": "Shattered Pixel Dungeon is a Roguelike Dungeon Crawler RPG with pixel art graphics.",
     "URL": "https://shatteredpixel.com/",
     "Architecture": "ARM32/ARM64",
@@ -1689,7 +1689,7 @@
   },
   {
     "Name": "Turbowarp",
-    "Version": "1.15.0",
+    "Version": "1.15.2",
     "Description": "Scratch 3 Desktop, but runs much faster. Also known as 'TurboWarp'",
     "URL": "https://turbowarp.org/",
     "Architecture": "ARM32/ARM64",
@@ -1713,7 +1713,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.18.14-patch1",
+    "Version": "4.19.15",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -1745,7 +1745,7 @@
   },
   {
     "Name": "VSCodium",
-    "Version": "1.105.17075",
+    "Version": "1.109.51242",
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
@@ -1817,7 +1817,7 @@
   },
   {
     "Name": "Webcord",
-    "Version": "4.11.1",
+    "Version": "4.12.1",
     "Description": "Fast Discord client for ARM that mimics the official Discord client.",
     "URL": "https://github.com/SpacingBat3/WebCord/",
     "Architecture": "ARM32/ARM64",
@@ -1961,7 +1961,7 @@
   },
   {
     "Name": "jGRASP IDE",
-    "Version": "210b3",
+    "Version": "210b5",
     "Description": "An IDE with visualizations for improving software comprehensibility.",
     "URL": "https://www.jgrasp.org/index.html",
     "Architecture": "ARM32/ARM64",
