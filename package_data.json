@@ -849,7 +849,7 @@
   },
   {
     "Name": "LibreWolf",
-    "Version": "147.0.2-1",
+    "Version": "148.0-1",
     "Description": "A custom version of Firefox, focused on privacy, security and freedom.",
     "URL": "https://librewolf.net/",
     "Architecture": "ARM64",
@@ -913,7 +913,7 @@
   },
   {
     "Name": "Microsoft Teams",
-    "Version": "2.7.7",
+    "Version": "2.7.8",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
