@@ -49,7 +49,7 @@
     "Users": "8731"
   },
   "Antigravity": {
-    "Version": "antigravity_1.18.4-1771638096_arm64_f096532b9c0bc65a62dc53ed2bb5ff66.deb",
+    "Version": "antigravity_1.19.6-1772152278_arm64_f3cf3811643cf91127edc038a2b4257d.deb",
     "Description": "Google's AI agent IDE powered by Gemini 3 Pro for autonomous, end-to-end software development.",
     "URL": "https://antigravity.google/",
     "Architecture": "ARM64",
