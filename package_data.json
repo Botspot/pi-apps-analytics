@@ -1440,6 +1440,14 @@
     "Users": "8015"
   },
   {
+    "Name": "Shellbeats",
+    "Version": "",
+    "Description": "Stream or download audio from youtube, in your terminal",
+    "URL": "https://shellbeats.com/",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Shotwell",
     "Version": "",
     "Description": "Organize, edit, and publish your photos.",

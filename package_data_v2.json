@@ -1259,6 +1259,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "8015"
   },
+  "Shellbeats": {
+    "Version": "",
+    "Description": "Stream or download audio from youtube, in your terminal",
+    "URL": "https://shellbeats.com/",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
   "Shotwell": {
     "Version": "",
     "Description": "Organize, edit, and publish your photos.",
