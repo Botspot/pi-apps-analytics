@@ -64,6 +64,14 @@
     "Users": "42"
   },
   {
+    "Name": "AnyDesk",
+    "Version": "",
+    "Description": "Remote desktop server and client software",
+    "URL": "https://anydesk.com/en/downloads/raspberry-pi",
+    "Architecture": "ARM64",
+    "Users": "9503"
+  },
+  {
     "Name": "Arduino",
     "Version": "1.8.19",
     "Description": "Arduino IDE 1.8.X. Now called Arduino IDE Legacy, based on the Java and Python Frameworks.",
@@ -1089,7 +1097,7 @@
   },
   {
     "Name": "Obsidian",
-    "Version": "1.11.7",
+    "Version": "1.12.4",
     "Description": "Powerful knowledge base using plain text Markdown files (for note-taking & project management)",
     "URL": "https://obsidian.md/",
     "Architecture": "ARM64",
