@@ -553,7 +553,7 @@
   },
   {
     "Name": "FreeTube",
-    "Version": "0.23.14-beta",
+    "Version": "0.23.15-beta",
     "Description": "Privacy-friendly YouTube player.",
     "URL": "https://freetubeapp.io/",
     "Architecture": "ARM32/ARM64",
@@ -1729,7 +1729,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.19.17-patch2",
+    "Version": "4.19.18",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
