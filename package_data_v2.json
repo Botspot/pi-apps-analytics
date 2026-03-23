@@ -1589,7 +1589,7 @@
     "Users": "2374"
   },
   "Waydroid": {
-    "Version": "",
+    "Version": "waydroid_1.6.2_all.deb",
     "Description": "Boot a full Android OS on systems running Wayland based desktop environments.",
     "URL": "https://waydro.id/",
     "Architecture": "ARM64",
