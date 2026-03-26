@@ -60,6 +60,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Eagle-CAD-net-installs-graph.png" alt="Eagle-CAD"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Easy-Effects-net-installs-graph.png" alt="Easy-Effects"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Electron-Fiddle-net-installs-graph.png" alt="Electron-Fiddle"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/En-Croissant-net-installs-graph.png" alt="En-Croissant"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Epiphany-net-installs-graph.png" alt="Epiphany"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Fastfetch-net-installs-graph.png" alt="Fastfetch"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Feather-Wallet-net-installs-graph.png" alt="Feather-Wallet"></br>

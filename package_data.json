@@ -472,6 +472,14 @@
     "Users": "2079"
   },
   {
+    "Name": "En Croissant",
+    "Version": "v0.15.0",
+    "Description": "The Ultimate Chess Toolkit.",
+    "URL": "https://encroissant.org/",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Epiphany",
     "Version": "",
     "Description": "Epiphany is a lightweight web browser based on the WebKit rendering engine. It is also known as GNOME Web.",
