@@ -169,6 +169,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Puffin-updates-graph.png" alt="Puffin"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pycharm-CE-updates-graph.png" alt="Pycharm-CE"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/PyChess-updates-graph.png" alt="PyChess"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/qBittorrent-updates-graph.png" alt="qBittorrent"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/QEMU-updates-graph.png" alt="QEMU"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/QR-Code-Reader-updates-graph.png" alt="QR-Code-Reader"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Quartz-updates-graph.png" alt="Quartz"></br>

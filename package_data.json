@@ -1992,6 +1992,14 @@
     "Users": "1488"
   },
   {
+    "Name": "qBittorrent",
+    "Version": "",
+    "Description": "Open-source software alternative to µTorrent.",
+    "URL": "https://www.qbittorrent.org",
+    "Architecture": "package",
+    "Users": "0"
+  },
+  {
     "Name": "template",
     "Version": "",
     "Description": "Short description on this first line. This will be the tooltip.",

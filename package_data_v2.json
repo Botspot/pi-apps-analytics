@@ -1742,6 +1742,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "1488"
   },
+  "qBittorrent": {
+    "Version": "",
+    "Description": "Open-source software alternative to µTorrent.",
+    "URL": "https://www.qbittorrent.org",
+    "Architecture": "package",
+    "Users": "0"
+  },
   "template": {
     "Version": "",
     "Description": "Short description on this first line. This will be the tooltip.",
