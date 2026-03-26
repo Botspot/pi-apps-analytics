@@ -57,7 +57,7 @@
   },
   {
     "Name": "Antigravity",
-    "Version": "antigravity_1.20.6-1773708612_arm64_5b7b60d8fcfc5c95ec83df02c4329f1c.deb",
+    "Version": "antigravity_1.21.6-1774402728_arm64_d913bda594d63ccff238497d87b35e1f.deb",
     "Description": "Google's AI agent IDE powered by Gemini 3 Pro for autonomous, end-to-end software development.",
     "URL": "https://antigravity.google/",
     "Architecture": "ARM64",
@@ -201,7 +201,7 @@
   },
   {
     "Name": "Boxy SVG",
-    "Version": "v4.103.1",
+    "Version": "v4.104.1",
     "Description": "Quick and streamlined vector graphics creator.",
     "URL": "https://boxy-svg.com/",
     "Architecture": "ARM32/ARM64",
