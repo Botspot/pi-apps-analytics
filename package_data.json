@@ -361,7 +361,7 @@
   },
   {
     "Name": "DDNet",
-    "Version": "18.6",
+    "Version": "19.8",
     "Description": "DDRaceNetwork is a 2D cooperative platformer experience. Work together with up to 64 people and push your way through maps.",
     "URL": "https://ddnet.org/",
     "Architecture": "ARM32/ARM64",
@@ -1081,7 +1081,7 @@
   },
   {
     "Name": "Notepad ++",
-    "Version": "8.5.3",
+    "Version": "8.9.3",
     "Description": "Notepad++ is a free source code editor and Notepad replacement that supports several languages. ",
     "URL": "https://notepad-plus-plus.org/",
     "Architecture": "ARM32/ARM64",
