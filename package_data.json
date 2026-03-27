@@ -1992,6 +1992,14 @@
     "Users": "1488"
   },
   {
+    "Name": "kitty",
+    "Version": "0.46.2",
+    "Description": "The fast, feature-rich, GPU based terminal emulator.",
+    "URL": "https://sw.kovidgoyal.net/kitty/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "qBittorrent",
     "Version": "",
     "Description": "Open-source software alternative to µTorrent.",

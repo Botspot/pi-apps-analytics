@@ -101,6 +101,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kdenlive-updates-graph.png" alt="Kdenlive"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/KeePassXC-updates-graph.png" alt="KeePassXC"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/KiCad-updates-graph.png" alt="KiCad"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/kitty-updates-graph.png" alt="kitty"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kodi-updates-graph.png" alt="Kodi"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Kolourpaint-updates-graph.png" alt="Kolourpaint"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Krita-updates-graph.png" alt="Krita"></br>
