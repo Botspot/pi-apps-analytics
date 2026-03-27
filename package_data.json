@@ -1043,7 +1043,7 @@
     "Name": "Nautilus",
     "Version": "",
     "Description": "Feature-rich file manager for the GNOME desktop",
-    "URL": "https://wiki.gnome.org/Apps/Files",
+    "URL": "https://apps.gnome.org/Nautilus/",
     "Architecture": "package",
     "Users": "83946"
   },
@@ -1595,7 +1595,7 @@
     "Name": "Synaptic",
     "Version": "",
     "Description": "Advanced APT-package-management tool",
-    "URL": "https://www.lifewire.com/guide-to-synaptic-package-manager-220570y",
+    "URL": "https://www.nongnu.org/synaptic/",
     "Architecture": "package",
     "Users": "70955"
   },
@@ -1945,7 +1945,7 @@
   },
   {
     "Name": "Zen",
-    "Version": "1.19.3b",
+    "Version": "1.19.4b",
     "Description": "Privacy-focused browser based on Firefox",
     "URL": "https://zen-browser.app/",
     "Architecture": "ARM64",
