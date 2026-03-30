@@ -1,255 +1,255 @@
-686519 Chromium
-591632 Imager
-533836 script
-268666 Thonny
-235149 LibreOffice
-152899 GParted
-138130 Box86
-130018 Box64
-128592 Disk Usage Analyzer
-126357 Scratch 3
-94898 Mu
-87585 GIMP
-85305 Transmission
-84050 Nautilus
-83817 More RAM
-76789 Minecraft Pi (Modded)
-76227 Shotwell
-73044 Thunderbird
-71047 Synaptic
-61992 Screenshot
-54786 CommanderPi
-54689 Windows Flasher
-53967 BalenaEtcher
+687043 Chromium
+592116 Imager
+534413 script
+269126 Thonny
+235290 LibreOffice
+153010 GParted
+138219 Box86
+130201 Box64
+128683 Disk Usage Analyzer
+126431 Scratch 3
+94927 Mu
+87636 GIMP
+85369 Transmission
+84105 Nautilus
+83885 More RAM
+76836 Minecraft Pi (Modded)
+76277 Shotwell
+73082 Thunderbird
+71088 Synaptic
+62029 Screenshot
+54804 CommanderPi
+54721 Windows Flasher
+54008 BalenaEtcher
 52636 Wine (x86)
-52453 Steam
-51646 Better Chromium
-50534 Tor
-50012 Webcord
-49710 Wine (x64)
-48611 Visual Studio Code
-45433 Minecraft Bedrock
-43910 Pi Power Tools
-43057 Snap Store
-42717 Arduino
-41657 Neofetch
-41140 Audacious
-41128 BlueJ Java IDE
-38763 Firefox Rapid Release
-37727 Angry IP scanner
-37581 Audacity
-37008 OBS Studio
-36728 Filezilla
-35991 Xfburn
-35505 Conky
-35475 System Monitoring Center
-33696 All Is Well
-33386 Doom 3
-31552 SpeedTest-CLI
-30920 FreeTube
-30586 Minecraft Java Prism Launcher
-28753 Pac-Man
-28309 Kodi
-28153 Inkscape
-27384 Update Buddy
-27004 Zoom
-26911 Scrcpy
-25334 PPSSPP (PSP emulator)
-24127 WhatsApp
-23526 Brave
-23430 Clam Antivirus
-21942 PiGro
-21226 Pycharm CE
-20283 Notepad ++
-19996 USBImager
-19829 Node.js
-19211 Steam Link
-19037 Nemo
-18966 Github Desktop
-18866 Libreoffice MS theme
-18715 AndroidBuddy
-18206 Autostar
-18189 BleachBit
-18088 Cura
-18031 Puffin
-16727 TeamViewer
-16649 Tetris CLI
-16615 Web Apps
-16506 Minecraft Java GDLauncher
-16457 Minecraft Java Server
-16379 btop++
-16343 Flameshot
-16246 Telegram
-16047 Geekbench 6
-15290 QEMU
-15118 RustDesk
-14942 Xtreme Download Manager
-14645 Vivaldi
-14613 Deluge
-13448 SimpleScreenRecorder
-13427 Sublime Text
-13374 Linux Wifi Hotspot
-13091 SysMonTask
-12735 Botspot Virtual Machine
-12616 Epiphany
-12598 CloudBuddy
-12586 Github-CLI
-12317 Timeshift
-11821 LibreCAD
-11797 Snapdrop
-11661 WPS Office
-11526 PeaZip
-11289 Lightpad
-11236 Ulauncher
-11209 PyChess
-10968 Microsoft Teams
-10928 Cool Retro Term
-10748 AstroMenace
-10419 Kolourpaint
-10351 VeraCrypt
-10066 Godot
-9897 Color Emoji font
-9763 AnyDesk
-9661 Geekbench 5
-9485 AbiWord
-9446 Sound Recorder
-9215 PiSafe
-9199 Microsoft PowerShell
-9005 FF Multi Converter
-8874 AntiMicroX
-8781 PrusaSlicer
-8756 Conky Rings
-8691 LineRider
-8662 Amiberry
-8642 VSCodium
-8516 LMMS
-8333 Plasma Discover
-8208 Shattered Pixel Dungeon
-7991 Celeste Classic
-7982 Geany Dark Mode
-7730 LibrePCB
-7714 OpenSCAD
-7711 Gnome Maps
-7593 Pi-Apps Terminal Plugin (bash)
-7299 Drawing
-7198 Unciv
-7190 Fritzing
+52504 Steam
+51670 Better Chromium
+50565 Tor
+50025 Webcord
+49794 Wine (x64)
+48651 Visual Studio Code
+45445 Minecraft Bedrock
+43937 Pi Power Tools
+43080 Snap Store
+42747 Arduino
+41673 Neofetch
+41155 Audacious
+41131 BlueJ Java IDE
+38779 Firefox Rapid Release
+37751 Angry IP scanner
+37608 Audacity
+37027 OBS Studio
+36753 Filezilla
+36014 Xfburn
+35516 Conky
+35502 System Monitoring Center
+33713 All Is Well
+33397 Doom 3
+31572 SpeedTest-CLI
+30938 FreeTube
+30626 Minecraft Java Prism Launcher
+28777 Pac-Man
+28333 Kodi
+28177 Inkscape
+27399 Update Buddy
+27013 Zoom
+26934 Scrcpy
+25347 PPSSPP (PSP emulator)
+24144 WhatsApp
+23572 Brave
+23449 Clam Antivirus
+21955 PiGro
+21233 Pycharm CE
+20293 Notepad ++
+20009 USBImager
+19885 Node.js
+19236 Steam Link
+19052 Nemo
+18982 Github Desktop
+18873 Libreoffice MS theme
+18724 AndroidBuddy
+18220 Autostar
+18202 BleachBit
+18094 Cura
+18030 Puffin
+16731 TeamViewer
+16659 Tetris CLI
+16629 Web Apps
+16513 Minecraft Java GDLauncher
+16472 Minecraft Java Server
+16395 btop++
+16355 Flameshot
+16271 Telegram
+16062 Geekbench 6
+15297 QEMU
+15141 RustDesk
+14949 Xtreme Download Manager
+14655 Vivaldi
+14615 Deluge
+13454 SimpleScreenRecorder
+13433 Sublime Text
+13381 Linux Wifi Hotspot
+13095 SysMonTask
+12772 Botspot Virtual Machine
+12618 Epiphany
+12608 CloudBuddy
+12596 Github-CLI
+12330 Timeshift
+11830 LibreCAD
+11804 Snapdrop
+11671 WPS Office
+11540 PeaZip
+11299 Lightpad
+11244 Ulauncher
+11215 PyChess
+10970 Microsoft Teams
+10934 Cool Retro Term
+10755 AstroMenace
+10427 Kolourpaint
+10353 VeraCrypt
+10077 Godot
+9900 Color Emoji font
+9774 AnyDesk
+9666 Geekbench 5
+9490 AbiWord
+9456 Sound Recorder
+9220 PiSafe
+9209 Microsoft PowerShell
+9011 FF Multi Converter
+8879 AntiMicroX
+8785 PrusaSlicer
+8760 Conky Rings
+8699 LineRider
+8668 Amiberry
+8651 VSCodium
+8526 LMMS
+8385 Plasma Discover
+8215 Shattered Pixel Dungeon
+7996 Celeste Classic
+7986 Geany Dark Mode
+7735 LibrePCB
+7727 Gnome Maps
+7718 OpenSCAD
+7598 Pi-Apps Terminal Plugin (bash)
+7304 Drawing
+7203 Unciv
+7197 Fritzing
 7146 Stunt Rally
-7109 Legcord
-7015 KeePassXC
-6903 Turbowarp
-6761 Tabby
-6719 Downgrade Chromium
-6586 Friday Night Funkin' Rewritten
-6456 Intellij IDEA
-6422 Pixelorama
-6418 Min
-6244 Alacritty Terminal
-6236 Windows Screensavers
-6166 Boxy SVG
+7118 Legcord
+7022 KeePassXC
+6906 Turbowarp
+6767 Tabby
+6720 Downgrade Chromium
+6592 Friday Night Funkin' Rewritten
+6458 Intellij IDEA
+6430 Pixelorama
+6425 Min
+6248 Alacritty Terminal
+6238 Windows Screensavers
+6168 Boxy SVG
 6114 HTTrack Website Copier
-6095 Obsidian
-6069 BlockBench
-6055 Fastfetch
-5925 Powerline-Shell
-5907 Celeste64
-5831 Krita
-5831 Bambu Studio
-5761 tldr
-5748 Ollama GUI
-5732 Caprine
-5244 Syncthing
-5228 Reaper
-5171 Oomox Theme Designer
-5153 Sonic Pi
-4915 Deskreen
-4874 MuseScore
-4768 Browsh
-4749 LibreWolf
-4747 Signal
-4711 WorldPainter
-4668 Guake Terminal
-4496 Gnumeric
-4394 Heroes 2
-4331 Zoom PWA
-4166 Pika Backup
-4116 XSnow
-4106 Command Not Found
+6111 Obsidian
+6072 BlockBench
+6065 Fastfetch
+5929 Powerline-Shell
+5913 Celeste64
+5843 Krita
+5842 Bambu Studio
+5770 Ollama GUI
+5764 tldr
+5736 Caprine
+5252 Syncthing
+5232 Reaper
+5173 Oomox Theme Designer
+5159 Sonic Pi
+4917 Deskreen
+4876 MuseScore
+4770 Browsh
+4760 LibreWolf
+4753 Signal
+4709 WorldPainter
+4669 Guake Terminal
+4497 Gnumeric
+4400 Heroes 2
+4334 Zoom PWA
+4173 Pika Backup
+4173 Command Not Found
+4111 XSnow
+4069 KiCad
 4066 ArmCord
-4063 KiCad
-3863 Flow
-3787 Processing IDE
+3864 Flow
+3788 Processing IDE
 3746 Pinta
-3695 Easy Effects
-3681 Codex
-3655 NixNote2
+3701 Easy Effects
+3685 Codex
+3656 NixNote2
 3628 Scratch 2
-3491 Lego Digital Designer
-3484 Kdenlive
-3476 Mission Planner
-3461 Marathon
-3379 XMRig
-3307 Notejot
-3228 Bongo Cam
-3157 Eagle CAD
-3033 MatterControl
-3015 CrazyCattle3D
-2934 Descent 1
-2924 Quartz
+3500 Lego Digital Designer
+3492 Kdenlive
+3479 Mission Planner
+3470 Marathon
+3385 XMRig
+3311 Notejot
+3232 Bongo Cam
+3161 Eagle CAD
+3035 MatterControl
+3025 CrazyCattle3D
+2942 Descent 1
+2925 Quartz
 2799 Mullvad
-2770 FreeCAD
-2732 WACUP (new WinAmp)
-2685 YouTube Player
-2662 Descent 2
+2784 FreeCAD
+2736 WACUP (new WinAmp)
+2712 YouTube Player
+2666 Descent 2
 2649 Remarkable
-2468 Persepolis Download Manager
-2460 Https File Server
-2452 DDNet
+2469 Persepolis Download Manager
+2463 Https File Server
+2454 DDNet
 2451 Hyper
-2400 Caskaydia Cove NF
+2401 Caskaydia Cove NF
 2382 Waveform
-2167 TiLP
-2098 Systemd Pilot
-2084 Oh My Posh
-2084 Electron Fiddle
-2037 Botspot Screen Recorder
-2013 Gnome Software
-2007 Colored Man Pages
-1990 Organic Maps
-1955 StepMania
+2168 TiLP
+2107 Systemd Pilot
+2085 Oh My Posh
+2085 Electron Fiddle
+2041 Botspot Screen Recorder
+2014 Gnome Software
+2011 Colored Man Pages
+1993 Organic Maps
+1956 StepMania
 1816 ProjectLibre
-1799 StackEdit
-1779 Zen
-1773 Project OutFox
+1800 StackEdit
+1782 Zen
+1776 Project OutFox
 1752 Open-Typer
-1673 QR Code Reader
-1668 VARA HF
+1677 QR Code Reader
+1674 VARA HF
 1490 jGRASP IDE
-1466 Floorp
+1468 Floorp
 1416 Dot Matrix
-1318 Waydroid
-1303 Monero GUI
-1272 Ducopanel
-1146 Gnome Builder IDE
-1124 OnionShare
-1080 OnlyOffice
+1330 Waydroid
+1304 Monero GUI
+1271 Ducopanel
+1149 Gnome Builder IDE
+1129 OnionShare
+1095 OnlyOffice
 1035 VMware Horizon Client
 952 ckb-next
 865 Sublime Merge
-845 Ruffle
-821 Feather Wallet
-804 Renoise (Demo)
-738 INAV Configurator
-729 Sphero SDK
+847 Ruffle
+824 Feather Wallet
+806 Renoise (Demo)
+745 INAV Configurator
+730 Sphero SDK
 653 Wechat
-611 Mission Center
-505 SolveSpace
-405 GB Studio
-302 Antigravity
-277 RiiTag-RPC
-128 Shellbeats
-111 qBittorrent
+620 Mission Center
+508 SolveSpace
+412 GB Studio
+305 Antigravity
+278 RiiTag-RPC
+148 qBittorrent
+134 Shellbeats
 23 template
-7 kitty
+14 kitty
 3 En Croissant
--51054 Hangover
+-51047 Hangover
