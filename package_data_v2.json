@@ -426,6 +426,13 @@
     "Architecture": "package",
     "Users": "12637"
   },
+  "Ethernet Hotspot": {
+    "Version": "",
+    "Description": "Share your WiFi connection with other devices, using an Ethernet cable",
+    "URL": "https://github.com/Botspot/ethernet-hotspot",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
   "FF Multi Converter": {
     "Version": "2.4.6",
     "Description": "Simple file conversions for audio, video, images and documents.",

@@ -62,6 +62,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Electron-Fiddle-updates-graph.png" alt="Electron-Fiddle"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/En-Croissant-updates-graph.png" alt="En-Croissant"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Epiphany-updates-graph.png" alt="Epiphany"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Ethernet-Hotspot-updates-graph.png" alt="Ethernet-Hotspot"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Fastfetch-updates-graph.png" alt="Fastfetch"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Feather-Wallet-updates-graph.png" alt="Feather-Wallet"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/FF-Multi-Converter-updates-graph.png" alt="FF-Multi-Converter"></br>
