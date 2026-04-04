@@ -1225,7 +1225,7 @@
     "Users": "279"
   },
   "Ruffle": {
-    "Version": "nightly-2026-04-03",
+    "Version": "nightly-2026-04-04",
     "Description": "Ruffle is a open source Adobe Flash Player emulator aimed at having the best compatibility as the official Adobe Flash Player (which is proprietary, EOL and has many unpatched security vulnerabilities)",
     "URL": "https://ruffle.rs",
     "Architecture": "ARM32/ARM64",
@@ -1708,7 +1708,7 @@
     "Users": "2821"
   },
   "Zen": {
-    "Version": "1.19.5b",
+    "Version": "1.19.6b",
     "Description": "Privacy-focused browser based on Firefox",
     "URL": "https://zen-browser.app/",
     "Architecture": "ARM64",
