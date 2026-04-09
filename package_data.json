@@ -1121,7 +1121,7 @@
   },
   {
     "Name": "Oh My Posh",
-    "Version": "v29.9.2",
+    "Version": "v29.9.4",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
@@ -1953,7 +1953,7 @@
   },
   {
     "Name": "Zen",
-    "Version": "1.19.7b",
+    "Version": "1.19.8b",
     "Description": "Privacy-focused browser based on Firefox",
     "URL": "https://zen-browser.app/",
     "Architecture": "ARM64",
@@ -1993,7 +1993,7 @@
   },
   {
     "Name": "jGRASP IDE",
-    "Version": "210b5",
+    "Version": "210b6",
     "Description": "An IDE with visualizations for improving software comprehensibility.",
     "URL": "https://www.jgrasp.org/index.html",
     "Architecture": "ARM32/ARM64",
