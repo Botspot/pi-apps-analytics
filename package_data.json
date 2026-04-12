@@ -474,7 +474,7 @@
   {
     "Name": "En Croissant",
     "Version": "v0.15.0",
-    "Description": "The Ultimate Chess Toolkit.",
+    "Description": "The Ultimate Chess Toolkit",
     "URL": "https://encroissant.org/",
     "Architecture": "ARM32/ARM64",
     "Users": "24"
