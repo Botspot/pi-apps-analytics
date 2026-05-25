@@ -871,7 +871,7 @@
     "Version": "",
     "Description": "Beautiful and powerful task manager",
     "URL": "https://missioncenter.io/",
-    "Architecture": "ARM32/ARM64",
+    "Architecture": "ARM64",
     "Users": "1060"
   },
   "Mission Planner": {
@@ -1048,6 +1048,13 @@
     "URL": "https://github.com/ebuc99/pacman",
     "Architecture": "ARM32/ARM64",
     "Users": "29901"
+  },
+  "Packet": {
+    "Version": "",
+    "Description": "A partial implementation of Google's Quick Share protocol that lets you send and receive files wirelessly from Android devices using Quick Share, or another device with Packet.",
+    "URL": "https://github.com/nozwock/packet",
+    "Architecture": "ARM64",
+    "Users": "0"
   },
   "PeaZip": {
     "Version": "",
@@ -1421,7 +1428,7 @@
     "Users": "13439"
   },
   "System Monitoring Center": {
-    "Version": "3.4.0",
+    "Version": "3.4.1",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
