@@ -4,126 +4,133 @@
     "Description": "A free and open-source alternative to Microsoft Word.  ",
     "URL": "https://github.com/AbiWord/abiword",
     "Architecture": "package",
-    "Users": "9873"
+    "Users": "9878"
   },
   "Alacritty Terminal": {
     "Version": "",
     "Description": "A fast, cross-platform, OpenGL terminal emulator",
     "URL": "https://alacritty.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "6469"
+    "Users": "6472"
   },
   "All Is Well": {
     "Version": "",
     "Description": "ALL IS WELL is a bash script that allows users to easily update and upgrade their repositories and packages on linux.",
     "URL": "https://github.com/spectrumgamer75/All-is-well",
     "Architecture": "ARM32/ARM64",
-    "Users": "34530"
+    "Users": "34541"
   },
   "Amiberry": {
     "Version": "",
     "Description": "Amiberry is a well-optimized, high-performance emulator for running Amiga games on low-power ARM boards like Raspberry Pi.",
     "URL": "https://amiberry.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "8963"
+    "Users": "8969"
   },
   "AndroidBuddy": {
     "Version": "",
     "Description": "Share your keyboard, mouse, screen, internet connection, files, and more with your Android phone.",
     "URL": "https://github.com/Botspot/androidbuddy",
     "Architecture": "ARM32/ARM64",
-    "Users": "19116"
+    "Users": "19120"
   },
   "Angry IP scanner": {
     "Version": "3.9.3",
     "Description": "Scans local networks as well as Internet",
     "URL": "https://angryip.org",
     "Architecture": "ARM64",
-    "Users": "38989"
+    "Users": "39013"
   },
   "AntiMicroX": {
     "Version": "",
     "Description": "A graphical program used to map keyboard buttons and mouse controls to a gamepad.",
     "URL": "https://antimicrox.github.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "9206"
+    "Users": "9208"
   },
   "Antigravity": {
     "Version": "antigravity_1.23.2-1776332230_arm64_cdd44fd493c967bb35c13b3b2c49e726.deb",
     "Description": "Google's AI agent IDE powered by Gemini 3 Pro for autonomous, end-to-end software development.",
     "URL": "https://antigravity.google/",
     "Architecture": "ARM64",
-    "Users": "816"
+    "Users": "828"
   },
   "AnyDesk": {
     "Version": "",
     "Description": "Remote desktop server and client software",
     "URL": "https://anydesk.com/en/downloads/raspberry-pi",
     "Architecture": "ARM64",
-    "Users": "10370"
+    "Users": "10386"
   },
   "Arduino": {
     "Version": "1.8.19",
     "Description": "Arduino IDE 1.8.X. Now called Arduino IDE Legacy, based on the Java and Python Frameworks.",
     "URL": "https://www.arduino.cc/en/main/software",
     "Architecture": "ARM32/ARM64",
-    "Users": "44254"
+    "Users": "44266"
   },
   "AstroMenace": {
     "Version": "",
     "Description": "Immerse into a decisive battle against tons of cunning foes, face the terrifying bosses and protect your homeland throughout 15 diverse levels of the game. The hardcore gameplay of AstroMenace, packed with pure non-stop action, will become a full scale test for your basic instinct of survival.",
     "URL": "https://viewizard.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "11105"
+    "Users": "11111"
   },
   "Audacious": {
     "Version": "",
     "Description": "Lightweight but flexible audio player",
     "URL": "https://audacious-media-player.org/",
     "Architecture": "package",
-    "Users": "41962"
+    "Users": "41973"
   },
   "Audacity": {
     "Version": "",
     "Description": "Easy-to-use audio editor with numerous features",
     "URL": "https://www.audacityteam.org/",
     "Architecture": "package",
-    "Users": "39126"
+    "Users": "39141"
   },
   "Autostar": {
     "Version": "",
     "Description": "Simple utility to make programs run on boot. The sky's the limit.",
     "URL": "https://github.com/Botspot/autostar",
     "Architecture": "ARM32/ARM64",
-    "Users": "18766"
+    "Users": "18775"
+  },
+  "Azahar": {
+    "Version": "",
+    "Description": "Azahar is an open-source 3DS emulator project based on Citra.",
+    "URL": "azahar-emu.org",
+    "Architecture": "ARM64",
+    "Users": "0"
   },
   "BalenaEtcher": {
     "Version": "1.19.25",
     "Description": "Flash SD cards with a disk image. Many file types supported.",
     "URL": "https://etcher.balena.io/",
     "Architecture": "ARM64",
-    "Users": "55644"
+    "Users": "55673"
   },
   "Bambu Studio": {
     "Version": "",
     "Description": "Optimized 3D slicing software for BambuLab and other printers",
     "URL": "https://bambulab.com/en/download/studio",
     "Architecture": "ARM64",
-    "Users": "6447"
+    "Users": "6453"
   },
   "Better Chromium": {
     "Version": "",
     "Description": "Make the most of your browser.",
     "URL": "",
     "Architecture": "ARM32/ARM64",
-    "Users": "53432"
+    "Users": "53447"
   },
   "BleachBit": {
     "Version": "5.0.2-0",
     "Description": "BleachBit is a free and open-source disk space cleaner, privacy manager, and computer system optimizer.",
     "URL": "https://www.bleachbit.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "18728"
+    "Users": "18733"
   },
   "BlockBench": {
     "Version": "4.9.3",
@@ -144,35 +151,35 @@
     "Description": "If you want to make a video but don't want to show your face, why not use this animated cat program?",
     "URL": "https://github.com/kuroni/bongocat-osu",
     "Architecture": "ARM32/ARM64",
-    "Users": "3422"
+    "Users": "3423"
   },
   "Botspot Screen Recorder": {
     "Version": "",
     "Description": "All-in-one screen recording utility for wlroots Wayland compositors like Wayfire, LabWC and Sway.",
     "URL": "https://github.com/Botspot/botspot-screen-recorder",
     "Architecture": "ARM32/ARM64",
-    "Users": "2307"
+    "Users": "2310"
   },
   "Botspot Virtual Machine": {
     "Version": "",
     "Description": "Run Windows 11 in a high-speed virtual machine on Linux",
     "URL": "https://github.com/Botspot/bvm",
     "Architecture": "ARM64",
-    "Users": "13884"
+    "Users": "13896"
   },
   "Box64": {
     "Version": "",
     "Description": "Easily emulate x86_64 linux apps on ARM64.",
     "URL": "https://box86.org/",
     "Architecture": "ARM64",
-    "Users": "138358"
+    "Users": "138453"
   },
   "Box86": {
     "Version": "",
     "Description": "Easily emulate x86 linux apps on ARM32.",
     "URL": "https://box86.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "142294"
+    "Users": "142338"
   },
   "Boxy SVG": {
     "Version": "v4.105.2",
@@ -186,14 +193,14 @@
     "Description": "The new Brave browser blocks ads and trackers that slow you down and invade your privacy.",
     "URL": "https://brave.com/",
     "Architecture": "ARM64",
-    "Users": "25426"
+    "Users": "25446"
   },
   "Browsh": {
     "Version": "1.8.2",
     "Description": "The modern text-based terminal browser.",
     "URL": "https://www.brow.sh/",
     "Architecture": "ARM32/ARM64",
-    "Users": "4907"
+    "Users": "4909"
   },
   "Caprine": {
     "Version": "2.56.1",
@@ -214,42 +221,42 @@
     "Description": "This is a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable.",
     "URL": "",
     "Architecture": "ARM32/ARM64",
-    "Users": "8382"
+    "Users": "8388"
   },
   "Celeste64": {
     "Version": "1.1.1",
     "Description": "Relive the magic of Celeste Mountain alongside Madeline in this small, heartfelt 3D platformer.",
     "URL": "https://maddymakesgamesinc.itch.io/celeste64",
     "Architecture": "ARM32/ARM64",
-    "Users": "6316"
+    "Users": "6320"
   },
   "Chromium": {
     "Version": "",
     "Description": "Open-source version of Google Chrome.",
     "URL": "https://www.chromium.org/Home/",
     "Architecture": "package",
-    "Users": "716505"
+    "Users": "716904"
   },
   "Clam Antivirus": {
     "Version": "6.18",
     "Description": "Open-source antivirus for your pi",
     "URL": "https://gitlab.com/dave_m/clamtk",
     "Architecture": "ARM32/ARM64",
-    "Users": "24164"
+    "Users": "24172"
   },
   "CloudBuddy": {
     "Version": "",
     "Description": "CloudBuddy is the ultimate wizard for cloud storage. Google Drive, Onedrive, Dropbox, and many more.",
     "URL": "https://github.com/Botspot/cloudbuddy",
     "Architecture": "ARM32/ARM64",
-    "Users": "12923"
+    "Users": "12926"
   },
   "Codex": {
     "Version": "",
     "Description": "A free note-taking software for programmers and Computer Science students.",
     "URL": "https://codexnotes.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "3887"
+    "Users": "3889"
   },
   "Color Emoji font": {
     "Version": "",
@@ -263,77 +270,77 @@
     "Description": "Add a bit of color coding to the documentation for linux commands.",
     "URL": "",
     "Architecture": "ARM32/ARM64",
-    "Users": "2213"
+    "Users": "2214"
   },
   "Command Not Found": {
     "Version": "",
     "Description": "Suggests which package to install if command not found",
     "URL": "",
     "Architecture": "package",
-    "Users": "8516"
+    "Users": "8568"
   },
   "CommanderPi": {
     "Version": "",
     "Description": "Easy RaspberryPi4 GUI system management",
     "URL": "https://github.com/Jack477/CommanderPi",
     "Architecture": "ARM32/ARM64",
-    "Users": "55688"
+    "Users": "55697"
   },
   "Conky": {
     "Version": "",
     "Description": "Monitors CPU, RAM, disk usage, and more.",
     "URL": "https://github.com/Botspot/rpi_conky",
     "Architecture": "ARM32/ARM64",
-    "Users": "36123"
+    "Users": "36133"
   },
   "Conky Rings": {
     "Version": "",
     "Description": "Animated gauges and graphs of your system, on your desktop.",
     "URL": "https://github.com/Botspot/rpi_conky/tree/master/conky_rings",
     "Architecture": "ARM32/ARM64",
-    "Users": "8918"
+    "Users": "8920"
   },
   "Cool Retro Term": {
     "Version": "",
     "Description": "Simulates an old CRT terminal.",
     "URL": "https://github.com/Swordfish90/cool-retro-term",
     "Architecture": "ARM32/ARM64",
-    "Users": "11245"
+    "Users": "11248"
   },
   "CrazyCattle3D": {
     "Version": "",
     "Description": "A battle royale rage game about sheep; will you have what it takes to survive?",
     "URL": "https://4nn4t4t.itch.io/crazycattle3d",
     "Architecture": "ARM32/ARM64",
-    "Users": "3485"
+    "Users": "3493"
   },
   "Cura": {
     "Version": "4.20.28",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/smartavionics/Cura",
     "Architecture": "ARM32/ARM64",
-    "Users": "18505"
+    "Users": "18515"
   },
   "DDNet": {
     "Version": "19.8",
     "Description": "DDRaceNetwork is a 2D cooperative platformer experience. Work together with up to 64 people and push your way through maps.",
     "URL": "https://ddnet.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "2544"
+    "Users": "2546"
   },
   "Deluge": {
     "Version": "",
     "Description": "Lightweight BitTorrent client",
     "URL": "https://www.deluge-torrent.org",
     "Architecture": "package",
-    "Users": "14959"
+    "Users": "14969"
   },
   "Descent 1": {
     "Version": "",
     "Description": "D1X-Rebirth - source port of Descent: First Strike from 1995",
     "URL": "https://www.dxx-rebirth.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "3090"
+    "Users": "3092"
   },
   "Descent 2": {
     "Version": "",
@@ -347,42 +354,42 @@
     "Description": "Share your screen to any device on the local network that has a web browser.",
     "URL": "https://deskreen.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "5043"
+    "Users": "5046"
   },
   "Disk Usage Analyzer": {
     "Version": "",
     "Description": "Ever wonder where you put that big file, or why your SD card is full? Now you can, with a glance at a pie chart.",
     "URL": "https://apps.gnome.org/Baobab/",
     "Architecture": "package",
-    "Users": "133815"
+    "Users": "133887"
   },
   "Doom 3": {
     "Version": "1.5.4",
     "Description": "Doom 3 is a 2004 horror first-person shooter video game developed by id Software and published by Activision.",
     "URL": "https://github.com/techcoder20/RPIDoom3Installer.git",
     "Architecture": "ARM32/ARM64",
-    "Users": "34244"
+    "Users": "34254"
   },
   "Dot Matrix": {
     "Version": "",
     "Description": "The glyph playground of creativity from simple lines",
     "URL": "https://github.com/lainsce/dot-matrix",
     "Architecture": "ARM64",
-    "Users": "1488"
+    "Users": "1490"
   },
   "Downgrade Chromium": {
     "Version": "",
     "Description": "Change Chromium versions easily.",
     "URL": "https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=308303",
     "Architecture": "ARM32/ARM64",
-    "Users": "6831"
+    "Users": "6833"
   },
   "Drawing": {
     "Version": "1.0.2-0ubuntu1~focal",
     "Description": "Simple program used to hand-draw png images.",
     "URL": "https://maoschanz.github.io/drawing/",
     "Architecture": "ARM32/ARM64",
-    "Users": "7562"
+    "Users": "7569"
   },
   "Ducopanel": {
     "Version": "1.274.0",
@@ -403,7 +410,7 @@
     "Description": "Useful audio effects that are applied to all system sounds",
     "URL": "https://wwmm.github.io/easyeffects/",
     "Architecture": "package",
-    "Users": "4056"
+    "Users": "4058"
   },
   "Electron Fiddle": {
     "Version": "0.39.0",
@@ -417,161 +424,161 @@
     "Description": "The Ultimate Chess Toolkit",
     "URL": "https://encroissant.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "114"
+    "Users": "118"
   },
   "Epiphany": {
     "Version": "",
     "Description": "Epiphany is a lightweight web browser based on the WebKit rendering engine. It is also known as GNOME Web.",
     "URL": "https://apps.gnome.org/Epiphany/",
     "Architecture": "package",
-    "Users": "12996"
+    "Users": "13006"
   },
   "Ethernet Hotspot": {
     "Version": "",
     "Description": "Share your WiFi connection with other devices, using an Ethernet cable",
     "URL": "https://github.com/Botspot/ethernet-hotspot",
     "Architecture": "ARM32/ARM64",
-    "Users": "352"
+    "Users": "355"
   },
   "FF Multi Converter": {
     "Version": "2.4.6",
     "Description": "Simple file conversions for audio, video, images and documents.",
     "URL": "https://github.com/l-koehler/FF-converter",
     "Architecture": "ARM32/ARM64",
-    "Users": "9363"
+    "Users": "9365"
   },
   "Fastfetch": {
-    "Version": "2.63.1",
+    "Version": "2.64.0",
     "Description": "Fastfetch is a neofetch-like tool for fetching system information and displaying it prettily.",
     "URL": "https://github.com/fastfetch-cli/fastfetch",
     "Architecture": "ARM32/ARM64",
-    "Users": "6616"
+    "Users": "6625"
   },
   "Feather Wallet": {
     "Version": "2.8.1",
     "Description": "Store Monero cryptocurrency with Feather Wallet - better experience than Monero GUI",
     "URL": "https://featherwallet.org",
     "Architecture": "ARM32/ARM64",
-    "Users": "892"
+    "Users": "895"
   },
   "Filezilla": {
     "Version": "",
     "Description": "Download and upload files via FTP, FTPS, and HTTP",
     "URL": "https://filezilla-project.org/",
     "Architecture": "package",
-    "Users": "37949"
+    "Users": "37963"
   },
   "Firefox Rapid Release": {
     "Version": "",
     "Description": "Latest stable Mozilla Firefox version available. (Downloaded from Mozilla Team Official PPA)",
     "URL": "https://firefox.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "39526"
+    "Users": "39532"
   },
   "Flameshot": {
     "Version": "12.1.0",
     "Description": "A simple tool to take screenshots of your screen or just parts of the screen. It is similar to Microsoft's Snipping Tool.",
     "URL": "https://flameshot.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "16855"
+    "Users": "16865"
   },
   "Floorp": {
     "Version": "12.14.2",
     "Description": "Based on Firefox, includes extra privacy features and customization.",
     "URL": "https://floorp.app/en/",
     "Architecture": "ARM64",
-    "Users": "1561"
+    "Users": "1564"
   },
   "Flow": {
     "Version": "ekioh_7.0.1_raspberry-pi32-flow_20250427_r42890",
     "Description": "High-performance browser built from the ground up without relying on Chromium.",
     "URL": "https://www.ekioh.com/flow-browser/",
     "Architecture": "ARM32/ARM64",
-    "Users": "3965"
+    "Users": "3966"
   },
   "FreeCAD": {
     "Version": "1.1.1",
     "Description": "FreeCAD is an open-source parametric 3D CAD modeler designed for general-purpose feature-based design. FreeCAD is available on Windows, macOS, and Linux, and integrates heavily with Python for scripting and automation. It supports various  file formats such as STEP, IGES, OBJ, STL, DWG, DXF, SVG, SHP, DAE, IFC or OFF, NASTRAN, VRML, OpenSCAD CSG and many more, in addition to FreeCAD's native FCStd file format.",
     "URL": "https://www.freecad.org/",
     "Architecture": "ARM64",
-    "Users": "3522"
+    "Users": "3529"
   },
   "FreeTube": {
     "Version": "0.24.0-beta",
     "Description": "Privacy-friendly YouTube player.",
     "URL": "https://freetubeapp.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "31790"
+    "Users": "31804"
   },
   "Friday Night Funkin' Rewritten": {
     "Version": "",
     "Description": "Friday Night Funkin’ is a musical rhythm game where you compete in freestyle music battles.",
     "URL": "https://github.com/HTV04/funkin-rewritten",
     "Architecture": "ARM32/ARM64",
-    "Users": "6888"
+    "Users": "6890"
   },
   "Fritzing": {
     "Version": "",
     "Description": "The Fritzing application is an Electronic Design Automation software with a low entry barrier, suited for the needs of makers and hobbyists.",
     "URL": "https://fritzing.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "7436"
+    "Users": "7440"
   },
   "GB Studio": {
     "Version": "4.2.2",
     "Description": "GB Studio is a drag and drop game creator for making Game Boy games.",
     "URL": "https://www.gbstudio.dev/",
     "Architecture": "ARM64",
-    "Users": "873"
+    "Users": "876"
   },
   "GIMP": {
     "Version": "",
     "Description": "Create images and edit photographs",
     "URL": "https://www.gimp.org/",
     "Architecture": "package",
-    "Users": "90023"
+    "Users": "90046"
   },
   "GParted": {
     "Version": "",
     "Description": "Graphically manage disk partitions",
     "URL": "https://gparted.org",
     "Architecture": "package",
-    "Users": "159231"
+    "Users": "159311"
   },
   "Geany Dark Mode": {
     "Version": "",
     "Description": "Proper appearance theme for the Geany text editor.",
     "URL": "https://github.com/codebrainz/geany-themes",
     "Architecture": "ARM32/ARM64",
-    "Users": "8168"
+    "Users": "8170"
   },
   "Geekbench 5": {
     "Version": "5.5.0",
     "Description": "Geekbench 5 is a cross-platform benchmark that measures your system's performance with the press of a button. ",
     "URL": "https://www.geekbench.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "9797"
+    "Users": "9798"
   },
   "Geekbench 6": {
     "Version": "6.7.0",
     "Description": "Geekbench 6 is a cross-platform benchmark that measures your system's performance with the press of a button. ",
     "URL": "https://www.geekbench.com/",
     "Architecture": "ARM64",
-    "Users": "16749"
+    "Users": "16757"
   },
   "Github Desktop": {
     "Version": "3.4.13-linux1",
     "Description": "Github Desktop is a GUI git client.",
     "URL": "https://desktop.github.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "19866"
+    "Users": "19881"
   },
   "Github-CLI": {
     "Version": "2.93.0",
     "Description": "gh is GitHub on the command line.",
     "URL": "https://cli.github.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "13070"
+    "Users": "13075"
   },
   "Gnome Builder IDE": {
     "Version": "",
@@ -585,63 +592,63 @@
     "Description": "Minimalistic maps program, requires an Internet connection",
     "URL": "https://apps.gnome.org/Maps/",
     "Architecture": "package",
-    "Users": "8508"
+    "Users": "8521"
   },
   "Gnome Software": {
     "Version": "",
     "Description": "Gnome Software allows you to easily find, discover and install apps.",
     "URL": "https://wiki.gnome.org/Apps/Software",
     "Architecture": "ARM64",
-    "Users": "2095"
+    "Users": "2097"
   },
   "Gnumeric": {
     "Version": "",
     "Description": "Fast, reliable spreadsheet program",
     "URL": "https://gnome.pages.gitlab.gnome.org/gnumeric-web/",
     "Architecture": "package",
-    "Users": "4748"
+    "Users": "4752"
   },
   "Godot": {
     "Version": "4.6.3-stable",
     "Description": "Your free, open‑source game engine.",
     "URL": "https://godotengine.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "10511"
+    "Users": "10522"
   },
   "Guake Terminal": {
     "Version": "3.10.1",
     "Description": "Guake is a top-down terminal, inspirated by the famous terminal used in Quake.",
     "URL": "https://guake.github.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "4792"
+    "Users": "4796"
   },
   "HTTrack Website Copier": {
     "Version": "",
     "Description": "HTTrack is a free and easy-to-use offline browser utility.",
     "URL": "https://httrack.com",
     "Architecture": "package",
-    "Users": "6290"
+    "Users": "6291"
   },
   "Hangover": {
     "Version": "hangover-11.9",
     "Description": "Hangover runs simple Win64 and Win32 applications on arm64 Linux. Only the application is emulated instead of a whole Wine installation.",
     "URL": "https://github.com/AndreRH/hangover",
     "Architecture": "ARM64",
-    "Users": "-50949"
+    "Users": "-50951"
   },
   "Heroes 2": {
     "Version": "1.1.14",
     "Description": "Free implementation of Heroes of Might and Magic II game engine.",
     "URL": "https://ihhub.github.io/fheroes2/",
     "Architecture": "ARM32/ARM64",
-    "Users": "4605"
+    "Users": "4607"
   },
   "Https File Server": {
     "Version": "",
     "Description": "Simple file-sharing webserver. Other computers on your local network can connect to your computer from the web browser and download files you share.",
     "URL": "https://github.com/rejetto/hfs",
     "Architecture": "ARM32/ARM64",
-    "Users": "2613"
+    "Users": "2614"
   },
   "Hyper": {
     "Version": "3.4.1",
@@ -655,343 +662,343 @@
     "Description": "Configure the brains of any flying craft",
     "URL": "https://github.com/iNavFlight/inav-configurator",
     "Architecture": "ARM64",
-    "Users": "822"
+    "Users": "823"
   },
   "Imager": {
     "Version": "",
     "Description": "Raspberry Pi's official SD card imaging utility.",
     "URL": "https://www.raspberrypi.com/software/",
     "Architecture": "package",
-    "Users": "618870"
+    "Users": "619230"
   },
   "Inkscape": {
     "Version": "",
     "Description": "Popular free vector graphics editor",
     "URL": "https://inkscape.org",
     "Architecture": "package",
-    "Users": "29268"
+    "Users": "29275"
   },
   "Intellij IDEA": {
     "Version": "2022.1.4",
     "Description": "IntelliJ IDEA is an IDE designed to maximize developer productivity.",
     "URL": "https://www.jetbrains.com/idea/",
     "Architecture": "ARM32/ARM64",
-    "Users": "6469"
+    "Users": "6467"
   },
   "Kdenlive": {
     "Version": "",
     "Description": "Newest version of a popular video editor, compatible with PiOS Bookworm",
     "URL": "https://kdenlive.org/",
     "Architecture": "ARM64",
-    "Users": "3777"
+    "Users": "3783"
   },
   "KeePassXC": {
     "Version": "",
     "Description": "KeePassXC is a modern, secure, and open-source password manager that stores and manages sensitive information.",
     "URL": "https://keepassxc.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "7309"
+    "Users": "7314"
   },
   "KiCad": {
     "Version": "",
     "Description": "Electronics Design Automation Suite - newer than what is available from APT",
     "URL": "https://www.kicad.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "4382"
+    "Users": "4386"
   },
   "Kodi": {
     "Version": "",
     "Description": "Kodi is the ultimate entertainment center.",
     "URL": "https://kodi.tv/",
     "Architecture": "ARM32/ARM64",
-    "Users": "29255"
+    "Users": "29262"
   },
   "Kolourpaint": {
     "Version": "",
     "Description": "An easy-to-use paint program.",
     "URL": "https://apps.kde.org/kolourpaint/",
     "Architecture": "package",
-    "Users": "10942"
+    "Users": "10947"
   },
   "Krita": {
     "Version": "",
     "Description": "Krita is the full-featured digital art studio.",
     "URL": "https://krita.org/",
     "Architecture": "ARM64",
-    "Users": "6201"
+    "Users": "6205"
   },
   "LMMS": {
     "Version": "",
     "Description": "LMMS (Let’s Make Music) is a free, open-source and cross-platform software for making music on your computer, made by musicians, for musicians. It comes with a user-friendly and modern interface.",
     "URL": "https://lmms.io",
     "Architecture": "package",
-    "Users": "8925"
+    "Users": "8929"
   },
   "Legcord": {
     "Version": "1.2.4",
     "Description": "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "URL": "https://legcord.app/",
     "Architecture": "ARM32/ARM64",
-    "Users": "7421"
+    "Users": "7422"
   },
   "Lego Digital Designer": {
     "Version": "",
     "Description": "Play with virtual Lego blocks and create your own plans!",
     "URL": "https://github.com/Botspot/lego-digital-designer-rpi",
     "Architecture": "ARM32/ARM64",
-    "Users": "3639"
+    "Users": "3633"
   },
   "LibreCAD": {
     "Version": "",
     "Description": "Open Source 2D-CAD",
     "URL": "https://librecad.org/",
     "Architecture": "package",
-    "Users": "12272"
+    "Users": "12276"
   },
   "LibreOffice": {
     "Version": "",
     "Description": "Free office suite including a word editor, slideshow, spreadsheet, database, and image editor",
     "URL": "https://www.libreoffice.org",
     "Architecture": "package",
-    "Users": "243796"
+    "Users": "243918"
   },
   "LibrePCB": {
     "Version": "",
     "Description": "LibrePCB is a free, cross-platform, easy-to-use electronic design automation suite to draw schematics and design printed circuit boards – for makers, students and professionals, from beginners to experts.",
     "URL": "https://librepcb.org/",
     "Architecture": "ARM64",
-    "Users": "7999"
+    "Users": "8001"
   },
   "LibreWolf": {
     "Version": "151.0.3-1",
     "Description": "A custom version of Firefox, focused on privacy, security and freedom.",
     "URL": "https://librewolf.net/",
     "Architecture": "ARM64",
-    "Users": "5183"
+    "Users": "5186"
   },
   "Libreoffice MS theme": {
     "Version": "",
     "Description": "Make Libreoffice to look like Microsoft office - icon theme and tabbed interface.",
     "URL": "https://github.com/Botspot/libreoffice-ms-theme",
     "Architecture": "ARM32/ARM64",
-    "Users": "19433"
+    "Users": "19440"
   },
   "Lightpad": {
     "Version": "0.1.0",
     "Description": "LightPad is a lightweight, simple and powerful application launcher.",
     "URL": "https://lightpad.sourceforge.io/",
     "Architecture": "ARM64",
-    "Users": "11510"
+    "Users": "11512"
   },
   "LineRider": {
     "Version": "2023.9.1",
     "Description": "Draw a track for a sledder to ride on. Make it sync with music and share your work with friends!",
     "URL": "https://github.com/Sussy-OS/LRA-Community-Edition",
     "Architecture": "ARM32/ARM64",
-    "Users": "9059"
+    "Users": "9061"
   },
   "Linux Wifi Hotspot": {
     "Version": "v4.7.2",
     "Description": "A feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface.",
     "URL": "https://github.com/lakinduakash/linux-wifi-hotspot",
     "Architecture": "ARM32/ARM64",
-    "Users": "13808"
+    "Users": "13814"
   },
   "Marathon": {
     "Version": "20250829",
     "Description": "Marathon, Marathon 2 and Marathon Infinity are single and online multiplayer old school 1st person shooter games.",
     "URL": "https://alephone.lhowon.org",
     "Architecture": "ARM32/ARM64",
-    "Users": "3685"
+    "Users": "3684"
   },
   "MatterControl": {
     "Version": "",
     "Description": "MatterControl is an all-in-one program to create, edit, slice, and manage your 3D prints.",
     "URL": "https://mattercontrol.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "3115"
+    "Users": "3117"
   },
   "Microsoft PowerShell": {
     "Version": "7.6.2",
     "Description": "PowerShell is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.",
     "URL": "https://learn.microsoft.com/powershell/",
     "Architecture": "ARM32/ARM64",
-    "Users": "9621"
+    "Users": "9622"
   },
   "Microsoft Teams": {
     "Version": "2.10.0",
     "Description": "Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. ",
     "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
     "Architecture": "ARM32/ARM64",
-    "Users": "11291"
+    "Users": "11299"
   },
   "Min": {
     "Version": "1.35.5",
     "Description": "A fast, minimal browser that protects your privacy.",
     "URL": "https://minbrowser.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "6649"
+    "Users": "6651"
   },
   "Minecraft Bedrock": {
     "Version": "",
     "Description": "Unofficial launcher for Minecraft Bedrock edition",
     "URL": "https://minecraft-linux.github.io/",
     "Architecture": "ARM64",
-    "Users": "46319"
+    "Users": "46331"
   },
   "Minecraft Java GDLauncher": {
     "Version": "",
     "Description": "GDLauncher is simple, yet powerful Minecraft launcher with a strong focus on the user experience. This is a CUSTOM BUILD of GDLauncher for ARM32/ARM64 support.",
     "URL": "https://gdevs.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "16996"
+    "Users": "16999"
   },
   "Minecraft Java Prism Launcher": {
     "Version": "9.4-9",
     "Description": "Prism Launcher is an Open Source Minecraft launcher with the ability to manage multiple instances, accounts and mods. Focused on user freedom and free redistributability.",
     "URL": "https://prismlauncher.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "32586"
+    "Users": "32613"
   },
   "Minecraft Java Server": {
     "Version": "",
     "Description": "This is a simple tool to create a Minecraft server: Vanilla, Fabric, Forge, Paper, and Purpur are supported",
     "URL": "",
     "Architecture": "ARM32/ARM64",
-    "Users": "17050"
+    "Users": "17052"
   },
   "Minecraft Pi (Modded)": {
     "Version": "3.0.3",
     "Description": "A modded version of Minecraft: Pi Edition with things like survival mode, multiplayer support, and more!",
     "URL": "https://discord.com/invite/aDqejQGMMy",
     "Architecture": "ARM32/ARM64",
-    "Users": "79112"
+    "Users": "79134"
   },
   "Mission Center": {
     "Version": "",
     "Description": "Beautiful and powerful task manager",
     "URL": "https://missioncenter.io/",
     "Architecture": "ARM64",
-    "Users": "1132"
+    "Users": "1134"
   },
   "Mission Planner": {
     "Version": "",
     "Description": "Software used to control autonomous vehicles.",
     "URL": "https://ardupilot.org/planner/",
     "Architecture": "ARM32/ARM64",
-    "Users": "3638"
+    "Users": "3642"
   },
   "Monero GUI": {
     "Version": "v0.18.5.0",
     "Description": "Store Monero cryptocurrency with the official wallet software.",
     "URL": "https://getmonero.org",
     "Architecture": "ARM64",
-    "Users": "1348"
+    "Users": "1349"
   },
   "More RAM": {
     "Version": "",
     "Description": "Of course Pi-Apps lets you download more RAM!",
     "URL": "https://forums.raspberrypi.com/viewtopic.php?t=327238",
     "Architecture": "ARM32/ARM64",
-    "Users": "87310"
+    "Users": "87362"
   },
   "Mu": {
     "Version": "",
     "Description": "A simple Python editor for beginner programmers.",
     "URL": "https://codewith.mu/",
     "Architecture": "package",
-    "Users": "96542"
+    "Users": "96562"
   },
   "Mullvad": {
     "Version": "13.0.9",
     "Description": "Mullvad Browser is security-minded browser meant for use with a VPN.",
     "URL": "https://sourceforge.net/projects/tor-browser-ports/files/",
     "Architecture": "ARM32/ARM64",
-    "Users": "3054"
+    "Users": "3056"
   },
   "MuseScore": {
     "Version": "4.5.2.251150648",
     "Description": "Professional music notation software - LATEST MuseScore 4!",
     "URL": "https://musescore.org",
     "Architecture": "ARM32/ARM64",
-    "Users": "5005"
+    "Users": "5006"
   },
   "Nautilus": {
     "Version": "",
     "Description": "Feature-rich file manager for the GNOME desktop",
     "URL": "https://apps.gnome.org/Nautilus/",
     "Architecture": "package",
-    "Users": "87220"
+    "Users": "87268"
   },
   "Nemo": {
     "Version": "",
     "Description": "File manager and graphical shell for Cinnamon, also works well on other desktop environments.",
     "URL": "https://github.com/linuxmint/nemo",
     "Architecture": "package",
-    "Users": "20071"
+    "Users": "20086"
   },
   "Neofetch": {
     "Version": "",
     "Description": "An aesthetically pleasing bash script to show system information.",
     "URL": "https://github.com/dylanaraps/neofetch",
     "Architecture": "ARM32/ARM64",
-    "Users": "42367"
+    "Users": "42380"
   },
   "NixNote2": {
     "Version": "",
     "Description": "Take notes, organize your schedule, and save websites with this offline and open-source Evernote client.",
     "URL": "https://github.com/baumgarr/Nixnote2",
     "Architecture": "package",
-    "Users": "3701"
+    "Users": "3702"
   },
   "Node.js": {
     "Version": "v22.22.3",
     "Description": "JavaScript code outside a web browser.",
     "URL": "https://nodesource.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "22204"
+    "Users": "22233"
   },
   "Notejot": {
     "Version": "",
     "Description": "A minimalist note-taking app with Markdown support",
     "URL": "https://github.com/lainsce/notejot",
     "Architecture": "ARM64",
-    "Users": "3466"
+    "Users": "3469"
   },
   "Notepad ++": {
     "Version": "8.9.6.2",
     "Description": "Notepad++ is a free source code editor and Notepad replacement that supports several languages. ",
     "URL": "https://notepad-plus-plus.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "20911"
+    "Users": "20919"
   },
   "OBS Studio": {
     "Version": "",
     "Description": "Free and open source software for video recording and live streaming.",
     "URL": "https://obsproject.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "37923"
+    "Users": "37933"
   },
   "Obsidian": {
     "Version": "1.12.7",
     "Description": "Powerful knowledge base using plain text Markdown files (for note-taking & project management)",
     "URL": "https://obsidian.md/",
     "Architecture": "ARM64",
-    "Users": "6753"
+    "Users": "6758"
   },
   "Oh My Posh": {
     "Version": "v29.14.0",
     "Description": "The snappy and most customisable cross platform/shell prompt renderer.",
     "URL": "ohmyposh.dev",
     "Architecture": "ARM32/ARM64",
-    "Users": "2186"
+    "Users": "2188"
   },
   "Ollama GUI": {
     "Version": "",
     "Description": "Run LLMs like ChatGPT locally without the Internet",
     "URL": "https://ollama.com",
     "Architecture": "ARM64",
-    "Users": "6506"
+    "Users": "6514"
   },
   "OnionShare": {
     "Version": "",
@@ -1005,98 +1012,98 @@
     "Description": "Open source Microsoft Office alternative, with a better interface than LibreOffice",
     "URL": "https://www.onlyoffice.com/",
     "Architecture": "ARM64",
-    "Users": "1719"
+    "Users": "1726"
   },
   "Oomox Theme Designer": {
     "Version": "",
     "Description": "A tool to customize icons, xrdb and GTK themes. ",
     "URL": "https://github.com/themix-project/oomox",
     "Architecture": "ARM32/ARM64",
-    "Users": "5320"
+    "Users": "5318"
   },
   "Open-Typer": {
     "Version": "5.2.1",
     "Description": "Open-Typer is an open source typing tutor application which aims to make learning to touch type easier.",
     "URL": "https://open-typer.github.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1863"
+    "Users": "1864"
   },
   "OpenSCAD": {
     "Version": "",
     "Description": "OpenSCAD is software for creating solid 3D CAD models.",
     "URL": "http://www.openscad.org/\nhttps://github.com/koendv/openscad-raspberrypi",
     "Architecture": "ARM32/ARM64",
-    "Users": "7891"
+    "Users": "7896"
   },
   "Organic Maps": {
     "Version": "",
     "Description": "Free offline maps for everyone",
     "URL": "https://organicmaps.app/",
     "Architecture": "ARM64",
-    "Users": "2351"
+    "Users": "2354"
   },
   "PPSSPP (PSP emulator)": {
     "Version": "v1.20.4",
     "Description": "A PSP emulator that can run PSP games in full HD and can upscale textures also.",
     "URL": "http://ppsspp.org",
     "Architecture": "ARM32/ARM64",
-    "Users": "25948"
+    "Users": "25954"
   },
   "Pac-Man": {
     "Version": "",
     "Description": "Pac-Man clone in SDL2 and C/C++",
     "URL": "https://github.com/ebuc99/pacman",
     "Architecture": "ARM32/ARM64",
-    "Users": "30045"
+    "Users": "30060"
   },
   "Packet": {
     "Version": "",
     "Description": "A partial implementation of Google's Quick Share protocol that lets you send and receive files wirelessly from Android devices using Quick Share, or another device with Packet.",
     "URL": "https://github.com/nozwock/packet",
     "Architecture": "ARM64",
-    "Users": "140"
+    "Users": "152"
   },
   "PeaZip": {
     "Version": "",
     "Description": "PeaZip is free file archiver utility, based on Open Source technologies of 7-Zip, p7zip, Brotli, FreeArc, PAQ, Zstandard, and PEA projects.",
     "URL": "https://peazip.github.io",
     "Architecture": "ARM64",
-    "Users": "12160"
+    "Users": "12170"
   },
   "Persepolis Download Manager": {
     "Version": "",
     "Description": "Persepolis is a Download Manager and a GUI For aria2. ",
     "URL": "https://persepolisdm.github.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "2547"
+    "Users": "2548"
   },
   "Pi Power Tools": {
     "Version": "",
     "Description": "Easily edit RaspiOS image files with a suite of useful tools.",
     "URL": "https://github.com/Botspot/Pi-Power-Tools",
     "Architecture": "ARM32/ARM64",
-    "Users": "44866"
+    "Users": "44882"
   },
   "Pi-Apps Terminal Plugin (bash)": {
     "Version": "",
     "Description": "Pi-apps terminal is a script that lets you use pi-apps from the terminal, its written in bash.",
     "URL": "https://github.com/Itai-Nelken/PiApps-terminal_bash-edition",
     "Architecture": "ARM32/ARM64",
-    "Users": "7865"
+    "Users": "7871"
   },
   "PiGro": {
     "Version": "24.05",
     "Description": "A system configuration tool inspired by openSUSE's YaST but with the user-friendliness of Linux Mint. PiGro equips Raspberry Pi OS with graphical interfaces for tasks that would otherwise require the terminal. It is also optimized for Ubuntu, Ubuntu Mate, and MX Linux.",
     "URL": "https://zestful-pigroxtrmo.wordpress.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "22490"
+    "Users": "22497"
   },
   "PiSafe": {
     "Version": "",
     "Description": "Create compressed image files.  Flash SD cards from a disk image. Many file types supported.",
     "URL": "https://github.com/RichardMidnight/pi-safe",
     "Architecture": "ARM32/ARM64",
-    "Users": "9457"
+    "Users": "9460"
   },
   "Pika Backup": {
     "Version": "",
@@ -1110,21 +1117,21 @@
     "Description": "A powerful painting program including numberous adjustments, drawing tools, multiple layers, and a flexible interface.",
     "URL": "https://www.pinta-project.com/",
     "Architecture": "package",
-    "Users": "3774"
+    "Users": "3777"
   },
   "Pixelorama": {
     "Version": "v1.1.10",
     "Description": "Pixelorama is a free and open source pixel art editor, proudly created with the Godot Engine, by Orama Interactive.",
     "URL": "https://orama-interactive.itch.io/pixelorama",
     "Architecture": "ARM32/ARM64",
-    "Users": "6776"
+    "Users": "6787"
   },
   "Plasma Discover": {
     "Version": "",
     "Description": "Easy to use app store for flatpak and apt packages",
     "URL": "https://apps.kde.org/discover/",
     "Architecture": "package",
-    "Users": "11391"
+    "Users": "11422"
   },
   "Powerline-Shell": {
     "Version": "",
@@ -1152,14 +1159,14 @@
     "Description": "A desktop replacement for Microsoft Project - a project management software",
     "URL": "https://www.projectlibre.com/projectlibre-desktop/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1920"
+    "Users": "1921"
   },
   "PrusaSlicer": {
     "Version": "2.9.5",
     "Description": "Takes a 3D model and slices it for use in a 3D printer.",
     "URL": "https://github.com/davidk/PrusaSlicer-ARM.AppImage",
     "Architecture": "ARM32/ARM64",
-    "Users": "9086"
+    "Users": "9093"
   },
   "Puffin": {
     "Version": "",
@@ -1173,42 +1180,42 @@
     "Description": "PyChess is a chess client for playing and analyzing chess games. It is intended to be usable both for those totally new to chess as well as advanced users who want to use a computer to further enhance their play.",
     "URL": "http://www.pychess.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "11718"
+    "Users": "11724"
   },
   "Pycharm CE": {
     "Version": "2022.1.4",
     "Description": "Python IDE for Professional and Educational Developers.",
     "URL": "https://www.jetbrains.com/pycharm/",
     "Architecture": "ARM32/ARM64",
-    "Users": "21673"
+    "Users": "21683"
   },
   "QEMU": {
     "Version": "",
     "Description": "QEMU is a generic and open source machine emulator and virtualizer.",
     "URL": "https://www.qemu.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "15580"
+    "Users": "15586"
   },
   "QR Code Reader": {
     "Version": "",
     "Description": "CoBang app - simple lightweight QR code and barcode scanner, uses the webcam.",
     "URL": "https://github.com/hongquan/CoBang",
     "Architecture": "ARM64",
-    "Users": "1798"
+    "Users": "1799"
   },
   "Quartz": {
     "Version": "",
     "Description": "A useful fast Web Browser for Windows and Linux written in pyqt5 webkit.",
     "URL": "https://github.com/ksharindam/quartz-browser-qt5",
     "Architecture": "ARM32/ARM64",
-    "Users": "2953"
+    "Users": "2956"
   },
   "Reaper": {
     "Version": "773",
     "Description": "REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.",
     "URL": "https://reaper.fm",
     "Architecture": "ARM32/ARM64",
-    "Users": "5478"
+    "Users": "5482"
   },
   "Remarkable": {
     "Version": "",
@@ -1236,14 +1243,14 @@
     "Description": "Ruffle is a open source Adobe Flash Player emulator aimed at having the best compatibility as the official Adobe Flash Player (which is proprietary, EOL and has many unpatched security vulnerabilities)",
     "URL": "https://ruffle.rs",
     "Architecture": "ARM32/ARM64",
-    "Users": "954"
+    "Users": "956"
   },
   "RustDesk": {
     "Version": "1.4.7",
     "Description": "Open-source secure remote desktop connection software, better than AnyDesk or TeamViewer",
     "URL": "https://rustdesk.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "16708"
+    "Users": "16731"
   },
   "Scratch 2": {
     "Version": "",
@@ -1257,98 +1264,98 @@
     "Description": "Enjoy learning computer programming with drag-n-drop blocks!",
     "URL": "https://scratch.mit.edu",
     "Architecture": "package",
-    "Users": "131044"
+    "Users": "131113"
   },
   "Scrcpy": {
     "Version": "v3.3.4",
     "Description": "Connect and control your Android smartphone.",
     "URL": "https://github.com/Genymobile/scrcpy",
     "Architecture": "ARM32/ARM64",
-    "Users": "27686"
+    "Users": "27694"
   },
   "Screenshot": {
     "Version": "",
     "Description": "Simple interface for capturing screenshots, similar to the Windows Snipping Tool.",
     "URL": "https://gitlab.gnome.org/Archive/gnome-screenshot",
     "Architecture": "package",
-    "Users": "64509"
+    "Users": "64544"
   },
   "Shattered Pixel Dungeon": {
     "Version": "3.3.8",
     "Description": "Shattered Pixel Dungeon is a Roguelike Dungeon Crawler RPG with pixel art graphics.",
     "URL": "https://shatteredpixel.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "8610"
+    "Users": "8615"
   },
   "Shellbeats": {
     "Version": "",
     "Description": "Stream or download audio from youtube, in your terminal",
     "URL": "https://shellbeats.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "356"
+    "Users": "358"
   },
   "Shotwell": {
     "Version": "",
     "Description": "Organize, edit, and publish your photos.",
     "URL": "https://shotwell-project.org/",
     "Architecture": "package",
-    "Users": "78750"
+    "Users": "78779"
   },
   "Signal": {
     "Version": "8.12.0",
     "Description": "Secure messaging client (phone number required)",
     "URL": "https://www.signal.org",
     "Architecture": "ARM64",
-    "Users": "5158"
+    "Users": "5162"
   },
   "SimpleScreenRecorder": {
     "Version": "",
     "Description": "Feature-rich screen recorder for X11 and OpenGL",
     "URL": "https://www.maartenbaert.be/simplescreenrecorder/",
     "Architecture": "package",
-    "Users": "13828"
+    "Users": "13837"
   },
   "Snap Store": {
     "Version": "",
     "Description": "Snaps are app packages for desktop, cloud and IoT that are easy to install, secure, cross‐platform and dependency‐free.",
     "URL": "https://snapcraft.io/store",
     "Architecture": "ARM64",
-    "Users": "43873"
+    "Users": "43879"
   },
   "Snapdrop": {
     "Version": "",
     "Description": "Share files with nearby devices on the local network. Inspired by Apple's Airdrop.",
     "URL": "https://snapdrop.net/",
     "Architecture": "ARM32/ARM64",
-    "Users": "12062"
+    "Users": "12066"
   },
   "SolveSpace": {
     "Version": "",
     "Description": "Free (GPLv3) parametric 3d CAD tool.",
     "URL": "https://solvespace.com/",
     "Architecture": "package",
-    "Users": "652"
+    "Users": "653"
   },
   "Sonic Pi": {
     "Version": "4.3.0_1",
     "Description": "Write code to make music. Latest version of Sonic Pi.",
     "URL": "https://sonic-pi.net/",
     "Architecture": "ARM32/ARM64",
-    "Users": "5344"
+    "Users": "5348"
   },
   "Sound Recorder": {
     "Version": "",
     "Description": "Record audio from the microphone",
     "URL": "https://wiki.gnome.org/Apps/SoundRecorder",
     "Architecture": "package",
-    "Users": "10049"
+    "Users": "10059"
   },
   "SpeedTest-CLI": {
     "Version": "",
     "Description": "Test your internet speed from a terminal!",
     "URL": "https://www.speedtest.net/",
     "Architecture": "ARM32/ARM64",
-    "Users": "32453"
+    "Users": "32466"
   },
   "Sphero SDK": {
     "Version": "",
@@ -1369,21 +1376,21 @@
     "Description": "This emulates the Linux x86_64 version of Steam using Box86 and Box64.",
     "URL": "https://store.steampowered.com/about/download",
     "Architecture": "ARM64",
-    "Users": "54932"
+    "Users": "54954"
   },
   "Steam Link": {
     "Version": "",
     "Description": "The Steam Link app brings desktop gaming to your Raspberry Pi. Just pair a controller to your device, connect to a computer running Steam on the same local network, and start playing your existing Steam games.",
     "URL": "",
     "Architecture": "package",
-    "Users": "20122"
+    "Users": "20135"
   },
   "StepMania": {
     "Version": "",
     "Description": "StepMania is a free and open source, cross-platform rhythm game. It supports common key-based rhythm game formats (including 4-panel and 5-panel dance games among others), as well as keyboard and dance pad controllers.",
     "URL": "https://www.stepmania.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "2057"
+    "Users": "2056"
   },
   "Stunt Rally": {
     "Version": "2.6.1-1",
@@ -1404,154 +1411,154 @@
     "Description": "Cross-platform source code editor with a Python application programming interface.",
     "URL": "https://www.sublimetext.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "13723"
+    "Users": "13727"
   },
   "Synaptic": {
     "Version": "",
     "Description": "Advanced APT-package-management tool",
     "URL": "https://www.nongnu.org/synaptic/",
     "Architecture": "package",
-    "Users": "73710"
+    "Users": "73753"
   },
   "Syncthing": {
     "Version": "",
     "Description": "A sync manager that syncs folders to different devices no matter where you are!",
     "URL": "https://syncthing.net",
     "Architecture": "ARM32/ARM64",
-    "Users": "5491"
+    "Users": "5492"
   },
   "SysMonTask": {
     "Version": "",
     "Description": "Linux system monitor similar to the Windows task manager, written in Python.",
     "URL": "https://github.com/KrispyCamel4u/SysMonTask",
     "Architecture": "ARM32/ARM64",
-    "Users": "13495"
+    "Users": "13506"
   },
   "System Monitoring Center": {
     "Version": "3.4.1",
     "Description": "Graphical Linux System Monitor that provides information about CPU/RAM/Disk/Network/GPU performance, sensors, processes, users, startup programs, services and system info.",
     "URL": "https://github.com/hakandundar34coding/system-monitoring-center",
     "Architecture": "ARM32/ARM64",
-    "Users": "36841"
+    "Users": "36862"
   },
   "Systemd Pilot": {
     "Version": "3.0.0",
     "Description": "Desktop application for managing systemd services. it can be described as a gui for systemctl.",
     "URL": "https://github.com/mfat/systemd-pilot",
     "Architecture": "ARM32/ARM64",
-    "Users": "2404"
+    "Users": "2410"
   },
   "Tabby": {
     "Version": "1.0.234",
     "Description": "A terminal for a more modern age ",
     "URL": "https://tabby.sh/",
     "Architecture": "ARM32/ARM64",
-    "Users": "7033"
+    "Users": "7039"
   },
   "TeamViewer": {
     "Version": "",
     "Description": "Remote desktop server and client software.",
     "URL": "https://github.com/Benmac83/Teamviewer-installer-for-pi",
     "Architecture": "ARM32/ARM64",
-    "Users": "17182"
+    "Users": "17186"
   },
   "Telegram": {
     "Version": "",
     "Description": "Telegram is a free and open source, cross-platform, cloud-based instant messaging software. This service also provides end-to-end encrypted video calling, VoIP, file sharing and several other features. ",
     "URL": "https://desktop.telegram.org/",
     "Architecture": "ARM64",
-    "Users": "17037"
+    "Users": "17048"
   },
   "Tetris CLI": {
     "Version": "",
     "Description": "ASCII/CLI rendition of the Tetris game.",
     "URL": "https://web.archive.org/web/20250801161441/https://github.com/k-vernooy/tetris",
     "Architecture": "ARM32/ARM64",
-    "Users": "17352"
+    "Users": "17359"
   },
   "Thonny": {
     "Version": "",
     "Description": "Thonny is a simple Python IDE with features useful for learning programming.",
     "URL": "https://thonny.org",
     "Architecture": "package",
-    "Users": "294575"
+    "Users": "294928"
   },
   "Thunderbird": {
     "Version": "",
     "Description": "Email client with many features like a tabbed interface, smart spam filter, address book, search and filter tools, encryption, and numerous add-ons.",
     "URL": "https://www.thunderbird.net/",
     "Architecture": "package",
-    "Users": "75570"
+    "Users": "75603"
   },
   "TiLP": {
     "Version": "",
     "Description": "TiLP is a linking program for Texas Instruments graphing calculators. It can transfer apps, programs, and more to a calculator.",
     "URL": "http://lpg.ticalc.org/prj_tilp/",
     "Architecture": "package",
-    "Users": "2264"
+    "Users": "2267"
   },
   "Timeshift": {
     "Version": "23.07.1",
     "Description": "System restore tool for Linux that provides functionality similar to the System Restore feature in Windows and the Time Machine tool in Mac OS.",
     "URL": "https://github.com/linuxmint/timeshift",
     "Architecture": "ARM32/ARM64",
-    "Users": "12690"
+    "Users": "12699"
   },
   "Tor": {
     "Version": "13.0.9",
     "Description": "The Tor Browser is a free web browser built on Firefox that helps you surf the web anonymously by routing your connection through a secure, global network of volunteer servers known as Tor network. Your data is encrypted, and your IP address is hidden by onion routing, protecting you from trackers, advertisers, and prying eyes. With built-in features like tracker blocking and script protection, Tor Browser ensures a safer online experience. Perfect for private browsing, accessing restricted sites, or exploring the web without leaving a trace.",
     "URL": "https://www.torproject.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "52221"
+    "Users": "52250"
   },
   "Transmission": {
     "Version": "",
     "Description": "Lightweight BitTorrent client",
     "URL": "https://transmissionbt.com",
     "Architecture": "package",
-    "Users": "88149"
+    "Users": "88183"
   },
   "Turbowarp": {
     "Version": "1.16.0",
     "Description": "Scratch 3 Desktop, but runs much faster. Also known as 'TurboWarp'",
     "URL": "https://turbowarp.org/",
     "Architecture": "ARM32/ARM64",
-    "Users": "7167"
+    "Users": "7169"
   },
   "USBImager": {
     "Version": "",
     "Description": "A very minimal GUI app that can write compressed disk images to USB drives.",
     "URL": "https://bztsrc.gitlab.io/usbimager/",
     "Architecture": "ARM32/ARM64",
-    "Users": "20609"
+    "Users": "20620"
   },
   "Ulauncher": {
     "Version": "5.15.15",
     "Description": "All-in-one application launcher, Google search engine, calculator, file manager...",
     "URL": "https://ulauncher.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "11467"
+    "Users": "11470"
   },
   "Unciv": {
     "Version": "4.20.10",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
-    "Users": "7459"
+    "Users": "7461"
   },
   "Update Buddy": {
     "Version": "",
     "Description": "Automatically check for APT updates on boot.",
     "URL": "https://github.com/Botspot/update-buddy",
     "Architecture": "ARM32/ARM64",
-    "Users": "28096"
+    "Users": "28101"
   },
   "VARA HF": {
     "Version": "VARA%20Products/VARA%20HF%20v4.9.0%20%20setup.zip",
     "Description": "A shareware HF modem for amateur radio messaging.",
     "URL": "https://rosmodem.wordpress.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "1773"
+    "Users": "1774"
   },
   "VMware Horizon Client": {
     "Version": "",
@@ -1565,70 +1572,70 @@
     "Description": "Visual Studio Code builds without the telemetry and tracking.",
     "URL": "https://vscodium.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "9050"
+    "Users": "9057"
   },
   "VeraCrypt": {
     "Version": "1.26.20",
     "Description": "Open source disk encryption software",
     "URL": "https://veracrypt.io/",
     "Architecture": "ARM32/ARM64",
-    "Users": "10711"
+    "Users": "10719"
   },
   "Visual Studio Code": {
     "Version": "",
     "Description": "Visual Studio Code is a free source-code editor made by Microsoft.",
     "URL": "https://code.visualstudio.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "50328"
+    "Users": "50347"
   },
   "Vivaldi": {
     "Version": "",
     "Description": "Fast, private browser with unique features.",
     "URL": "https://vivaldi.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "15034"
+    "Users": "15037"
   },
   "WACUP (new WinAmp)": {
     "Version": "",
     "Description": "Cross-platform audio player - emulated Windows app",
     "URL": "https://getwacup.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "2880"
+    "Users": "2881"
   },
   "WPS Office": {
     "Version": "",
     "Description": "This is a Chinese clone of Microsoft Office.",
     "URL": "https://www.wps.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "12218"
+    "Users": "12232"
   },
   "Waveform": {
     "Version": "",
     "Description": "Waveform is a proprietary Digital Audio Workstation specializing in creative and inspirational workflows.",
     "URL": "https://tracktion.com/products/waveform-free",
     "Architecture": "ARM32/ARM64",
-    "Users": "2491"
+    "Users": "2492"
   },
   "Waydroid": {
     "Version": "waydroid_1.6.2_all.deb",
     "Description": "Boot a full Android OS on systems running Wayland based desktop environments.",
     "URL": "https://waydro.id/",
     "Architecture": "ARM64",
-    "Users": "1916"
+    "Users": "1927"
   },
   "Web Apps": {
     "Version": "",
     "Description": "Run websites as if they were apps.",
     "URL": "https://github.com/linuxmint/webapp-manager",
     "Architecture": "ARM32/ARM64",
-    "Users": "17168"
+    "Users": "17171"
   },
   "Webcord": {
     "Version": "4.13.0",
     "Description": "Fast Discord client for ARM that mimics the official Discord client.",
     "URL": "https://github.com/SpacingBat3/WebCord/",
     "Architecture": "ARM32/ARM64",
-    "Users": "50682"
+    "Users": "50692"
   },
   "Wechat": {
     "Version": "",
@@ -1642,105 +1649,105 @@
     "Description": "Whatsapp Web webapp",
     "URL": "https://web.whatsapp.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "24920"
+    "Users": "24939"
   },
   "Windows Flasher": {
     "Version": "",
     "Description": "Install Windows 10 or Windows 11 on a Raspberry Pi SD card.",
     "URL": "https://github.com/Botspot/wor-flasher",
     "Architecture": "ARM32/ARM64",
-    "Users": "56036"
+    "Users": "56055"
   },
   "Windows Screensavers": {
     "Version": "",
     "Description": "14 Windows screensavers that run well on Raspberry Pi.",
     "URL": "https://github.com/Botspot/Screensavers",
     "Architecture": "ARM32/ARM64",
-    "Users": "6509"
+    "Users": "6508"
   },
   "Wine (x64)": {
     "Version": "11.4",
     "Description": "Run x86 and x64 Windows apps with a box64-emulated version x86/x64 wine-9.17 (WOW64 mode enabled).",
     "URL": "https://www.winehq.org/",
     "Architecture": "ARM64",
-    "Users": "53308"
+    "Users": "53345"
   },
   "Wine (x86)": {
     "Version": "11.4",
     "Description": "Run x86 Windows apps with a box86-emulated version of x86 wine-9.17.",
     "URL": "https://www.winehq.org/",
     "Architecture": "ARM32",
-    "Users": "52887"
+    "Users": "52890"
   },
   "WorldPainter": {
     "Version": "2.26.1",
     "Description": "WorldPainter is an interactive map generator for Minecraft.",
     "URL": "https://www.worldpainter.net/",
     "Architecture": "ARM32/ARM64",
-    "Users": "4870"
+    "Users": "4872"
   },
   "XMRig": {
     "Version": "v6.26.0-mo3",
     "Description": "Advanced cryptocurrency miner - for Monero and beyond",
     "URL": "https://xmrig.com/",
     "Architecture": "ARM32/ARM64",
-    "Users": "3495"
+    "Users": "3494"
   },
   "XSnow": {
     "Version": "3.9.1~pre05",
     "Description": "This turns your desktop wallpaper into an animated winter wonderland!",
     "URL": "https://www.ratrabbit.nl/ratrabbit/xsnow/",
     "Architecture": "ARM32/ARM64",
-    "Users": "3827"
+    "Users": "3821"
   },
   "Xfburn": {
     "Version": "",
     "Description": "Xfburn is a tool to help burning CDs and DVDs. It fits well in the Xfce Desktop Environment but can be used anywhere.",
     "URL": "https://docs.xfce.org/apps/xfburn/start",
     "Architecture": "package",
-    "Users": "37027"
+    "Users": "37043"
   },
   "Xtreme Download Manager": {
     "Version": "7.2.11",
     "Description": "Xtreme Download Manager is a powerful tool to increase download speed up-to 500%, save and convert streaming videos from thousands of websites, resume broken/dead downloads and schedule downloads.",
     "URL": "https://xtremedownloadmanager.com",
     "Architecture": "ARM32/ARM64",
-    "Users": "15344"
+    "Users": "15348"
   },
   "YouTube Player": {
     "Version": "",
     "Description": "Simple YouTube search engine, downloader and player.",
     "URL": "https://github.com/trizen/pipe-viewer",
     "Architecture": "ARM64",
-    "Users": "3982"
+    "Users": "3999"
   },
   "Zen": {
     "Version": "1.20.1b",
     "Description": "Privacy-focused browser based on Firefox",
     "URL": "https://zen-browser.app/",
     "Architecture": "ARM64",
-    "Users": "1997"
+    "Users": "2003"
   },
   "Zoom": {
     "Version": "5.4.53391.1108",
     "Description": "Zoom video calls on the Raspberry Pi.",
     "URL": "https://github.com/Botspot/pi-apps/issues/188",
     "Architecture": "ARM32/ARM64",
-    "Users": "27343"
+    "Users": "27352"
   },
   "Zoom PWA": {
     "Version": "",
     "Description": "Progressive Web App for Zoom",
     "URL": "",
     "Architecture": "ARM32/ARM64",
-    "Users": "4483"
+    "Users": "4484"
   },
   "btop++": {
     "Version": "1.4.6",
     "Description": "Awesome terminal resource monitor and task manager, similar to htop.",
     "URL": "https://github.com/aristocratos/btop",
     "Architecture": "ARM32/ARM64",
-    "Users": "17041"
+    "Users": "17048"
   },
   "ckb-next": {
     "Version": "",
@@ -1761,14 +1768,14 @@
     "Description": "The fast, feature-rich, GPU based terminal emulator.",
     "URL": "https://sw.kovidgoyal.net/kitty/",
     "Architecture": "ARM64",
-    "Users": "299"
+    "Users": "304"
   },
   "qBittorrent": {
     "Version": "",
     "Description": "Open-source software alternative to µTorrent.",
     "URL": "https://www.qbittorrent.org",
     "Architecture": "package",
-    "Users": "1737"
+    "Users": "1757"
   },
   "template": {
     "Version": "",

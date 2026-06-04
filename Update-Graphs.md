@@ -13,6 +13,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Audacious-updates-graph.png" alt="Audacious"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Audacity-updates-graph.png" alt="Audacity"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Autostar-updates-graph.png" alt="Autostar"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Azahar-updates-graph.png" alt="Azahar"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/BalenaEtcher-updates-graph.png" alt="BalenaEtcher"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Bambu-Studio-updates-graph.png" alt="Bambu-Studio"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Better-Chromium-updates-graph.png" alt="Better-Chromium"></br>
