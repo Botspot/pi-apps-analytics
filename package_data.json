@@ -1105,7 +1105,7 @@
   },
   {
     "Name": "Notepad ++",
-    "Version": "8.9.6.2",
+    "Version": "8.9.6.4",
     "Description": "Notepad++ is a free source code editor and Notepad replacement that supports several languages. ",
     "URL": "https://notepad-plus-plus.org/",
     "Architecture": "ARM32/ARM64",
@@ -1417,7 +1417,7 @@
   },
   {
     "Name": "Ruffle",
-    "Version": "nightly-2026-06-03",
+    "Version": "nightly-2026-06-04",
     "Description": "Ruffle is a open source Adobe Flash Player emulator aimed at having the best compatibility as the official Adobe Flash Player (which is proprietary, EOL and has many unpatched security vulnerabilities)",
     "URL": "https://ruffle.rs",
     "Architecture": "ARM32/ARM64",
@@ -1489,7 +1489,7 @@
   },
   {
     "Name": "Signal",
-    "Version": "8.12.0",
+    "Version": "8.13.0",
     "Description": "Secure messaging client (phone number required)",
     "URL": "https://www.signal.org",
     "Architecture": "ARM64",
