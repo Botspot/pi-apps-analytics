@@ -1553,6 +1553,13 @@
     "Architecture": "ARM32/ARM64",
     "Users": "28128"
   },
+  "VARA FM": {
+    "Version": "VARA%20Products/VARA%20FM%20v4.4.0%20setup.zip",
+    "Description": "A shareware FM modem for amateur radio messaging.",
+    "URL": "https://downloads.winlink.org/",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
   "VARA HF": {
     "Version": "VARA%20Products/VARA%20HF%20v4.9.0%20%20setup.zip",
     "Description": "A shareware HF modem for amateur radio messaging.",
@@ -1764,7 +1771,7 @@
     "Users": "1531"
   },
   "kitty": {
-    "Version": "0.47.1",
+    "Version": "0.47.2",
     "Description": "The fast, feature-rich, GPU based terminal emulator.",
     "URL": "https://sw.kovidgoyal.net/kitty/",
     "Architecture": "ARM64",
