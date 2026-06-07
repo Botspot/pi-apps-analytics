@@ -592,6 +592,14 @@
     "Users": "6902"
   },
   {
+    "Name": "Friday Night Funkin' Shadow Engine",
+    "Version": "0.9.0",
+    "Description": "Shadow Engine is a highly modified Psych Engine 0.7.3 fork for Friday Night Funkin'. It features advanced modding capabilities, Lua/Luau and Haxe scripting support, improved performance, and additional features over the base Psych Engine.",
+    "URL": "https://github.com/ShadowEngineTeam/FNF-Shadow-Engine",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Fritzing",
     "Version": "",
     "Description": "The Fritzing application is an Electronic Design Automation software with a low entry barrier, suited for the needs of makers and hobbyists.",
