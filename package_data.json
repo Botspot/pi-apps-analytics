@@ -1936,6 +1936,14 @@
     "Users": "52907"
   },
   {
+    "Name": "Winlink Express",
+    "Version": "User%20Programs/Winlink_Express_install_1-8-1-0.zip",
+    "Description": "A ham radio messaging client for the Winlink radio email network.",
+    "URL": "https://winlink.org/",
+    "Architecture": "ARM32/ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "WorldPainter",
     "Version": "2.26.1",
     "Description": "WorldPainter is an interactive map generator for Minecraft.",

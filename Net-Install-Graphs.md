@@ -248,6 +248,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Windows-Screensavers-net-installs-graph.png" alt="Windows-Screensavers"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wine-x64-net-installs-graph.png" alt="Wine-x64"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Wine-x86-net-installs-graph.png" alt="Wine-x86"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Winlink-Express-net-installs-graph.png" alt="Winlink-Express"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WorldPainter-net-installs-graph.png" alt="WorldPainter"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/WPS-Office-net-installs-graph.png" alt="WPS-Office"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Xfburn-net-installs-graph.png" alt="Xfburn"></br>
