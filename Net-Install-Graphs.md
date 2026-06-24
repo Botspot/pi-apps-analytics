@@ -177,9 +177,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/qBittorrent-net-installs-graph.png" alt="qBittorrent"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/QEMU-net-installs-graph.png" alt="QEMU"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/QR-Code-Reader-net-installs-graph.png" alt="QR-Code-Reader"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Quartz-net-installs-graph.png" alt="Quartz"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Reaper-net-installs-graph.png" alt="Reaper"></br>
-<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Remarkable-net-installs-graph.png" alt="Remarkable"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Renoise-Demo-net-installs-graph.png" alt="Renoise-Demo"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/RiiTag-RPC-net-installs-graph.png" alt="RiiTag-RPC"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Ruffle-net-installs-graph.png" alt="Ruffle"></br>
