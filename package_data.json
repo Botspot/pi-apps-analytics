@@ -1753,7 +1753,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.21.1",
+    "Version": "4.21.2",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
