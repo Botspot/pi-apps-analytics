@@ -264,6 +264,14 @@
     "Users": "6579"
   },
   {
+    "Name": "Chrome",
+    "Version": "",
+    "Description": "Google Chrome browser - stable, beta, unstable, canary versions",
+    "URL": "https://www.google.com/chrome",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "Chromium",
     "Version": "",
     "Description": "Open-source version of Google Chrome.",
