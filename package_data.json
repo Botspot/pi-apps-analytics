@@ -1761,7 +1761,7 @@
   },
   {
     "Name": "Unciv",
-    "Version": "4.21.4",
+    "Version": "4.21.4-patch1",
     "Description": "An open-source, mod-friendly Android+Desktop remake of Civ V",
     "URL": "https://github.com/yairm210/Unciv",
     "Architecture": "ARM32/ARM64",
@@ -2033,7 +2033,7 @@
   },
   {
     "Name": "kitty",
-    "Version": "0.48.1",
+    "Version": "0.48.2",
     "Description": "The fast, feature-rich, GPU based terminal emulator.",
     "URL": "https://sw.kovidgoyal.net/kitty/",
     "Architecture": "ARM64",
