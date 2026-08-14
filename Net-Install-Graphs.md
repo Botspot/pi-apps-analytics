@@ -153,6 +153,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Oomox-Theme-Designer-net-installs-graph.png" alt="Oomox-Theme-Designer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Open-Typer-net-installs-graph.png" alt="Open-Typer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OpenSCAD-net-installs-graph.png" alt="OpenSCAD"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/OrcaSlicer-net-installs-graph.png" alt="OrcaSlicer"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Organic-Maps-net-installs-graph.png" alt="Organic-Maps"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Pac-Man-net-installs-graph.png" alt="Pac-Man"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Packet-net-installs-graph.png" alt="Packet"></br>
