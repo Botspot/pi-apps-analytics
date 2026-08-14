@@ -97,6 +97,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Https-File-Server-updates-graph.png" alt="Https-File-Server"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/HTTrack-Website-Copier-updates-graph.png" alt="HTTrack-Website-Copier"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Hyper-updates-graph.png" alt="Hyper"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/iDescriptor-updates-graph.png" alt="iDescriptor"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Imager-updates-graph.png" alt="Imager"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/INAV-Configurator-updates-graph.png" alt="INAV-Configurator"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Inkscape-updates-graph.png" alt="Inkscape"></br>

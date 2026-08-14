@@ -2032,6 +2032,14 @@
     "Users": "1024"
   },
   {
+    "Name": "iDescriptor",
+    "Version": "",
+    "Description": "Open-source management tool for iPads and iPhones",
+    "URL": "https://idescriptor.github.io/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "jGRASP IDE",
     "Version": "210_01",
     "Description": "An IDE with visualizations for improving software comprehensibility.",
