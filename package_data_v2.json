@@ -1694,7 +1694,7 @@
     "Users": "53312"
   },
   "Winlink Express": {
-    "Version": "User%20Programs/Winlink_Express_install_1-8-2-0.zip",
+    "Version": "User%20Programs/Winlink_Express_install_1-8-5-0.zip",
     "Description": "A ham radio messaging client for the Winlink radio email network.",
     "URL": "https://winlink.org/",
     "Architecture": "ARM32/ARM64",
