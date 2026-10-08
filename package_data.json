@@ -897,7 +897,7 @@
   },
   {
     "Name": "LibreWolf",
-    "Version": "157.0-1",
+    "Version": "157.0.1-1",
     "Description": "A custom version of Firefox, focused on privacy, security and freedom.",
     "URL": "https://librewolf.net/",
     "Architecture": "ARM64",
@@ -1457,7 +1457,7 @@
   },
   {
     "Name": "Scrcpy",
-    "Version": "v5.0",
+    "Version": "v5.0.1",
     "Description": "Connect and control your Android smartphone.",
     "URL": "https://github.com/Genymobile/scrcpy",
     "Architecture": "ARM32/ARM64",
@@ -1990,6 +1990,14 @@
     "URL": "https://github.com/trizen/pipe-viewer",
     "Architecture": "ARM64",
     "Users": "5936"
+  },
+  {
+    "Name": "Zed",
+    "Version": "1.22.0",
+    "Description": "Your last next editor",
+    "URL": "https://zed.dev/",
+    "Architecture": "ARM64",
+    "Users": "0"
   },
   {
     "Name": "Zen",
