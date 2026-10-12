@@ -82,6 +82,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geany-Dark-Mode-net-installs-graph.png" alt="Geany-Dark-Mode"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-5-net-installs-graph.png" alt="Geekbench-5"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-6-net-installs-graph.png" alt="Geekbench-6"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Geekbench-7-net-installs-graph.png" alt="Geekbench-7"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/GIMP-net-installs-graph.png" alt="GIMP"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-Desktop-net-installs-graph.png" alt="Github-Desktop"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Github-CLI-net-installs-graph.png" alt="Github-CLI"></br>
