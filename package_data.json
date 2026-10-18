@@ -856,6 +856,14 @@
     "Users": "6735"
   },
   {
+    "Name": "LEGO Technic Race",
+    "Version": "",
+    "Description": "Classic LEGO Technic Race (Pullback Racer) from 2016, running in Waydroid. A one-time local patch makes the abandoned game start and take mouse input.",
+    "URL": "https://www.apkmirror.com/apk/lego-system-as/lego-pull-back-racers-2-0/",
+    "Architecture": "ARM64",
+    "Users": "0"
+  },
+  {
     "Name": "LMMS",
     "Version": "",
     "Description": "LMMS (Let’s Make Music) is a free, open-source and cross-platform software for making music on your computer, made by musicians, for musicians. It comes with a user-friendly and modern interface.",

@@ -113,6 +113,7 @@
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Krita-net-installs-graph.png" alt="Krita"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Legcord-net-installs-graph.png" alt="Legcord"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Lego-Digital-Designer-net-installs-graph.png" alt="Lego-Digital-Designer"></br>
+<img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LEGO-Technic-Race-net-installs-graph.png" alt="LEGO-Technic-Race"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreCAD-net-installs-graph.png" alt="LibreCAD"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/LibreOffice-net-installs-graph.png" alt="LibreOffice"></br>
 <img src="https://github.com/Botspot/pi-apps-analytics/releases/download/net-install-graphs/Libreoffice-MS-theme-net-installs-graph.png" alt="Libreoffice-MS-theme"></br>
